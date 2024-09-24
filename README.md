@@ -4,7 +4,7 @@
 
 ## Test Click Audio Link
 
-- [audio\barely](barely)
+- [audio/barely](barely)
 
 <br/>
 
