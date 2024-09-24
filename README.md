@@ -4,10 +4,7 @@
 
 ## Test Click Audio Link
 
-- (brisk)[audio\brisk.wav]
-- [without squinting](audio\without squinting.wav)
-- (audio\halfway.wav)[halfway]
-- [audio\barely.wav](barely)
+- [audio\barely](barely)
 
 <br/>
 
