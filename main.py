@@ -1,63 +1,69 @@
+import os
 import speech_recognition as sr
-import pyttsx3
+from pydub import AudioSegment
 
 r = sr.Recognizer()
 
 def record_text():
     try:
         # Check if a microphone is available
-        with sr.Microphone() as source2:
+        with sr.Microphone() as src:
             # Adjusts for ambient noise
-            r.adjust_for_ambient_noise(
-                source2, duration=0.2)  
+            r.adjust_for_ambient_noise(src, duration=0.2)  
             print("Listening...")
-            # Captures the audio
-            audio2 = r.listen(source2)  
 
+            # Captures the audio
+            audio2 = r.listen(src)  
+            
             # Recognize the audio using Google Speech Recognition
             text_data = r.recognize_google(audio2)
-            text_data = text_data.lower()  # Optional: Convert the text to lowercase
             
-            # Check if the recognized text is "exit" or "stop"
-            if text_data in ["exit", "stop"]:
-                print("Exit command received, stopping the program.")
-                return text_data  # Return the exit command to stop the loop
+            # Convert the text to lowercase
+            text_data = text_data.lower()
+
+            # Save the audio
+            audio_file_path = os.path.join("audio", f"{text_data}.wav")
             
-            print("You said: ", text_data)
-            
-            return text_data
-        
+            if not os.path.exists("audio"):
+                os.makedirs("audio")
+            with open(audio_file_path, "wb") as f:
+                f.write(audio2.get_wav_data())
+                
+            return text_data, audio_file_path
+
     except AssertionError as e:
         print(f"Microphone access error: {e}")
     except sr.RequestError as e:
-        print("Could not request results from Google Speech Recognition service; {0}".format(e))
+        print(f"Request error: {e}")
     except sr.UnknownValueError:
-        print("Google Speech Recognition could not understand the audio")
+        print("Unknown value error")
 
-    # Return an empty string only if no valid text is recognized
-    return ""
+    return "", ""
 
-def output_text(text):
+def output_text(text, audio_path):
     # Only write non-empty text
-    if text:
+    if text:  
         with open("words.txt", "a") as f:
-            f.write(text)
+            f.write(f"{text} ({audio_path})")
             f.write("\n")
     return
 
 # Main loop
-while True:
-    # Record speech and convert to text
-    text = record_text()  
-    
-    # Check for exit or stop command
-    if text in ["exit", "stop"]:  
+try:
+    while True:
+        # Record speech and convert to text
+        text, audio_path = record_text()
+        
         # Exit the loop gracefully
-        break  
-    
-    # Only output non-empty text
-    if text:  
-        output_text(text)
-        print("Text successfully written")
+        if text in ["exit", "stop"]:
+            break  
 
-print("Program has stopped.")
+        # Only output non-empty text
+        if text:
+            output_text(text, audio_path)
+            print(f"Text: '{text}' and audio recorded at '{audio_path}' successfully written")
+
+except KeyboardInterrupt:
+    print("\nProgram interrupted. Exiting gracefully...")
+finally:
+    print("Program has stopped.")
