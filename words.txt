@@ -20,3 +20,11 @@ brisk (audio\brisk.wav)
 without squinting (audio\without squinting.wav)
 halfway (audio\halfway.wav)
 barely (audio\barely.wav)
+
+command (audio\command.wav)
+bleeding (audio\bleeding.wav)
+attempt (audio\attempt.wav)
+surgeons (audio\surgeons.wav)
+to bear (audio\to bear.wav)
+painstaking (audio\painstaking.wav)
+

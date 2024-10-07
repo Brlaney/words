@@ -40,7 +40,7 @@ def record_text():
 def output_text(text):
     # Only write non-empty text
     if text:
-        with open("output.txt", "a") as f:
+        with open("words.txt", "a") as f:
             f.write(text)
             f.write("\n")
     return
