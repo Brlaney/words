@@ -12,7 +12,7 @@
 
 - [ ] Write script to scan for and output all files with duration > 3 seconds.  
 - [ ] Write script to seperate into batches by date
-- [ ] CURRENTLY AT Harsh (*id = 124*)
+- [ ] Currently at: `Harsh` (*id = 124*)
 
 <br/>
 
