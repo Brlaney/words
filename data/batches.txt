@@ -1,3 +1,4 @@
+# batch1
 eye examination chart (audio\eye examination chart.wav)
 brisk (audio\brisk.wav)
 without squinting (audio\without squinting.wav)
@@ -15,8 +16,10 @@ zoomed upward (audio\zoomed upward.wav)
 settle for (audio\settle for.wav)
 scheme (audio\scheme.wav)
 stood (audio\stood.wav)
+**
 unflagging (audio\unflagging.wav)
 encouragement (audio\encouragement.wav)
+**
 soared (audio\soared.wav)
 reached (audio\reached.wav)
 as high as (audio\as high as.wav)
@@ -34,6 +37,8 @@ endless (audio\endless.wav)
 dare fail (audio\dare fail.wav)
 unbounded (audio\unbounded.wav)
 nudged me into (audio\nudged me into.wav)
+
+# batch2
 hold on (audio\hold on.wav)
 railroad security men (audio\railroad security men.wav)
 hobo's (audio\hobo's.wav)
@@ -51,9 +56,12 @@ gaze (audio\gaze.wav)
 muttered (audio\muttered.wav)
 prodded (audio\prodded.wav)
 gang (audio\gang.wav)
+
+# batch3
 cutting off (audio\cutting off.wav)
 knack (audio\knack.wav)
 along the (audio\along the.wav)
+** checking streams?
 samples (audio\samples.wav)
 under (audio\under.wav)
 magnifying glass (audio\magnifying glass.wav)
@@ -67,6 +75,7 @@ a thrill swept (audio\a thrill swept.wav)
 yearning (audio\yearning.wav)
 flax (audio\flax.wav)
 spun (audio\spun.wav)
+** slanting passes?
 pulling ahead (audio\pulling ahead.wav)
 desire (audio\desire.wav)
 beamed (audio\beamed.wav)
@@ -89,6 +98,8 @@ slow down (audio\slow down.wav)
 envied (audio\envied.wav)
 tingle (audio\tingle.wav)
 car railing (audio\car railing.wav)
+
+# batch4
 command (audio\command.wav)
 bleeding (audio\bleeding.wav)
 attempt (audio\attempt.wav)
@@ -100,14 +111,17 @@ rehearsals (audio\rehearsals.wav)
 juncture (audio\juncture.wav)
 clotting (audio\clotting.wav)
 therefore (audio\therefore.wav)
+** sew
 choking back (audio\choking back.wav)
 i burst into tears (audio\i burst into tears.wav)
 held me (audio\held me.wav)
 sob's (audio\sob's.wav)
 grasp (audio\grasp.wav)
 swiped (audio\swiped.wav)
+****** sank into ******
 reject (audio\reject.wav)
 twinkle (audio\twinkle.wav)
+** Offhandeady?
 pester (audio\pester.wav)
 rush (audio\rush.wav)
 alley (audio\alley.wav)
@@ -122,3 +136,8 @@ split up (audio\split up.wav)
 he reluctantly (audio\he reluctantly.wav)
 grudges (audio\grudges.wav)
 harsh (audio\harsh.wav)
+
+# batch5
+
+# batch6
+
