@@ -1,0 +1,50 @@
+# batch1
+brisk (audio\brisk.wav)
+without squinting (audio\without squinting.wav)
+halfway (audio\halfway.wav)
+barely (audio\barely.wav)
+
+# batch2
+# batch3
+
+# batch4
+command (audio\command.wav)
+bleeding (audio\bleeding.wav)
+attempt (audio\attempt.wav)
+surgeons (audio\surgeons.wav)
+to bear (audio\to bear.wav)
+painstaking (audio\painstaking.wav)
+blood vessels (audio\blood vessels.wav)
+rehearsals (audio\rehearsals.wav)
+juncture (audio\juncture.wav)
+clotting (audio\clotting.wav)
+therefore (audio\therefore.wav)
+****** sew ******
+choking back (audio\choking back.wav)
+i burst into tears (audio\i burst into tears.wav)
+held me (audio\held me.wav)
+sob's (audio\sob's.wav)
+grasp (audio\grasp.wav)
+swiped (audio\swiped.wav)
+****** sank into ******
+reject (audio\reject.wav)
+twinkle (audio\twinkle.wav)
+** Offhandeady? **
+pester (audio\pester.wav)
+rush (audio\rush.wav)
+alley (audio\alley.wav)
+stretched out (audio\stretched out.wav)
+pounded (audio\pounded.wav)
+pleading (audio\pleading.wav)
+settle (audio\settle.wav)
+burdened (audio\burdened.wav)
+betrayals (audio\betrayals.wav)
+huddled (audio\huddled.wav)
+split up (audio\split up.wav)
+he reluctantly (audio\he reluctantly.wav)
+grudges (audio\grudges.wav)
+harsh (audio\harsh.wav)
+
+# batch5
+# batch6
+
