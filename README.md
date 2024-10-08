@@ -10,8 +10,11 @@
 
 ## To-Do
 
-- [ ] Write script to scan for and output all files with duration > 3 seconds.  
-- [ ] Write script to seperate into batches by date
+- [ ] Only pages *5* amd *6* are left to complete
+- [ ] Only pages *5* amd *6* are left to complete
+- [ ] Fix recordings that are too long with *blank/no noise*. Write script to scan for and output all files with `duration > 3 seconds`. 
+- [ ] Write script to seperate into batches by *date*
+- [ ] Finish the MoviePy script to prompt to record `using each word in a sentence` 
 - [ ] Currently at: `Harsh` (*id = 124*)
 
 <br/>
