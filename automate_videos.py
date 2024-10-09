@@ -1,39 +1,64 @@
 import json, io
 from moviepy.editor import *
 
+'''
+exit_program(): is just used to end the script `gracefully`
+'''
+def exit_program():
+    print('\nEnding script.. gracefully')
+    sys.exit(0)
+
+'''
+Takes in a file path and outputs an entire json array of objects
+'''
+def read_and_process_json(file_path):
+    with open(file_path, 'r') as json_file:
+        data = json.load(json_file)
+        return data
+
+'''
+Takes in an audio file path and a text value.
+
+1. Loads the audio file using the filepath.
+2. Defines text to display.
+3. Creates a composite video clip setting the text to the center and a duration of 4 seconds long.
+4. Sets the loaded audio data to the composite video clip.
+5. And finally, writes an audio file using the text_value as the filename at 25 frames-per-second (fps) 
+'''
 def create_video(audio_path, text_value):
     audio_clip = AudioFileClip(audio_path)
 
-    # Define video dimensions
-    screensize = (550, 375)
-
-    # Define the text
     txtClip = TextClip(text_value, 
                        color='white', 
-                       font="Ariel", 
-                       fontsize=144, 
+                       font='Ariel', 
+                       fontsize=100, 
                        bg_color='black')
 
-    # Create a composite video obj
-    cvc = CompositeVideoClip([txtClip.set_pos('center')], size=screensize).set_duration(4)
+    cvc = CompositeVideoClip([txtClip.set_pos('center')], 
+        size=(1080, 720)).set_duration(4)
 
-    # Set the audio to the video
-    video = cvc.set_audio(audio_clip)
-    
-    # Write the output to a new video file
-    video.write_videofile(f"videos/{text_value}.mp4", fps=25)
+    cvc.set_audio(audio_clip).write_videofile(f'videos/{text_value}.mp4', fps=25)
 
-json_obj = {
-    "id": 12,
-    "text": "aside",
-    "path": "audio/aside.wav"
-}
+'''
+The script can be stopped by: 
+KeyboardInterrupt exception. ie ctrl + c .
+'''
+try:
+    while True:
+        json_obj = read_and_process_json('data/words.json')
+        
+        if json_obj:
+            for item in json_obj:
+                
+                # Stop at index no. 2 to quickly test changes
+                if int(item['id']) == 2:
+                    exit_program()
+                
+                create_video(item['path'], item['text'])
+        else:
+            break
 
-# Serializing json
-json_object = json.dumps(json_obj, indent=4)
-
-# Extract audio path and text from the JSON object
-audio_path = json_obj["path"]
-text_value = json_obj["text"]
-
-create_video(audio_path, text_value)
+except KeyboardInterrupt:
+    print('\nEnding script.. gracefully')
+finally:
+    print('Ending script.')
