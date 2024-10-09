@@ -37,7 +37,7 @@ def create_video(audio_path, text_value):
     cvc = CompositeVideoClip([txtClip.set_pos('center')], 
         size=(1080, 720)).set_duration(4)
 
-    cvc.set_audio(audio_clip).write_videofile(f'videos/{text_value}.mp4', fps=25)
+    cvc.set_audio(audio_clip).volumex(2).write_videofile(f'videos/{text_value}.mp4', fps=25)
 
 '''
 The script can be stopped by: 
