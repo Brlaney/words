@@ -23,7 +23,8 @@ Takes in an audio file path and a text value.
 2. Defines text to display.
 3. Creates a composite video clip setting the text to the center and a duration of 4 seconds long.
 4. Sets the loaded audio data to the composite video clip.
-5. And finally, writes an audio file using the text_value as the filename at 25 frames-per-second (fps) 
+5. And finally, writes an audio file using the text_value as the filename at 25 frames-per-second (fps).
+
 '''
 def create_video(audio_path, text_value):
     audio_clip = AudioFileClip(audio_path)
@@ -51,7 +52,7 @@ try:
             for item in json_obj:
                 
                 # Stop at index no. 2 to quickly test changes
-                if int(item['id']) == 2:
+                if int(item['id']) == 1:
                     exit_program()
                 
                 create_video(item['path'], item['text'])
