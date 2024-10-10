@@ -1,0 +1,123 @@
+[
+    {
+        "meta": {
+            "id": "endless",
+            "uuid": "53ce0820-8fb9-475a-a113-a1a08e7dceb5",
+            "sort": "050121500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "endless",
+                "endlessly",
+                "endlessness",
+                "endlessnesses"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "end*less",
+            "prs": [
+                {
+                    "mw": "\u02c8en(d)-l\u0259s",
+                    "sound": {
+                        "audio": "endles01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}being or seeming to be without end "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "an {wi}endless{/wi} speech"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}extremely numerous "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "all the multiplied, {wi}endless{/wi}, nameless iniquities",
+                                                "aq": {
+                                                    "auth": "Edmund Burke"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}joined at the ends "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "an {wi}endless{/wi} chain"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "end*less*ly",
+                "fl": "adverb"
+            },
+            {
+                "ure": "end*less*ness",
+                "fl": "noun"
+            }
+        ],
+        "date": "before 12th century{ds||1||}",
+        "shortdef": [
+            "being or seeming to be without end",
+            "extremely numerous",
+            "joined at the ends"
+        ]
+    }
+]

@@ -1,0 +1,249 @@
+[
+    {
+        "meta": {
+            "id": "yearning",
+            "uuid": "7aa7599e-b083-4298-afa4-1802624c4757",
+            "sort": "250113000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "yearning",
+                "yearnings"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "yearn*ing",
+            "prs": [
+                {
+                    "mw": "\u02c8y\u0259r-ni\u014b",
+                    "sound": {
+                        "audio": "yearn01v",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a tender or urgent longing "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}yearning{/wi} for justice"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "before 12th century",
+        "shortdef": [
+            "a tender or urgent longing"
+        ]
+    },
+    {
+        "meta": {
+            "id": "yearn",
+            "uuid": "68e41b9e-376b-4c61-93f7-239c747f1c4f",
+            "sort": "250112000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "yearn",
+                "yearned",
+                "yearner",
+                "yearners",
+                "yearning",
+                "yearningly",
+                "yearns"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "yearn",
+            "prs": [
+                {
+                    "mw": "\u02c8y\u0259rn",
+                    "sound": {
+                        "audio": "yearn001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "yearned"
+            },
+            {
+                "if": "yearn*ing"
+            },
+            {
+                "if": "yearns"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to long persistently, wistfully, or sadly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}yearns{/wi} to make a difference"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to feel tenderness or compassion"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "yearn*er",
+                "fl": "noun"
+            },
+            {
+                "ure": "yearn*ing*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8y\u0259r-ni\u014b-l\u0113",
+                        "sound": {
+                            "audio": "yearni01",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}long{/sc} {sc}yearn{/sc} {sc}hanker{/sc} {sc}pine{/sc} {sc}hunger{/sc} {sc}thirst{/sc} mean to have a strong desire for something. {sc}long{/sc} implies a wishing with one's whole heart and often a striving to attain. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}longed{/it} for some rest"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}yearn{/sc} suggests an eager, restless, or painful longing. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}yearned{/it} for a stage career"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}hanker{/sc} suggests the uneasy promptings of unsatisfied appetite or desire. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "always {it}hankering{/it} for money"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}pine{/sc} implies a languishing or a fruitless longing for what is impossible. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}pined{/it} for a lost love"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}hunger{/sc} and {sc}thirst{/sc} imply an insistent or impatient craving or a compelling need. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}hungered{/it} for a business of his own"
+                            },
+                            {
+                                "t": "{it}thirsted{/it} for power"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}yernen{/it}, from Old English {it}giernan{/it}; akin to Old High German {it}ger\u014dn{/it} to desire, Latin {it}hortari{/it} to urge, encourage, Greek {it}chairein{/it} to rejoice"
+            ]
+        ],
+        "date": "before 12th century{ds||1||}",
+        "shortdef": [
+            "to long persistently, wistfully, or sadly",
+            "to feel tenderness or compassion"
+        ]
+    }
+]

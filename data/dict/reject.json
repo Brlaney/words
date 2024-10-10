@@ -1,0 +1,364 @@
+[
+    {
+        "meta": {
+            "id": "reject:1",
+            "uuid": "62d1216a-1583-45ae-9cc4-f1ed9d3a4762",
+            "sort": "181805000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "reject",
+                "rejected",
+                "rejecter",
+                "rejecters",
+                "rejecting",
+                "rejectingly",
+                "rejection",
+                "rejective",
+                "rejector",
+                "rejectors",
+                "rejects"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "re*ject",
+            "prs": [
+                {
+                    "mw": "ri-\u02c8jekt",
+                    "sound": {
+                        "audio": "reject01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "re*ject*ed"
+            },
+            {
+                "if": "re*ject*ing"
+            },
+            {
+                "if": "re*jects"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to refuse to accept, consider, submit to, take for some purpose, or use "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}rejected{/wi} the suggestion"
+                                            },
+                                            {
+                                                "t": "{wi}reject{/wi} a manuscript"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to refuse to hear, receive, or admit {bc}{sx|rebuff||}, {sx|repel||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "parents who {wi}reject{/wi} their children"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to refuse as lover or spouse"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cast off"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|throw back||}, {sx|repulse||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to spew out"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to subject to immunological {a_link|rejection}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "re*ject*er",
+                "vrs": [
+                    {
+                        "vl": "or",
+                        "va": "re*jec*tor",
+                        "prs": [
+                            {
+                                "mw": "ri-\u02c8jek-t\u0259r",
+                                "sound": {
+                                    "audio": "reject02",
+                                    "ref": "c",
+                                    "stat": "1"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "fl": "noun"
+            },
+            {
+                "ure": "re*ject*ing*ly",
+                "prs": [
+                    {
+                        "mw": "ri-\u02c8jek-ti\u014b-l\u0113",
+                        "sound": {
+                            "audio": "reject03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            },
+            {
+                "ure": "re*jec*tive",
+                "prs": [
+                    {
+                        "mw": "ri-\u02c8jek-tiv",
+                        "sound": {
+                            "audio": "reject04",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}decline{/sc} {sc}refuse{/sc} {sc}reject{/sc} {sc}repudiate{/sc} {sc}spurn{/sc} mean to turn away by not accepting, receiving, or considering. {sc}decline{/sc} often implies courteous refusal especially of offers or invitations. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}declined{/it} his party's nomination"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}refuse{/sc} suggests more positiveness or ungraciousness and often implies the denial of something asked for. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}refused{/it} to lend them the money"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}reject{/sc} implies a peremptory refusal by sending away or discarding. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}rejected{/it} the manuscript as unpublishable"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}repudiate{/sc} implies a casting off or disowning as untrue, unauthorized, or unworthy of acceptance. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "teenagers who {it}repudiate{/it} the values of their parents"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}spurn{/sc} stresses contempt or disdain in rejection or repudiation. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}spurned{/it} his overtures of friendship"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Latin {it}rejectus{/it}, past participle of {it}reicere{/it}, from {it}re-{/it} + {it}jacere{/it} to throw {ma}{mat|jet|}{/ma}"
+            ]
+        ],
+        "date": "15th century{ds||1|a|}",
+        "shortdef": [
+            "to refuse to accept, consider, submit to, take for some purpose, or use",
+            "to refuse to hear, receive, or admit : rebuff, repel",
+            "to refuse as lover or spouse"
+        ]
+    },
+    {
+        "meta": {
+            "id": "reject:2",
+            "uuid": "18e34809-baa5-4673-b7a9-7dfa0942631d",
+            "sort": "181806000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "reject",
+                "rejects"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "re*ject",
+            "prs": [
+                {
+                    "mw": "\u02c8r\u0113-\u02ccjekt",
+                    "sound": {
+                        "audio": "reject05",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a {a_link|rejected} person or thing"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}one rejected as not wanted, unsatisfactory, or not fulfilling requirements"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1555",
+        "shortdef": [
+            "a rejected person or thing; especially : one rejected as not wanted, unsatisfactory, or not fulfilling requirements"
+        ]
+    }
+]

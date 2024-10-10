@@ -18,6 +18,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+api_req.py
+
 # SageMath parsed files
 *.sage.py
 

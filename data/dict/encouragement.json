@@ -1,0 +1,75 @@
+[
+    {
+        "meta": {
+            "id": "encouragement",
+            "uuid": "1cb26b42-a8b7-4a76-b68e-664ddc2afc84",
+            "sort": "050116600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "encouragement",
+                "encouragements"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "en*cour*age*ment",
+            "prs": [
+                {
+                    "mw": "in-\u02c8k\u0259r-ij-m\u0259nt",
+                    "sound": {
+                        "audio": "encour02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "-\u02c8k\u0259-rij-"
+                },
+                {
+                    "mw": "en-"
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act of {a_link|encouraging} {bc}the state of being {a_link|encouraged}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that {a_link|encourages}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1549{ds||1||}",
+        "shortdef": [
+            "the act of encouraging : the state of being encouraged",
+            "something that encourages"
+        ]
+    }
+]

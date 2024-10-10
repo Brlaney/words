@@ -1,0 +1,88 @@
+[
+    {
+        "meta": {
+            "id": "SOB",
+            "uuid": "88945812-9fe1-4c17-ae15-707ebeb6d2a3",
+            "sort": "194546800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "SOB",
+                "SOB's",
+                "SOBs"
+            ],
+            "offensive": true
+        },
+        "hwi": {
+            "hw": "SOB",
+            "prs": [
+                {
+                    "mw": "\u02cces-\u02cc\u014d-\u02c8b\u0113",
+                    "sound": {
+                        "audio": "sob00002",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "SOBs"
+            },
+            {
+                "il": "or",
+                "if": "SOB's"
+            }
+        ],
+        "def": [
+            {
+                "sls": [
+                    "slang",
+                    "sometimes offensive"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|son of a bitch||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He's one arrogant/tough/greedy {wi}SOB{/wi}."
+                                            },
+                                            {
+                                                "t": "\u2026 a guy who brought two dozen roses to a first coffee date and told you he felt like the luckiest {wi}SOB{/wi} on the planet in the first five minutes.",
+                                                "aq": {
+                                                    "source": "{it}Today{/it}"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{it}s{/it}on {it}o{/it}f a {it}b{/it}itch"
+            ]
+        ],
+        "date": "1918",
+        "shortdef": [
+            "son of a bitch"
+        ]
+    }
+]

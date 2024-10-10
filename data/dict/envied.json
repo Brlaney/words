@@ -1,0 +1,113 @@
+[
+    {
+        "meta": {
+            "id": "envy:2",
+            "uuid": "1a136157-5d56-40e3-b59f-e2dbf2fc2eba",
+            "sort": "050160200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "envied",
+                "envies",
+                "envy",
+                "envying",
+                "envyingly"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "envy"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "en*vied"
+            },
+            {
+                "if": "en*vy*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to feel envy toward or on account of"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|begrudge||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to feel or show envy"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "en*vy*ing*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8en-v\u0113-i\u014b-l\u0113",
+                        "sound": {
+                            "audio": "envy0002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            }
+        ],
+        "date": "14th century{ds|t|1||}",
+        "shortdef": [
+            "to feel envy toward or on account of",
+            "begrudge",
+            "to feel or show envy"
+        ]
+    }
+]

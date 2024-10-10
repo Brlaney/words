@@ -1,0 +1,618 @@
+[
+    {
+        "meta": {
+            "id": "desire:1",
+            "uuid": "ae9095b0-ce9b-4616-a34a-6a8dd5f59baf",
+            "sort": "041466000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "desire",
+                "desired",
+                "desires",
+                "desiring"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "de*sire",
+            "prs": [
+                {
+                    "mw": "di-\u02c8z\u012b(-\u0259)r",
+                    "sound": {
+                        "audio": "desire01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "d\u0113-"
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "de*sired"
+            },
+            {
+                "if": "de*sir*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to long or hope for {bc}exhibit or feel {d_link|desire|desire:2} for "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}desire{/wi} success"
+                                            },
+                                            {
+                                                "t": "knew that men still {it}desired{/it} her"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to express a wish for {bc}{sx|request||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "they {wi}desire{/wi} an immediate answer"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "sls": [
+                                    "archaic"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to express a wish to {bc}{sx|ask||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}desired{/it} them to reconsider"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|invite||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "sls": [
+                                    "archaic"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to feel the loss of"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have or feel desire "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They may come if they so {wi}desire{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}desire{/sc} {sc}wish{/sc} {sc}want{/sc} {sc}crave{/sc} {sc}covet{/sc} mean to have a longing for. {sc}desire{/sc} stresses the strength of feeling and often implies strong intention or aim. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}desires{/it} to start a new life"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}wish{/sc} sometimes implies a general or transient longing especially for the unattainable. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}wishes{/it} for permanent world peace"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}want{/sc} specifically suggests a felt need or lack. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}wants{/it} to have a family"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}crave{/sc} stresses the force of physical appetite or emotional need. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}craves{/it} sweets"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}covet{/sc} implies strong envious desire. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}covets{/it} his rise to fame"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Anglo-French {it}desirer{/it}, from Latin {it}desiderare{/it}, from {it}de-{/it} + {it}sider-, sidus{/it} heavenly body"
+            ]
+        ],
+        "date": "13th century{ds|t|1||}",
+        "shortdef": [
+            "to long or hope for : exhibit or feel desire for",
+            "to express a wish for : request",
+            "to express a wish to : ask"
+        ]
+    },
+    {
+        "meta": {
+            "id": "desire:2",
+            "uuid": "f2a5a92a-5000-423f-8c20-d8e046dec66f",
+            "sort": "041467000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "desire",
+                "desires"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "desire"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}conscious impulse {dx_def}see {dxt|impulse:1||1}{/dx_def} toward something that promises enjoyment or satisfaction in its attainment "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "ridding oneself of all {wi}desires{/wi}"
+                                            },
+                                            {
+                                                "t": "how humans process {wi}desire{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|longing||}, {sx|craving||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "teenagers' {wi}desire{/wi} for independence"
+                                            },
+                                            {
+                                                "t": "\u2026 the inexpensive homebuilt craft that satisfy many people's {wi}desire{/wi} to fly",
+                                                "aq": {
+                                                    "auth": "James Fallows"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}sexual urge or appetite"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something longed or hoped for {bc}something {d_link|desired|desire:1} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "You are my heart's {wi}desire{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a usually formal request or petition for some action "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "at the {wi}desire{/wi} of one fifth of those present",
+                                                "aq": {
+                                                    "source": "{it}U.S. Constitution{/it}"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|desire:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "conscious impulse toward something that promises enjoyment or satisfaction in its attainment",
+            "longing, craving",
+            "sexual urge or appetite"
+        ]
+    },
+    {
+        "meta": {
+            "id": "desire line",
+            "uuid": "daef1a2a-91c4-4534-83fd-62219fc3b6ce",
+            "sort": "041467500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "desire line",
+                "desire lines",
+                "desire path",
+                "desire paths"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "desire line"
+        },
+        "vrs": [
+            {
+                "vl": "or",
+                "va": "desire path"
+            }
+        ],
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "desire lines"
+            },
+            {
+                "il": "or",
+                "if": "desire paths"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an unplanned route or path (such as one worn into a grassy surface by repeated foot traffic) that is used by pedestrians in preference to or in the absence of a designated alternative (such as a paved pathway) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "There's a concept in landscape architecture called a {wi}desire line{/wi}. It refers to a path worn into the ground by foot traffic, in defiance of the planned curves of sidewalks and roadways.",
+                                                "aq": {
+                                                    "auth": "Henry Grabar"
+                                                }
+                                            },
+                                            {
+                                                "t": "This is the authoritarian approach to erasing a {wi}desire line{/wi}: block it off with some type of obstacle\u2014a fence, a bush, a pile of brush, a sharply (if, in this case, politely) worded sign.",
+                                                "aq": {
+                                                    "auth": "Robert Moor"
+                                                }
+                                            },
+                                            {
+                                                "t": "The proposed fence would not enclose the parking lot, only limit its use as a {wi}desire path{/wi}.",
+                                                "aq": {
+                                                    "auth": "Zachary Oren Smith"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1993",
+        "shortdef": [
+            "an unplanned route or path (such as one worn into a grassy surface by repeated foot traffic) that is used by pedestrians in preference to or in the absence of a designated alternative (such as a paved pathway)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "heart's desire",
+            "uuid": "46191b32-0cfc-4c36-ac1d-3ca3446d7ec0",
+            "sort": "3008431000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "heart's desire"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "heart's desire"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something someone wants very much "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "A good education had always been her {it}heart's desire{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "something someone wants very much"
+        ]
+    },
+    {
+        "meta": {
+            "id": "object of desire",
+            "uuid": "306a83fd-9668-4433-a968-059ee369c575",
+            "sort": "3013115000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "object of desire"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "object of desire"
+        },
+        "fl": "noun phrase",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that people want to have"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "something that people want to have"
+        ]
+    },
+    {
+        "meta": {
+            "id": "Kabila:b2",
+            "uuid": "2db3f65d-5f11-4647-bed1-0a9b1b793679",
+            "sort": "303115000",
+            "src": "collegiate",
+            "section": "biog",
+            "stems": [
+                "Kabila",
+                "Laurent D\u00e9sir\u00e9 Kabila",
+                "Laurent Kabila"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "Kabila"
+        },
+        "fl": "biographical name",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "Laurent (D\u00e9sir\u00e9) 1938\u20132001 {it}father of {i_link|Joseph Kabila|Kabila:b1}{/it} president of Democratic Republic of Congo (1997\u20132001)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "Laurent (D\u00e9sir\u00e9) 1938\u20142001 father of Joseph Kabila president of Democratic Republic of Congo (1997\u20142001)"
+        ]
+    }
+]

@@ -1,0 +1,175 @@
+[
+    {
+        "meta": {
+            "id": "soar:1",
+            "uuid": "b607de7c-492c-481a-b369-8b50d07a3855",
+            "sort": "194546200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "soar",
+                "soared",
+                "soarer",
+                "soarers",
+                "soaring",
+                "soars"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "soar",
+            "prs": [
+                {
+                    "mw": "\u02c8s\u022fr",
+                    "sound": {
+                        "audio": "soar0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "soared"
+            },
+            {
+                "if": "soar*ing"
+            },
+            {
+                "if": "soars"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fly aloft or about"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to sail or hover in the air often at a great height {bc}{sx|glide||}"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "sls": [
+                                            "of a glider"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to fly without engine power and without loss of altitude"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to rise or increase dramatically (as in position, value, or price) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "stocks {wi}soared{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to ascend to a higher or more exalted level "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "makes my spirits {wi}soar{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to rise to majestic stature"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "soar*er",
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}soren{/it}, from Middle French {it}essorer{/it}, from Old French, from Vulgar Latin {it}*exaurare{/it}, from Latin {it}ex-{/it} + {it}aura{/it} air {ma}{mat|aura|}{/ma}"
+            ]
+        ],
+        "date": "14th century{ds||1|a|}",
+        "shortdef": [
+            "to fly aloft or about",
+            "to sail or hover in the air often at a great height : glide",
+            "to fly without engine power and without loss of altitude"
+        ]
+    }
+]

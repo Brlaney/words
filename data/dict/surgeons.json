@@ -1,0 +1,337 @@
+[
+    {
+        "meta": {
+            "id": "surgeon",
+            "uuid": "adcfb043-a3a1-416e-b559-99a0ea2e4d9a",
+            "sort": "194979000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "surgeon",
+                "surgeons"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sur*geon",
+            "prs": [
+                {
+                    "mw": "\u02c8s\u0259r-j\u0259n",
+                    "sound": {
+                        "audio": "surgeo01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "sur*geons"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a medical specialist who practices {d_link|surgery|surgery} {bc}a physician trained and qualified to perform surgical procedures"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}surgien{/it}, from Anglo-French, alteration of {it}cirurgien{/it}, from {it}cirurgerie{/it} surgery"
+            ]
+        ],
+        "date": "14th century",
+        "shortdef": [
+            "a medical specialist who practices surgery : a physician trained and qualified to perform surgical procedures"
+        ]
+    },
+    {
+        "meta": {
+            "id": "flight surgeon",
+            "uuid": "22b3203c-fd35-4ff9-b090-d065734ed609",
+            "sort": "061923000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "flight surgeon",
+                "flight surgeons"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "flight surgeon"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a military medical officer specializing in aerospace medicine"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1925",
+        "shortdef": [
+            "a military medical officer specializing in aerospace medicine"
+        ]
+    },
+    {
+        "meta": {
+            "id": "plastic surgeon",
+            "uuid": "2a5a3fca-134b-4bf3-97f4-1deb84c8cc48",
+            "sort": "160363400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "plastic surgeon",
+                "plastic surgeons"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "plastic surgeon"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a specialist in plastic surgery"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1863",
+        "shortdef": [
+            "a specialist in plastic surgery"
+        ]
+    },
+    {
+        "meta": {
+            "id": "surgeon general",
+            "uuid": "1784750d-99bc-4a40-ba7e-6ba4cad5d8a0",
+            "sort": "194979200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "surgeon general",
+                "surgeons general"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "surgeon general"
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "surgeons general"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the chief medical officer of a branch of the armed services or of a public health service"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1706",
+        "shortdef": [
+            "the chief medical officer of a branch of the armed services or of a public health service"
+        ]
+    },
+    {
+        "meta": {
+            "id": "surgeon's knot",
+            "uuid": "03baea17-9b4c-41bb-9c6f-34581edc3ddf",
+            "sort": "194979300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "surgeon's knot",
+                "surgeon's knots"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "surgeon's knot"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a reef knot in which the first knot has two turns {dx}see {dxt|knot|knot|illustration}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1733",
+        "shortdef": [
+            "a reef knot in which the first knot has two turns"
+        ]
+    },
+    {
+        "meta": {
+            "id": "tree surgery",
+            "uuid": "d2450ab7-b109-45d5-a6f1-b35b55076bb2",
+            "sort": "200363300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "tree surgeon",
+                "tree surgeons",
+                "tree surgeries",
+                "tree surgery"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "tree surgery"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}operative treatment of diseased trees especially for control of decay"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "broadly",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}practices forming part of the professional care of specimen or shade trees"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "tree surgeon",
+                "fl": "noun"
+            }
+        ],
+        "date": "1902",
+        "shortdef": [
+            "operative treatment of diseased trees especially for control of decay; broadly : practices forming part of the professional care of specimen or shade trees"
+        ]
+    },
+    {
+        "meta": {
+            "id": "veterinary surgeon",
+            "uuid": "f9dcf537-422c-4edc-9939-b9efe9819354",
+            "sort": "220072200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "veterinary surgeon",
+                "veterinary surgeons"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "veterinary surgeon"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sls": [
+                    "British"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|veterinarian||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1802",
+        "shortdef": [
+            "veterinarian"
+        ]
+    }
+]

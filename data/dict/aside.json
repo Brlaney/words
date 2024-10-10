@@ -1,0 +1,752 @@
+[
+    {
+        "meta": {
+            "id": "aside:1",
+            "uuid": "b4e68c13-dd42-43fb-9c94-f503ccbe3612",
+            "sort": "014192000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "aside"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "aside",
+            "prs": [
+                {
+                    "mw": "\u0259-\u02c8s\u012bd",
+                    "sound": {
+                        "audio": "aside001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adverb",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to or toward the side "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "stepped {wi}aside{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}away from others or into privacy "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "pulled him {wi}aside{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}out of the way especially for future use {bc}{sx|away||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "putting {wi}aside{/wi} savings"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}away from one's thought or consideration "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "All kidding {wi}aside{/wi}, we really need to get busy."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|side:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "to or toward the side",
+            "away from others or into privacy",
+            "out of the way especially for future use : away"
+        ]
+    },
+    {
+        "meta": {
+            "id": "aside:2",
+            "uuid": "948980f2-f5dd-4b1d-b53b-d85967a2875f",
+            "sort": "014193000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "aside",
+                "asides"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "aside"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an utterance not meant to be heard by someone"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}an actor's speech heard by the audience but supposedly not by other characters"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a comment or discussion that does not relate directly to the main subject being discussed {bc}{sx|digression||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He frequently interrupted his narrative with amusing {wi}asides{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|side:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "circa 1751{ds||1||}",
+        "shortdef": [
+            "an utterance not meant to be heard by someone; especially : an actor's speech heard by the audience but supposedly not by other characters",
+            "a comment or discussion that does not relate directly to the main subject being discussed : digression"
+        ]
+    },
+    {
+        "meta": {
+            "id": "aside:3",
+            "uuid": "84d58393-8ca0-4d52-9d6c-619c0d4579b8",
+            "sort": "014194000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "aside"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "aside"
+        },
+        "fl": "preposition",
+        "def": [
+            {
+                "sls": [
+                    "obsolete"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|beyond||}, {sx|past||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|side:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "1592",
+        "shortdef": [
+            "beyond, past"
+        ]
+    },
+    {
+        "meta": {
+            "id": "aside from",
+            "uuid": "b0ce4dfd-5eef-4ea7-b9ce-6e206e0beebf",
+            "sort": "014195000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "aside from"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "aside from"
+        },
+        "fl": "preposition",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "sls": [
+                                    "chiefly US"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in addition to {bc}{sx|besides||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}Aside from{/wi} being well written, the book is also beautifully illustrated."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "chiefly US"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|except for||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}Aside from{/wi} us, there were only a half dozen people there."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1790{ds||1||}",
+        "shortdef": [
+            "in addition to : besides",
+            "except for"
+        ]
+    },
+    {
+        "meta": {
+            "id": "set-aside",
+            "uuid": "23dd2413-9e92-4062-8f88-460467b7f147",
+            "sort": "193079000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "set-aside",
+                "set-asides"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "set-aside",
+            "prs": [
+                {
+                    "mw": "\u02c8set-\u0259-\u02ccs\u012bd",
+                    "sound": {
+                        "audio": "setasi01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something (such as a portion of receipts or production) that is set aside for a specified purpose"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a program requiring a percentage of opportunities (as for jobs or funding) to be reserved for an underrepresented group"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1943{ds||1||}",
+        "shortdef": [
+            "something (such as a portion of receipts or production) that is set aside for a specified purpose",
+            "a program requiring a percentage of opportunities (as for jobs or funding) to be reserved for an underrepresented group"
+        ]
+    },
+    {
+        "meta": {
+            "id": "step aside",
+            "uuid": "497775e3-8fff-48f4-897f-6ed97bf85f97",
+            "sort": "194787000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "step aside",
+                "stepped aside",
+                "stepping aside",
+                "steps aside"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "step aside"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stepped aside"
+            },
+            {
+                "if": "step*ping aside"
+            },
+            {
+                "if": "steps aside"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to withdraw from one's position or occupation {bc}{sx|step down||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1949",
+        "shortdef": [
+            "to withdraw from one's position or occupation : step down"
+        ]
+    },
+    {
+        "meta": {
+            "id": "brush aside",
+            "uuid": "ccd1279f-d637-43a9-a923-bb19ac64dd32",
+            "sort": "3002435000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "brush aside",
+                "brushed aside",
+                "brushes aside",
+                "brushing aside"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "brush aside"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "brushed aside"
+            },
+            {
+                "if": "brush*ing aside"
+            },
+            {
+                "if": "brush*es aside"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to treat (something) as not important {bc}to ignore or dismiss (something) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He {it}brushed aside{/it} questions about his son's arrest."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to treat (something) as not important : to ignore or dismiss (something)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "cast aside",
+            "uuid": "4f598283-fa65-4405-bac8-928a10b85c06",
+            "sort": "3002929000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "cast aside",
+                "casting aside",
+                "casts aside"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "cast aside"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "cast aside"
+            },
+            {
+                "if": "cast*ing aside"
+            },
+            {
+                "if": "casts aside"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stop thinking about (something) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She tried to {it}cast aside{/it} her worries and enjoy the party."
+                                            },
+                                            {
+                                                "t": "She {it}cast{/it} all thoughts of making the trip {it}aside{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to stop thinking about (something)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "joking aside",
+            "uuid": "d404d305-526a-4173-bf8e-8f485fa925fa",
+            "sort": "3010270000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "joking aside"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "joking aside"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to introduce a serious statement that follows a humorous statement "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "It looks like this is a job for Superman! But {it}joking aside{/it}, this is a serious problem and we're going to need help."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "\u2014used to introduce a serious statement that follows a humorous statement"
+        ]
+    },
+    {
+        "meta": {
+            "id": "lay aside",
+            "uuid": "ea84d8d8-d7fd-40cd-96b4-87ef78137f32",
+            "sort": "3010778000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "laid aside",
+                "lay aside",
+                "laying aside",
+                "lays aside"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "lay aside"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "laid aside"
+            },
+            {
+                "if": "lay*ing aside"
+            },
+            {
+                "if": "lays aside"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to place (something) to one side "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She {it}laid aside{/it} the book she had been reading and turned on the TV."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used figuratively "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "Plans for a new school have been {it}laid aside{/it}."
+                                                        },
+                                                        {
+                                                            "t": "We need to {it}lay{/it} our differences {it}aside{/it} so that we can learn to work together."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to keep (something) for special or future use {bc}to reserve or save (something) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She has been able to {it}lay aside{/it} a few dollars each week."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to place (something) to one side \u2014often used figuratively",
+            "to keep (something) for special or future use : to reserve or save (something)"
+        ]
+    }
+]

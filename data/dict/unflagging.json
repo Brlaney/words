@@ -1,0 +1,93 @@
+[
+    {
+        "meta": {
+            "id": "unflagging",
+            "uuid": "bdaf93e1-93dc-432c-a7e1-2ed03718cab3",
+            "sort": "211262000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "unflagging",
+                "unflaggingly"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "un*flag*ging",
+            "prs": [
+                {
+                    "mw": "\u02cc\u0259n-\u02c8fla-gi\u014b",
+                    "sound": {
+                        "audio": "unflag01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}not flagging {bc}{sx|tireless||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}unflagging{/wi} enthusiasm"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|unrelenting||2}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "un*flag*ging*ly",
+                "prs": [
+                    {
+                        "mw": "\u02cc\u0259n-\u02c8fla-gi\u014b-l\u0113",
+                        "sound": {
+                            "audio": "unflag02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            }
+        ],
+        "date": "1715{ds||1||}",
+        "shortdef": [
+            "not flagging : tireless",
+            "unrelenting"
+        ]
+    }
+]

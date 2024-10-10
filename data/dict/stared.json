@@ -1,0 +1,667 @@
+[
+    {
+        "meta": {
+            "id": "stare:1",
+            "uuid": "5710a7e2-c5f1-4ca4-a662-8d071016089f",
+            "sort": "194754900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stare",
+                "stare her in the face",
+                "stare him in the face",
+                "stare it in the face",
+                "stare me in the face",
+                "stare one in the face",
+                "stare them in the face",
+                "stare us in the face",
+                "stare you in the face",
+                "stared",
+                "stared her in the face",
+                "stared him in the face",
+                "stared it in the face",
+                "stared me in the face",
+                "stared them in the face",
+                "stared us in the face",
+                "stared you in the face",
+                "starer",
+                "starers",
+                "stares",
+                "stares her in the face",
+                "stares him in the face",
+                "stares it in the face",
+                "stares me in the face",
+                "stares them in the face",
+                "stares us in the face",
+                "stares you in the face",
+                "staring",
+                "staring her in the face",
+                "staring him in the face",
+                "staring it in the face",
+                "staring me in the face",
+                "staring them in the face",
+                "staring us in the face",
+                "staring you in the face"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "stare",
+            "prs": [
+                {
+                    "mw": "\u02c8ster",
+                    "sound": {
+                        "audio": "stare001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stared"
+            },
+            {
+                "if": "star*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to look fixedly often with wide-open eyes"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to show oneself conspicuously "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the error {it}stared{/it} from the page"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "sls": [
+                                    "of hair"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stand on end {bc}{sx|bristle||}"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to appear rough and lusterless"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have an effect on by {a_link|staring}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to look at with a searching or earnest gaze"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "star*er",
+                "fl": "noun"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "stare one in the face",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be undeniably and forcefully evident or apparent"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}starian{/it}; akin to Old High German {it}star\u0113n{/it} to stare, Greek {it}stereos{/it} solid, Lithuanian {it}starinti{/it} to stiffen"
+            ]
+        ],
+        "date": "before 12th century{ds|i|1||}",
+        "shortdef": [
+            "to look fixedly often with wide-open eyes",
+            "to show oneself conspicuously",
+            "to stand on end : bristle; also : to appear rough and lusterless"
+        ]
+    },
+    {
+        "meta": {
+            "id": "dagger",
+            "uuid": "e8ae98bb-8fe0-4451-be96-38ce68b8d8b4",
+            "sort": "040047000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "at daggers drawn",
+                "dagger",
+                "daggerlike",
+                "daggers",
+                "look daggers",
+                "looked daggers",
+                "looking daggers",
+                "looks daggers",
+                "stare daggers",
+                "stared daggers",
+                "stares daggers",
+                "staring daggers"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "dag*ger",
+            "prs": [
+                {
+                    "mw": "\u02c8da-g\u0259r",
+                    "sound": {
+                        "audio": "dagger01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a sharp pointed knife for stabbing"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that resembles a dagger"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a character \u2020 used as a reference mark or to indicate a death date"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "dag*ger*like",
+                "prs": [
+                    {
+                        "mw": "\u02c8da-g\u0259r-\u02ccl\u012bk",
+                        "sound": {
+                            "audio": "dagger02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "at daggers drawn",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}in a state of open hostility or conflict"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "look daggers",
+                "vrs": [
+                    {
+                        "vl": "or",
+                        "va": "stare daggers"
+                    }
+                ],
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to stare angrily "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "they {it}looked daggers{/it} at each other across the table"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "a sharp pointed knife for stabbing",
+            "something that resembles a dagger",
+            "a character \u2020 used as a reference mark or to indicate a death date"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stare down",
+            "uuid": "ec811dbc-50ae-482b-b5ea-85e0b7fe7127",
+            "sort": "194755200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stare down",
+                "stared down",
+                "stares down",
+                "staring down"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stare down"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stared down"
+            },
+            {
+                "if": "star*ing down"
+            },
+            {
+                "if": "stares down"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to waver or submit by or as if by staring"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1798",
+        "shortdef": [
+            "to cause to waver or submit by or as if by staring"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stare out",
+            "uuid": "67084bb4-ee3d-472b-8fa0-d39b7d197436",
+            "sort": "3018494000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "stare out",
+                "stared out",
+                "stares out",
+                "staring out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stare out"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "stared out"
+            },
+            {
+                "if": "star*ing out"
+            },
+            {
+                "if": "stares out"
+            }
+        ],
+        "def": [
+            {
+                "sls": [
+                    "British"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to look directly into a person's eyes without fear until he or she becomes uncomfortable and looks away "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used figuratively "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "They had {it}stared out{/it} danger more than once."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to look directly into a person's eyes without fear until he or she becomes uncomfortable and looks away \u2014often used figuratively"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stare (someone) in the eye(s)",
+            "uuid": "70abeadd-c882-49fe-af8f-8260f16612e2",
+            "sort": "3018495000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "stare (someone) in the eye(s)",
+                "stare in the eye",
+                "stare in the eyes",
+                "stare someone in the eye",
+                "stare someone in the eyes",
+                "stared death in the eye"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stare (someone) in the eye(s)"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "chiefly US"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to look directly into the eyes of (someone) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She {it}stared{/it} me {it}in the eye{/it} and told me to leave."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "sometimes used figuratively "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "They {phrase}stared death in the eye{/phrase} and didn't flinch."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to look directly into the eyes of (someone) \u2014sometimes used figuratively"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stare (someone) in the face",
+            "uuid": "57cf5228-0500-4c57-8cca-12f8040e86b6",
+            "sort": "3018496000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "stare (someone) in the face",
+                "stare in the face",
+                "stare someone in the face",
+                "stared death in the face"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stare (someone) in the face"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to look directly into the eyes of (someone) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She {it}stared{/it} me {it}in the face{/it} and told me to leave."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used figuratively for something that should be apparent "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "The solution was {it}staring{/it} me {it}in the face{/it}."
+                                                        },
+                                                        {
+                                                            "t": "Failure was {it}staring{/it} him {it}in the face{/it}."
+                                                        },
+                                                        {
+                                                            "t": "They {phrase}stared death in the face{/phrase} and didn't flinch."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to look directly into the eyes of (someone) \u2014usually used figuratively for something that should be apparent"
+        ]
+    }
+]

@@ -1,0 +1,255 @@
+[
+    {
+        "meta": {
+            "id": "handicapped",
+            "uuid": "fbb8296d-753c-429f-b980-8c65d3ce78a8",
+            "sort": "080040500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "handicapped"
+            ],
+            "offensive": true
+        },
+        "hwi": {
+            "hw": "hand*i*capped",
+            "prs": [
+                {
+                    "mw": "\u02c8han-di-\u02cckapt",
+                    "sound": {
+                        "audio": "handicapped",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "-d\u0113-",
+                    "sound": {
+                        "audio": "handi01m",
+                        "ref": "m",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sls": [
+                    "sometimes offensive"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}having a physical or mental disability"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}of or reserved for disabled persons "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}handicapped{/wi} parking spaces"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1884",
+        "shortdef": [
+            "having a physical or mental disability; also : of or reserved for disabled persons"
+        ]
+    },
+    {
+        "meta": {
+            "id": "handicap:2",
+            "uuid": "16eca70e-8e68-4903-ad05-18fce08ef981",
+            "sort": "080040400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "handicap",
+                "handicapped",
+                "handicapping",
+                "handicaps"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "handicap"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "ifc": "-capped",
+                "if": "hand*i*capped"
+            },
+            {
+                "ifc": "-cap*ping",
+                "if": "hand*i*cap*ping"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to give a handicap to"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to assess the relative winning chances of (contestants) or the likely winner of (a contest)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to put at a disadvantage"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1789{ds||1|a|}",
+        "shortdef": [
+            "to give a handicap to",
+            "to assess the relative winning chances of (contestants) or the likely winner of (a contest)",
+            "to put at a disadvantage"
+        ]
+    },
+    {
+        "meta": {
+            "id": "multi-handicapped",
+            "uuid": "78a07c9c-73ed-44c6-89e1-3b477a9ee35c",
+            "sort": "134618000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "multi-handicapped",
+                "multihandicapped"
+            ],
+            "offensive": true
+        },
+        "hwi": {
+            "hw": "mul*ti-han*di*capped",
+            "prs": [
+                {
+                    "mw": "\u02ccm\u0259l-t\u0113-\u02c8han-di-\u02cckapt",
+                    "sound": {
+                        "audio": "multi30m",
+                        "ref": "m",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "-\u02cct\u012b-"
+                },
+                {
+                    "mw": "-\u02c8han-d\u0113-"
+                }
+            ]
+        },
+        "vrs": [
+            {
+                "vl": "or",
+                "va": "mul*ti*han*di*capped"
+            }
+        ],
+        "fl": "adjective",
+        "def": [
+            {
+                "sls": [
+                    "sometimes offensive"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}having more than one {d_link|disability|disability} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}multi-handicapped{/wi} students"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}accommodating or intended for people having more than one disability "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "a {wi}multihandicapped{/wi} classroom"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1947",
+        "shortdef": [
+            "having more than one disability; also : accommodating or intended for people having more than one disability"
+        ]
+    }
+]

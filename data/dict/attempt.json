@@ -1,0 +1,570 @@
+[
+    {
+        "meta": {
+            "id": "attempt:1",
+            "uuid": "488486c5-f73e-41cb-9662-9733d86be44c",
+            "sort": "014604000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "attempt",
+                "attemptable",
+                "attempted",
+                "attempting",
+                "attempts"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "at*tempt",
+            "prs": [
+                {
+                    "mw": "\u0259-\u02c8tem(p)t",
+                    "sound": {
+                        "audio": "attemp01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "at*tempt*ed"
+            },
+            {
+                "if": "at*tempt*ing"
+            },
+            {
+                "if": "at*tempts"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make an effort to do, accomplish, solve, or effect "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He {wi}attempted{/wi} to swim the swollen river."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "archaic"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|tempt||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "sls": [
+                                    "archaic"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to try to subdue or take by force {bc}{sx|attack||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "at*tempt*able",
+                "prs": [
+                    {
+                        "mw": "\u0259-\u02c8tem(p)-t\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "attemp02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}attempt{/sc} {sc}try{/sc} {sc}endeavor{/sc} {sc}essay{/sc} {sc}strive{/sc} mean to make an effort to accomplish an end. {sc}attempt{/sc} stresses the initiation or beginning of an effort. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "will {it}attempt{/it} to photograph the rare bird"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}try{/sc} is often close to {sc}attempt{/sc} but may stress effort or experiment made in the hope of testing or proving something. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}tried{/it} to determine which was the better procedure"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}endeavor{/sc} heightens the implications of exertion and difficulty. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}endeavored{/it} to find crash survivors in the mountains"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}essay{/sc} implies difficulty but also suggests tentative trying or experimenting. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "will {it}essay{/it} a dramatic role for the first time"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}strive{/sc} implies great exertion against great difficulty and specifically suggests persistent effort. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "continues to {it}strive{/it} for peace"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Anglo-French & Latin; Anglo-French {it}attempter{/it}, from Latin {it}attemptare{/it}, from {it}ad-{/it} + {it}temptare{/it} to touch, try {ma}{mat|tempt|}{/ma}"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "to make an effort to do, accomplish, solve, or effect",
+            "tempt",
+            "to try to subdue or take by force : attack"
+        ]
+    },
+    {
+        "meta": {
+            "id": "attempt:2",
+            "uuid": "f81fe591-0ad7-4618-b7c2-1a60c4784b22",
+            "sort": "014605000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "attempt",
+                "attempts",
+                "made an attempt"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "attempt"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act or an instance of trying to do or accomplish something {bc}an act or instance of {a_link|attempting} something "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She failed the test on her first {wi}attempt{/wi} but passed on her second {wi}attempt{/wi}."
+                                            },
+                                            {
+                                                "t": "They {phrase}made an attempt{/phrase} {gloss}=tried{/gloss} to be helpful."
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "often",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}an unsuccessful effort "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "a suicide {wi}attempt{/wi}"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something resulting from or representing an attempt "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 surrounded by lemon trees and a few {wi}attempts{/wi} at rose bushes.",
+                                                "aq": {
+                                                    "auth": "Marian Engel"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|attack||}, {sx|assault||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "an {wi}attempt{/wi} on the life of the president"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|attempt:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "circa 1534{ds||1|a|}",
+        "shortdef": [
+            "the act or an instance of trying to do or accomplish something : an act or instance of attempting something; often : an unsuccessful effort",
+            "something resulting from or representing an attempt",
+            "attack, assault"
+        ]
+    },
+    {
+        "meta": {
+            "id": "attempt suicide",
+            "uuid": "ccd80561-9197-4dc4-8724-0679c439879d",
+            "sort": "3001139000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "attempt suicide"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "attempt suicide"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to try to kill oneself"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to try to kill oneself"
+        ]
+    },
+    {
+        "meta": {
+            "id": "an attempt on someone's life",
+            "uuid": "dfc96834-ebe3-4381-8536-a3f1aa677ab2",
+            "sort": "3000570000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "an attempt on someone's life"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "an attempt on someone's life"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an act of trying to kill someone {bc}a usually unsuccessful effort to kill someone "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Police report that there has been {it}an attempt on the actor's life{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "an act of trying to kill someone : a usually unsuccessful effort to kill someone"
+        ]
+    },
+    {
+        "meta": {
+            "id": "make an attempt",
+            "uuid": "1f243943-d076-4afd-96a7-3c272755aa26",
+            "sort": "3011737000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "make an attempt"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "make an attempt"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to try "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We both {it}made an attempt{/it} to be friendly despite recent arguments."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to try"
+        ]
+    },
+    {
+        "meta": {
+            "id": "make an attempt on someone's life",
+            "uuid": "8f29ee54-522b-47d5-999e-767965ded912",
+            "sort": "3011738000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "make an attempt on someone's life",
+                "make an attempt on (someone's) life",
+                "makes an attempt on someone's life",
+                "making an attempt on someone's life",
+                "made an attempt on someone's life",
+                "make an attempt on his life",
+                "makes an attempt on his life",
+                "making an attempt on his life",
+                "made an attempt on his life",
+                "make an attempt on her life",
+                "makes an attempt on her life",
+                "making an attempt on her life",
+                "made an attempt on her life"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "make an attempt on (someone's) life"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to try to kill someone "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Someone {it}made an attempt on her life{/it}."
+                                            },
+                                            {
+                                                "t": "A would-be assassin {it}made an attempt on{/it} the leader's {it}life{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to try to kill someone"
+        ]
+    },
+    {
+        "meta": {
+            "id": "make no attempt",
+            "uuid": "ce7af30d-eed5-4610-ac46-d034930f1515",
+            "sort": "3011828000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "make no attempt"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "make no attempt"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to not try "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He {it}made no attempt{/it} to apologize."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to not try"
+        ]
+    }
+]

@@ -1,0 +1,295 @@
+[
+    {
+        "meta": {
+            "id": "urge:1",
+            "uuid": "2beb70d8-eade-4bba-95df-ad5de6e3be99",
+            "sort": "212568000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "urge",
+                "urged",
+                "urger",
+                "urgers",
+                "urges",
+                "urging",
+                "urgings"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "urge",
+            "prs": [
+                {
+                    "mw": "\u02c8\u0259rj",
+                    "sound": {
+                        "audio": "urge0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "urged"
+            },
+            {
+                "if": "urg*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to present, advocate, or demand earnestly or pressingly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "his conviction was upheld on a theory never {it}urged{/it} at his \u2026 trial",
+                                                "aq": {
+                                                    "auth": "Leon Friedman"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to undertake the accomplishment of with energy, swiftness, or enthusiasm "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}urge{/wi} the attack"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|solicit||}, {sx|entreat||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}urged{/it} him to keep trying"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to serve as a motive or reason for "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}urged{/it} by a sense of duty"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to force or impel in an indicated direction or into motion or greater speed "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the dog {it}urged{/it} the sheep toward the gate"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|stimulate||}, {sx|provoke||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}urge{/wi} not my father's anger",
+                                                "aq": {
+                                                    "auth": "William Shakespeare"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to declare, advance, or press earnestly a statement, argument, charge, or claim "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}urged{/it} for the adoption of the proposal"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "urg*er",
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Latin {it}urg\u0113re{/it} to press, push, entreat {ma}{mat|wreak|}{/ma}"
+            ]
+        ],
+        "date": "circa 1555{ds|t|1||}",
+        "shortdef": [
+            "to present, advocate, or demand earnestly or pressingly",
+            "to undertake the accomplishment of with energy, swiftness, or enthusiasm",
+            "solicit, entreat"
+        ]
+    },
+    {
+        "meta": {
+            "id": "urge on",
+            "uuid": "c4c6fb41-87df-4208-ae5e-74a3134082cd",
+            "sort": "3021913000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "urge on",
+                "urged on",
+                "urges on",
+                "urging on"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "urge on"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "urged on"
+            },
+            {
+                "if": "urg*ing on"
+            },
+            {
+                "if": "urg*es on"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to encourage (someone or something) to move ahead, to do something, etc. "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "riders {it}urging{/it} their horses {it}on{/it}"
+                                            },
+                                            {
+                                                "t": "I wanted to quit but she {it}urged{/it} me {it}on{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to encourage (someone or something) to move ahead, to do something, etc."
+        ]
+    }
+]

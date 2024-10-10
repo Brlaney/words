@@ -1,0 +1,660 @@
+[
+    {
+        "meta": {
+            "id": "growth",
+            "uuid": "235da272-e439-47ce-bb92-f36cfe66857a",
+            "sort": "072680000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "growth",
+                "growths"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "growth",
+            "prs": [
+                {
+                    "mw": "\u02c8gr\u014dth",
+                    "sound": {
+                        "audio": "growth01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1 a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a stage in the process of {a_link|growing} {bc}{sx|size||}"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}full growth"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the process of growing"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}progressive development {bc}{sx|evolution||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|increase||}, {sx|expansion||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the {wi}growth{/wi} of the oil industry"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that {a_link|grows} or has {a_link|grown} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}growth{/wi} of willows"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an abnormal proliferation of tissue (such as a tumor)"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|outgrowth||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the result of growth {bc}{sx|product||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Protestantism was a relatively recent {wi}growth{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a producing especially by growing "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "fruits of his own {wi}growth{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}anticipated progressive growth especially in capital value and income "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "some investors prefer {wi}growth{/wi} to immediate income"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{et_link|grow|grow} + {et_link|-th:3|-th:3}"
+            ]
+        ],
+        "date": "1557{ds||1|a|1}",
+        "shortdef": [
+            "a stage in the process of growing : size",
+            "full growth",
+            "the process of growing"
+        ]
+    },
+    {
+        "meta": {
+            "id": "growth company",
+            "uuid": "aef4f7b3-7ba3-431b-ac3e-b3f6ac84c429",
+            "sort": "072681000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "growth companies",
+                "growth company"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "growth company"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a company that grows at a greater rate than the economy as a whole and that usually directs a relatively high proportion of income back into the business"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1959",
+        "shortdef": [
+            "a company that grows at a greater rate than the economy as a whole and that usually directs a relatively high proportion of income back into the business"
+        ]
+    },
+    {
+        "meta": {
+            "id": "growth cone",
+            "uuid": "069824ba-c2a2-401c-9df9-0f54632fe18f",
+            "sort": "072682000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "growth cone",
+                "growth cones"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "growth cone"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the specialized motile tip of an axon of a growing or regenerating neuron"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1970",
+        "shortdef": [
+            "the specialized motile tip of an axon of a growing or regenerating neuron"
+        ]
+    },
+    {
+        "meta": {
+            "id": "growth factor",
+            "uuid": "761bbc9f-d56e-41ce-a6d9-20ac4e23683e",
+            "sort": "072683000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "growth factor",
+                "growth factors"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "growth factor"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a substance (such as a vitamin B{inf}12{/inf} or an interleukin) that promotes growth and especially cellular growth"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1926",
+        "shortdef": [
+            "a substance (such as a vitamin B12 or an interleukin) that promotes growth and especially cellular growth"
+        ]
+    },
+    {
+        "meta": {
+            "id": "growth hormone",
+            "uuid": "3b72e208-f9a3-4789-a9b6-518a10c34f0c",
+            "sort": "072684000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "growth hormone",
+                "growth hormones",
+                "somatotropin"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "growth hormone"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a vertebrate polypeptide hormone that is secreted by the anterior lobe of the pituitary gland and regulates growth"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a recombinant version of this hormone "
+                                        ],
+                                        [
+                                            "ca",
+                                            {
+                                                "intro": "called also",
+                                                "cats": [
+                                                    {
+                                                        "cat": "somatotropin"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|growth regulator||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1924{ds||1||}",
+        "shortdef": [
+            "a vertebrate polypeptide hormone that is secreted by the anterior lobe of the pituitary gland and regulates growth; also : a recombinant version of this hormone \u2014called also somatotropin",
+            "growth regulator"
+        ]
+    },
+    {
+        "meta": {
+            "id": "growth industry",
+            "uuid": "6dfbbf1e-2728-4268-b6ae-fa32bb4b3133",
+            "sort": "072685000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "growth industries",
+                "growth industry"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "growth industry"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a business that has become increasingly popular or profitable"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}an interest or activity that is increasingly popular or trendy"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1954",
+        "shortdef": [
+            "a business that has become increasingly popular or profitable; also : an interest or activity that is increasingly popular or trendy"
+        ]
+    },
+    {
+        "meta": {
+            "id": "growth regulator",
+            "uuid": "258799f9-4fc7-4ece-8336-20e7791d0c3e",
+            "sort": "072686000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "growth regulator",
+                "growth regulators"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "growth regulator"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of various synthetic or naturally occurring plant substances (such as an auxin or gibberellin) that regulate growth"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1936",
+        "shortdef": [
+            "any of various synthetic or naturally occurring plant substances (such as an auxin or gibberellin) that regulate growth"
+        ]
+    },
+    {
+        "meta": {
+            "id": "growth ring",
+            "uuid": "f9be6dd3-e2bf-412e-82ef-a7d7679ad5e1",
+            "sort": "072687000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "growth ring",
+                "growth rings"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "growth ring"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a layer of wood (such as an annual ring) produced during a single period of growth"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1907",
+        "shortdef": [
+            "a layer of wood (such as an annual ring) produced during a single period of growth"
+        ]
+    },
+    {
+        "meta": {
+            "id": "growth area",
+            "uuid": "27735721-0556-46f1-bac5-a6fc8f93deb8",
+            "sort": "3007871000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "growth area"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "growth area"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an area of business that is becoming larger and more successful "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Children's books are a {it}growth area{/it} in the publishing industry."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "an area of business that is becoming larger and more successful"
+        ]
+    },
+    {
+        "meta": {
+            "id": "growth cycle",
+            "uuid": "d45459bb-a404-4426-a518-675acbb34aaa",
+            "sort": "3007872000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "growth cycle"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "growth cycle"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the normal length of time which something lives "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "These plants have a 2-year {it}growth cycle{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "the normal length of time which something lives"
+        ]
+    }
+]

@@ -1,0 +1,595 @@
+[
+    {
+        "meta": {
+            "id": "scheme:1",
+            "uuid": "fd4dc58d-daba-4075-982f-8222697f2146",
+            "sort": "191065000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "scheme",
+                "schemes"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "scheme",
+            "prs": [
+                {
+                    "mw": "\u02c8sk\u0113m",
+                    "sound": {
+                        "audio": "scheme01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a plan or program of action"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a crafty or secret one"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a systematic or organized configuration {bc}{sx|design||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "color {wi}scheme{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a concise statement or table {bc}{sx|epitome||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a graphic sketch or outline"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sen",
+                            {
+                                "sn": "b",
+                                "sls": [
+                                    "archaic"
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a mathematical or astronomical diagram"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a representation of the astrological aspects of the planets at a particular time"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}plan{/sc} {sc}design{/sc} {sc}plot{/sc} {sc}scheme{/sc} {sc}project{/sc} mean a method devised for making or doing something or achieving an end. {sc}plan{/sc} always implies mental formulation and sometimes graphic representation. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}plans{/it} for a house"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}design{/sc} often suggests a particular pattern and some degree of achieved order or harmony. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}design{/it} for a new dress"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}plot{/sc} implies a laying out in clearly distinguished sections with attention to their relations and proportions. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the {it}plot{/it} of the play"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}scheme{/sc} stresses calculation of the end in view and may apply to a plan motivated by craftiness and self-interest. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}scheme{/it} to defraud the government"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}project{/sc} often stresses imaginative scope and vision. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}project{/it} to develop the waterfront"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Latin {it}schemat-, schema{/it} arrangement, figure, from Greek {it}sch\u0113mat-, sch\u0113ma{/it}, from {it}echein{/it} to have, hold, be in (such) a condition; akin to Old English {it}sige{/it} victory, Sanskrit {it}sahate{/it} he prevails"
+            ]
+        ],
+        "date": "circa 1595{ds||4|b|1}",
+        "shortdef": [
+            "a plan or program of action; especially : a crafty or secret one",
+            "a systematic or organized configuration : design",
+            "a concise statement or table : epitome"
+        ]
+    },
+    {
+        "meta": {
+            "id": "scheme:2",
+            "uuid": "636261d3-82c3-46f1-9faf-3fd055c09bfe",
+            "sort": "191066000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "scheme",
+                "schemed",
+                "schemer",
+                "schemers",
+                "schemes",
+                "scheming"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "scheme"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "schemed"
+            },
+            {
+                "if": "schem*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to form plans"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|plot||}, {sx|intrigue||}"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to form a scheme for"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "schem*er",
+                "fl": "noun"
+            }
+        ],
+        "date": "1749{ds|t|||}",
+        "shortdef": [
+            "to form plans; also : plot, intrigue",
+            "to form a scheme for"
+        ]
+    },
+    {
+        "meta": {
+            "id": "Ponzi scheme",
+            "uuid": "43b75be5-17c4-4afe-ba01-6949f002d478",
+            "sort": "165825000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "Ponzi scheme",
+                "ponzi schemes"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "Pon*zi scheme",
+            "prs": [
+                {
+                    "mw": "\u02c8p\u00e4n-z\u0113-",
+                    "sound": {
+                        "audio": "ponzis01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an investment swindle in which some early investors are paid off with money put up by later ones in order to encourage more and bigger risks"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Charles {it}Ponzi{/it} \u20201949 American (Italian-born) swindler"
+            ]
+        ],
+        "date": "1920",
+        "shortdef": [
+            "an investment swindle in which some early investors are paid off with money put up by later ones in order to encourage more and bigger risks"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pyramid scheme",
+            "uuid": "36887329-be7a-4ac1-982d-e8742e2f9980",
+            "sort": "169025000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pyramid scheme",
+                "pyramid schemes"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pyramid scheme"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a usually illegal operation in which participants pay to join and profit mainly from payments made by subsequent participants"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1949",
+        "shortdef": [
+            "a usually illegal operation in which participants pay to join and profit mainly from payments made by subsequent participants"
+        ]
+    },
+    {
+        "meta": {
+            "id": "rhyme scheme",
+            "uuid": "05174cff-6915-4c1b-aa9c-6add3dd876d7",
+            "sort": "183088000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "rhyme scheme",
+                "rhyme schemes"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "rhyme scheme"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the arrangement of rhymes in a stanza or a poem"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1889",
+        "shortdef": [
+            "the arrangement of rhymes in a stanza or a poem"
+        ]
+    },
+    {
+        "meta": {
+            "id": "color scheme",
+            "uuid": "ce12cfee-578c-4332-8a42-b04fcaaee319",
+            "sort": "3003569000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "color scheme"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "color scheme"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a particular combination of colors "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They chose an unusual {it}color scheme{/it} for the living room."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a particular combination of colors"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pension scheme",
+            "uuid": "41c4cfce-9c63-4552-a6c1-857d8dd592ea",
+            "sort": "3014532000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "pension scheme"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pension scheme"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sls": [
+                    "British"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an arrangement made with an employer to pay money to an employee after retirement"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "an arrangement made with an employer to pay money to an employee after retirement"
+        ]
+    },
+    {
+        "meta": {
+            "id": "the scheme of things",
+            "uuid": "5251dc45-7a55-468d-bb0d-b17e74373aaf",
+            "sort": "3020536000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "the overall scheme of things",
+                "the scheme of things"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "the scheme of things"
+        },
+        "fl": "noun phrase",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the general way that things are organized and relate to each other "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Everyone has their role to play in {phrase}the overall scheme of things{/phrase}."
+                                            },
+                                            {
+                                                "t": "Our problems aren't really that important in {it}the grand scheme of things{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "the general way that things are organized and relate to each other"
+        ]
+    }
+]

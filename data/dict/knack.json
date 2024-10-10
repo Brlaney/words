@@ -1,0 +1,205 @@
+[
+    {
+        "meta": {
+            "id": "knack",
+            "uuid": "5e714fdd-8491-4a7b-829a-2a6e11e8d193",
+            "sort": "110061300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "knack",
+                "knacks"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "knack",
+            "prs": [
+                {
+                    "mw": "\u02c8nak",
+                    "sound": {
+                        "audio": "knack001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a special ready capacity that is hard to analyze or teach"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a clever trick or stratagem"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a clever way of doing something"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "sls": [
+                                    "archaic"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an ingenious device"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "broadly",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|toy||}, {sx|knickknack||}"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}gift{/sc} {sc}faculty{/sc} {sc}aptitude{/sc} {sc}bent{/sc} {sc}talent{/sc} {sc}genius{/sc} {sc}knack{/sc} mean a special ability for doing something. {sc}gift{/sc} often implies special favor by God or nature. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the {it}gift{/it} of singing beautifully"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}faculty{/sc} applies to an innate or less often acquired ability for a particular accomplishment or function. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}faculty{/it} for remembering names"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}aptitude{/sc} implies a natural liking for some activity and the likelihood of success in it. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a mechanical {it}aptitude{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}bent{/sc} is nearly equal to {sc}aptitude{/sc} but it stresses inclination perhaps more than specific ability. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a family with an artistic {it}bent{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}talent{/sc} suggests a marked natural ability that needs to be developed. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "has enough {it}talent{/it} to succeed"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}genius{/sc} suggests impressive inborn creative ability. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "has no great {it}genius{/it} for poetry"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}knack{/sc} implies a comparatively minor but special ability making for ease and dexterity in performance. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the {it}knack{/it} of getting along"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}knak{/it}"
+            ]
+        ],
+        "date": "14th century{ds||2|a|}",
+        "shortdef": [
+            "a special ready capacity that is hard to analyze or teach",
+            "a clever trick or stratagem",
+            "a clever way of doing something"
+        ]
+    }
+]

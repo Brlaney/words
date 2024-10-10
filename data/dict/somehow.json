@@ -1,0 +1,114 @@
+[
+    {
+        "meta": {
+            "id": "somehow",
+            "uuid": "ff1a81f9-0cbc-4afb-9c13-4008ce3c36c9",
+            "sort": "194585300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "somehow"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "some*how",
+            "prs": [
+                {
+                    "mw": "\u02c8s\u0259m-\u02cchau\u0307",
+                    "sound": {
+                        "audio": "someho01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adverb",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in one way or another not known or designated {bc}by some means "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "we'll manage {wi}somehow{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1664",
+        "shortdef": [
+            "in one way or another not known or designated : by some means"
+        ]
+    },
+    {
+        "meta": {
+            "id": "somehow or other",
+            "uuid": "786ff805-56e2-43f2-95b9-b86c4343b73a",
+            "sort": "3018024000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "somehow or other"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "somehow or other"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used when the specific details about how something is or was done are not important or have been forgotten "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{it}Somehow or other{/it}, we managed to get all of the boxes into the car."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "\u2014used when the specific details about how something is or was done are not important or have been forgotten"
+        ]
+    }
+]

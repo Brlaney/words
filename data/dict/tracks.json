@@ -1,0 +1,2042 @@
+[
+    {
+        "meta": {
+            "id": "track:2",
+            "uuid": "42a720bf-cf05-490e-8a9d-c7f5cd994eef",
+            "sort": "200318100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "track",
+                "tracked",
+                "tracker",
+                "trackers",
+                "tracking",
+                "tracks"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "track"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "tracked"
+            },
+            {
+                "if": "track*ing"
+            },
+            {
+                "if": "tracks"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to follow the {a_link|tracks} or {a_link|traces} of {bc}{sx|trail||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to search for by following evidence until found "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}track{/wi} down the source"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to follow by vestiges {bc}{sx|trace||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to observe or plot the moving path of (something, such as a spacecraft or missile) often instrumentally"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to carry (mud or other material) on the feet and deposit "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}tracking{/wi} mud into the kitchen"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make tracks upon"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to keep track of (something, such as a trend) {bc}{sx|follow||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to travel over {bc}{sx|traverse||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}track{/wi} a desert"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|travel||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a comet {wi}tracking{/wi} eastward"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sen",
+                            {
+                                "sn": "2 a",
+                                "sls": [
+                                    "of a pair of wheels"
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to maintain a constant distance apart on the straightaway"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to fit a track or rails"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "sls": [
+                                    "of a rear wheel of a vehicle"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to follow accurately the corresponding fore wheel on a straightaway"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "sls": [
+                                    "of a phonograph needle"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to follow the groove undulations of a recording"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to leave tracks (as on a floor)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "track*er",
+                "fl": "noun"
+            }
+        ],
+        "date": "1565{ds|t|1|a|}",
+        "shortdef": [
+            "to follow the tracks or traces of : trail",
+            "to search for by following evidence until found",
+            "to follow by vestiges : trace"
+        ]
+    },
+    {
+        "meta": {
+            "id": "track:1",
+            "uuid": "cec22ad1-e3e3-4db7-8259-a7199c45aa6c",
+            "sort": "200318000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "in her tracks",
+                "in his tracks",
+                "in its tracks",
+                "in my tracks",
+                "in one's tracks",
+                "in our tracks",
+                "in their tracks",
+                "in your tracks",
+                "on track",
+                "track",
+                "trackless",
+                "tracks"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "track",
+            "prs": [
+                {
+                    "mw": "\u02c8trak",
+                    "sound": {
+                        "audio": "track001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a footprint whether recent or fossil "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the huge {wi}track{/wi} of a dinosaur"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}detectable evidence (such as the wake of a ship, a line of footprints, or a wheel rut) that something has passed"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a path made by or as if by repeated footfalls {bc}{sx|trail||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a course laid out especially for racing"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the parallel rails of a railroad"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "e (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}one of a series of parallel or concentric paths along which material (such as music or information) is recorded (as on a phonograph record or magnetic tape)"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a group of grooves on a phonograph record containing recorded sound"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}material recorded especially on or as if on a track "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "instrumental {wi}tracks{/wi}"
+                                                    },
+                                                    {
+                                                        "t": "a bonus commentary {wi}track{/wi} on a DVD"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "f",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a usually metal way (such as a groove) serving as a guide (as for a movable lighting fixture)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a sequence of events {bc}a train of ideas {bc}{sx|succession||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an awareness of a fact, progression, or condition "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "keep {wi}track{/wi} of the costs"
+                                            },
+                                            {
+                                                "t": "lose {wi}track{/wi} of the time"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}track-and-field sports"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}those performed on a running track"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the course along which something moves or progresses"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a way of life, conduct, or action"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}one of several curricula of study to which students are assigned according to their needs or levels of ability"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the projection on the earth's surface of the path along which something (such as a missile or an airplane) has flown"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the width of a wheeled vehicle from wheel to wheel and usually from the outside of the rims"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the tread of an automobile tire"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}either of two endless {dx_def}see {dxt|endless|endless|3}{/dx_def} belts on which a {a_link|tracklaying} vehicle travels"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "track*less",
+                "prs": [
+                    {
+                        "mw": "\u02c8trak-l\u0259s",
+                        "sound": {
+                            "audio": "track002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "in one's tracks",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}where one stands or is at the moment {bc}on the spot "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "was stopped {it}in his tracks{/it}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "on track",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}achieving or doing what is necessary or expected"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}trace{/sc} {sc}vestige{/sc} {sc}track{/sc} mean a perceptible sign made by something that has passed. {sc}trace{/sc} may suggest any line, mark, or discernible effect. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the killer left no {it}traces{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}vestige{/sc} applies to a tangible reminder such as a fragment or remnant of what is past and gone. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "boulders that are {it}vestiges{/it} of the last ice age"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}track{/sc} implies a continuous line that can be followed. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the fossilized {it}tracks{/it} of dinosaurs"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}trak{/it}, from Middle French {it}trac{/it}"
+            ]
+        ],
+        "date": "15th century{ds||2|a|}",
+        "shortdef": [
+            "a footprint whether recent or fossil",
+            "detectable evidence (such as the wake of a ship, a line of footprints, or a wheel rut) that something has passed",
+            "a path made by or as if by repeated footfalls : trail"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stop dead in one's tracks",
+            "uuid": "018b8e05-a788-441e-975b-fe6e9c737099",
+            "sort": "3018738000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "stop dead in her tracks",
+                "stops dead in her tracks",
+                "stopping dead in her tracks",
+                "stopped dead in her tracks",
+                "stop dead in his tracks",
+                "stops dead in his tracks",
+                "stopping dead in his tracks",
+                "stopped dead in his tracks",
+                "stop dead in one's tracks",
+                "stop dead in their tracks",
+                "stops dead in their tracks",
+                "stopping dead in their tracks",
+                "stopped dead in their tracks"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stop dead in one's tracks"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stop suddenly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He {it}stopped dead in his tracks{/it} when he heard the shout."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to stop suddenly"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stop/freeze in one's tracks",
+            "uuid": "84b72ce5-b0d9-4f75-800b-78dda5a47fb3",
+            "sort": "3018740000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "freeze in her tracks",
+                "freeze in his tracks",
+                "freeze in one's tracks",
+                "freeze in their tracks",
+                "stop in her tracks",
+                "stop in his tracks",
+                "stop in one's tracks",
+                "stop in their tracks",
+                "stop/freeze in one's tracks"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stop/freeze in one's tracks"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stop doing something suddenly or immediately "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He stopped/froze {it}in his tracks{/it}, turned, and came back."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to stop doing something suddenly or immediately"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stop (someone) in his/her tracks",
+            "uuid": "30e3f2c5-e3ed-4919-9e6e-30aa4f2d205f",
+            "sort": "3018752000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "stop (someone) in his/her tracks",
+                "stop in her tracks",
+                "stops in her tracks",
+                "stop someone in his tracks",
+                "stopped in her tracks",
+                "stop in his tracks",
+                "stops in his tracks",
+                "stopped in his tracks",
+                "stop someone in her tracks",
+                "stopping in her tracks",
+                "stopping in his tracks"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stop (someone) in his/her tracks"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to surprise (someone) very much {bc}to cause someone to stop and think "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Hearing the show's poignant ballad, {ldquo}Memory Song,{rdquo} {wi}stopped me in my tracks{/wi}.",
+                                                "aq": {
+                                                    "auth": "Jennifer Ledbury"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to surprise (someone) very much : to cause someone to stop and think"
+        ]
+    },
+    {
+        "meta": {
+            "id": "cover:1",
+            "uuid": "6d5555b7-ef51-403a-85b4-f2f8ded2adf1",
+            "sort": "035669600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "cover",
+                "cover ground",
+                "cover her tracks",
+                "cover his tracks",
+                "cover its tracks",
+                "cover my tracks",
+                "cover one's tracks",
+                "cover our tracks",
+                "cover the ground",
+                "cover their tracks",
+                "cover your tracks",
+                "coverable",
+                "covered",
+                "covered ground",
+                "covered her tracks",
+                "covered his tracks",
+                "covered its tracks",
+                "covered my tracks",
+                "covered our tracks",
+                "covered the ground",
+                "covered their tracks",
+                "covered your tracks",
+                "coverer",
+                "coverers",
+                "covering",
+                "covering ground",
+                "covering her tracks",
+                "covering his tracks",
+                "covering its tracks",
+                "covering my tracks",
+                "covering our tracks",
+                "covering the ground",
+                "covering their tracks",
+                "covering your tracks",
+                "covers",
+                "covers ground",
+                "covers her tracks",
+                "covers his tracks",
+                "covers its tracks",
+                "covers the ground",
+                "covers their tracks"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "cov*er",
+            "prs": [
+                {
+                    "mw": "\u02c8k\u0259-v\u0259r",
+                    "sound": {
+                        "audio": "cover001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "cov*ered"
+            },
+            {
+                "if": "cov*er*ing",
+                "prs": [
+                    {
+                        "mw": "\u02c8k\u0259v-ri\u014b",
+                        "sound": {
+                            "audio": "cover002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8k\u0259-v\u0259-"
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to guard from attack"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to have within the range of one's guns {bc}{sx|command||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The ships were {wi}covering{/wi} approaches to the harbor."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to hold within range of an aimed firearm "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The deputy {wi}covered{/wi} the sheriff who was apprehending the suspect."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "c (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to afford protection or security to {bc}{sx|insure||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "a policy {wi}covering{/wi} the traveler in all kinds of accidents"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to afford protection against or compensation {dx_def}see {dxt|compensation||2}{/dx_def} for "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "a policy {wi}covering{/wi} loss by fire"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "d (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to guard (an opponent) in order to obstruct a play "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "a linebacker assigned to {wi}cover{/wi} the tight end"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be in position to receive a throw to (a base in baseball) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The shortstop was {wi}covering{/wi} second."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "e (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to make provision for (a demand or charge) by means of a reserve or deposit "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Your balance is insufficient to {wi}cover{/wi} the check."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to maintain a check on especially by patrolling "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "motorcycle police {wi}covering{/wi} the highways"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to protect by contrivance or {d_link|expedient|expedient:2}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to hide from sight or knowledge {bc}{sx|conceal||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}cover{/wi} up a scandal"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to lie over {bc}{sx|envelop||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a blanket {wi}covering{/wi} her legs"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to lay or spread something over {bc}{sx|overlay||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}Cover{/wi} the seedbed with straw."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to spread over "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Snow {wi}covered{/wi} the hills."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to appear here and there on the surface of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a region {wi}covered{/wi} with lakes"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to place or set a cover or {a_link|covering} over "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}Cover{/wi} the pot."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to copulate with (a female animal) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a horse {wi}covers{/wi} a mare"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to sit on and incubate (eggs)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to invest with a large or excessive amount of something "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}covered{/wi} herself with glory"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to play a higher-ranking card on (a previously played card)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have sufficient scope to include or take into account "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "an examination {wi}covering{/wi} a full year's work"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "10",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to deal with {bc}{sx|treat||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "material {wi}covered{/wi} in the first chapter"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "11 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have as one's territory or field of activity "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "One sales rep {wi}covers{/wi} the whole state."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to report news about "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "reporters {wi}covering{/wi} the campaign"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "12",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pass over {bc}{sx|traverse||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The hikers {wi}covered{/wi} 12 miles that day."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "13",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to defray the cost of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}cover{/wi} expenses"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "14",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to place one's stake in equal jeopardy within a bet"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "15",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to buy securities or commodities for delivery against (an earlier short sale)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "16",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to record or perform a cover of (a song)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to conceal something illicit, blameworthy, or embarrassing from notice "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used with {it}up{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{wi}cover{/wi} up for a careless coworker"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to act as a substitute or replacement during an absence "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a stand-in {wi}covering{/wi} for an injured star"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "cov*er*able",
+                "prs": [
+                    {
+                        "mw": "\u02c8k\u0259v-r\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "cover003",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8k\u0259-v\u0259-"
+                    }
+                ],
+                "fl": "adjective"
+            },
+            {
+                "ure": "co*ver*er",
+                "prs": [
+                    {
+                        "mw": "\u02c8k\u0259-v\u0259r-\u0259r",
+                        "sound": {
+                            "audio": "cover004",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "cover one's tracks",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to conceal traces in order to elude pursuers or escape detection"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "cover the ground",
+                "vrs": [
+                    {
+                        "vl": "or",
+                        "va": "cover ground"
+                    }
+                ],
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to deal with a subject or assignment in a particular manner "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The new book {it}covers{/it} a lot of {it}ground{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Anglo-French {it}coverir, covrir{/it}, from Latin {it}cooperire{/it}, from {it}co-{/it} + {it}operire{/it} to close, cover"
+            ]
+        ],
+        "date": "13th century{ds|t|1|a|}",
+        "shortdef": [
+            "to guard from attack",
+            "to have within the range of one's guns : command",
+            "to hold within range of an aimed firearm"
+        ]
+    },
+    {
+        "meta": {
+            "id": "fast-track:2",
+            "uuid": "94e97c49-706c-468e-b0b6-d4cf03de0704",
+            "sort": "060505000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "fast track",
+                "fast-track",
+                "fast-tracked",
+                "fast-tracker",
+                "fast-trackers",
+                "fast-tracking",
+                "fast-tracks"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "fast-track"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "fast-tracked"
+            },
+            {
+                "if": "fast-track*ing"
+            },
+            {
+                "if": "fast-tracks"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to speed up the processing, production, or construction of in order to meet a goal"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "fast-track*er",
+                "fl": "noun"
+            }
+        ],
+        "date": "1971",
+        "shortdef": [
+            "to speed up the processing, production, or construction of in order to meet a goal"
+        ]
+    },
+    {
+        "meta": {
+            "id": "fast track",
+            "uuid": "2aada88e-6142-4e9d-bc68-87b6f891aedd",
+            "sort": "060506000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "fast track",
+                "fast tracks"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "fast track"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a course leading to rapid advancement or success"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a course of expedited consideration or approval"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1946{ds||1||}",
+        "shortdef": [
+            "a course leading to rapid advancement or success",
+            "a course of expedited consideration or approval"
+        ]
+    },
+    {
+        "meta": {
+            "id": "half-track",
+            "uuid": "f2b7b752-1695-473d-a1fe-7e2417fec437",
+            "sort": "080024600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "half-track",
+                "half-tracked",
+                "half-tracks"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "half-track",
+            "prs": [
+                {
+                    "mw": "\u02c8haf-\u02cctrak",
+                    "sound": {
+                        "audio": "halftr01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "\u02c8h\u00e4f-"
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an endless chain-track drive system that propels a vehicle supported in front by a pair of wheels"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a motor vehicle propelled by half-tracks"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "specifically",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}one lightly armored for military use"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "half-track",
+                "vrs": [
+                    {
+                        "vl": "or",
+                        "va": "half-tracked",
+                        "prs": [
+                            {
+                                "mw": "\u02c8haf-\u02cctrakt",
+                                "sound": {
+                                    "audio": "halftr02",
+                                    "ref": "c",
+                                    "stat": "1"
+                                }
+                            },
+                            {
+                                "mw": "\u02c8h\u00e4f-"
+                            }
+                        ]
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "date": "1925{ds||1||}",
+        "shortdef": [
+            "an endless chain-track drive system that propels a vehicle supported in front by a pair of wheels",
+            "a motor vehicle propelled by half-tracks; specifically : one lightly armored for military use"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hen track",
+            "uuid": "9bdab14a-e715-4db5-a361-22628aeda89f",
+            "sort": "080141500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hen scratch",
+                "hen scratches",
+                "hen track",
+                "hen tracks"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hen track"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an illegible or scarcely legible mark intended as handwriting "
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "hen scratch"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1878",
+        "shortdef": [
+            "an illegible or scarcely legible mark intended as handwriting \u2014called also hen scratch"
+        ]
+    }
+]

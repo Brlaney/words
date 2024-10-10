@@ -1,0 +1,970 @@
+[
+    {
+        "meta": {
+            "id": "grab:1",
+            "uuid": "420968bf-b3c7-42ef-b8a2-15e660f13de4",
+            "sort": "071974000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "grab",
+                "grabbed",
+                "grabber",
+                "grabbers",
+                "grabbing",
+                "grabs"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "grab",
+            "prs": [
+                {
+                    "mw": "\u02c8grab",
+                    "sound": {
+                        "audio": "grab0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "grabbed"
+            },
+            {
+                "if": "grab*bing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take or seize by or as if by a sudden motion or grasp "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grab{/wi} up an ax"
+                                            },
+                                            {
+                                                "t": "{it}grabbed{/it} the opportunity"
+                                            },
+                                            {
+                                                "t": "{wi}grab{/wi} attention"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take hastily "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grab{/wi} a bite to eat"
+                                            },
+                                            {
+                                                "t": "{wi}grab{/wi} a cab"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to seize the attention of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the technique of {it}grabbing{/it} an audience",
+                                                "aq": {
+                                                    "auth": "Pauline Kael"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to impress favorably and deeply"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to obtain without consideration of what is right or wrong "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grab{/wi} public lands"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a sudden snatch"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "grab*ber",
+                "fl": "noun"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}take{/sc} {sc}seize{/sc} {sc}grasp{/sc} {sc}clutch{/sc} {sc}snatch{/sc} {sc}grab{/sc} mean to get hold of by or as if by catching up with the hand. {sc}take{/sc} is a general term applicable to any manner of getting something into one's possession or control. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}take{/it} some salad from the bowl"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}seize{/sc} implies a sudden and forcible movement in getting hold of something tangible or an apprehending of something fleeting or elusive when intangible. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}seized{/it} the suspect"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}grasp{/sc} stresses a laying hold so as to have firmly in possession. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}grasp{/it} the handle and pull"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}clutch{/sc} suggests avidity or anxiety in seizing or grasping and may imply less success in holding. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}clutching{/it} her purse"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}snatch{/sc} suggests more suddenness or quickness but less force than {sc}seize{/sc}. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}snatched{/it} a doughnut and ran"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}grab{/sc} implies more roughness or rudeness than {sc}snatch{/sc}. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}grabbed{/it} roughly by the arm"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "obsolete Dutch or Low German {it}grabben{/it}"
+            ]
+        ],
+        "date": "circa 1581{ds|t|1||}",
+        "shortdef": [
+            "to take or seize by or as if by a sudden motion or grasp",
+            "to take hastily",
+            "to seize the attention of"
+        ]
+    },
+    {
+        "meta": {
+            "id": "grab:2",
+            "uuid": "5306af9f-0c01-4162-86b4-8647a0d97f93",
+            "sort": "071975000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "grab",
+                "grabs",
+                "up for grabs"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "grab"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a sudden snatch"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an unlawful or unethical seizure "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}grab{/wi} for power"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something taken, seized, or grasped suddenly"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sen",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "chiefly British"
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a device for clutching an object"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|clamshell||2a}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "up for grabs",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}available for anyone to take, win, or settle "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "A lot of voters are still {it}up for grabs{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|grab:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "1777{ds||1|c|}",
+        "shortdef": [
+            "a sudden snatch",
+            "an unlawful or unethical seizure",
+            "something taken, seized, or grasped suddenly"
+        ]
+    },
+    {
+        "meta": {
+            "id": "grab:3",
+            "uuid": "0eec3ea0-be69-4975-bd0e-73a9e5064af2",
+            "sort": "071976000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "grab"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "grab"
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}intended to be taken, seized, or grasped suddenly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}grab{/wi} rail"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}taken at random "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grab{/wi} samples of rocks"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|grab:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "1608{ds||1||}",
+        "shortdef": [
+            "intended to be taken, seized, or grasped suddenly",
+            "taken at random"
+        ]
+    },
+    {
+        "meta": {
+            "id": "grab bag",
+            "uuid": "9ff53968-cd6e-47a1-ace8-5e3fcd816cbe",
+            "sort": "071977000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "grab bag",
+                "grab bags"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "grab bag"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a receptacle (such as a bag) containing small articles which are to be drawn (as at a party or fair) without being seen"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a miscellaneous collection {bc}{sx|potpourri||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1855{ds||1||}",
+        "shortdef": [
+            "a receptacle (such as a bag) containing small articles which are to be drawn (as at a party or fair) without being seen",
+            "a miscellaneous collection : potpourri"
+        ]
+    },
+    {
+        "meta": {
+            "id": "grab a seat",
+            "uuid": "029449b4-669c-4a8c-b6a3-73625cf20a34",
+            "sort": "3007720000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "grab a seat"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "grab a seat"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to sit down "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}Grab a seat{/it}. I'll be with you in a minute."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to sit down"
+        ]
+    },
+    {
+        "meta": {
+            "id": "grab at/for",
+            "uuid": "fda9b282-1a9b-4034-b2a8-88f15cfabaf3",
+            "sort": "3007721000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "grab at",
+                "grab at/for",
+                "grab for",
+                "grabbed at/for",
+                "grabbing at/for",
+                "grabs at/for"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "grab at/for"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "grabbed at/for"
+            },
+            {
+                "if": "grab*bing at/for"
+            },
+            {
+                "if": "grabs at/for"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to quickly stretch out one's hand and try to touch or hold (something or someone) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "People were {it}grabbing at{/it} her as she walked through the crowd."
+                                            },
+                                            {
+                                                "t": "He {it}grabbed for{/it} the ball and missed."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used figuratively "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "We {it}grabbed at{/it} the chance to go."
+                                                        },
+                                                        {
+                                                            "t": "political parties {it}grabbing for{/it} power"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to quickly stretch out one's hand and try to touch or hold (something or someone) \u2014often used figuratively"
+        ]
+    },
+    {
+        "meta": {
+            "id": "grab hold of",
+            "uuid": "6d388709-3f39-463f-8595-51757da74cea",
+            "sort": "3007724000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "grab hold of"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "grab hold of"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to quickly take and hold (someone or something) with the hand or arms "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She {it}grabbed hold of{/it} his arm."
+                                            },
+                                            {
+                                                "t": "He {it}grabbed hold of{/it} a tree branch and pulled himself out of the water."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to quickly take and hold (someone or something) with the hand or arms"
+        ]
+    },
+    {
+        "meta": {
+            "id": "grab (the) headlines",
+            "uuid": "dc6a276a-72af-4aa4-9f34-b4be76016700",
+            "sort": "3007725000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "grab (the) headlines",
+                "grab headlines",
+                "grab the headlines"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "grab (the) headlines"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be given much attention in the news "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "A new cancer treatment {it}grabbed (the) headlines{/it} this week."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to be given much attention in the news"
+        ]
+    },
+    {
+        "meta": {
+            "id": "cash grab",
+            "uuid": "5bedec4a-60f5-485b-91f5-d6910e435ea4",
+            "sort": "031232500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "cash grab",
+                "cash grabs"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "cash grab"
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "cash grabs"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the greedy pursuit of an opportunity for making money especially when done without regard for ethics, concerns, or consequences {bc}{sx|money grab||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Some Republican leaders have also said any attempt to undo the state's flat tax amounts to a {wi}cash grab{/wi}.",
+                                                "aq": {
+                                                    "auth": "Steve LeBlanc"
+                                                }
+                                            },
+                                            {
+                                                "t": "\u2026 money generated by single-use plastic going onto the market is being swallowed up in a {wi}cash grab{/wi} \u2026 with little or no accountability or strategy underpinning it.",
+                                                "aq": {
+                                                    "auth": "Adam Leyland"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}something (such as a product or service) used for a cash grab "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "HBO announced a new Harry Potter TV series, and it is an obvious {wi}cash grab{/wi} that is insulting to true fans.",
+                                                    "aq": {
+                                                        "auth": "Victor Lana"
+                                                    }
+                                                },
+                                                {
+                                                    "t": "But is it good enough to satisfy discerning taco-loving hipsters or is it simply a shameless, cultural appropriating {wi}cash grab{/wi}?",
+                                                    "aq": {
+                                                        "auth": "Joey Morona"
+                                                    }
+                                                },
+                                                {
+                                                    "t": "It might be more feasible to just give up on college football being anything but a soulless {wi}cash grab{/wi} \u2026",
+                                                    "aq": {
+                                                        "auth": "David Schraub"
+                                                    }
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1922",
+        "shortdef": [
+            "the greedy pursuit of an opportunity for making money especially when done without regard for ethics, concerns, or consequences : money grab; also : something (such as a product or service) used for a cash grab"
+        ]
+    },
+    {
+        "meta": {
+            "id": "land grab",
+            "uuid": "c0910fb2-4f94-4b36-a584-cf119f52c3a2",
+            "sort": "120031300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "land grab",
+                "land-grabber",
+                "land-grabbers",
+                "landgrab",
+                "landgrabs"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "land grab",
+            "prs": [
+                {
+                    "mw": "\u02c8lan(d)-\u02ccgrab",
+                    "sound": {
+                        "audio": "landgr01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "vrs": [
+            {
+                "vl": "or less commonly",
+                "va": "land*grab"
+            }
+        ],
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a usually swift acquisition of property (such as land or patent rights) often by fraud or force"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "land-grab*ber",
+                "prs": [
+                    {
+                        "mw": "\u02c8lan(d)-\u02ccgra-b\u0259r",
+                        "sound": {
+                            "audio": "landgr02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "date": "1860",
+        "shortdef": [
+            "a usually swift acquisition of property (such as land or patent rights) often by fraud or force"
+        ]
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "meta": {
+            "id": "burdened",
+            "uuid": "9d1c7355-046f-4a6d-a7dd-7aedd6a5949c",
+            "sort": "020491250",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "burdened"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "bur*dened",
+            "prs": [
+                {
+                    "mw": "\u02c8b\u0259r-d\u1d4and",
+                    "sound": {
+                        "audio": "burdened_1",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}carrying a {a_link|burden} {bc}heavily laden or encumbered "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}burdened{/wi} with/by debt/guilt/responsibilities"
+                                            },
+                                            {
+                                                "t": "\u2026 saved a {wi}burdened{/wi} shopper the trouble of returning her grocery cart \u2026",
+                                                "aq": {
+                                                    "auth": "Elizabeth Kadetsky"
+                                                }
+                                            },
+                                            {
+                                                "t": "With {wi}burdened{/wi} heart and aching eyes I looked over the walls around me.",
+                                                "aq": {
+                                                    "auth": "Wilkie Collins"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1697",
+        "shortdef": [
+            "carrying a burden : heavily laden or encumbered"
+        ]
+    },
+    {
+        "meta": {
+            "id": "burden:2",
+            "uuid": "d5845e89-b935-4889-8864-c84fbd811951",
+            "sort": "020491100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "burden",
+                "burdened",
+                "burdening",
+                "burdens"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "burden"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "bur*dened"
+            },
+            {
+                "if": "bur*den*ing",
+                "prs": [
+                    {
+                        "mw": "\u02c8b\u0259rd-ni\u014b",
+                        "sound": {
+                            "audio": "burden02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8b\u0259r-d\u1d4an-i\u014b"
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|load||}, {sx|oppress||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I will not {wi}burden{/wi} you with a lengthy account."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|burden:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "1541",
+        "shortdef": [
+            "load, oppress"
+        ]
+    }
+]

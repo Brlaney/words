@@ -1,0 +1,84 @@
+[
+    {
+        "meta": {
+            "id": "barely",
+            "uuid": "53d04657-5962-4a2a-88ba-98bdcd25b579",
+            "sort": "020065800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "barely"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "bare*ly",
+            "prs": [
+                {
+                    "mw": "\u02c8ber-l\u0113",
+                    "sound": {
+                        "audio": "barel01ld",
+                        "ref": "ld",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adverb",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in a meager manner {bc}{sx|plainly||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}barely{/wi} furnished room"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|scarcely||}, {sx|hardly||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}barely{/wi} enough money for lunch"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1513{ds||2||}",
+        "shortdef": [
+            "in a meager manner : plainly",
+            "scarcely, hardly"
+        ]
+    }
+]

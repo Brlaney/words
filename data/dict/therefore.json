@@ -1,0 +1,135 @@
+[
+    {
+        "meta": {
+            "id": "therefore",
+            "uuid": "d0a2595a-249f-4afb-82fe-5f3e4be5b581",
+            "sort": "200152800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "therefore"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "there*fore",
+            "prs": [
+                {
+                    "mw": "\u02c8t\u035fher-\u02ccf\u022fr",
+                    "sound": {
+                        "audio": "theref02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adverb",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}for that reason {bc}{sx|consequently||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}because of that"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}on that {d_link|ground|ground:1}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to that end"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "quotes": [
+            {
+                "t": "A good approach to finding out what makes us humans so darn special would {qword}therefore{/qword} be to get complete maps of the human and chimp genomes, and compare the two.",
+                "aq": {
+                    "auth": "John Derbyshire",
+                    "source": "{it}National Review{/it}",
+                    "aqdate": "7 Nov. 2005"
+                }
+            },
+            {
+                "t": "Most Irish jump racing\u2014and {qword}therefore{/qword} most of the racing discussed in the book\u2014is the laid-back pastime of enthusiasts \u2026",
+                "aq": {
+                    "auth": "Max Watman",
+                    "source": "{it}New York Times Book Review{/it}",
+                    "aqdate": "9 Apr. 2006"
+                }
+            },
+            {
+                "t": "Characteristically, however, Darwinists, like primitive economists, assume that what is humane\u2014I use the word here, unexceptionably, as I believe, to mean whatever arises from the desire to mitigate competition and to put aside self-interest\u2014is unnatural, and {qword}therefore{/qword} wrong.",
+                "aq": {
+                    "auth": "Marilynne Robinson",
+                    "source": "{it}The Death of Adam{/it}",
+                    "aqdate": "(1998) 2005"
+                }
+            },
+            {
+                "t": "I was once sitting behind a newspaper in the Swansea common room while two engineers, i.e. lecturers in engineering, {qword}therefore{/qword} by common consent philistines, chatted together.",
+                "aq": {
+                    "auth": "Kingsley Amis",
+                    "source": "{it}Memoirs{/it}",
+                    "aqdate": "1991"
+                }
+            },
+            {
+                "t": "To understand what has happened to the earth's atmosphere\u2014and, {qword}therefore{/qword}, how our climate might change in the future\u2014some ice-core scientists in the Arctic are training their eyes directly downward.",
+                "aq": {
+                    "auth": "Bryan Walsh",
+                    "source": "{it}Time{/it}",
+                    "aqdate": "18 Aug. 2008"
+                }
+            }
+        ],
+        "date": "14th century{ds||1|a|}",
+        "shortdef": [
+            "for that reason : consequently",
+            "because of that",
+            "on that ground"
+        ]
+    }
+]

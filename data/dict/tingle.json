@@ -1,0 +1,249 @@
+[
+    {
+        "meta": {
+            "id": "tingle:1",
+            "uuid": "15b0864c-a0d8-4d51-bb44-8d05b93b4f6b",
+            "sort": "200232700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "tingle",
+                "tingled",
+                "tingles",
+                "tingling",
+                "tinglingly",
+                "tingly"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "tin*gle",
+            "prs": [
+                {
+                    "mw": "\u02c8ti\u014b-g\u0259l",
+                    "sound": {
+                        "audio": "tingle01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "tin*gled"
+            },
+            {
+                "if": "tin*gling",
+                "prs": [
+                    {
+                        "mw": "\u02c8ti\u014b-g(\u0259-)li\u014b",
+                        "sound": {
+                            "audio": "tingle02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to feel a ringing, stinging, prickling, or thrilling sensation"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause such a sensation"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|tinkle||1}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "tin*gling*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8ti\u014b-g(\u0259-)li\u014b-l\u0113",
+                        "sound": {
+                            "audio": "tingle03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            },
+            {
+                "ure": "tin*gly",
+                "prs": [
+                    {
+                        "mw": "\u02c8ti\u014b-g(\u0259-)l\u0113",
+                        "sound": {
+                            "audio": "tingle04",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, alteration of {it}tinklen{/it} to tinkle, tingle"
+            ]
+        ],
+        "date": "14th century{ds||1|a|}",
+        "shortdef": [
+            "to feel a ringing, stinging, prickling, or thrilling sensation",
+            "to cause such a sensation",
+            "tinkle"
+        ]
+    },
+    {
+        "meta": {
+            "id": "tingle:2",
+            "uuid": "29a387f3-e5aa-4e69-bf6e-b48a80c0926a",
+            "sort": "200232750",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "tingle",
+                "tingles"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "tingle"
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "tin*gles"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a {d_link|tingling|tingle:1} sensation {bc}a usually slight ringing, stinging, prickling, or thrilling sensation "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She felt a {wi}tingle{/wi} of excitement/anticipation."
+                                            },
+                                            {
+                                                "t": "It offers the palate-pleasing {wi}tingle{/wi} of a bubbly soda with a much-simplified ingredient list of often nothing more than water and carbonation.",
+                                                "aq": {
+                                                    "auth": "Chelsey Dulaney"
+                                                }
+                                            },
+                                            {
+                                                "t": "Soon my thinking cleared up, but the surges renewed\u2014pain, and a frisson of electricity around the eye, into the cheek, a vague {wi}tingle{/wi}.",
+                                                "aq": {
+                                                    "auth": "Sallie Tisdale"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1879",
+        "shortdef": [
+            "a tingling sensation : a usually slight ringing, stinging, prickling, or thrilling sensation"
+        ]
+    },
+    {
+        "meta": {
+            "id": "tingle with excitement",
+            "uuid": "756e650b-e87d-48ea-8920-21a1a7d45adf",
+            "sort": "3021013000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "tingle with excitement"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "tingle with excitement"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be very excited"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to be very excited"
+        ]
+    }
+]

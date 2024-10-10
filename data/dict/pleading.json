@@ -1,0 +1,577 @@
+[
+    {
+        "meta": {
+            "id": "pleading",
+            "uuid": "05837160-b0c1-4ae8-ba33-1ff7480cd7b9",
+            "sort": "165063000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pleading",
+                "pleadings"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "plead*ing",
+            "prs": [
+                {
+                    "mw": "\u02c8pl\u0113-di\u014b",
+                    "sound": {
+                        "audio": "pleading_1",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}advocacy of a cause in a court of law"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}one of the formal usually written allegations and counter allegations made alternately by the parties in a legal action or proceeding"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the action or process performed by the parties in presenting such formal allegations until a single point at issue is produced"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the introduction of one of these allegations and especially the first one"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the body of rules according to which these allegations are framed"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act or an instance of making a plea"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a sincere entreaty"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}plaiding, pledynge{/it} \"arguing, contention, legal dispute,\" from {it}plaiden, pleden{/it} \"to contend legally, argue in court, {et_link|plead|plead}\" + {it}-ing, -ynge{/it} {et_link|-ing:1|-ing:1}"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "advocacy of a cause in a court of law",
+            "one of the formal usually written allegations and counter allegations made alternately by the parties in a legal action or proceeding",
+            "the action or process performed by the parties in presenting such formal allegations until a single point at issue is produced"
+        ]
+    },
+    {
+        "meta": {
+            "id": "plead",
+            "uuid": "18a5db78-8311-42c8-9bc8-67392b22cb5c",
+            "sort": "165062000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "plead",
+                "pleadable",
+                "pleaded",
+                "pleader",
+                "pleaders",
+                "pleading",
+                "pleadingly",
+                "pleads",
+                "pled"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "plead",
+            "prs": [
+                {
+                    "mw": "\u02c8pl\u0113d",
+                    "sound": {
+                        "audio": "plead001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "plead*ed",
+                "prs": [
+                    {
+                        "mw": "\u02c8pl\u0113-d\u0259d",
+                        "sound": {
+                            "audio": "plead002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "il": "or",
+                "if": "pled"
+            },
+            {
+                "il": "also",
+                "if": "plead",
+                "prs": [
+                    {
+                        "mw": "\u02c8pled",
+                        "sound": {
+                            "audio": "plead003",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "if": "plead*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to argue a case or cause in a court of law"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make an allegation in an action or other legal proceeding"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to answer the previous {a_link|pleading} of the other party by denying facts therein stated or by alleging new facts"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to conduct {a_link|pleadings}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a plea of a specified nature "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}plead{/wi} not guilty"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to argue for or against a claim"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to entreat or appeal earnestly"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to maintain (a case, a cause, etc.) in a court of law or other tribunal"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to allege in or by way of a legal plea"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to offer as a plea usually in defense, apology, or excuse"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "plead*able",
+                "prs": [
+                    {
+                        "mw": "\u02c8pl\u0113-d\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "plead004",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            },
+            {
+                "ure": "plead*er",
+                "fl": "noun"
+            },
+            {
+                "ure": "plead*ing*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8pl\u0113-di\u014b-l\u0113",
+                        "sound": {
+                            "audio": "plead005",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}plaiden, pleden{/it} \"to contend legally, argue in court, bring suit, answer a charge,\" borrowed from Anglo-French {it}plaider, pleider, pleder{/it} \"to maintain (a plea), bring an action against\" (also continental Old French), verbal derivative of {it}plaid, pl\u00e9{/it} \"action at law, {et_link|plea|plea}.\""
+            ],
+            [
+                "et_snote",
+                [
+                    [
+                        "t",
+                        "Middle English also had with the same senses {it}pleten,{/it} from Anglo-French {it}pleiter, pleter,{/it} formed from the variant noun {it}pleit{/it} with final {it}t{/it} (presumably evident when a vowel-initial word followed in Old French), which continued into early Modern English as {it}plete, pleat.{/it}"
+                    ]
+                ]
+            ]
+        ],
+        "date": "13th century{ds|i|1||}",
+        "shortdef": [
+            "to argue a case or cause in a court of law",
+            "to make an allegation in an action or other legal proceeding; especially : to answer the previous pleading of the other party by denying facts therein stated or by alleging new facts",
+            "to conduct pleadings"
+        ]
+    },
+    {
+        "meta": {
+            "id": "special pleading",
+            "uuid": "c9b7bdfc-504b-4abc-a201-1cff2d1e08e5",
+            "sort": "194641900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "special pleading",
+                "special pleadings"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "special pleading"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the allegation of special or new matter to offset the effect of matter pleaded by the opposite side and admitted, as distinguished from a direct denial of the matter pleaded"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}misleading argument that presents one point or phase as if it covered the entire question at issue"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1684{ds||1||}",
+        "shortdef": [
+            "the allegation of special or new matter to offset the effect of matter pleaded by the opposite side and admitted, as distinguished from a direct denial of the matter pleaded",
+            "misleading argument that presents one point or phase as if it covered the entire question at issue"
+        ]
+    },
+    {
+        "meta": {
+            "id": "plead the Fifth",
+            "uuid": "3558e00d-4188-4107-991a-999a8d2577b7",
+            "sort": "165063500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "plead the Fifth",
+                "plead the Fifth Amendment",
+                "plead the fifth",
+                "pleading the Fifth",
+                "pleading the Fifth Amendment",
+                "pleading the fifth",
+                "pleads the Fifth",
+                "pleads the Fifth Amendment",
+                "pleads the fifth",
+                "pled the Fifth",
+                "pled the Fifth Amendment",
+                "pled the fifth"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "plead the Fifth"
+        },
+        "vrs": [
+            {
+                "vl": "or less commonly",
+                "va": "plead the Fifth Amendment"
+            },
+            {
+                "vl": "or",
+                "va": "plead the fifth"
+            }
+        ],
+        "fl": "idiomatic phrase",
+        "def": [
+            {
+                "sls": [
+                    "chiefly US"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to refuse to testify against oneself in a court of law in accordance with the Fifth Amendment of the U.S. Constitution {bc}{sx|take the Fifth||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 appeared \u2026 for a deposition, but {wi}pled the Fifth{/wi} dozens of times.",
+                                                "aq": {
+                                                    "auth": "Deepa Shivaram"
+                                                }
+                                            },
+                                            {
+                                                "t": "\u2026 wanted to {wi}plead the Fifth Amendment{/wi} because he feared he'd incriminate himself.",
+                                                "aq": {
+                                                    "auth": "Noah Goldberg"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used figuratively "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "When asked if he felt appreciated by the Patriots, [Tom] Brady famously {wi}pleaded the fifth{/wi}.",
+                                                            "aq": {
+                                                                "auth": "Ben Volin"
+                                                            }
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1951",
+        "shortdef": [
+            "to refuse to testify against oneself in a court of law in accordance with the Fifth Amendment of the U.S. Constitution : take the Fifth \u2014often used figuratively"
+        ]
+    }
+]

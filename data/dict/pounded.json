@@ -1,0 +1,362 @@
+[
+    {
+        "meta": {
+            "id": "pound:3",
+            "uuid": "8421a859-4381-4224-97d9-066967ed7dac",
+            "sort": "166458000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pound",
+                "pounded",
+                "pounding",
+                "pounds"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "pound"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "pound*ed"
+            },
+            {
+                "if": "pound*ing"
+            },
+            {
+                "if": "pounds"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to reduce to powder or pulp by beating"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to strike heavily or repeatedly"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to produce with or as if with repeated vigorous strokes "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used with {it}out{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{wi}pound{/wi} out a story on the typewriter"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to inculcate by insistent repetition {bc}{sx|drive||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "day after day the facts were {wi}pounded{/wi} home to them",
+                                                "aq": {
+                                                    "auth": "Ivy B. Priest"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move, throw, or carry forcefully and aggressively "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}pound{/wi} the ball down the field"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move along heavily or persistently "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}pounded{/wi} the pavement looking for work"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to drink or consume rapidly {bc}{sx|slug||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}pound{/wi} down some beers"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to strike heavy repeated blows"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|pulsate||}, {sx|throb||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "my heart was {wi}pounding{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move with or make a heavy repetitive sound"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to work hard and continuously "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used with {it}away{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "alteration of Middle English {it}pounen{/it}, from Old English {it}p\u016bnian{/it}"
+            ]
+        ],
+        "date": "before 12th century{ds|t|1||}",
+        "shortdef": [
+            "to reduce to powder or pulp by beating",
+            "to strike heavily or repeatedly",
+            "to produce with or as if with repeated vigorous strokes \u2014usually used with out"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pound out",
+            "uuid": "a91500b0-7998-4ff9-bcd9-3f467198f6ff",
+            "sort": "3015160000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "pound out",
+                "pounded out",
+                "pounding out",
+                "pounds out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pound out"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "pound*ed out"
+            },
+            {
+                "if": "pound*ing out"
+            },
+            {
+                "if": "pounds out"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make or produce (something) quickly especially by pounding (such as on a keyboard) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Every week he {it}pounds out{/it} another column for the newspaper."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to play (a song, melody, etc.) loudly on a musical instrument especially by pounding (such as on a piano) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The band's lead singer was {it}pounding out{/it} a tune on the piano."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to make or produce (something) quickly especially by pounding (such as on a keyboard)",
+            "to play (a song, melody, etc.) loudly on a musical instrument especially by pounding (such as on a piano)"
+        ]
+    }
+]

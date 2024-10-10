@@ -1,0 +1,174 @@
+[
+    {
+        "meta": {
+            "id": "clot:2",
+            "uuid": "610b8b3b-de6c-48e1-8b5e-db3e8ec6b90d",
+            "sort": "033784000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "clot",
+                "clots",
+                "clotted",
+                "clotting"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "clot"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "clot*ted"
+            },
+            {
+                "if": "clot*ting"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become a clot {bc}form {a_link|clots}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to undergo a sequence of complex chemical and physical reactions that results in conversion of fluid blood into a coagulated mass {bc}{sx|coagulate||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to form into or as if into a clot"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fill with clots"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|clog||} "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{it}clotted{/it} streets"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "15th century{ds|i|1||}",
+        "shortdef": [
+            "to become a clot : form clots",
+            "to undergo a sequence of complex chemical and physical reactions that results in conversion of fluid blood into a coagulated mass : coagulate",
+            "to cause to form into or as if into a clot"
+        ]
+    },
+    {
+        "meta": {
+            "id": "clotting factor",
+            "uuid": "99215051-27ae-4621-ad8b-b6a73e53c698",
+            "sort": "033802000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "clotting factor",
+                "clotting factors"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "clotting factor"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of several plasma components (such as fibrinogen, prothrombin, thromboplastin, and factor VIII) that are involved in the clotting of blood "
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "coagulation factor"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1916",
+        "shortdef": [
+            "any of several plasma components (such as fibrinogen, prothrombin, thromboplastin, and factor VIII) that are involved in the clotting of blood \u2014called also coagulation factor"
+        ]
+    }
+]

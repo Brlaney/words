@@ -1,0 +1,714 @@
+[
+    {
+        "meta": {
+            "id": "hop:1",
+            "uuid": "f9be740e-c9d9-40f9-aa9b-316e40dce459",
+            "sort": "080255700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hop",
+                "hopped",
+                "hopping",
+                "hops"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "hop",
+            "prs": [
+                {
+                    "mw": "\u02c8h\u00e4p",
+                    "sound": {
+                        "audio": "hop00001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "hopped"
+            },
+            {
+                "if": "hop*ping"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move by a quick springy leap or in a series of leaps"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to move as if by hopping "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}hop{/wi} in the car"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a quick trip especially by air"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to set about doing something "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used in the phrase {it}hop to it{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to jump over "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}hop{/wi} a fence"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to ride on "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}hopped{/it} a flight"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to ride surreptitiously and without authorization "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}hop{/wi} a freight train"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}hoppen{/it}, from Old English {it}hoppian{/it}"
+            ]
+        ],
+        "date": "before 12th century{ds|i|1||}",
+        "shortdef": [
+            "to move by a quick springy leap or in a series of leaps; also : to move as if by hopping",
+            "to make a quick trip especially by air",
+            "to set about doing something \u2014usually used in the phrase hop to it"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hop:2",
+            "uuid": "61dd0b87-891a-48b5-bac9-df4fa41755fc",
+            "sort": "080255800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hop",
+                "hops"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "hop"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a short brisk leap especially on one leg"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|bounce||}, {sx|rebound||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "shortstop scooped it up on the first {wi}hop{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|dance||3}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a flight in an aircraft"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a short trip"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1508{ds||1|a|}",
+        "shortdef": [
+            "a short brisk leap especially on one leg",
+            "bounce, rebound",
+            "dance"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hop:3",
+            "uuid": "bcbad42c-7797-4913-8f41-fa4aeb70166a",
+            "sort": "080255900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hop",
+                "hops"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "hop"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "ins": [
+                                    {
+                                        "if": "hops",
+                                        "spl": "plural"
+                                    }
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the ripe dried female cone-like flower clusters of a north-temperate zone twining plant ({it}Humulus lupulus{/it}) of the hemp family used especially to impart a bitter flavor to beer"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "ins": [
+                                    {
+                                        "il": "plural",
+                                        "if": "hops"
+                                    }
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the perennial climbing {d_link|bine|bine} from which hops are obtained that have 3- to 5-lobed leaves and inconspicuous flowers of which the {d_link|pistillate|pistillate} ones are in scaly cone-like clusters"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "art": {
+            "artid": "hop",
+            "capt": "{sup}3{/sup}hop 2"
+        },
+        "et": [
+            [
+                "text",
+                "Middle English {it}hoppe{/it}, from Middle Dutch; akin to Old High German {it}hopfo{/it} hop"
+            ]
+        ],
+        "date": "15th century{ds||1||}",
+        "shortdef": [
+            "the ripe dried female cone-like flower clusters of a north-temperate zone twining plant (Humulus lupulus) of the hemp family used especially to impart a bitter flavor to beer",
+            "the perennial climbing bine from which hops are obtained that have 3- to 5-lobed leaves and inconspicuous flowers of which the pistillate ones are in scaly cone-like clusters"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hop:4",
+            "uuid": "57abdc37-1653-4b9d-af9a-36229e6fa3a6",
+            "sort": "080256000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hop",
+                "hopped",
+                "hopping",
+                "hops"
+            ],
+            "offensive": false
+        },
+        "hom": 4,
+        "hwi": {
+            "hw": "hop"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "hopped"
+            },
+            {
+                "if": "hop*ping"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to flavor with hops"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1572",
+        "shortdef": [
+            "to flavor with hops"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hop hornbeam",
+            "uuid": "9bca16d9-6dcc-4fb0-90d0-5085ac737078",
+            "sort": "080257100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hop hornbeam",
+                "hop hornbeams"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hop hornbeam"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a chiefly eastern North American tree ({it}Ostrya virginiana{/it}) of the birch family with fruiting clusters resembling hops"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1785",
+        "shortdef": [
+            "a chiefly eastern North American tree (Ostrya virginiana) of the birch family with fruiting clusters resembling hops"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hop-o'-my-thumb",
+            "uuid": "d1f9fc4f-3a73-482f-bc9d-351af6a459b4",
+            "sort": "080257400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hop-o'-my-thumb",
+                "hop-o'-my-thumbs"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hop-o'-my-thumb",
+            "prs": [
+                {
+                    "mw": "\u02cch\u00e4-p\u0259-m\u0259-\u02c8th\u0259m",
+                    "sound": {
+                        "audio": "hopomy01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a very small person"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "earlier {it}hop on my thumb{/it}, imperative issued to one supposedly small enough to be held in the hand"
+            ]
+        ],
+        "date": "1530",
+        "shortdef": [
+            "a very small person"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hop, skip, and jump",
+            "uuid": "170e04fc-72dd-43d4-9f9e-70b8dbd1d8b7",
+            "sort": "080258500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hop, skip, and jump"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hop, skip, and jump"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a short distance"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1760",
+        "shortdef": [
+            "a short distance"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hop, step, and jump",
+            "uuid": "ebc5af04-4ca4-42a8-b4dc-d359c31f28f5",
+            "sort": "080258600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hop, step, and jump",
+                "hop, step, and jumps"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hop, step, and jump"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|triple jump||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1858",
+        "shortdef": [
+            "triple jump"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hop it",
+            "uuid": "829b6b6b-b67d-4490-ae59-4467bf867740",
+            "sort": "3008886000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "hop it"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hop it"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "British",
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to go away quickly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She told her brother to {it}hop it{/it} and leave her alone."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to go away quickly"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hop to it",
+            "uuid": "80c7ec18-c123-4402-b85e-457069b94e36",
+            "sort": "3008889000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "hop to it"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hop to it"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to act or move quickly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The car was ready to leave and he was told to {it}hop to it{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to act or move quickly"
+        ]
+    }
+]

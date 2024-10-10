@@ -1,0 +1,157 @@
+[
+    {
+        "meta": {
+            "id": "mutter",
+            "uuid": "8934e788-dd7e-423b-888c-2bea1000004c",
+            "sort": "134976000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "mutter",
+                "muttered",
+                "mutterer",
+                "mutterers",
+                "muttering",
+                "mutters"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "mut*ter",
+            "prs": [
+                {
+                    "mw": "\u02c8m\u0259-t\u0259r",
+                    "sound": {
+                        "audio": "mutter01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "mut*tered"
+            },
+            {
+                "if": "mut*ter*ing"
+            },
+            {
+                "if": "mut*ters"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to utter sounds or words indistinctly or with a low voice and with the lips partly closed "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 he gestured and {wi}muttered{/wi} furiously in his lawyer's ear.",
+                                                "aq": {
+                                                    "auth": "Tana French"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to murmur complainingly or angrily {bc}{sx|grumble||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Some employees {wi}muttered{/wi} about the changes in the pension plan."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to utter especially in a low or imperfectly articulated manner "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}muttered{/wi} an apology"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "mutter",
+                "fl": "noun"
+            },
+            {
+                "ure": "mut*ter*er",
+                "prs": [
+                    {
+                        "mw": "\u02c8m\u0259-t\u0259r-\u0259r",
+                        "sound": {
+                            "audio": "mutter02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}muteren{/it}, of imitative origin"
+            ]
+        ],
+        "date": "14th century{ds|i|1||}",
+        "shortdef": [
+            "to utter sounds or words indistinctly or with a low voice and with the lips partly closed",
+            "to murmur complainingly or angrily : grumble",
+            "to utter especially in a low or imperfectly articulated manner"
+        ]
+    }
+]

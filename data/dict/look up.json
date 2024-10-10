@@ -1,0 +1,273 @@
+[
+    {
+        "meta": {
+            "id": "lookup",
+            "uuid": "2707aec6-bae9-4b3c-8821-84c0574874b8",
+            "sort": "120247300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "look-up",
+                "look-ups",
+                "lookup",
+                "lookups"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "look*up",
+            "prs": [
+                {
+                    "mw": "\u02c8lu\u0307k-\u02cc\u0259p",
+                    "sound": {
+                        "audio": "lookup01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "vrs": [
+            {
+                "vl": "or",
+                "va": "look-up"
+            }
+        ],
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an act, process, or instance of {a_link|looking} something up (as in a reference work or listing) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "dictionary {wi}lookups{/wi}"
+                                            },
+                                            {
+                                                "t": "a price {wi}look-up{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1948",
+        "shortdef": [
+            "an act, process, or instance of looking something up (as in a reference work or listing)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "look up",
+            "uuid": "4ff06694-529b-4f45-bf25-7d78ce440e41",
+            "sort": "120247400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "look up",
+                "looked up",
+                "looking up",
+                "looks up"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "look up"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "looked up"
+            },
+            {
+                "if": "look*ing up"
+            },
+            {
+                "if": "looks up"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cheer up "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}look up{/it}\u2014things are not all bad"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to improve in prospects or conditions "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "business is {it}looking up{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to search for in or as if in a reference work "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}look up{/it} an address"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to seek out especially for a brief visit "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}look{/it} me {it}up{/it} when you're here"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "14th century{ds|i|1||}",
+        "shortdef": [
+            "to cheer up",
+            "to improve in prospects or conditions",
+            "to search for in or as if in a reference work"
+        ]
+    },
+    {
+        "meta": {
+            "id": "look up to",
+            "uuid": "10ea07f0-07b1-4649-89a3-b1681c8d0210",
+            "sort": "3011447000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "look up to",
+                "looked up to",
+                "looking up to",
+                "looks up to"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "look up to"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "looked up to"
+            },
+            {
+                "if": "look*ing up to"
+            },
+            {
+                "if": "looks up to"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to respect and admire (someone) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I've always {it}looked up to{/it} my older brother."
+                                            },
+                                            {
+                                                "t": "The kids really {it}look up to{/it} their coach."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to respect and admire (someone)"
+        ]
+    }
+]

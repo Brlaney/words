@@ -1,0 +1,833 @@
+[
+    {
+        "meta": {
+            "id": "pale:1",
+            "uuid": "51ad2b0c-ae64-4025-8ac0-474e1cf0cdbf",
+            "sort": "160018700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pale",
+                "palely",
+                "paleness",
+                "palenesses",
+                "paler",
+                "palest",
+                "palish"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "pale",
+            "prs": [
+                {
+                    "mw": "\u02c8p\u0101l",
+                    "sound": {
+                        "audio": "pale0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "ins": [
+            {
+                "if": "pal*er"
+            },
+            {
+                "if": "pal*est"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}deficient in color or intensity of color {bc}{sx|pallid||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}pale{/wi} complexion"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}having color of reduced saturation {dx_def}see {dxt|saturation||4a}{/dx_def} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "a {wi}pale{/wi} pink"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}light in color especially relative to others of its kind "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}pale{/wi} beers"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}not bright or brilliant {bc}{sx|dim||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}pale{/wi} sun shining through the fog"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|feeble||}, {sx|faint||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}pale{/wi} imitation"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "pale*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8p\u0101l-l\u0113",
+                        "sound": {
+                            "audio": "pale0002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            },
+            {
+                "ure": "pale*ness",
+                "prs": [
+                    {
+                        "mw": "\u02c8p\u0101l-n\u0259s",
+                        "sound": {
+                            "audio": "pale0003",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            },
+            {
+                "ure": "pal*ish",
+                "prs": [
+                    {
+                        "mw": "\u02c8p\u0101-lish",
+                        "sound": {
+                            "audio": "pale0004",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}pale, paal, palle,{/it} borrowed from Anglo-French {it}pale, palle, paille{/it} (also continental Old French), borrowed (with loss of unstressed {it}-id-{/it}) from Latin {it}pallidus{/it} \"pale, colorless,\" formed with the adjective suffix {it}-idus{/it} from the same base as {it}pall\u0113re{/it} \"to be pale or bloodless, have a pale color,\" {it}pallor{/it} \"paleness of complexion, loss of color\" {ma}{mat|fallow:1|}{/ma}"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "deficient in color or intensity of color : pallid",
+            "having color of reduced saturation",
+            "light in color especially relative to others of its kind"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pale:2",
+            "uuid": "c61c9623-6336-41fb-a3f9-29cedcc4c307",
+            "sort": "160018800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pale",
+                "paled",
+                "paleing",
+                "pales",
+                "paling"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "pale"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "paled"
+            },
+            {
+                "if": "pal*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become pale"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make pale"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}palen,{/it} borrowed from Anglo-French palir (continental Old French {it}palir, palo\u00efr{/it}), going back (with conjugation change) to Latin {it}pall\u0113scere{/it} \"to grow pale, turn a pale color,\" inchoative derivative of {it}pall\u0113re{/it} \"to be pale or bloodless, have a pale color\" {ma}{mat|fallow:1|}{/ma}"
+            ]
+        ],
+        "date": "14th century{ds|i|||}",
+        "shortdef": [
+            "to become pale",
+            "to make pale"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pale:3",
+            "uuid": "2d5dc1f2-82f9-444b-a9de-4e6db4de347a",
+            "sort": "160018900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pale",
+                "pales"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "pale"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an area or the limits within which one is privileged or protected (as from censure) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "conduct that was beyond the {wi}pale{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a space or field having bounds {bc}{sx|enclosure||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The cattle were led into the {wi}pale{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a territory or district within certain bounds or under a particular jurisdiction "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "British culture survived even within the Roman {wi}pale{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}one of the stakes of a {d_link|palisade|palisade:1}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|picket||1}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a perpendicular stripe on a heraldic shield"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "sls": [
+                                    "archaic"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|palisade||}, {sx|paling|paling|}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Anglo-French {it}pel, pal{/it} stake, from Latin {it}palus{/it} {ma}{mat|pole|}{/ma}"
+            ]
+        ],
+        "date": "12th century{ds||5||}",
+        "shortdef": [
+            "an area or the limits within which one is privileged or protected (as from censure)",
+            "a space or field having bounds : enclosure",
+            "a territory or district within certain bounds or under a particular jurisdiction"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pale:4",
+            "uuid": "a3b25314-a19e-428a-b673-828d5e9fac85",
+            "sort": "160019000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pale",
+                "paled",
+                "paleing",
+                "pales",
+                "paling"
+            ],
+            "offensive": false
+        },
+        "hom": 4,
+        "hwi": {
+            "hw": "pale"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "paled"
+            },
+            {
+                "if": "pal*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to enclose with pales {bc}{sx|fence||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|pale:3||}{/dx_ety}"
+            ]
+        ],
+        "date": "14th century",
+        "shortdef": [
+            "to enclose with pales : fence"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pale-",
+            "uuid": "f69b7a9e-3eb5-41dd-887b-5e61730b160d",
+            "sort": "160019100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pale-"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pale-"
+        },
+        "fl": "combining form",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{dx}see {dxt|paleo-||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": []
+    },
+    {
+        "meta": {
+            "id": "paleo-",
+            "uuid": "04a359f6-6fa5-435a-b4d9-0825520d4d22",
+            "sort": "160019567",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pale-",
+                "paleo-"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "paleo-"
+        },
+        "vrs": [
+            {
+                "vl": "or before a vowel",
+                "va": "pale-"
+            }
+        ],
+        "fl": "combining form",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}involving or dealing with ancient forms or conditions "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}paleo{/wi}botany"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}early {bc}primitive {bc}archaic "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}Paleo{/wi}lithic"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "borrowed from New Latin {it}palaeo-,{/it} borrowed from Greek {it}palaio-,{/it} combining form from {it}palai\u00f3s{/it} \"old, of long standing, ancient,\" adjective derivative of {it}p\u00e1lai{/it} \"long since, in the past,\" of uncertain origin"
+            ],
+            [
+                "et_snote",
+                [
+                    [
+                        "t",
+                        "Greek {it}p\u00e1lai{/it} was formerly compared with {it}t\u00eale{/it} \"far off, in the distance,\" both being referred to an Indo-European base {it}*k{sup}w{/sup}el-,{/it} whence also Sanskrit {it}caram\u00e1\u1e25{/it} \"outermost, last.\" However, if Mycenaean Greek {it}pa-ra-jo-{/it} is correctly glossed as \"old,\" the etymon would not have begun with a labiovelar and the comparison falls into serious difficulty. See John Chadwick, \"The Etymology of Greek \u03c0\u03ac\u03bb\u03b1\u03b9,\" {it}Glotta,{/it} Band 54, Heft 1 (1976), pp. 68-71; Chadwick suggests that if the original meaning of {it}p\u00e1lai{/it} was \"in the recent past, before now,\" the word could be connected with {it}p\u00e9las{/it} \"near,\" {it}pl\u0113s\u00edon{/it} \"nearby, neighboring.\""
+                    ]
+                ]
+            ]
+        ],
+        "shortdef": [
+            "involving or dealing with ancient forms or conditions",
+            "early : primitive : archaic"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pale ale",
+            "uuid": "e877866b-7c3e-483d-9d12-6e1a08cd9487",
+            "sort": "160019300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pale ale",
+                "pale ales"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pale ale"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a usually medium-colored, very dry {d_link|ale|ale} with a strong flavor of {d_link|hops|hop:3} {dx}see also {dxt|india pale ale||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1695",
+        "shortdef": [
+            "a usually medium-colored, very dry ale with a strong flavor of hops"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pale by comparison",
+            "uuid": "d6bb15e5-a0e0-4758-bc9d-6a3b7882a7b1",
+            "sort": "3014238000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "pale by comparison"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pale by comparison"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to seem less important, good, serious, etc., when compared with something else "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Once you've tasted the local apples, all others {it}pale by comparison{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to seem less important, good, serious, etc., when compared with something else"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pale imitation",
+            "uuid": "dc1af704-9b20-4f60-a6a9-e56f0212d1c0",
+            "sort": "3014239000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "pale imitation"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pale imitation"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an inferior version "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The remake of the movie was a {it}pale imitation{/it} of the original."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "an inferior version"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pale in/by comparison to/with",
+            "uuid": "d78ffb9b-1c7b-436b-83e7-cca0034988db",
+            "sort": "3014240000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "pale by comparison to",
+                "pale by comparison with",
+                "pale in comparison to",
+                "pale in comparison with",
+                "pale in/by comparison to/with"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pale in/by comparison to/with"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to seem less important, good, serious, etc., when compared with (something else) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The afternoon meal {it}paled in comparison to/with{/it} the feast they had later."
+                                            },
+                                            {
+                                                "t": "Last year's losses {it}pale by comparison with{/it} this year's."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to seem less important, good, serious, etc., when compared with (something else)"
+        ]
+    }
+]

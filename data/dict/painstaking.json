@@ -1,0 +1,137 @@
+[
+    {
+        "meta": {
+            "id": "painstaking:1",
+            "uuid": "81d092bc-09f7-4b31-860e-5e34a862c805",
+            "sort": "160013200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "painstaking",
+                "painstakingly"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "pains*tak*ing",
+            "prs": [
+                {
+                    "mw": "\u02c8p\u0101n-\u02ccst\u0101-ki\u014b",
+                    "sound": {
+                        "audio": "painst01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}taking {d_link|pains|pain:1} {bc}expending, showing, or involving diligent care and effort "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}painstaking{/wi} research"
+                                            },
+                                            {
+                                                "t": "{wi}painstaking{/wi} tasks"
+                                            },
+                                            {
+                                                "t": "{wi}painstaking{/wi} accuracy"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "pains*tak*ing*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8p\u0101n-\u02ccst\u0101-ki\u014b-l\u0113",
+                        "sound": {
+                            "audio": "painst02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            }
+        ],
+        "date": "circa 1685",
+        "shortdef": [
+            "taking pains : expending, showing, or involving diligent care and effort"
+        ]
+    },
+    {
+        "meta": {
+            "id": "painstaking:2",
+            "uuid": "84882b6a-ca06-429d-b510-5410dc4b7123",
+            "sort": "160013300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "painstaking",
+                "painstakings"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "painstaking"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the action of taking {d_link|pains|pain:1} {bc}diligent care and effort "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 greater {wi}painstaking{/wi} to achieve incidental verisimilitude and accuracy of detail \u2026",
+                                                "aq": {
+                                                    "source": "{it}Times Literary Supplement{/it}"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1538",
+        "shortdef": [
+            "the action of taking pains : diligent care and effort"
+        ]
+    }
+]

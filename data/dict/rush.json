@@ -1,0 +1,981 @@
+[
+    {
+        "meta": {
+            "id": "rush:1",
+            "uuid": "f1cb45f7-337a-4760-b1c4-3629cd2c4587",
+            "sort": "184351000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "flash",
+                "rush",
+                "rushes",
+                "rushier",
+                "rushiest",
+                "rushy"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "rush",
+            "prs": [
+                {
+                    "mw": "\u02c8r\u0259sh",
+                    "sound": {
+                        "audio": "rush0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of various monocotyledonous often tufted marsh plants (as of the genera {it}Juncus{/it} and {it}Luzula{/it} of the family Juncaceae, the rush family) with cylindrical often hollow stems which are used in bottoming chairs and plaiting mats"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "rushy",
+                "prs": [
+                    {
+                        "mw": "\u02c8r\u0259-sh\u0113",
+                        "sound": {
+                            "audio": "rush0002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}rysc{/it}; akin to Middle High German {it}rusch{/it} rush, Lithuanian {it}regzti{/it} to knit"
+            ]
+        ],
+        "date": "before 12th century",
+        "shortdef": [
+            "any of various monocotyledonous often tufted marsh plants (as of the genera Juncus and Luzula of the family Juncaceae, the rush family) with cylindrical often hollow stems which are used in bottoming chairs and plaiting mats"
+        ]
+    },
+    {
+        "meta": {
+            "id": "rush:2",
+            "uuid": "a23d0259-e396-4dcf-885c-cc7e38e803b9",
+            "sort": "184352000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "rush",
+                "rushed",
+                "rushes",
+                "rushing"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "rush"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "rushed"
+            },
+            {
+                "if": "rush*ing"
+            },
+            {
+                "if": "rush*es"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move forward, progress, or act with haste or eagerness or without preparation"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to advance a football by running plays "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}rushed{/wi} for a total of 150 yards"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to push or impel on or forward with speed, impetuosity, or violence"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to perform in a short time or at high speed"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to urge to an unnatural or extreme speed "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "don't {wi}rush{/wi} me"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to run toward or against in attack {bc}{sx|charge||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to carry (a ball) forward in a running play"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move in quickly on (a kicker or passer) to hinder, prevent, or block a kick or pass "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used especially of defensive linemen"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to lavish attention on {bc}{sx|court||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to try to secure a pledge of membership (as in a fraternity) from"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}russhen{/it}, from Anglo-French {it}reuser, ruser, russher{/it} to drive back, repulse, from Latin {it}recusare{/it} to oppose {ma}{mat|recusant|}{/ma}"
+            ]
+        ],
+        "date": "14th century{ds|i|1||}",
+        "shortdef": [
+            "to move forward, progress, or act with haste or eagerness or without preparation",
+            "to advance a football by running plays",
+            "to push or impel on or forward with speed, impetuosity, or violence"
+        ]
+    },
+    {
+        "meta": {
+            "id": "rush:3",
+            "uuid": "7c682c74-55b9-42dc-83cf-0bc333c35193",
+            "sort": "184353000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "flash",
+                "rush",
+                "rushes",
+                "rushier",
+                "rushiest",
+                "rushy"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "rush"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a violent forward motion"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|attack||}, {sx|onset||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a surging of emotion"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a burst of activity, productivity, or speed"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a sudden insistent demand"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a thronging of people usually to a new place in search of wealth "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a gold {wi}rush{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act of carrying a football during a game {bc}running play"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the action or an instance of {a_link|rushing} a passer or kicker in football "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a pass {wi}rush{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a round of attention usually involving extensive social activity"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a drive by a fraternity or sorority to recruit new members"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a print of a motion-picture scene processed directly after the shooting for review by the director or producer {bc}{sx|daily||3}"
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used in plural"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the immediate pleasurable feeling produced by a drug (such as heroin or cocaine) "
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "flash"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 stimulants found in the bath salts provide a {wi}rush{/wi} similar to cocaine or methamphetamine.",
+                                                "aq": {
+                                                    "auth": "Larry Oakes"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a surge in energy following the intake of sugar or caffeine "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The sugar {wi}rush{/wi} has many causes, but one of the most important was the invention of high-fructose corn syrup in 1957.",
+                                                "aq": {
+                                                    "auth": "Tiffany O'Callaghan"
+                                                }
+                                            },
+                                            {
+                                                "t": "Drink one fast and you might experience brain freeze and a caffeine {wi}rush{/wi} at the same time.",
+                                                "aq": {
+                                                    "auth": "Margaret McCormick"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a sudden feeling of intense pleasure or excitement {bc}{sx|thrill||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 boys and girls around the country still get a {wi}rush{/wi} out of zipping downhill in hand-made cars at speeds up to 30 mph.",
+                                                "aq": {
+                                                    "auth": "Rene Romo"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "14th century{ds||1|a|}",
+        "shortdef": [
+            "a violent forward motion",
+            "attack, onset",
+            "a surging of emotion"
+        ]
+    },
+    {
+        "meta": {
+            "id": "rush:4",
+            "uuid": "afb40f07-8f22-43ab-8b25-ef8d9e46228d",
+            "sort": "184354000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "rush"
+            ],
+            "offensive": false
+        },
+        "hom": 4,
+        "hwi": {
+            "hw": "rush"
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}requiring or marked by special speed or urgency "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}rush{/wi} orders"
+                                            },
+                                            {
+                                                "t": "the {wi}rush{/wi} season"
+                                            },
+                                            {
+                                                "t": "a {wi}rush{/wi} job"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1879",
+        "shortdef": [
+            "requiring or marked by special speed or urgency"
+        ]
+    },
+    {
+        "meta": {
+            "id": "Rush:b",
+            "uuid": "92da3f1c-a156-43ba-8213-0352d315d5e4",
+            "sort": "304985000",
+            "src": "collegiate",
+            "section": "biog",
+            "stems": [
+                "Benjamin Rush",
+                "Rush"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "Rush",
+            "prs": [
+                {
+                    "mw": "\u02c8r\u0259sh",
+                    "sound": {
+                        "audio": "bixrus01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "biographical name",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "Benjamin 1745\u20131813 American physician and patriot"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "Benjamin 1745\u20141813 American physician and patriot"
+        ]
+    },
+    {
+        "meta": {
+            "id": "rush candle",
+            "uuid": "6d8f8635-5a52-4322-9422-3140560035c3",
+            "sort": "184355000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "rush candle",
+                "rush candles"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "rush candle"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|rushlight||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1547",
+        "shortdef": [
+            "rushlight"
+        ]
+    },
+    {
+        "meta": {
+            "id": "rush hour",
+            "uuid": "498a6203-be4d-46f4-92cd-de7a5b2af02b",
+            "sort": "184358000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "rush hour",
+                "rush hours"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "rush hour"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a period of the day when the demands especially of traffic or business are at a peak"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1878",
+        "shortdef": [
+            "a period of the day when the demands especially of traffic or business are at a peak"
+        ]
+    },
+    {
+        "meta": {
+            "id": "rush out",
+            "uuid": "9162e502-6d9e-4ad5-a7fc-795d0f38c1e9",
+            "sort": "3016578000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "rush out",
+                "rushed out",
+                "rushes out",
+                "rushing out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "rush out"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "rushed out"
+            },
+            {
+                "if": "rush*ing out"
+            },
+            {
+                "if": "rush*es out"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to produce (something) very quickly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We had to {it}rush{/it} the manuscript {it}out{/it} so that it could be copied."
+                                            },
+                                            {
+                                                "t": "Reporters {it}rushed out{/it} the story for the morning edition of the newspaper."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to produce (something) very quickly"
+        ]
+    },
+    {
+        "meta": {
+            "id": "bull rush",
+            "uuid": "ad4890c8-3afe-4eaf-b52c-348251070915",
+            "sort": "020479600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "bull rush",
+                "bull-rush",
+                "bull-rushed",
+                "bull-rushes",
+                "bull-rushing"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "bull rush"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a direct forceful rush by a defensive player in football"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "bull-rush",
+                "prs": [
+                    {
+                        "mw": "\u02c8bu\u0307l-\u02ccr\u0259sh",
+                        "sound": {
+                            "audio": "bull-rush_1",
+                            "ref": "owl",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "l": "also",
+                        "mw": "\u02c8b\u0259l-"
+                    }
+                ],
+                "fl": "verb"
+            }
+        ],
+        "date": "1976",
+        "shortdef": [
+            "a direct forceful rush by a defensive player in football"
+        ]
+    },
+    {
+        "meta": {
+            "id": "bum-rush",
+            "uuid": "fa4d4ca7-4c12-4ef7-b474-803f5597c74d",
+            "sort": "020484500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "bum-rush",
+                "bum-rushed",
+                "bum-rushes",
+                "bum-rushing"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "bum-rush",
+            "prs": [
+                {
+                    "mw": "\u02c8b\u0259m-\u02c8r\u0259sh",
+                    "sound": {
+                        "audio": "bumru01v",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "bum-rushed"
+            },
+            {
+                "if": "bum-rush*ing"
+            },
+            {
+                "if": "bum-rush*es"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to attack or seize with an overpowering rush "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}bum-rush{/wi} the stage"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1985",
+        "shortdef": [
+            "to attack or seize with an overpowering rush"
+        ]
+    }
+]

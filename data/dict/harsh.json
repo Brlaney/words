@@ -1,0 +1,297 @@
+[
+    {
+        "meta": {
+            "id": "harsh",
+            "uuid": "c9d3b849-33d6-413d-be7f-dc90fe40548c",
+            "sort": "080072100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "harsh",
+                "harsher",
+                "harshest",
+                "harshly",
+                "harshness",
+                "harshnesses"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "harsh",
+            "prs": [
+                {
+                    "mw": "\u02c8h\u00e4rsh",
+                    "sound": {
+                        "audio": "harsh001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}having a coarse uneven surface that is rough or unpleasant to the touch "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "granite stones {wi}harsh{/wi} with lichen",
+                                                "aq": {
+                                                    "auth": "Nancy Hale"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}causing a disagreeable or painful sensory reaction {bc}{sx|irritating||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}harsh{/wi} colors"
+                                            },
+                                            {
+                                                "t": "{wi}harsh{/wi} lighting"
+                                            },
+                                            {
+                                                "t": "her {wi}harsh{/wi} high-pitched voice"
+                                            },
+                                            {
+                                                "t": "The horseradish was too {wi}harsh{/wi} for the children."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        " {bc}overly intense or powerful "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}harsh{/wi} chemicals"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}physically discomforting "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The climate there is very {wi}harsh{/wi}."
+                                            },
+                                            {
+                                                "t": "a {wi}harsh{/wi} winter"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        " {bc}unpleasant and difficult to accept or experience "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the {wi}harsh{/wi} realities of poverty"
+                                            },
+                                            {
+                                                "t": "a {wi}harsh{/wi} reminder of the importance of wearing a seat belt"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}excessively critical or negative "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "had some {wi}harsh{/wi} words for her opponent"
+                                            },
+                                            {
+                                                "t": "a {wi}harsh{/wi} critic"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        " {bc}unduly severe in making demands "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}harsh{/wi} discipline"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}lacking in aesthetic appeal or refinement {bc}{sx|crude||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}harsh{/wi} and sometimes unpleasant book, barren of pretty touches",
+                                                "aq": {
+                                                    "auth": "Brendan Gill"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "harsh*ly",
+                "fl": "adverb"
+            },
+            {
+                "ure": "harsh*ness",
+                "fl": "noun"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}rough{/sc} {sc}harsh{/sc} {sc}uneven{/sc} {sc}rugged{/sc} {sc}scabrous{/sc} mean not smooth or even. {sc}rough{/sc} implies points, bristles, ridges, or projections on the surface. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}rough{/it} wooden board"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}harsh{/sc} implies a surface or texture distinctly unpleasant to the touch. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}harsh{/it} fabric that chafes the skin"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}uneven{/sc} implies a lack of uniformity in height, breadth, or quality. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "an old house with {it}uneven{/it} floors"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}rugged{/sc} implies irregularity or roughness of land surface and connotes difficulty of travel. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}rugged{/it} landscape"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}scabrous{/sc} implies scaliness or prickliness of surface. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}scabrous{/it} leaf"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}harsk{/it}, of Scandinavian origin; akin to Norwegian {it}harsk{/it} harsh"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "having a coarse uneven surface that is rough or unpleasant to the touch",
+            "causing a disagreeable or painful sensory reaction : irritating : overly intense or powerful",
+            "physically discomforting : unpleasant and difficult to accept or experience"
+        ]
+    }
+]

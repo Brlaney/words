@@ -1,0 +1,121 @@
+[
+    {
+        "meta": {
+            "id": "flax",
+            "uuid": "e164027b-489c-4e29-877c-054f1fca2812",
+            "sort": "061817000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "flax",
+                "flaxes",
+                "flaxier",
+                "flaxiest",
+                "flaxy"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "flax",
+            "prs": [
+                {
+                    "mw": "\u02c8flaks",
+                    "sound": {
+                        "audio": "flax0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "lbs": [
+            "often attributive"
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of a genus ({it}Linum{/it} of the family Linaceae, the flax family) of herbs"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a slender erect annual ({it}L. usitatissimum{/it}) with blue flowers commonly cultivated for its bast fiber and seed"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the fiber of the flax plant especially when prepared for spinning"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of several plants resembling flax"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "flaxy",
+                "prs": [
+                    {
+                        "mw": "\u02c8flak-s\u0113",
+                        "sound": {
+                            "audio": "flaxy001",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}fleax{/it}; akin to Old High German {it}flahs{/it} flax, Latin {it}plectere{/it} to braid {ma}{mat|ply|}{/ma}"
+            ]
+        ],
+        "date": "before 12th century{ds||1||}",
+        "shortdef": [
+            "any of a genus (Linum of the family Linaceae, the flax family) of herbs; especially : a slender erect annual (L. usitatissimum) with blue flowers commonly cultivated for its bast fiber and seed",
+            "the fiber of the flax plant especially when prepared for spinning",
+            "any of several plants resembling flax"
+        ]
+    }
+]

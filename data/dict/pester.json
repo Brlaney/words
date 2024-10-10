@@ -1,0 +1,190 @@
+[
+    {
+        "meta": {
+            "id": "pester",
+            "uuid": "ccda2083-603f-49bc-bc77-d4bb59baa571",
+            "sort": "160212800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pester",
+                "pestered",
+                "pestering",
+                "pesters"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pes*ter",
+            "prs": [
+                {
+                    "mw": "\u02c8pe-st\u0259r",
+                    "sound": {
+                        "audio": "pester01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "pes*tered"
+            },
+            {
+                "if": "pes*ter*ing",
+                "prs": [
+                    {
+                        "mw": "\u02c8pe-st(\u0259-)ri\u014b",
+                        "sound": {
+                            "audio": "pester02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|overcrowd||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to harass with petty irritations {bc}{sx|annoy||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}worry{/sc} {sc}annoy{/sc} {sc}harass{/sc} {sc}harry{/sc} {sc}plague{/sc} {sc}pester{/sc} {sc}tease{/sc} mean to disturb or irritate by persistent acts. {sc}worry{/sc} implies an incessant goading or attacking that drives one to desperation. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "pursued a policy of {it}worrying{/it} the enemy"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}annoy{/sc} implies disturbing one's composure or peace of mind by intrusion, interference, or petty attacks. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "you're doing that just to {it}annoy{/it} me"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}harass{/sc} implies petty persecutions or burdensome demands that exhaust one's nervous or mental power. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}harassed{/it} on all sides by creditors"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}harry{/sc} may imply heavy oppression or maltreatment. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the strikers had been {it}harried{/it} by thugs"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}plague{/sc} implies a painful and persistent affliction. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}plagued{/it} all her life by poverty"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}pester{/sc} stresses the repetition of petty attacks. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "constantly {it}pestered{/it} with trivial complaints"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}tease{/sc} suggests an attempt to break down one's resistance or rouse to wrath. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "children {it}teased{/it} the dog"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "modification of Middle French {it}empestrer{/it} to hobble, embarrass, from Vulgar Latin {it}*impastoriare{/it}, from Latin {it}in-{/it} + Late Latin {it}pastoria{/it} tether {ma}{mat|pastern|}{/ma}"
+            ]
+        ],
+        "date": "1548{ds||1||}",
+        "shortdef": [
+            "overcrowd",
+            "to harass with petty irritations : annoy"
+        ]
+    }
+]

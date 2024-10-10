@@ -1,0 +1,313 @@
+[
+    {
+        "meta": {
+            "id": "smile:1",
+            "uuid": "ad603771-bbcd-4e72-9156-4130bf005d39",
+            "sort": "194511100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "smile",
+                "smiled",
+                "smiler",
+                "smilers",
+                "smiles",
+                "smiling",
+                "smilingly"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "smile",
+            "prs": [
+                {
+                    "mw": "\u02c8sm\u012b(-\u0259)l",
+                    "sound": {
+                        "audio": "smile001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "smiled"
+            },
+            {
+                "if": "smil*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have, produce, or exhibit a smile"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to look or regard with amusement or ridicule "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}smiled{/it} at his own folly",
+                                                "aq": {
+                                                    "auth": "Martin Gardner"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bestow approval "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "feeling that Heaven {it}smiled{/it} on his labors",
+                                                "aq": {
+                                                    "auth": "Sheila Rowlands"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to appear pleasant or agreeable"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to affect with or by {a_link|smiling}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to express by a smile"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "smil*er",
+                "fl": "noun"
+            },
+            {
+                "ure": "smil*ing*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8sm\u012b-li\u014b-l\u0113",
+                        "sound": {
+                            "audio": "smile003",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}smilen,{/it} going back to a Germanic verbal base {it}*smil-, *sm\u012bl-{/it} (from earlier {it}*smei\u032fl-{/it}) \"smile,\" probably an extension with {it}-l-{/it} of Indo-European {it}*smei\u032f-{/it} \"laugh, smile,\" whence Old Church Slavic {it}sm\u011bj\u01eb s\u0119, smijati s\u0119{/it} \"to laugh,\" Latvian {it}smeju, smi\u00eat{/it} \"to laugh, mock,\" Tocharian B {it}smi-{/it} \"smile,\" Sanskrit {it}sm\u00e1yate{/it} \"(s/he) smiles,\" and with a {it}-d-{/it} extension in Greek {it}meidi\u00e1ein{/it} \"to smile,\" {it}philomeid\u1e17s{/it} \"with a friendly smile,\" Latvian {it}smaida{/it} \"smile,\" {it}smaid\u00eet{/it} \"to smile, mock\""
+            ],
+            [
+                "et_snote",
+                [
+                    [
+                        "t",
+                        "The comparative set for this Germanic etymon do not show clear descent from a single form, perhaps due to its affective character. There is no attested Old English ancestor of Middle English {it}smilen{/it}; a Scandinavian source has been suggested, but Danish {it}smile{/it} \"to smile\" and Swedish {it}smila,{/it} not attested before the 17th century, could be loans from an unattested Middle Low German verb. Old High German has {it}smilenter{/it} (glossing Latin {it}subridens{/it} \"smiling\"), with presumed long vowel, continued by Middle High German {it}smielen.{/it} Kiliaen's 1599 Dutch dictionary enters {it}smuylen{/it} \"subridere,\" apparently with a different vocalism. Parallel to these are a group of forms with {it}-r-{/it} rather than {it}-l-{/it}: Old English {it}smerian{/it} \"to laugh, scorn,\" Old High German {it}smier\u0113n, smier\u014dn{/it} (with {it}e{inf}2{/inf}{/it}?) \"to smile,\" Old English {it}bismerian{/it} and Old High German {it}bismer\u014dn{/it} \"to mock, insult,\" and, with different vocalism, Old English {it}sm\u01e3r, sm\u01e3re{/it} \"lip(s),\" {it}g\u0101lsm\u01e3re{/it} \"inclined to laugh, frivolous.\" The forms with {it}-r-{/it} have been compared with Sanskrit (Vedic) {it}\u00e1-smera-{/it} \"not bashful, confiding,\" and particularly with Latin {it}m\u012brus{/it} \"remarkable, amazing,\" presumed to be derivative of a neuter {it}*m\u012brum,{/it} going back to a noun {it}*smei\u032f-ro-{/it} \"laughter, smiling,\" (though a semantic shift from \"laughter\" to \"astonishment\" is questionable)."
+                    ]
+                ]
+            ]
+        ],
+        "date": "14th century{ds|i|1||}",
+        "shortdef": [
+            "to have, produce, or exhibit a smile",
+            "to look or regard with amusement or ridicule",
+            "to bestow approval"
+        ]
+    },
+    {
+        "meta": {
+            "id": "Lady Luck",
+            "uuid": "1260f5ea-5a5b-4b99-beb0-519df0a56fc5",
+            "sort": "3010679000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "Lady Luck",
+                "lady luck smiled on him"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "Lady Luck"
+        },
+        "vrs": [
+            {
+                "vl": "or",
+                "va": "lady luck"
+            }
+        ],
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to refer to luck as if it were a woman "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "He blamed his problems on {it}lady luck{/it}."
+                                                        },
+                                                        {
+                                                            "t": "{phrase}Lady luck smiled on him{/phrase} when they called his name as the prize winner."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "\u2014used to refer to luck as if it were a woman"
+        ]
+    },
+    {
+        "meta": {
+            "id": "smile from ear to ear",
+            "uuid": "95b022d1-f637-44c4-9a45-23c7125f4620",
+            "sort": "3017854500",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "smile from ear to ear",
+                "smiled from ear to ear",
+                "smiles from ear to ear",
+                "smiling from ear to ear"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "smile from ear to ear"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to smile widely {bc}to have a big smile on one's face "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She could not contain her happiness when meeting her childhood idol, and {it}smiled from ear to ear{/it} the entire time."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to smile widely : to have a big smile on one's face"
+        ]
+    }
+]

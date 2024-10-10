@@ -1,0 +1,150 @@
+[
+    {
+        "meta": {
+            "id": "point out",
+            "uuid": "cfe90070-dc73-49b4-8afa-d3f9e7deae58",
+            "sort": "3015005000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "point out",
+                "pointed out",
+                "pointing out",
+                "points out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "point out"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "point*ed out"
+            },
+            {
+                "if": "point*ing out"
+            },
+            {
+                "if": "points out"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to direct someone's attention to (someone or something) by pointing "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He {it}pointed{/it} his girlfriend {it}out{/it} (to me) in the crowd."
+                                            },
+                                            {
+                                                "t": "Could you {it}point out{/it} the restrooms, please."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to talk about or mention (something that one thinks is important) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He was quick to {it}point{/it} our mistake {it}out{/it}."
+                                            },
+                                            {
+                                                "t": "He {it}pointed out{/it} the benefits/importance of daily exercise."
+                                            },
+                                            {
+                                                "t": "As she likes to {it}point out{/it}, she distrusted him from the beginning."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to direct someone's attention to (someone or something) by pointing",
+            "to talk about or mention (something that one thinks is important)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hasten to add/say/explain (etc.)",
+            "uuid": "ca0e55c8-9218-44ba-8f09-7b87e3aaafca",
+            "sort": "3008150000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "hasten to add",
+                "hasten to add/say/explain (etc.)",
+                "hasten to explain",
+                "hasten to point out",
+                "hasten to say"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hasten to add/say/explain (etc.)"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to immediately say something in order to prevent confusion or misunderstanding "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The company announced that the initial tests look promising, but they {it}hastened to add{/it} that there is still much more testing to be done."
+                                            },
+                                            {
+                                                "t": "Let me {it}hasten to point out{/it} that these changes will not affect our existing clients."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to immediately say something in order to prevent confusion or misunderstanding"
+        ]
+    }
+]

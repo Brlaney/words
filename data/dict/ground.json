@@ -1,0 +1,1584 @@
+[
+    {
+        "meta": {
+            "id": "ground:1",
+            "uuid": "dc823b43-746c-4ff8-a9c2-6d159a2087dc",
+            "sort": "072595000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "from the ground up",
+                "ground",
+                "ground forces",
+                "ground transportation",
+                "ground troops",
+                "ground war",
+                "grounds",
+                "into the ground",
+                "off the ground",
+                "on the ground",
+                "to ground"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "ground",
+            "prs": [
+                {
+                    "mw": "\u02c8grau\u0307nd",
+                    "sound": {
+                        "audio": "ground01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "grounds"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the surface of a planet (such as the earth or Mars)"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the surface of the earth or a particular part of it sometimes as contrasted with the air or sea "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "She sat down on the {wi}ground{/wi}."
+                                                },
+                                                {
+                                                    "t": "a patch of uneven {wi}ground{/wi}"
+                                                },
+                                                {
+                                                    "t": "One person was flown by helicopter and another transported by {wi}ground{/wi} \u2026",
+                                                    "aq": {
+                                                        "auth": "Larry Delkinski"
+                                                    }
+                                                }
+                                            ]
+                                        ],
+                                        [
+                                            "uns",
+                                            [
+                                                [
+                                                    [
+                                                        "text",
+                                                        "often used before another noun "
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "the cost of {phrase}ground transportation{/phrase}"
+                                                            },
+                                                            {
+                                                                "t": "the airport's {it}ground{/it} crew"
+                                                            },
+                                                            {
+                                                                "t": "sent in {phrase}ground troops{/phrase}"
+                                                            },
+                                                            {
+                                                                "t": "the country's {phrase}ground forces{/phrase}"
+                                                            },
+                                                            {
+                                                                "t": "fighting a {phrase}ground war{/phrase}"
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an area used for a particular purpose "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a grassy picnic {wi}ground{/wi}"
+                                            },
+                                            {
+                                                "t": "fishing {wi}grounds{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "ins": [
+                                    {
+                                        "if": "grounds",
+                                        "spl": "plural"
+                                    }
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the area around and belonging to a house or other building "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We toured the {wi}grounds{/wi} of the estate."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an area of knowledge or special interest "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He covered a lot of {wi}ground{/wi} in his lecture."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "e",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an area to be won or defended in or as if in battle {dx}see also {dxt|proving ground|proving ground|}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|soil||}, {sx|earth||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 the nutrient-rich soil that lies deep in the {wi}ground{/wi}.",
+                                                "aq": {
+                                                    "auth": "Ariela Bard"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a special soil"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the bottom of a body of water "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The boat struck {wi}ground{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sen",
+                            {
+                                "sn": "b",
+                                "ins": [
+                                    {
+                                        "if": "grounds",
+                                        "spl": "plural"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}ground coffee beans after brewing"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|sediment||1}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a basis for belief, action, or argument "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}ground{/wi} for complaint"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used in plural "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "sufficient {wi}grounds{/wi} for divorce"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        " {dx}see also {dxt|common ground|common ground|}, {dxt|middle ground|middle ground|}, {dxt|high ground|high ground|}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a fundamental logical condition"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a basic metaphysical {dx_def}see {dxt|metaphysical||2}{/dx_def} cause"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an object (such as one made of a wire or metal) that makes an electrical connection with the earth"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a large conducting body (such as the earth) used as a common return for an electric circuit and as an arbitrary zero of potential"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}electric connection with a ground"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a surrounding area {bc}{sx|background||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "wallpaper with black diamonds on a white {wi}ground{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}material that serves as a {d_link|substratum|substratum}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a football offense utilizing primarily running plays"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "from the ground up",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}entirely new or afresh "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The car has been redesigned {it}from the ground up{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}from the very beginning {bc}{sx|thoroughly||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "built the resort {it}from the ground up{/it}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "into the ground",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}beyond what is necessary or tolerable {bc}to exhaustion "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "labored an issue {it}into the ground{/it}",
+                                                        "aq": {
+                                                            "source": "{it}Newsweek{/it}"
+                                                        }
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "off the ground",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}in or as if in flight {bc}off to a good start "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "the program never got {it}off the ground{/it}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "on the ground",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}at the scene of action"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "to ground",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}into a burrow "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "the fox went {it}to ground{/it}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}into hiding "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "\u2026 might need to make a run for it and go {it}to ground{/it} someplace \u2026",
+                                                        "aq": {
+                                                            "auth": "Edward Hoagland"
+                                                        }
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}grund{/it}; akin to Old High German {it}grunt{/it} ground"
+            ]
+        ],
+        "date": "before 12th century{ds||3|a|}",
+        "shortdef": [
+            "the surface of a planet (such as the earth or Mars); especially : the surface of the earth or a particular part of it sometimes as contrasted with the air or sea \u2014often used before another noun",
+            "an area used for a particular purpose",
+            "the area around and belonging to a house or other building"
+        ]
+    },
+    {
+        "meta": {
+            "id": "ground:2",
+            "uuid": "9a0400a0-c9ee-4d20-8b12-7ae355c9d626",
+            "sort": "072596000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "ground",
+                "grounded",
+                "grounding",
+                "grounds"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "ground"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "ground*ed"
+            },
+            {
+                "if": "ground*ing"
+            },
+            {
+                "if": "grounds"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to provide a reason or justification for "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "our fears about technological change may be well {wi}grounded{/wi}",
+                                                "aq": {
+                                                    "auth": "L. K. Williams"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to furnish with a foundation of knowledge {bc}{sx|base||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "an understanding \u2026 that is {wi}grounded{/wi} in fact",
+                                                "aq": {
+                                                    "auth": "Michael Kimmelman"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to run aground"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring to or place on the ground"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to restrict to the ground "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}ground{/wi} a pilot"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to prohibit from taking part in some usual activities "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grounded{/wi} her for a week"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to connect electrically with a ground"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to throw (a football) intentionally to the ground to avoid being tackled for a loss"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to run aground "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The ship {wi}grounded{/wi} on a mud bank."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to hit a {a_link|grounder} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grounded{/wi} back to the pitcher"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have a ground or basis {bc}{sx|rely||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|ground:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "13th century{ds|t|2|b|}",
+        "shortdef": [
+            "to provide a reason or justification for",
+            "to furnish with a foundation of knowledge : base",
+            "to cause to run aground"
+        ]
+    },
+    {
+        "meta": {
+            "id": "ground:3",
+            "uuid": "43bd929e-17a0-4b7d-b097-5ec7c937c0dc",
+            "sort": "072596500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "ground"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "ground"
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}reduced to small pieces or a powder by a {d_link|grinding|grind:1} process "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}ground{/wi} beef"
+                                            },
+                                            {
+                                                "t": "{wi}ground{/wi} coffee beans"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1765",
+        "shortdef": [
+            "reduced to small pieces or a powder by a grinding process"
+        ]
+    },
+    {
+        "meta": {
+            "id": "ground:4",
+            "uuid": "bbd819b3-ad2b-439f-80b3-1b550d0f4ea6",
+            "sort": "072597000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "grind",
+                "ground"
+            ],
+            "offensive": false
+        },
+        "hom": 4,
+        "hwi": {
+            "hw": "ground"
+        },
+        "cxs": [
+            {
+                "cxl": "past tense and past participle of",
+                "cxtis": [
+                    {
+                        "cxt": "grind"
+                    }
+                ]
+            }
+        ],
+        "shortdef": []
+    },
+    {
+        "meta": {
+            "id": "grind:1",
+            "uuid": "119dea64-2c0e-49ff-b3a6-3eee411fe408",
+            "sort": "072512000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "grind",
+                "grinding",
+                "grindingly",
+                "grinds",
+                "ground"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "grind",
+            "prs": [
+                {
+                    "mw": "\u02c8gr\u012bnd",
+                    "sound": {
+                        "audio": "grind001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "ground",
+                "prs": [
+                    {
+                        "mw": "\u02c8grau\u0307nd",
+                        "sound": {
+                            "audio": "grind002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "if": "grind*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to reduce to powder or small fragments by friction (as in a mill or with the teeth) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grind{/wi} the coffee beans"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to wear down, polish, or sharpen by friction "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grind{/wi} an ax"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|oppress||}, {sx|harass||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "tyrants who {wi}grind{/wi} their subjects"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to weaken or destroy gradually "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used with {it}down{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "poverty {it}ground{/it} her spirit down"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to press together with a rotating motion "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grind{/wi} the teeth"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to rub or press harshly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}ground{/it} the cigarette out"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to operate or produce by turning a crank "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grind{/wi} a hand organ"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to perform the operation of {a_link|grinding}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become pulverized, polished, or sharpened by friction"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move with difficulty or friction especially so as to make a grating noise "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "gears {wi}grinding{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|drudge||}"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to study hard "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}grind{/wi} for an exam"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to rotate the hips in an erotic manner"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "grind*ing*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8gr\u012bn-di\u014b-l\u0113",
+                        "sound": {
+                            "audio": "grind003",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}grindan{/it}; akin to Latin {it}frendere{/it} to crush, grind"
+            ]
+        ],
+        "date": "before 12th century{ds|t|1||}",
+        "shortdef": [
+            "to reduce to powder or small fragments by friction (as in a mill or with the teeth)",
+            "to wear down, polish, or sharpen by friction",
+            "oppress, harass"
+        ]
+    },
+    {
+        "meta": {
+            "id": "ground ball",
+            "uuid": "0447ad7e-e279-4d6a-bc09-0f0c097f2636",
+            "sort": "072598000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "ground ball",
+                "ground balls"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "ground ball"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a batted baseball that bounds or rolls along the ground"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1857",
+        "shortdef": [
+            "a batted baseball that bounds or rolls along the ground"
+        ]
+    },
+    {
+        "meta": {
+            "id": "ground bass",
+            "uuid": "b0da547d-6767-4376-93ca-cdf1878e97ee",
+            "sort": "072599000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "ground bass",
+                "ground basses"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "ground bass"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a short bass passage continually repeated below constantly changing melody and harmony"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1696",
+        "shortdef": [
+            "a short bass passage continually repeated below constantly changing melody and harmony"
+        ]
+    },
+    {
+        "meta": {
+            "id": "ground beetle",
+            "uuid": "47734e10-57db-4dab-9b0d-0af1067f7fdb",
+            "sort": "072600000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "ground beetle",
+                "ground beetles"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "ground beetle"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of a large cosmopolitan family (Carabidae) of soil-inhabiting usually carnivorous often shiny black or metallic beetles commonly having fused elytra"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1848",
+        "shortdef": [
+            "any of a large cosmopolitan family (Carabidae) of soil-inhabiting usually carnivorous often shiny black or metallic beetles commonly having fused elytra"
+        ]
+    },
+    {
+        "meta": {
+            "id": "ground-cherry",
+            "uuid": "eec715bc-2e66-47e6-afd7-bbc365154b13",
+            "sort": "072604000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "ground-cherries",
+                "ground-cherry"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "ground-cher*ry",
+            "prs": [
+                {
+                    "mw": "\u02c8grau\u0307n(d)-\u02c8cher-\u0113",
+                    "sound": {
+                        "audio": "ground05",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of various chiefly New World herbs (genus {it}Physalis{/it}) of the nightshade family with pulpy fruits in papery husks"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the fruit of the ground-cherry"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1807",
+        "shortdef": [
+            "any of various chiefly New World herbs (genus Physalis) of the nightshade family with pulpy fruits in papery husks; also : the fruit of the ground-cherry"
+        ]
+    },
+    {
+        "meta": {
+            "id": "ground cloth",
+            "uuid": "949b2c8e-2255-404a-937a-a9a23094a428",
+            "sort": "072605000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "ground cloth",
+                "ground cloths"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "ground cloth"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a waterproof sheet placed on the ground for protection (as of a sleeping bag) against soil moisture"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1931",
+        "shortdef": [
+            "a waterproof sheet placed on the ground for protection (as of a sleeping bag) against soil moisture"
+        ]
+    }
+]

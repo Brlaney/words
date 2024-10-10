@@ -1,0 +1,878 @@
+[
+    {
+        "meta": {
+            "id": "gang:1",
+            "uuid": "c12770e7-4cb9-46d3-8f23-f804fb41d8c1",
+            "sort": "070283000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gang",
+                "gangs"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "gang",
+            "prs": [
+                {
+                    "mw": "\u02c8ga\u014b",
+                    "sound": {
+                        "audio": "gang0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "gangs"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "bs",
+                            {
+                                "sense": {
+                                    "sn": "1",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|group||}: such as"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a group of persons working to unlawful or antisocial ends"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a band of antisocial adolescents"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a group of persons working together"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a group of persons having informal and usually close social relations "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "watching TV with the {wi}gang{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a set of articles {bc}{sx|outfit||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}gang{/wi} of oars"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a combination of similar implements or devices arranged for convenience to act together "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}gang{/wi} of saws"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, \"going, journey, road, path, privy, group of items forming a set,\" going back to Old English, \"going, walking, journey, course, path, privy,\" going back to Germanic {it}*ganga-{/it} (whence Old Saxon {it}gang{/it} \"walk, course,\" Old High German \"walk, journey, passage,\" Old Norse {it}gangr{/it} \"going, course,\" Gothic {it}gagg{/it} \"way\"), noun derivative from the base of {it}*gangan-{/it} \"to go\" {ma}{mat|gang:3|}{/ma} "
+            ],
+            [
+                "et_snote",
+                [
+                    [
+                        "t",
+                        "The meaning \"set of articles\" apparently first appeared in Middle English, the now predominant meaning \"group of persons\" in early Modern English (hypothesized instances of this sense in Middle and Old English are dubious). A direct descendant of Old English {it}gang{/it} in Modern English would be {it}gong{/it} (with the effects of vowel lengthening before the cluster {it}-\u014bg-{/it} and subsequent rounding of the long vowel in monosyllables), but this survived into Modern English only in the sense \"privy\"\u2014the now general form {it}gang{/it} for other senses was borrowed into standard English from northern dialects and Scots, where rounding never occurred. Use of both the noun and verb {it}gang{/it} in its historical senses, denoting motion or passage, is now largely limited to traditional Scots."
+                    ]
+                ]
+            ]
+        ],
+        "date": "14th century{ds||3|a|}",
+        "shortdef": [
+            "group: such as",
+            "a group of persons working to unlawful or antisocial ends; especially : a band of antisocial adolescents",
+            "a group of persons working together"
+        ]
+    },
+    {
+        "meta": {
+            "id": "gang:2",
+            "uuid": "06ca01d8-8050-433c-b1fe-479a499da89e",
+            "sort": "070284000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gang",
+                "ganged",
+                "ganging",
+                "gangs"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "gang"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "ganged"
+            },
+            {
+                "if": "gang*ing"
+            },
+            {
+                "if": "gangs"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move or act as a {d_link|gang|gang:1} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Her opponents {wi}ganged{/wi} together to oppose her nomination."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        "{dx}see also {dxt|gang up||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to attack (a person) as a gang "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They {wi}ganged{/wi} him and took his money."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to assemble (mechanical or electronic parts) so that they may be operated simultaneously as a group "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{d_link|Potentiometers|potentiometer} are often {wi}ganged{/wi} together so that the resistance in several circuits can be changed simultaneously.",
+                                                "aq": {
+                                                    "auth": "Richard Fowler"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to arrange or produce (something, such as pages of typeset material) together as a unit "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 {wi}ganged{/wi} the printing of 2000 cards to achieve a cost-efficient price per card of 38 cents.",
+                                                "aq": {
+                                                    "auth": "Vilma Barr"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}up{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "Where decals are large they may be printed singly; where small, more than one may be {wi}ganged{/wi} up on one screen to save effort and to produce more copies in one impression.",
+                                                            "aq": {
+                                                                "auth": "Albert Kosloff"
+                                                            }
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "derivative of {et_link|gang:1|gang:1}"
+            ]
+        ],
+        "date": "1791{ds|i|||}",
+        "shortdef": [
+            "to move or act as a gang",
+            "to attack (a person) as a gang",
+            "to assemble (mechanical or electronic parts) so that they may be operated simultaneously as a group"
+        ]
+    },
+    {
+        "meta": {
+            "id": "gang:3",
+            "uuid": "ad0e9543-88d9-4b60-97a2-e8cdbab4d1ed",
+            "sort": "070285000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gang",
+                "ganged",
+                "ganging",
+                "gangs"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "gang"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "ganged"
+            },
+            {
+                "if": "gang*ing"
+            },
+            {
+                "if": "gangs"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sls": [
+                    "Scotland"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|go||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}gangen, gongen{/it} & early Scots {it}gang{/it}, going back to Old English {it}gangan, gongan{/it}, going back to Germanic {it}*gangan-{/it} (whence Old Saxon & Old High German {it}gangan{/it}\"to go,\" Old Norse {it}ganga{/it}, Gothic {it}gaggan{/it}), probably going back to Indo-European {it}*\u01f5hen\u01f5h-i\u032f\u032fe-{/it}, whence also Lithuanian {it}\u017ee\u00f1gti{/it} \"to stride\" "
+            ],
+            [
+                "et_snote",
+                [
+                    [
+                        "t",
+                        "Old English {it}gangan{/it}, a Class VII strong verb, was used more or less as a synonym of {it}g\u0101n{/it}, the ancestor of Modern English {et_link|go:1|go:1} (itself descended from Germanic {it}*g\u0113n-{/it}), though forms other than the present tense and infinitive rarely occur. In other Germanic languages cognates of {it}gangan{/it} served and still serve as suppletive forms of the parallel cognates of {it}g\u0101n.{/it} Compare note at {et_link|gang:1|gang:1}."
+                    ]
+                ]
+            ]
+        ],
+        "date": "before 12th century",
+        "shortdef": [
+            "go"
+        ]
+    },
+    {
+        "meta": {
+            "id": "gang bang",
+            "uuid": "d76de816-f3a2-4d97-a7c8-b2db651516ee",
+            "sort": "070287000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gang bang",
+                "gang bangs"
+            ],
+            "offensive": true
+        },
+        "hwi": {
+            "hw": "gang bang"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "sls": [
+                                    "often vulgar"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}copulation by several persons in succession with the same passive partner"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "often vulgar"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|gang rape||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1945{ds||1||}",
+        "shortdef": [
+            "copulation by several persons in succession with the same passive partner",
+            "gang rape"
+        ]
+    },
+    {
+        "meta": {
+            "id": "gang hook",
+            "uuid": "19d9022f-96fb-42fd-b349-3baf7e320321",
+            "sort": "070292000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gang hook",
+                "gang hooks"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "gang hook"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}two or three fishhooks with their shanks joined together"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1877",
+        "shortdef": [
+            "two or three fishhooks with their shanks joined together"
+        ]
+    },
+    {
+        "meta": {
+            "id": "gang rape",
+            "uuid": "cdfeba48-b023-4aea-a971-54de8c2ca243",
+            "sort": "070300000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gang rape",
+                "gang rapes",
+                "gang-rape",
+                "gang-raped",
+                "gang-rapes",
+                "gang-raping"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "gang rape"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}rape of one person by several attackers in succession"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "gang-rape",
+                "prs": [
+                    {
+                        "mw": "\u02c8ga\u014b-\u02ccr\u0101p",
+                        "sound": {
+                            "audio": "gang-rape_1",
+                            "ref": "owl",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "transitive verb"
+            }
+        ],
+        "date": "1875",
+        "shortdef": [
+            "rape of one person by several attackers in succession"
+        ]
+    },
+    {
+        "meta": {
+            "id": "gang-tackle",
+            "uuid": "3d7ddc5a-1556-42f9-8858-e6d60e78cad5",
+            "sort": "070307000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gang-tackle",
+                "gang-tackled",
+                "gang-tackles",
+                "gang-tackling"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "gang-tackle",
+            "prs": [
+                {
+                    "mw": "\u02c8ga\u014b-\u02ccta-k\u0259l",
+                    "sound": {
+                        "audio": "gangta01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "gang-tack*led"
+            },
+            {
+                "if": "gang*tack*ling"
+            },
+            {
+                "if": "gang-tack*les"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring down (a ballcarrier in football) with several tacklers"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1938",
+        "shortdef": [
+            "to bring down (a ballcarrier in football) with several tacklers"
+        ]
+    },
+    {
+        "meta": {
+            "id": "gang up",
+            "uuid": "09ee56c9-29e4-4e28-a309-1588ce747929",
+            "sort": "070309000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gang up",
+                "ganged up",
+                "ganging up",
+                "gangs up"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "gang up"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "ganged up"
+            },
+            {
+                "if": "gang*ing up"
+            },
+            {
+                "if": "gangs up"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a joint assault "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}ganged up{/it} on him and beat him up"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to combine for a specific purpose "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}ganged up{/it} to raise prices"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to exert group pressure "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}ganged up{/it} against the boss"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1910{ds||1||}",
+        "shortdef": [
+            "to make a joint assault",
+            "to combine for a specific purpose",
+            "to exert group pressure"
+        ]
+    },
+    {
+        "meta": {
+            "id": "anti-gang",
+            "uuid": "215f0e62-3ede-4742-b124-9acf24191ddc",
+            "sort": "013122600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "anti-gang"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "an*ti-gang",
+            "prs": [
+                {
+                    "mw": "\u02ccan-t\u0113-\u02c8ga\u014b",
+                    "sound": {
+                        "audio": "antiga01",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "\u02ccan-t\u012b-"
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}opposed to {d_link|gangs|gang:1} {bc}designed to prohibit gangs or to prevent or punish criminal behavior by gang members "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}anti-gang{/wi} laws"
+                                            },
+                                            {
+                                                "t": "Following on the heels of recent weekend street gang sweeps by Los Angeles police, {wi}anti-gang{/wi} units from the Sheriff's Department conducted their own operation last weekend, arresting 33 people on a variety of charges.",
+                                                "aq": {
+                                                    "source": "{it}The Los Angeles Times{/it}"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1891",
+        "shortdef": [
+            "opposed to gangs : designed to prohibit gangs or to prevent or punish criminal behavior by gang members"
+        ]
+    },
+    {
+        "meta": {
+            "id": "chain gang",
+            "uuid": "c30c044c-e156-4880-991a-46323ef94846",
+            "sort": "031987000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "chain gang",
+                "chain gangs"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "chain gang"
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "chain gangs"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a group of people (such as convicts) chained together especially as an outside working party"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1813",
+        "shortdef": [
+            "a group of people (such as convicts) chained together especially as an outside working party"
+        ]
+    }
+]

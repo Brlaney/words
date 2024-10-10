@@ -1,0 +1,204 @@
+[
+    {
+        "meta": {
+            "id": "juncture",
+            "uuid": "5c445afc-f8c3-4f3a-8f35-e8a62642ff6a",
+            "sort": "100072500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "juncture",
+                "junctures"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "junc*ture",
+            "prs": [
+                {
+                    "mw": "\u02c8j\u0259\u014b(k)-ch\u0259r",
+                    "sound": {
+                        "audio": "junctu02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a point of time "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "at this {wi}juncture{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}one made critical by a concurrence of circumstances"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|joint||}, {sx|connection||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the manner of transition or mode of relationship between two consecutive sounds in speech"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an instance of joining {bc}{sx|junction||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}juncture{/sc} {sc}exigency{/sc} {sc}emergency{/sc} {sc}contingency{/sc} {sc}pinch{/sc} {sc}strait{/sc} ({it}or{/it} {sc}straits{/sc}) {sc}crisis{/sc} mean a critical or crucial time or state of affairs. {sc}juncture{/sc} stresses the significant concurrence or convergence of events. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "an important {it}juncture{/it} in our country's history"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}exigency{/sc} stresses the pressure of restrictions or urgency of demands created by a special situation. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "provide for {it}exigencies{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}emergency{/sc} applies to a sudden unforeseen situation requiring prompt action to avoid disaster. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the presence of mind needed to deal with {it}emergencies{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}contingency{/sc} implies an emergency or exigency that is regarded as possible but uncertain of occurrence. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}contingency{/it} plans"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}pinch{/sc} implies urgency or pressure for action to a less intense degree than {sc}exigency{/sc} or {sc}emergency{/sc}. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "come through in a {it}pinch{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        "{sc}strait{/sc}, now commonly {sc}straits{/sc}, applies to a troublesome situation from which escape is extremely difficult. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "in dire {it}straits{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}crisis{/sc} applies to a juncture whose outcome will make a decisive difference. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}crisis{/it} of confidence"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "14th century{ds||2|a|}",
+        "shortdef": [
+            "a point of time; especially : one made critical by a concurrence of circumstances",
+            "joint, connection",
+            "the manner of transition or mode of relationship between two consecutive sounds in speech"
+        ]
+    }
+]

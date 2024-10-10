@@ -1,0 +1,126 @@
+[
+    {
+        "meta": {
+            "id": "prod:1",
+            "uuid": "ea0eab55-5d20-440f-8649-8c27f7c5c131",
+            "sort": "167713000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "prod",
+                "prodded",
+                "prodder",
+                "prodders",
+                "prodding",
+                "prods"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "prod",
+            "prs": [
+                {
+                    "mw": "\u02c8pr\u00e4d",
+                    "sound": {
+                        "audio": "prod0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "prod*ded"
+            },
+            {
+                "if": "prod*ding"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to thrust a pointed instrument into {bc}{sx|prick||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to incite to action {bc}{sx|stir||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to poke or stir as if with a prod"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to urge someone on"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "prod*der",
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "origin unknown"
+            ]
+        ],
+        "date": "1535{ds|t|1|a|}",
+        "shortdef": [
+            "to thrust a pointed instrument into : prick",
+            "to incite to action : stir",
+            "to poke or stir as if with a prod"
+        ]
+    }
+]

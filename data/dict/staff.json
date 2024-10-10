@@ -1,0 +1,799 @@
+[
+    {
+        "meta": {
+            "id": "staff:1",
+            "uuid": "676b9ce6-a6a1-47b5-ac1a-1793498974b8",
+            "sort": "194732900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "staff",
+                "staffs",
+                "stave",
+                "staves"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "staff",
+            "prs": [
+                {
+                    "mw": "\u02c8staf",
+                    "sound": {
+                        "audio": "staff001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "staffs",
+                "prs": [
+                    {
+                        "mw": "\u02c8stafs",
+                        "sound": {
+                            "audio": "staff002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8stavz"
+                    }
+                ]
+            },
+            {
+                "il": "or",
+                "if": "staves",
+                "prs": [
+                    {
+                        "mw": "\u02c8stavz"
+                    },
+                    {
+                        "mw": "\u02c8st\u0101vz",
+                        "sound": {
+                            "audio": "staff003",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a long stick carried in the hand for support in walking"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "bs",
+                                    {
+                                        "sense": {
+                                            "sn": "b",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}a supporting rod: such as"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(1)",
+                                        "sls": [
+                                            "archaic"
+                                        ],
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|shaft||1a(1)}"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a crosspiece in a ladder or chair {bc}{sx|rung||}"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|flagstaff||}"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(4)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a pivoted arbor"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|club||}, {sx|cudgel||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|crosier||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a rod carried as a symbol of office or authority"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the horizontal lines with their spaces on which music is written "
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "stave"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of various graduated sticks or rules used for measuring {bc}{sx|rod||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sen",
+                            {
+                                "sn": "5",
+                                "ins": [
+                                    {
+                                        "il": "plural",
+                                        "if": "staffs"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the officers chiefly responsible for the internal operations of an institution or business"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a group of officers appointed to assist a civil executive or commanding officer"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}military or naval officers not eligible for operational command"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the personnel who assist a director in carrying out an assigned task"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "e",
+                                "ins": [
+                                    {
+                                        "il": "plural",
+                                        "if": "staff"
+                                    }
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a member of a staff "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "employs three full-time {wi}staff{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "staff",
+                "fl": "adjective"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}staf{/it}, from Old English {it}st\u00e6f{/it}; akin to Old High German {it}stab{/it} staff, Sanskrit {it}stabhn\u0101ti{/it} he supports"
+            ]
+        ],
+        "date": "before 12th century{ds||1|a|}",
+        "shortdef": [
+            "a long stick carried in the hand for support in walking",
+            "a supporting rod: such as",
+            "shaft"
+        ]
+    },
+    {
+        "meta": {
+            "id": "staff:2",
+            "uuid": "bcb0adb0-9f36-4a90-abe1-61628b8798fd",
+            "sort": "194733000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "staff",
+                "staffed",
+                "staffing",
+                "staffs"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "staff"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "staffed"
+            },
+            {
+                "if": "staff*ing"
+            },
+            {
+                "if": "staffs"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to supply with a staff or with workers"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to serve as a staff member of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "an organization {wi}staffed{/wi} by volunteers"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1859{ds||1||}",
+        "shortdef": [
+            "to supply with a staff or with workers",
+            "to serve as a staff member of"
+        ]
+    },
+    {
+        "meta": {
+            "id": "staves",
+            "uuid": "7d83ebc6-b111-460f-94e0-711787fdebe2",
+            "sort": "194771000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "staff",
+                "staves"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "staves"
+        },
+        "cxs": [
+            {
+                "cxl": "plural of",
+                "cxtis": [
+                    {
+                        "cxt": "staff"
+                    }
+                ]
+            }
+        ],
+        "shortdef": []
+    },
+    {
+        "meta": {
+            "id": "staff of Asclepius",
+            "uuid": "d9262157-546c-45ed-a555-85097d1393ba",
+            "sort": "194733150",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "staff of Aesculapius",
+                "staff of Asclepius",
+                "staffs of Aesculapius",
+                "staffs of Asclepius",
+                "staves of Aesculapius",
+                "staves of Asclepius"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "staff of As*cle*pi*us",
+            "prs": [
+                {
+                    "mw": "-\u02cca-\u02c8skl\u0113-p\u0113-\u0259s",
+                    "sound": {
+                        "audio": "ascle050",
+                        "ref": "m",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "vrs": [
+            {
+                "vl": "or",
+                "va": "staff of Aes*cu*la*pi*us",
+                "prs": [
+                    {
+                        "mw": "-\u02cce-sky\u0259-\u02c8l\u0101-p\u0113-\u0259s",
+                        "sound": {
+                            "audio": "staff01m",
+                            "ref": "m",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "fl": "noun phrase",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a conventionalized representation of a staff branched at the top with a single snake twined around it that is used as a symbol of medicine and as the official insignia of the American Medical Association "
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "rod of Asclepius"
+                                                },
+                                                {
+                                                    "cat": "rod of Aesculapius"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    [
+                                        "text",
+                                        " {dx}compare {dxt|caduceus|caduceus|2a}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "after {it}Aesculapius{/it}, Greco-Roman god of medicine, from Latin, from Greek {it}Askl\u0113pios{/it}"
+            ]
+        ],
+        "date": "1673",
+        "shortdef": [
+            "a conventionalized representation of a staff branched at the top with a single snake twined around it that is used as a symbol of medicine and as the official insignia of the American Medical Association \u2014called also rod of Asclepius, rod of Aesculapius"
+        ]
+    },
+    {
+        "meta": {
+            "id": "staff officer",
+            "uuid": "402326d5-d15f-4058-bbee-e875a305c7ee",
+            "sort": "194733200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "staff officer",
+                "staff officers"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "staff officer"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a commissioned officer assigned to a military commander's staff {dx}compare {dxt|line officer||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1648",
+        "shortdef": [
+            "a commissioned officer assigned to a military commander's staff"
+        ]
+    },
+    {
+        "meta": {
+            "id": "staff of life",
+            "uuid": "273a896d-a5b4-4947-a361-ad0221a8bab7",
+            "sort": "194733300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "staff of life",
+                "staffs of life"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "staff of life"
+        },
+        "fl": "noun phrase",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a staple of diet"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|bread||}"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1607",
+        "shortdef": [
+            "a staple of diet; especially : bread"
+        ]
+    },
+    {
+        "meta": {
+            "id": "staff sergeant",
+            "uuid": "aad8952d-b091-491e-ade5-557f94c7e35b",
+            "sort": "194733600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "staff sergeant",
+                "staff sergeants"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "staff sergeant"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a noncommissioned officer ranking in the army above a sergeant and below a platoon sergeant or sergeant first class, in the air force above a sergeant and below a technical sergeant, and in the marine corps above a sergeant and below a gunnery sergeant"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1920",
+        "shortdef": [
+            "a noncommissioned officer ranking in the army above a sergeant and below a platoon sergeant or sergeant first class, in the air force above a sergeant and below a technical sergeant, and in the marine corps above a sergeant and below a gunnery sergeant"
+        ]
+    },
+    {
+        "meta": {
+            "id": "staff sergeant major",
+            "uuid": "47c5465f-d407-48c5-990e-53651760fc1c",
+            "sort": "194733700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "staff sergeant major",
+                "staff sergeant majors",
+                "staff sergeants major"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "staff sergeant major"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a noncommissioned officer in the army ranking above a master sergeant"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1967",
+        "shortdef": [
+            "a noncommissioned officer in the army ranking above a master sergeant"
+        ]
+    },
+    {
+        "meta": {
+            "id": "staff tree",
+            "uuid": "6dc7c357-1f64-4e1a-971b-2352b09d1566",
+            "sort": "194733800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "staff tree",
+                "staff trees"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "staff tree"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of a genus ({it}Celastrus{/it} of the family Celastraceae, the staff-tree family) of mostly twining shrubby plants including the common bittersweet"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1633",
+        "shortdef": [
+            "any of a genus (Celastrus of the family Celastraceae, the staff-tree family) of mostly twining shrubby plants including the common bittersweet"
+        ]
+    },
+    {
+        "meta": {
+            "id": "staff nurse",
+            "uuid": "1b574712-7417-4de4-a740-4604de692efc",
+            "sort": "3018392000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "staff nurse"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "staff nurse"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a nurse who is on the staff of a hospital"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a nurse who is on the staff of a hospital"
+        ]
+    }
+]

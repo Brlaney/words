@@ -1,0 +1,295 @@
+[
+    {
+        "meta": {
+            "id": "beamed",
+            "uuid": "bdffa15b-212b-4f67-98c4-14fcd0c0d1b7",
+            "sort": "020113350",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "beamed"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "beamed",
+            "prs": [
+                {
+                    "mw": "\u02c8b\u0113md",
+                    "sound": {
+                        "audio": "beamed_1",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}having exposed structural {a_link|beams} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}beamed{/wi} ceiling"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1711",
+        "shortdef": [
+            "having exposed structural beams"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beam:2",
+            "uuid": "73075452-a92a-4eef-811a-d9c66e0aa924",
+            "sort": "020113300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "beam",
+                "beamed",
+                "beaming",
+                "beams"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "beam"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "beamed"
+            },
+            {
+                "if": "beam*ing"
+            },
+            {
+                "if": "beams"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to emit in {a_link|beams} or as a beam {dx_def}see {dxt|beam:1||2}{/dx_def} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The sun {wi}beamed{/wi} its light through the window."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to support with beams {dx_def}see {dxt|beam:1||1}{/dx_def} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The house was {wi}beamed{/wi} with heavy timbers."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to transmit especially by satellite {bc}{sx|broadcast||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 the 90-minute show was {wi}beamed{/wi} to more than 200 countries and territories around the world.",
+                                                "aq": {
+                                                    "source": "{it}TV Guide{/it}"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to transmit (data) electronically "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}beaming{/wi} images of the planet back to Earth"
+                                            },
+                                            {
+                                                "t": "The amount of data {wi}beamed{/wi} over fiber-optic networks is rising exponentially every year, yet only 0.1% of fiber capacity is in use.",
+                                                "aq": {
+                                                    "auth": "Leslie Cauley"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to transmit (data) wirelessly "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "Infrared connectivity enables users to work collaboratively on documents without having to log on to the network, and for quickly \"{wi}beaming{/wi}\" data between different devices (for example, between two notebooks, or between a notebook and a printer, without a need for a cable).",
+                                                    "aq": {
+                                                        "source": "{it}Newsweek{/it}"
+                                                    }
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to direct to a particular audience "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a commercial {wi}beamed{/wi} at middle-class voters"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to send out rays of light "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Sunlight {wi}beamed{/wi} through the window."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to smile with joy "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The bride was {wi}beaming{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}bemen{/it}, verbal derivative of {it}bem, beem{/it} {et_link|beam:1|beam:1}"
+            ]
+        ],
+        "date": "15th century{ds|t|1||}",
+        "shortdef": [
+            "to emit in beams or as a beam",
+            "to support with beams",
+            "to transmit especially by satellite : broadcast"
+        ]
+    }
+]

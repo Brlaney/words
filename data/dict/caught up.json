@@ -1,0 +1,330 @@
+[
+    {
+        "meta": {
+            "id": "catch up",
+            "uuid": "26c61868-197a-4495-bd3f-11e23ae95018",
+            "sort": "031383000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "catch up",
+                "catches up",
+                "catching up",
+                "caught up"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "catch up"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "caught up"
+            },
+            {
+                "if": "catch*ing up"
+            },
+            {
+                "if": "catch*es up"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pick up often abruptly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the thief {it}caught{/it} the purse {it}up{/it} and ran"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|ensnare||}, {sx|entangle||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "education has been {it}caught up{/it} in a stultifying mythology",
+                                                "aq": {
+                                                    "auth": "N. M. Pusey"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|enthrall||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the \u2026 public was {it}caught up{/it} in the car's magic",
+                                                "aq": {
+                                                    "auth": "D. A. Jedlicka"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to provide with the latest information "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}catch{/it} me {it}up{/it} on the news"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to travel fast enough to overtake an advance party "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The soldier ran to {it}catch up{/it} with his unit."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to reach a state of parity {dx_def}see {dxt|parity||1}{/dx_def} or of being able to cope "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "students who miss class have difficulty {it}catching up{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring about arrest for illicit activities "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the police {it}caught up{/it} with the thieves"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to complete or compensate {dx_def}see {dxt|compensate||1}{/dx_def} for something belatedly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}catch up{/it} on lost sleep"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to acquire {d_link|belated|belated} information "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}catch up{/it} on the news"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|catch:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "14th century{ds|t|1|a|}",
+        "shortdef": [
+            "to pick up often abruptly",
+            "ensnare, entangle",
+            "enthrall"
+        ]
+    },
+    {
+        "meta": {
+            "id": "caught up in",
+            "uuid": "b950095d-1672-4880-96ce-fbed9cf57106",
+            "sort": "3002998000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "caught up in"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "caught up in"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}involved in (a difficult or confusing situation) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Several members of Congress were {it}caught up in{/it} the scandal."
+                                            },
+                                            {
+                                                "t": "How did you get {it}caught up in{/it} this mess?"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}excited about something and having trouble thinking about anything else "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Everyone was {it}caught up in{/it} the excitement."
+                                            },
+                                            {
+                                                "t": "Try not to get too {it}caught up in{/it} the moment."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "involved in (a difficult or confusing situation)",
+            "excited about something and having trouble thinking about anything else"
+        ]
+    }
+]

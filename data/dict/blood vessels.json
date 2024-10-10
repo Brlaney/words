@@ -1,0 +1,43 @@
+[
+    {
+        "meta": {
+            "id": "blood vessel",
+            "uuid": "67fa16b0-682e-4964-a58d-bc756bfca4bc",
+            "sort": "020291300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "blood vessel",
+                "blood vessels"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "blood vessel"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of the vessels through which blood circulates in the body"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1655",
+        "shortdef": [
+            "any of the vessels through which blood circulates in the body"
+        ]
+    }
+]

@@ -1,0 +1,771 @@
+[
+    {
+        "meta": {
+            "id": "alley:1",
+            "uuid": "a1db5274-bcba-42fb-9e1e-0aaaf29be85f",
+            "sort": "011935000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "alley",
+                "alleys",
+                "down her alley",
+                "down his alley",
+                "down its alley",
+                "down my alley",
+                "down one's alley",
+                "down our alley",
+                "down their alley",
+                "down your alley",
+                "up her alley",
+                "up his alley",
+                "up its alley",
+                "up my alley",
+                "up one's alley",
+                "up our alley",
+                "up their alley",
+                "up your alley"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "al*ley",
+            "prs": [
+                {
+                    "mw": "\u02c8a-l\u0113",
+                    "sound": {
+                        "audio": "alley001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "al*leys"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a garden or park walk bordered by trees or bushes"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2 a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a grassed enclosure for bowling or skittles"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a hardwood lane for bowling"
+                                            ]
+                                        ],
+                                        "sdsense": {
+                                            "sd": "also",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}a room or building housing a group of such lanes"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the space on each side of a tennis doubles court between the sideline and the service sideline"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an area in a baseball outfield between two outfielders when they are in normal positions "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "hit a line drive into the {wi}alley{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a narrow street"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a thoroughfare through the middle of a block giving access to the rear of lots or buildings"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an extensive region where destructive natural phenomena of a specified type (such as tornadoes) occur often or are likely to occur "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The most obvious tornado {wi}alley{/wi} extends from the plains of northwest Texas eastward into north Texas and then northward across Oklahoma, Kansas, and eastern Nebraska.",
+                                                "aq": {
+                                                    "auth": "Tom Konvicka"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "up one's alley",
+                "vrs": [
+                    {
+                        "vl": "or less commonly",
+                        "va": "down one's alley"
+                    }
+                ],
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}suited to one's own tastes or abilities "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "a job that's right {wi}up her alley{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Anglo-French {it}alee{/it}, from {it}aler{/it} to go"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "a garden or park walk bordered by trees or bushes",
+            "a grassed enclosure for bowling or skittles",
+            "a hardwood lane for bowling; also : a room or building housing a group of such lanes"
+        ]
+    },
+    {
+        "meta": {
+            "id": "alley:2",
+            "uuid": "28f5b934-90bb-4147-902e-89fc4b7331f8",
+            "sort": "011936000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "alley",
+                "alleys"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "alley"
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "alleys"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a playing marble"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}one of superior quality"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "by shortening and alteration from {it}alabaster{/it}"
+            ]
+        ],
+        "date": "1720",
+        "shortdef": [
+            "a playing marble; especially : one of superior quality"
+        ]
+    },
+    {
+        "meta": {
+            "id": "alley cat",
+            "uuid": "24ea2e3b-e692-45d4-9ec2-8ca0938de9dc",
+            "sort": "011937000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "alley cat",
+                "alley cats"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "alley cat"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a stray cat"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1886",
+        "shortdef": [
+            "a stray cat"
+        ]
+    },
+    {
+        "meta": {
+            "id": "alley-oop",
+            "uuid": "c9e11446-5ab5-4eb0-ae37-e40699181df6",
+            "sort": "011938000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "alley-oop",
+                "alley-ooped",
+                "alley-ooping",
+                "alley-oops"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "al*ley-oop",
+            "prs": [
+                {
+                    "mw": "\u02cca-l\u0113-\u02c8y\u00fcp",
+                    "sound": {
+                        "audio": "alley01w",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "al*ley-oops"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "sls": [
+                                    "basketball"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a play in which a leaping player catches a pass above the basket and immediately dunks the ball "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The meeting of man and ball was dazzling, the two handed {wi}alley-oop{/wi} slam-dunk spectacular.",
+                                                "aq": {
+                                                    "auth": "Shelly Smith"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the usually high, arcing pass thrown on such a play "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "He threw an {wi}alley-oop{/wi} to George Lynch on a fast break \u2026",
+                                                    "aq": {
+                                                        "source": "{it}The New York Times{/it}"
+                                                    }
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "American football"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a play in which the quarterback throws a high, arcing pass into the end zone to be caught by a leaping receiver "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Quarterback Moore hooked up with receiver Moore on one of their patented {wi}alley-oops{/wi} to make the score 20-7.",
+                                                "aq": {
+                                                    "auth": "Austin Murphy"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the pass itself "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "\u2026 an {wi}alley-oop{/wi} pass to Chandler from Manning gave the Saints a 13-7 lead.",
+                                                    "aq": {
+                                                        "auth": "Larry McMillen"
+                                                    }
+                                                },
+                                                {
+                                                    "t": "\u2026 he \u2026 tossed an {wi}alley-oop{/wi} to Tate Casey for the first touchdown pass of his college career.",
+                                                    "aq": {
+                                                        "source": "{it}USA Today{/it}"
+                                                    }
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "alley-oop",
+                "fl": "verb, transitive + intransitive",
+                "ins": [
+                    {
+                        "if": "al*ley-ooped"
+                    },
+                    {
+                        "if": "al*ley-oop*ing"
+                    },
+                    {
+                        "if": "al*ley-oops"
+                    }
+                ],
+                "utxt": [
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "\u2026 they dribbled around us, passed behind their backs, and {wi}alley-ooped{/wi} for a bunch of slam dunks.",
+                                "aq": {
+                                    "auth": "D. J. MacHale"
+                                }
+                            },
+                            {
+                                "t": "Rob {wi}alley-ooped{/wi} the ball toward the basket.",
+                                "aq": {
+                                    "auth": "Stanley Gordon West"
+                                }
+                            },
+                            {
+                                "t": "On the opening drive of the third quarter, Flacco basically {wi}alley-ooped{/wi} a pass from the 7, and Heap outmuscled safety Tyrone Carter for the ball in the rear right corner of the end zone.",
+                                "aq": {
+                                    "auth": "Edward Lee"
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "alteration of {it}allez-oop{/it}, cry of a circus acrobat about to leap, probably from French {it}allez{/it}, 2nd person plural imperative of {it}aller{/it} to go + English {it}-oop{/it}, perhaps alteration of {it}up{/it}"
+            ]
+        ],
+        "date": "1965{ds||2||}",
+        "shortdef": [
+            "a play in which a leaping player catches a pass above the basket and immediately dunks the ball; also : the usually high, arcing pass thrown on such a play",
+            "a play in which the quarterback throws a high, arcing pass into the end zone to be caught by a leaping receiver; also : the pass itself"
+        ]
+    },
+    {
+        "meta": {
+            "id": "blind alley",
+            "uuid": "5ca018a7-aa4a-45ba-a77a-a8464568c063",
+            "sort": "020278900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "blind alley",
+                "blind alleys"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "blind alley"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a fruitless or mistaken course or direction"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1665",
+        "shortdef": [
+            "a fruitless or mistaken course or direction"
+        ]
+    },
+    {
+        "meta": {
+            "id": "Tin Pan Alley",
+            "uuid": "27e92cce-328c-4731-9431-b606a65b5f37",
+            "sort": "200234100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "Tin Pan Alley",
+                "Tin Pan Alleys"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "Tin Pan Alley"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a district that is a center for composers and publishers of popular music"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the body of such composers and publishers"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1908",
+        "shortdef": [
+            "a district that is a center for composers and publishers of popular music; also : the body of such composers and publishers"
+        ]
+    },
+    {
+        "meta": {
+            "id": "Tornado Alley:g",
+            "uuid": "1c3fcf03-13b5-4d80-9d84-68155a04f677",
+            "sort": "283637000",
+            "src": "collegiate",
+            "section": "geog",
+            "stems": [
+                "Tornado Alley"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "Tornado Alley"
+        },
+        "fl": "geographical name",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "region in the southern Great Plains of the U.S. (stretching from Texas through Oklahoma, Kansas, and Nebraska to South Dakota and parts of many adjoining states) where favorable conditions spawn the highest number of tornadoes in the world"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "region in the southern Great Plains of the U.S. (stretching from Texas through Oklahoma, Kansas, and Nebraska to South Dakota and parts of many adjoining states) where favorable conditions spawn the highest number of tornadoes in the world"
+        ]
+    },
+    {
+        "meta": {
+            "id": "bowling alley",
+            "uuid": "f551fc4c-2a36-4672-b439-673862b6e2ee",
+            "sort": "3002219000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "bowling alley"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "bowling alley"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a room or building in which people play the game of bowling"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a room or building in which people play the game of bowling"
+        ]
+    },
+    {
+        "meta": {
+            "id": "(right) up/down someone's alley",
+            "uuid": "e34d427a-8420-4490-b720-4a3db3a13a4e",
+            "sort": "3016230000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "(right) up/down someone's alley",
+                "down someone's alley",
+                "right down someone's alley",
+                "right up someone's alley",
+                "up someone's alley"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "(right) up/down someone's alley"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "chiefly US",
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}especially suited to someone's tastes or abilities "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I love books, so volunteering at the library is {it}up my alley{/it}."
+                                            },
+                                            {
+                                                "t": "That's right {it}up my alley{/it}. I'd love to do it."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "especially suited to someone's tastes or abilities"
+        ]
+    }
+]

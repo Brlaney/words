@@ -1,0 +1,1070 @@
+[
+    {
+        "meta": {
+            "id": "sweat:1",
+            "uuid": "54651bc2-ccb5-498a-b061-c614cbe4a403",
+            "sort": "195000600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sweat",
+                "sweat blood",
+                "sweated",
+                "sweated blood",
+                "sweating",
+                "sweating blood",
+                "sweats",
+                "sweats blood"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "sweat",
+            "prs": [
+                {
+                    "mw": "\u02c8swet",
+                    "sound": {
+                        "audio": "sweat001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "sweat"
+            },
+            {
+                "il": "or",
+                "if": "sweat*ed"
+            },
+            {
+                "if": "sweat*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to excrete moisture in visible quantities through the openings of the sweat glands {bc}{sx|perspire||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to labor or exert oneself so as to cause perspiration"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to emit or exude moisture "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "cheese {wi}sweats{/wi} in ripening"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to gather surface moisture in beads as a result of condensation "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "stones {wi}sweat{/wi} at night"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "c (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|ferment||}"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|putrefy||}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to undergo anxiety or mental or emotional distress "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}sweat{/wi} through final exams"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become exuded through pores or a porous surface {bc}{sx|ooze||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to emit or seem to emit from pores {bc}{sx|exude||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to manipulate or produce by hard work or drudgery"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to get rid of or lose (weight) by or as if by {a_link|sweating} or being {a_link|sweated}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make wet with perspiration"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to excrete moisture from the skin"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to drive hard {bc}{sx|overwork||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to exact work from at low wages and under unfair or unhealthful conditions"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "sls": [
+                                    "slang"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to give the third degree to"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to exude or lose moisture"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to subject (something, such as tobacco leaves) to fermentation"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to extract something valuable from by unfair or dishonest means {bc}{sx|fleece||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to remove particles of metal from (a coin) by abrasion"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to heat (something, such as solder) so as to melt and cause to run especially between surfaces to unite them"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to unite by such means "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}sweat{/wi} a pipe joint"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to heat so as to extract an easily fusible constituent "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}sweat{/wi} bismuth ore"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to saut\u00e9 in a covered vessel until natural juices are exuded"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9",
+                                "sls": [
+                                    "slang"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to worry about "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "doesn't {wi}sweat{/wi} the small stuff",
+                                                "aq": {
+                                                    "auth": "Barry McDermott"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "sweat blood",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to work or worry intensely "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "in preparing speeches each {it}sweats blood{/it} in his own way",
+                                                        "aq": {
+                                                            "auth": "Stewart Cockburn"
+                                                        }
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}sweten{/it}, from Old English {it}sw\u01e3tan{/it}, from {it}sw\u0101t{/it} sweat; akin to Old High German {it}sweiz{/it} sweat, Latin {it}sudare{/it} to sweat, Greek {it}hidr\u014ds{/it} sweat"
+            ]
+        ],
+        "date": "before 12th century{ds|i|1|a|}",
+        "shortdef": [
+            "to excrete moisture in visible quantities through the openings of the sweat glands : perspire",
+            "to labor or exert oneself so as to cause perspiration",
+            "to emit or exude moisture"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweat:2",
+            "uuid": "9b405726-0d46-4c26-8aba-4aba49d2196c",
+            "sort": "195000700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "no sweat",
+                "sweat",
+                "sweats"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "sweat"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}hard work {bc}{sx|drudgery||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the fluid excreted from the sweat glands of the skin {bc}{sx|perspiration||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}moisture issuing from or gathering in drops on a surface"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the condition of one {a_link|sweating} or {a_link|sweated}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a spell of sweating"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a state of anxiety or impatience"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sen",
+                            {
+                                "sn": "6",
+                                "ins": [
+                                    {
+                                        "if": "sweats",
+                                        "spl": "plural"
+                                    }
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|sweat suit||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|sweatpants||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "no sweat",
+                "def": [
+                    {
+                        "sls": [
+                            "slang"
+                        ],
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}with little or no difficulty {bc}{sx|easily||}"
+                                            ]
+                                        ],
+                                        "sdsense": {
+                                            "sd": "also",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}{sx|easy||} "
+                                                ],
+                                                [
+                                                    "uns",
+                                                    [
+                                                        [
+                                                            [
+                                                                "text",
+                                                                "often used interjectionally"
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "date": "13th century{ds||1||}",
+        "shortdef": [
+            "hard work : drudgery",
+            "the fluid excreted from the sweat glands of the skin : perspiration",
+            "moisture issuing from or gathering in drops on a surface"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweat bee",
+            "uuid": "ec74f8e0-b075-4962-a616-bd7ea98ebafc",
+            "sort": "195000900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sweat bee",
+                "sweat bees"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweat bee"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of various small black or brownish bees (family Halictidae) that are attracted to perspiration"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1894",
+        "shortdef": [
+            "any of various small black or brownish bees (family Halictidae) that are attracted to perspiration"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweat equity",
+            "uuid": "42a15d0e-2fe8-4433-ac7a-992fde7459c8",
+            "sort": "195001200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sweat equities",
+                "sweat equity"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweat equity"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}equity in a property resulting from labor invested in improvements that increase its value"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the labor so invested"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1950",
+        "shortdef": [
+            "equity in a property resulting from labor invested in improvements that increase its value; also : the labor so invested"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweat gland",
+            "uuid": "b5e3375f-a329-427a-99ab-d547f2337f1b",
+            "sort": "195001700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sweat gland",
+                "sweat glands"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweat gland"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a simple tubular gland of the skin that excretes perspiration, is widely distributed in nearly all parts of the human skin, and consists typically of an epithelial tube extending spirally from a minute pore on the surface of the skin into the dermis or subcutaneous tissues where it ends in a convoluted tuft"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1845",
+        "shortdef": [
+            "a simple tubular gland of the skin that excretes perspiration, is widely distributed in nearly all parts of the human skin, and consists typically of an epithelial tube extending spirally from a minute pore on the surface of the skin into the dermis or subcutaneous tissues where it ends in a convoluted tuft"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweat lodge",
+            "uuid": "3c9ecf50-87ea-44a4-8205-898da24c45be",
+            "sort": "195001800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sweat lodge",
+                "sweat lodges"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweat lodge"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a hut, lodge, or cavern heated by steam from water poured on hot stones and used especially by American Indians for ritual or therapeutic sweating"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1850",
+        "shortdef": [
+            "a hut, lodge, or cavern heated by steam from water poured on hot stones and used especially by American Indians for ritual or therapeutic sweating"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweat out",
+            "uuid": "ec50b086-542c-4d88-a6bf-04fca07c45c8",
+            "sort": "195001900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sweat out",
+                "sweated out",
+                "sweating out",
+                "sweats out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweat out"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "sweat out"
+            },
+            {
+                "il": "or",
+                "if": "sweat*ed out"
+            },
+            {
+                "if": "sweat*ing out"
+            },
+            {
+                "if": "sweats out"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to work one's way painfully through or to"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to endure or wait through the course of"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1589{ds||1||}",
+        "shortdef": [
+            "to work one's way painfully through or to",
+            "to endure or wait through the course of"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweat suit",
+            "uuid": "6d004263-2dfc-4a7a-84d4-fea8b33fa450",
+            "sort": "195002300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sweat suit",
+                "sweat suits"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweat suit"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a suit worn usually for exercise that consists of a sweatshirt and sweatpants"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1930",
+        "shortdef": [
+            "a suit worn usually for exercise that consists of a sweatshirt and sweatpants"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweat test",
+            "uuid": "be078c6a-7b99-4942-935b-2cf3afc78d6c",
+            "sort": "195002400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sweat test",
+                "sweat tests"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweat test"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a test for cystic fibrosis that involves measuring the subject's sweat for abnormally high sodium chloride content"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1978",
+        "shortdef": [
+            "a test for cystic fibrosis that involves measuring the subject's sweat for abnormally high sodium chloride content"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweat bullets",
+            "uuid": "17afdade-2f9a-40d2-b3e1-ae326d3f73fd",
+            "sort": "3019073000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "sweat bullets"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweat bullets"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "US",
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be very nervous or worried "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I was {it}sweating bullets{/it} while I waited to talk to my boss."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to be very nervous or worried"
+        ]
+    }
+]

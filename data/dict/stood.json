@@ -1,0 +1,1950 @@
+[
+    {
+        "meta": {
+            "id": "stood",
+            "uuid": "b18bf676-85fd-42a1-8547-627b9222b5cf",
+            "sort": "194825100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stand",
+                "stood"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stood"
+        },
+        "cxs": [
+            {
+                "cxl": "past tense and past participle of",
+                "cxtis": [
+                    {
+                        "cxt": "stand"
+                    }
+                ]
+            }
+        ],
+        "shortdef": []
+    },
+    {
+        "meta": {
+            "id": "stand:1",
+            "uuid": "8f2bd404-492d-4371-a3a8-440000122f71",
+            "sort": "194744700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stand",
+                "stand a chance",
+                "stand for",
+                "stand on",
+                "stand on her own feet",
+                "stand on his own feet",
+                "stand on its own feet",
+                "stand on my own feet",
+                "stand on one's own feet",
+                "stand on our own feet",
+                "stand on their own feet",
+                "stand on your own feet",
+                "stand one's ground",
+                "stand tall",
+                "stand treat",
+                "stander",
+                "standers",
+                "standing",
+                "standing a chance",
+                "standing for",
+                "standing n its own feet",
+                "standing on",
+                "standing on her own feet",
+                "standing on his own feet",
+                "standing on my own feet",
+                "standing on our own feet",
+                "standing on their own feet",
+                "standing on your own feet",
+                "standing tall",
+                "standing treat",
+                "stands",
+                "stands a chance",
+                "stands for",
+                "stands on",
+                "stands on her own feet",
+                "stands on his own feet",
+                "stands on its own feet",
+                "stands tall",
+                "stands treat",
+                "stood",
+                "stood a chance",
+                "stood for",
+                "stood on",
+                "stood on her own feet",
+                "stood on his own feet",
+                "stood on its own feet",
+                "stood on my own feet",
+                "stood on our own feet",
+                "stood on their own feet",
+                "stood on your own feet",
+                "stood tall",
+                "stood treat"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "stand",
+            "prs": [
+                {
+                    "mw": "\u02c8stand",
+                    "sound": {
+                        "audio": "stand001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stood",
+                "prs": [
+                    {
+                        "mw": "\u02c8stu\u0307d",
+                        "sound": {
+                            "audio": "stand002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "if": "stand*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to support oneself on the feet in an erect position"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be a specified height when fully erect "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}stands{/wi} six feet two"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to rise to an erect position"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take up or maintain a specified position or posture "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}stand{/wi} aside"
+                                            },
+                                            {
+                                                "t": "can you {wi}stand{/wi} on your head"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to maintain one's position "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}stand{/wi} firm"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be in a particular state or situation "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}stands{/wi} accused"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to hold a course at sea"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|hesitate||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have or maintain a relative position in or as if in a graded scale "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}stands{/wi} first in the class"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be in a position to gain or lose because of an action taken or a commitment made "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}stands{/wi} to make quite a profit"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "sls": [
+                                    "chiefly British"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be a candidate {bc}{sx|run||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to rest or remain upright on a base or lower end "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a clock {it}stood{/it} on the mantle"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to occupy a place or location "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the house {wi}stands{/wi} on a knoll"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to remain stationary or inactive "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the car {it}stood{/it} in the garage for a week"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to gather slowly and remain "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "tears {wi}standing{/wi} in her eyes"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "10",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|agree||}, {sx|accord||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used chiefly in the expression {it}it stands to reason{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "11 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to exist in a definite written or printed form "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "copy a passage exactly as it {wi}stands{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to remain valid or efficacious "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the order given last week still {wi}stands{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "12",
+                                "sls": [
+                                    "of a male animal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be available as a sire "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used especially of horses"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "13",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to refuse additional cards (as in blackjack)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to endure or undergo successfully "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "this book will {wi}stand{/wi} the test of time"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to tolerate without flinching {bc}bear courageously "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}stands{/wi} pain well"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to endure the presence or personality of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "can't {wi}stand{/wi} the boss"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to derive benefit or enjoyment from "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "you look like you could {wi}stand{/wi} a drink"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to remain firm in the face of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}stand{/wi} a siege"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to submit to "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}stand{/wi} trial"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to perform the duty of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}stand{/wi} guard"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to participate in (a military formation)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pay the cost of (a treat) {bc}pay for "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I'll {wi}stand{/wi} you a dinner"
+                                            },
+                                            {
+                                                "t": "{wi}stand{/wi} drinks"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to stand {bc}set upright"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make available for breeding "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}stand{/wi} a stallion"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "stand*er",
+                "fl": "noun"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "stand a chance",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to have a chance"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "stand for",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be a symbol for {bc}{sx|represent||}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to put up with {bc}{sx|permit||}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "stand on",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to depend on"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to insist on "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "never {it}stands on{/it} ceremony"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "stand one's ground",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to maintain one's position"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "stand on one's own feet",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to think or act independently"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "stand tall",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to exhibit courage, strength, or calm especially in the face of adversity"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "stand treat",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to pay the cost of food, drink, or entertainment for others in a group"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}bear{/sc} {sc}suffer{/sc} {sc}endure{/sc} {sc}abide{/sc} {sc}tolerate{/sc} {sc}stand{/sc} mean to put up with something trying or painful. {sc}bear{/sc} usually implies the power to sustain without flinching or breaking. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "forced to {it}bear{/it} a tragic loss"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}suffer{/sc} often suggests acceptance or passivity rather than courage or patience in bearing. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}suffering{/it} many insults"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}endure{/sc} implies continuing firm or resolute through trials and difficulties. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}endured{/it} years of rejection"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}abide{/sc} suggests acceptance without resistance or protest. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "cannot {it}abide{/it} their rudeness"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}tolerate{/sc} suggests overcoming or successfully controlling an impulse to resist, avoid, or resent something injurious or distasteful. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "refused to {it}tolerate{/it} such treatment"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}stand{/sc} emphasizes even more strongly the ability to bear without discomposure or flinching. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "unable to {it}stand{/it} teasing"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}standan{/it}; akin to Old High German {it}stantan, st\u0101n{/it} to stand, Latin {it}stare{/it}, Greek {it}histanai{/it} to cause to stand, set, {it}histasthai{/it} to stand, be standing"
+            ]
+        ],
+        "date": "before 12th century{ds|i|1|a|}",
+        "shortdef": [
+            "to support oneself on the feet in an erect position",
+            "to be a specified height when fully erect",
+            "to rise to an erect position"
+        ]
+    },
+    {
+        "meta": {
+            "id": "self-condemned",
+            "uuid": "f79d5844-e3cf-4798-98e3-685eeb434b52",
+            "sort": "192132000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "self-condemned",
+                "standing self-condemned",
+                "stands self-condemned",
+                "stood self-condemned"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "self-con*demned",
+            "prs": [
+                {
+                    "mw": "\u02ccself-k\u0259n-\u02c8demd",
+                    "sound": {
+                        "audio": "self-condemned_1",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{d_link|condemned|condemn} by oneself "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}self-condemned{/wi} by poor decisions"
+                                            },
+                                            {
+                                                "t": "For example, Kafka is presented as a profoundly unhappy, deliberately {wi}self-condemned{/wi} fellow who often thought of himself with the pseudonym of {ldquo}the Bachelor{rdquo} \u2026",
+                                                "aq": {
+                                                    "auth": "John Calvin Batchelor"
+                                                }
+                                            },
+                                            {
+                                                "t": "The lazy person has to look on hard workers as fools; otherwise he {phrase}stands self-condemned{/phrase} \u2026",
+                                                "aq": {
+                                                    "auth": "Bruce K. Waltke"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1615",
+        "shortdef": [
+            "condemned by oneself"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stand by",
+            "uuid": "f803213c-2379-44a4-861d-e12ed6df7f69",
+            "sort": "194747200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stand by",
+                "standing by",
+                "stands by",
+                "stood by"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand by"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stood by"
+            },
+            {
+                "if": "stand*ing by"
+            },
+            {
+                "if": "stands by"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be present"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to remain apart or aloof"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be or to get ready to act "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "an ambulance was {it}standing by{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to remain loyal or faithful to {bc}{sx|defend||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}stood by{/it} his decision"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "14th century{ds|i|1||}",
+        "shortdef": [
+            "to be present; also : to remain apart or aloof",
+            "to be or to get ready to act",
+            "to remain loyal or faithful to : defend"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stand down",
+            "uuid": "a1d40237-287e-460b-bf71-5f6efaf52fa6",
+            "sort": "194747400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stand down",
+                "standing down",
+                "stands down",
+                "stood down"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand down"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stood down"
+            },
+            {
+                "if": "stand*ing down"
+            },
+            {
+                "if": "stands down"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to leave the witness stand"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sen",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "chiefly British"
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to go off duty"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to withdraw from a contest, a position of leadership, or a state of alert or readiness"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to remove from active duty "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "In December of 1944, it was judged safe to {wi}stand down{/wi} the Home Guard \u2026 after four and a half years of guarding Britain against invasion.",
+                                                "aq": {
+                                                    "auth": "Anthony Bailey"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1651{ds|i|1||}",
+        "shortdef": [
+            "to leave the witness stand",
+            "to go off duty",
+            "to withdraw from a contest, a position of leadership, or a state of alert or readiness"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stand in",
+            "uuid": "9d3dd730-13c6-45f2-8bf4-7854820ed261",
+            "sort": "194747700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stand in",
+                "stand in with",
+                "standing in",
+                "standing in with",
+                "stands in",
+                "stands in with",
+                "stood in",
+                "stood in with"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand in"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stood in"
+            },
+            {
+                "if": "stand*ing in"
+            },
+            {
+                "if": "stands in"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to act as a stand-in"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "stand in with",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be in a specially favored position with"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "date": "1904",
+        "shortdef": [
+            "to act as a stand-in"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stand off",
+            "uuid": "77613107-e610-45b3-81f6-9dd249bae163",
+            "sort": "194749000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stand off",
+                "standing off",
+                "stands off",
+                "stood off"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand off"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stood off"
+            },
+            {
+                "if": "stand*ing off"
+            },
+            {
+                "if": "stands off"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stay at a distance from something"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to sail away from the shore"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to keep from advancing {bc}{sx|repel||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|put off||}, {sx|stall||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1591{ds|i|2||}",
+        "shortdef": [
+            "to stay at a distance from something",
+            "to sail away from the shore",
+            "to keep from advancing : repel"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stand out",
+            "uuid": "9d62e194-4143-4fd3-bc96-49399e588ac7",
+            "sort": "194749400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stand out",
+                "standing out",
+                "stands out",
+                "stood out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand out"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stood out"
+            },
+            {
+                "if": "stand*ing out"
+            },
+            {
+                "if": "stands out"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to appear as if in relief {bc}{sx|project||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be prominent or conspicuous "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}stands out{/it} from the crowd"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to steer away from shore"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be stubborn in resolution or resistance"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "14th century{ds||1|a|}",
+        "shortdef": [
+            "to appear as if in relief : project",
+            "to be prominent or conspicuous",
+            "to steer away from shore"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stand pat",
+            "uuid": "3b5637d3-4e62-4323-8743-7fecfed1feeb",
+            "sort": "194749600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stand pat",
+                "standing pat",
+                "standpatter",
+                "standpatters",
+                "standpattism",
+                "standpattisms",
+                "stands pat",
+                "stood pat"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand pat"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stood pat"
+            },
+            {
+                "if": "stand*ing pat"
+            },
+            {
+                "if": "stands pat"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to play one's hand as dealt in draw poker without drawing"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to oppose or resist change"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "stand*pat*ter",
+                "prs": [
+                    {
+                        "mw": "\u02c8stan(d)-\u02ccpa-t\u0259r",
+                        "sound": {
+                            "audio": "standp02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "-\u02c8pa-t\u0259r"
+                    }
+                ],
+                "fl": "noun"
+            },
+            {
+                "ure": "stand*pat*tism",
+                "prs": [
+                    {
+                        "mw": "\u02c8stan(d)-\u02ccpa-\u02ccti-z\u0259m",
+                        "sound": {
+                            "audio": "standp03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{et_link|pat:4|pat:4}"
+            ]
+        ],
+        "date": "1865{ds||1||}",
+        "shortdef": [
+            "to play one's hand as dealt in draw poker without drawing",
+            "to oppose or resist change"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stand up",
+            "uuid": "5a95bfe2-3cff-4fea-b923-34fb34314b61",
+            "sort": "194750200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stand up",
+                "stand up for",
+                "stand up to",
+                "stand up with",
+                "standing up",
+                "standing up for",
+                "standing up to",
+                "standing up with",
+                "stands up",
+                "stands up for",
+                "stands up to",
+                "stands up with",
+                "stood up",
+                "stood up for",
+                "stood up to",
+                "stood up with"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand up"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stood up"
+            },
+            {
+                "if": "stand*ing up"
+            },
+            {
+                "if": "stands up"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to rise to a standing position"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to remain sound and intact under stress, attack, or close scrutiny"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fail to keep an appointment with"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "stand up for",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to defend against attack or criticism"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "stand up to",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to meet fairly and fully"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to face boldly"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "stand up with",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be best man or maid of honor for at a wedding ceremony"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "date": "before 12th century{ds|i|1||}",
+        "shortdef": [
+            "to rise to a standing position",
+            "to remain sound and intact under stress, attack, or close scrutiny",
+            "to fail to keep an appointment with"
+        ]
+    }
+]

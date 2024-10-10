@@ -1,0 +1,273 @@
+[
+    {
+        "meta": {
+            "id": "huddle:1",
+            "uuid": "3be334a8-cf77-47e9-9025-e1731a4231b2",
+            "sort": "080296100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "huddle",
+                "huddled",
+                "huddler",
+                "huddlers",
+                "huddles",
+                "huddling"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "hud*dle",
+            "prs": [
+                {
+                    "mw": "\u02c8h\u0259-d\u1d4al",
+                    "sound": {
+                        "audio": "huddle01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "hud*dled"
+            },
+            {
+                "if": "hud*dling",
+                "prs": [
+                    {
+                        "mw": "\u02c8h\u0259-d\u1d4al-i\u014b",
+                        "sound": {
+                            "audio": "huddle02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8h\u0259d-li\u014b"
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "sls": [
+                                    "British"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to arrange carelessly or hurriedly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the solemnities had to be {it}huddled{/it} through at express speed",
+                                                "aq": {
+                                                    "source": "{it}Manchester Examiner{/it}"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to crowd together "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Give me your tired, your poor, your {it}huddled{/it} masses, yearning to breathe free \u2026",
+                                                "aq": {
+                                                    "auth": "Emma Lazarus"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to draw (oneself) together {bc}{sx|crouch||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "People were {it}huddled{/it} around their radios."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to wrap oneself closely in "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}huddled{/it} her coat around her"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to gather in a close-packed group "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They {it}huddled{/it} around the campfire."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to curl up {bc}{sx|crouch||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Students {it}huddled{/it} over their desks."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to hold a consultation "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}huddled{/it} to discuss the proposal"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "sls": [
+                                    "football"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to gather away from the {d_link|line of scrimmage|line of scrimmage} to receive instructions (as from the quarterback) for the next down {dx_def}see {dxt|down:5||3b}{/dx_def} {bc}to gather in a huddle {dx_def}see {dxt|huddle:2||2b}{/dx_def}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "hud*dler",
+                "prs": [
+                    {
+                        "mw": "\u02c8h\u0259-d\u1d4al-\u0259r",
+                        "sound": {
+                            "audio": "huddle03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8h\u0259d-l\u0259r"
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "probably from or akin to Middle English {it}hoderen{/it} to huddle"
+            ]
+        ],
+        "date": "1579{ds|t|1||}",
+        "shortdef": [
+            "to arrange carelessly or hurriedly",
+            "to crowd together",
+            "to draw (oneself) together : crouch"
+        ]
+    }
+]

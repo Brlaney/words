@@ -1,0 +1,1137 @@
+[
+    {
+        "meta": {
+            "id": "command:1",
+            "uuid": "ac2eb975-31f6-4827-b9b6-d34de511dfa4",
+            "sort": "035464500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "command",
+                "commandable",
+                "commanded",
+                "commanding",
+                "commands"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "com*mand",
+            "prs": [
+                {
+                    "mw": "k\u0259-\u02c8mand",
+                    "sound": {
+                        "audio": "comman01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "com*mand*ed"
+            },
+            {
+                "if": "com*mand*ing"
+            },
+            {
+                "if": "com*mands"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to direct authoritatively {bc}{sx|order||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}commanded{/wi} adherence to the rules"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "bs",
+                            {
+                                "sense": {
+                                    "sn": "2",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to exercise a dominating influence over {bc}have command of: such as"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have at one's immediate disposal "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}commands{/wi} many resources"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to demand or receive as one's due "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}commands{/wi} a high fee"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to overlook or dominate from or as if from a strategic position "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a hill that {wi}commands{/wi} the city"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have military command of as senior officer "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}command{/wi} a regiment"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to order or request to be given"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have or exercise direct authority {bc}{sx|govern||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a leader who knows how to {wi}command{/wi} well"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to give orders "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Rob seldom {wi}commanded{/wi}, but when he did Master Ted had to give in.",
+                                                "aq": {
+                                                    "auth": "Louisa May Alcott"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be {a_link|commander} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The general will {wi}command{/wi} at the western front."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to dominate as if from an elevated place"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "com*mand*able",
+                "prs": [
+                    {
+                        "mw": "k\u0259-\u02c8man-d\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "comman02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}command{/sc} {sc}order{/sc} {sc}bid{/sc} {sc}enjoin{/sc} {sc}direct{/sc} {sc}instruct{/sc} {sc}charge{/sc} mean to issue orders. {sc}command{/sc} and {sc}order{/sc} imply authority and usually some degree of formality and impersonality. {sc}command{/sc} stresses official exercise of authority. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a general {it}commanding{/it} troops"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}order{/sc} may suggest peremptory or arbitrary exercise. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}ordered{/it} his employees about"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}bid{/sc} suggests giving orders peremptorily (as to children or servants). "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "she {it}bade{/it} him be seated"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}enjoin{/sc} implies giving an order or direction authoritatively and urgently and often with admonition or solicitude. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a sign {it}enjoining{/it} patrons to be quiet"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}direct{/sc} and {sc}instruct{/sc} both connote expectation of obedience and usually concern specific points of procedure or method, {sc}instruct{/sc} sometimes implying greater explicitness or formality. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}directed{/it} her assistant to hold all calls"
+                            },
+                            {
+                                "t": "the judge {it}instructed{/it} the jury to ignore the remark"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}charge{/sc} adds to {sc}enjoin{/sc} an implication of imposing as a duty or responsibility. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}charged{/it} by the President with a secret mission"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}comanden{/it}, from Anglo-French {it}cumander{/it}, from Vulgar Latin {it}*commandare{/it}, alteration of Latin {it}commendare{/it} to commit to one's charge {ma}{mat|commend|}{/ma}"
+            ]
+        ],
+        "date": "14th century{ds|t|1||}",
+        "shortdef": [
+            "to direct authoritatively : order",
+            "to exercise a dominating influence over : have command of: such as",
+            "to have at one's immediate disposal"
+        ]
+    },
+    {
+        "meta": {
+            "id": "command:2",
+            "uuid": "55e23cea-c2f5-42c5-97fc-2a98b1b4d168",
+            "sort": "035464600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "command",
+                "commands",
+                "on command"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "command"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an order given "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The {wi}command{/wi} was to hold fire."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a signal that actuates a device (such as a control mechanism in a spacecraft or one step in a computer)"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the activation of a device by means of such a signal"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a line of code {dx_def}see {dxt|code:1||5}{/dx_def} instructing a computer to send such a signal"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the ability to control {bc}{sx|mastery||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She was in {wi}command{/wi} of her emotions."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the authority or right to command "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the officer in {wi}command{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "c (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the power to dominate "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The fort has {wi}command{/wi} of the valley."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}scope of vision "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The tower provides a wide {wi}command{/wi} of the neighboring hills."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}facility in use "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a good {wi}command{/wi} of French"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "e",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|control||1d} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a pitcher with good {wi}command{/wi} of his curveball"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act of {a_link|commanding} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The troops will charge at {wi}command{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the personnel, area, or organization under a {a_link|commander}"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "specifically",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a unit of the U.S. Air Force higher than an air force"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a position of highest usually military authority "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He was relieved of his {wi}command{/wi} after being charged with misconduct."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "on command",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}when an order is given {bc}in response to a command "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "a dog trained to attack {wi}on command{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}power{/sc} {sc}authority{/sc} {sc}jurisdiction{/sc} {sc}control{/sc} {sc}command{/sc} {sc}sway{/sc} {sc}dominion{/sc} mean the right to govern or rule or determine. {sc}power{/sc} implies possession of ability to wield force, authority, or influence. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the {it}power{/it} to mold public opinion"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}authority{/sc} implies power for a specific purpose within specified limits. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "granted the {it}authority{/it} to manage her estate"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}jurisdiction{/sc} applies to official power exercised within prescribed limits. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the bureau having {it}jurisdiction{/it} over parks"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}control{/sc} stresses the power to direct and restrain. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "you are responsible for the students under your {it}control{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}command{/sc} implies the power to make arbitrary decisions and compel obedience. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the army officer in {it}command{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}sway{/sc} suggests the extent of exercised power or influence. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the empire extended its {it}sway{/it} over the region"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}dominion{/sc} stresses sovereign power or supreme authority. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "given {it}dominion{/it} over all the animals"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "14th century{ds||1|a|}",
+        "shortdef": [
+            "an order given",
+            "a signal that actuates a device (such as a control mechanism in a spacecraft or one step in a computer)",
+            "the activation of a device by means of such a signal"
+        ]
+    },
+    {
+        "meta": {
+            "id": "command:3",
+            "uuid": "fa5a07f8-de6a-4502-82dd-8f61ac614731",
+            "sort": "035464700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "command"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "command"
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}done on command or request "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}command{/wi} performance"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1826",
+        "shortdef": [
+            "done on command or request"
+        ]
+    },
+    {
+        "meta": {
+            "id": "command car",
+            "uuid": "8f7c74ac-3ee0-4a94-876b-56dff8a60ebb",
+            "sort": "035464900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "command car",
+                "command cars"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "command car"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an open armored car designed especially for military reconnaissance and capable of traveling over rough terrain"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1941",
+        "shortdef": [
+            "an open armored car designed especially for military reconnaissance and capable of traveling over rough terrain"
+        ]
+    },
+    {
+        "meta": {
+            "id": "command economy",
+            "uuid": "7b8d4554-8326-4002-b9ad-3a30ebf8a9f1",
+            "sort": "035465000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "command economy"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "command economy"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an economic system in which activity is controlled by a central authority and the means of production are publicly owned"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1942",
+        "shortdef": [
+            "an economic system in which activity is controlled by a central authority and the means of production are publicly owned"
+        ]
+    },
+    {
+        "meta": {
+            "id": "command module",
+            "uuid": "7fc8aad8-8bea-47cd-92c9-c5dbb6fe3e55",
+            "sort": "035465800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "command module",
+                "command modules"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "command module"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a space vehicle module designed to carry the crew, the chief communication equipment, and the equipment for reentry"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1962",
+        "shortdef": [
+            "a space vehicle module designed to carry the crew, the chief communication equipment, and the equipment for reentry"
+        ]
+    },
+    {
+        "meta": {
+            "id": "command post",
+            "uuid": "106b1e10-e635-4b23-83f7-5aec7acf8ded",
+            "sort": "035466000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "command post",
+                "command posts"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "command post"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a post at which the commander of a unit in the field receives orders and exercises command"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1918",
+        "shortdef": [
+            "a post at which the commander of a unit in the field receives orders and exercises command"
+        ]
+    },
+    {
+        "meta": {
+            "id": "command sergeant major",
+            "uuid": "05b1231b-11f7-4ab3-89d2-318943de7d16",
+            "sort": "035466100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "command sergeant major",
+                "command sergeant majors"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "command sergeant major"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a noncommissioned officer in the army ranking above a first sergeant"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1967",
+        "shortdef": [
+            "a noncommissioned officer in the army ranking above a first sergeant"
+        ]
+    },
+    {
+        "meta": {
+            "id": "command performance",
+            "uuid": "eb820ef3-ce5c-42c4-81d3-bce445aa16ef",
+            "sort": "3003760000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "command performance"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "command performance"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a special performance of a concert, play, etc., that is done at the request of an important person (such as a king)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a special performance of a concert, play, etc., that is done at the request of an important person (such as a king)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "chain of command",
+            "uuid": "ece77e9d-7f2f-48b0-a4b9-c8af4898a0a7",
+            "sort": "031991000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "chain of command"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "chain of command"
+        },
+        "fl": "noun phrase",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a series of executive positions in order of authority "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a military {it}chain of command{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1825",
+        "shortdef": [
+            "a series of executive positions in order of authority"
+        ]
+    }
+]

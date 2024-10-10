@@ -1,0 +1,178 @@
+[
+    {
+        "meta": {
+            "id": "grumble",
+            "uuid": "d09e8abe-1085-4e6e-a781-045a6de39bf3",
+            "sort": "072707000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "grumble",
+                "grumbled",
+                "grumbler",
+                "grumblers",
+                "grumbles",
+                "grumblier",
+                "grumbliest",
+                "grumbling",
+                "grumbly"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "grum*ble",
+            "prs": [
+                {
+                    "mw": "\u02c8gr\u0259m-b\u0259l",
+                    "sound": {
+                        "audio": "grumbl01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "grum*bled"
+            },
+            {
+                "if": "grum*bling",
+                "prs": [
+                    {
+                        "mw": "\u02c8gr\u0259m-b(\u0259-)li\u014b",
+                        "sound": {
+                            "audio": "grumbl02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to mutter in discontent "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}grumbled{/it} about the scarcity of jobs"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|growl||}, {sx|rumble||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Thunder {it}grumbled{/it} in the distance."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to express with {a_link|grumbling} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}grumbled{/it} his annoyance"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "grumble",
+                "fl": "noun"
+            },
+            {
+                "ure": "grum*bler",
+                "prs": [
+                    {
+                        "mw": "\u02c8gr\u0259m-b(\u0259-)l\u0259r",
+                        "sound": {
+                            "audio": "grumbl03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            },
+            {
+                "ure": "grum*bly",
+                "prs": [
+                    {
+                        "mw": "\u02c8gr\u0259m-b(\u0259-)l\u0113",
+                        "sound": {
+                            "audio": "grumbl05",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "probably from Middle French {it}grommeler{/it}, ultimately from Middle Dutch {it}grommen{/it}; akin to Old High German {it}grimm{/it} grim"
+            ]
+        ],
+        "date": "1580{ds|i|1||}",
+        "shortdef": [
+            "to mutter in discontent",
+            "growl, rumble",
+            "to express with grumbling"
+        ]
+    }
+]

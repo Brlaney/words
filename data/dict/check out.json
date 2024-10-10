@@ -1,0 +1,357 @@
+[
+    {
+        "meta": {
+            "id": "checkout",
+            "uuid": "2e24859d-9d9c-47f4-b15b-21a33a8f2f42",
+            "sort": "032336000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "at checkout",
+                "checkout",
+                "checkouts"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "check*out",
+            "prs": [
+                {
+                    "mw": "\u02c8chek-\u02ccau\u0307t",
+                    "sound": {
+                        "audio": "checko02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the action or an instance of checking out "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 Educators receive new library card privileges, including 100 simultaneous {wi}checkouts{/wi} \u2026",
+                                                "aq": {
+                                                    "auth": "Andrew Wilson and Leanne Ellis"
+                                                }
+                                            },
+                                            {
+                                                "t": "When I forget to bring my reusable shopping bags to the store, I ask for a brown paper sack {phrase}at checkout{/phrase} instead of a plastic one.",
+                                                "aq": {
+                                                    "auth": "Claire Haffernean"
+                                                }
+                                            },
+                                            {
+                                                "t": "How much will my final hotel bill be {wi}at checkout{/wi}?",
+                                                "aq": {
+                                                    "auth": "Bob Sullivan"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used attributively "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "a {wi}checkout{/wi} line/counter"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the time at which a lodger must vacate a room (as in a hotel) or be charged for retaining it"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a counter or area in a store where goods are checked out"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the action of examining and testing something for performance, suitability, or readiness"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the action of familiarizing oneself with the operation of a mechanical thing (such as an airplane)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1933{ds||1||}",
+        "shortdef": [
+            "the action or an instance of checking out \u2014often used attributively",
+            "the time at which a lodger must vacate a room (as in a hotel) or be charged for retaining it",
+            "a counter or area in a store where goods are checked out"
+        ]
+    },
+    {
+        "meta": {
+            "id": "check out",
+            "uuid": "595279c6-fad2-4019-b303-b8c1be4f659f",
+            "sort": "032337000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "check out",
+                "checked out",
+                "checking out",
+                "checks out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "check out"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "checked out"
+            },
+            {
+                "if": "check*ing out"
+            },
+            {
+                "if": "checks out"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to vacate and pay for one's lodging (as at a hotel)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|die||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have the cost of purchases totaled and pay the cost "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Self-service kiosks\u2014those ATM-like machines that let you check in at the airport or {wi}check out{/wi} at the grocery store all on your own\u2014are sweeping into more retailers and service spots.",
+                                                "aq": {
+                                                    "auth": "Barbara Kiviat"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to satisfy all requirements in taking away "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}checked out{/it} a library book"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to itemize and total the cost of and receive payment for (outgoing merchandise) especially in a self-service store"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have the cost totaled and pay for (purchases) at a checkout"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1921{ds|i|1||}",
+        "shortdef": [
+            "to vacate and pay for one's lodging (as at a hotel)",
+            "die",
+            "to have the cost of purchases totaled and pay the cost"
+        ]
+    },
+    {
+        "meta": {
+            "id": "check it out",
+            "uuid": "5e7909cc-1d6a-45ba-b419-ad94984d6261",
+            "sort": "3003141000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "check it out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "check it out"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to direct someone's attention to something "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{it}Check it out{/it}\u2014they've got that new book in stock."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "\u2014used to direct someone's attention to something"
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "meta": {
+            "id": "unbounded",
+            "uuid": "240cd978-9192-4819-b797-eeacc96ffbc3",
+            "sort": "210463000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "unbounded",
+                "unboundedness",
+                "unboundednesses"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "un*bound*ed",
+            "prs": [
+                {
+                    "mw": "\u02cc\u0259n-\u02c8bau\u0307n-d\u0259d",
+                    "sound": {
+                        "audio": "unboun02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}having no limit "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}unbounded{/wi} joy"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|unrestrained||}, {sx|uncontrolled||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "un*bound*ed*ness",
+                "fl": "noun"
+            }
+        ],
+        "date": "1565{ds||1||}",
+        "shortdef": [
+            "having no limit",
+            "unrestrained, uncontrolled"
+        ]
+    }
+]

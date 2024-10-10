@@ -1,0 +1,139 @@
+[
+    {
+        "meta": {
+            "id": "rehearsal",
+            "uuid": "1958474f-a6e8-40c8-b41b-809f4b687964",
+            "sort": "181720000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "rehearsal",
+                "rehearsals"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "re*hears*al",
+            "prs": [
+                {
+                    "mw": "ri-\u02c8h\u0259r-s\u0259l",
+                    "sound": {
+                        "audio": "rehear04",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something recounted or told again {bc}{sx|recital||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a private performance or practice session preparatory to a public appearance"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a practice exercise {bc}{sx|trial||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "something recounted or told again : recital",
+            "a private performance or practice session preparatory to a public appearance",
+            "a practice exercise : trial"
+        ]
+    },
+    {
+        "meta": {
+            "id": "dress rehearsal",
+            "uuid": "f6f59ce7-d43d-4d65-92b6-631ca9538950",
+            "sort": "043947000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "dress rehearsal",
+                "dress rehearsals"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "dress rehearsal"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a full rehearsal (as of a play) in costume and with stage properties shortly before the first performance"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a practice exercise for something to come {bc}{sx|dry run||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1828{ds||1||}",
+        "shortdef": [
+            "a full rehearsal (as of a play) in costume and with stage properties shortly before the first performance",
+            "a practice exercise for something to come : dry run"
+        ]
+    }
+]

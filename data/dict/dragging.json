@@ -1,0 +1,1863 @@
+[
+    {
+        "meta": {
+            "id": "drag:1",
+            "uuid": "ab61a178-dba2-4f87-9f1c-0c3167fdd8b7",
+            "sort": "043787000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "drag",
+                "drag and drop",
+                "drag her feet",
+                "drag her heels",
+                "drag his feet",
+                "drag his heels",
+                "drag its feet",
+                "drag its heels",
+                "drag my feet",
+                "drag my heels",
+                "drag one's feet",
+                "drag one's heels",
+                "drag our feet",
+                "drag our heels",
+                "drag their feet",
+                "drag their heels",
+                "drag your feet",
+                "drag your heels",
+                "dragged",
+                "dragged and dropped",
+                "dragged her feet",
+                "dragged her heels",
+                "dragged his feet",
+                "dragged his heels",
+                "dragged its feet",
+                "dragged its heels",
+                "dragged my feet",
+                "dragged my heels",
+                "dragged one's feet",
+                "dragged one's heels",
+                "dragged our feet",
+                "dragged our heels",
+                "dragged their feet",
+                "dragged their heels",
+                "dragged your feet",
+                "dragged your heels",
+                "dragging",
+                "dragging and dropping",
+                "dragging her feet",
+                "dragging her heels",
+                "dragging his feet",
+                "dragging his heels",
+                "dragging its feet",
+                "dragging its heels",
+                "dragging my feet",
+                "dragging my heels",
+                "dragging one's feet",
+                "dragging one's heels",
+                "dragging our feet",
+                "dragging our heels",
+                "dragging their feet",
+                "dragging their heels",
+                "dragging your feet",
+                "dragging your heels",
+                "draggingly",
+                "drags",
+                "drags and drops",
+                "drags her feet",
+                "drags her heels",
+                "drags his feet",
+                "drags his heels",
+                "drags its feet",
+                "drags its heels",
+                "drags one's feet",
+                "drags one's heels",
+                "drags their feet",
+                "drags their heels"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "drag",
+            "prs": [
+                {
+                    "mw": "\u02c8drag",
+                    "sound": {
+                        "audio": "drag0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "dragged"
+            },
+            {
+                "if": "drag*ging"
+            },
+            {
+                "if": "drags"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1 a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to draw or pull slowly or heavily {bc}{sx|haul||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}dragging{/it} a box down the hall"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to cause to move with slowness or difficulty "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}dragged{/it} myself up the stairs"
+                                                    },
+                                                    {
+                                                        "t": "{it}dragging{/it} his feet"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to cause to trail {dx_def}see {dxt|trail:1||1a}{/dx_def} along a surface "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "wandered off {it}dragging{/it} the leash"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to bring by or as if by force or {d_link|compulsion|compulsion} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}dragging{/wi} the kids to the grocery store"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to extract by or as if by pulling "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}drag{/wi} the truth out of him"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|protract||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drag{/wi} a story out"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pass a drag over "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drag{/wi} a field"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to explore with a drag "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drag{/wi} the pond for the drowning victim"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "sls": [
+                                    "hunting and fishing"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to catch with a dragnet {dx_def}see {dxt|dragnet||1}{/dx_def}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "sls": [
+                                    "baseball"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to hit (a {d_link|drag bunt|drag bunt}) while moving toward first base"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "sls": [
+                                    "computers"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to select and move (an item on a computer screen) by using a mouse, a touch screen, etc. "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drag{/wi} the icon to the bottom row"
+                                            },
+                                            {
+                                                "t": "{phrase}Drag and drop{/phrase} any image into the search box on images.google.com to help determine whether a photo is fake.",
+                                                "aq": {
+                                                    "auth": "Laura Anastasia and Mary Kate Frank"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to hang or lag behind "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Stop {it}dragging{/it} and hurry up."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fish or search with a drag {dx_def}see {dxt|drag:2||1}{/dx_def}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to trail along on the ground "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Your scarf is {it}dragging{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move slowly because of fatigue "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "was {it}dragging{/it} after the long trip"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to proceed or continue laboriously or tediously "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The lawsuit {it}dragged{/it} on for years."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|draw||4a} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drag{/wi} on a cigarette"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a plucking or pulling movement"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "sls": [
+                                    "sports"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to participate in a {d_link|drag race|drag race}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "drag*ging*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8dra-gi\u014b-l\u0113",
+                        "sound": {
+                            "audio": "drag0002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "drag one's feet",
+                "vrs": [
+                    {
+                        "vl": "or less commonly",
+                        "va": "drag one's heels"
+                    }
+                ],
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to act in a deliberately slow or dilatory manner"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}draggen{/it} \"to pull, draw, transport,\" of uncertain origin"
+            ],
+            [
+                "et_snote",
+                [
+                    [
+                        "t",
+                        "This verb has obvious semantic affinity with Old English {it}dragan{/it} \"to {et_link|draw:1|draw:1},\" but there is no evident explanation for /g/ and the short vowel; borrowing from Old Norse (compare Old Icelandic {it}draga{/it} \"to drag, pull\") would also not result in a preserved /g/. Compare {et_link|drag:2|drag:2}."
+                    ]
+                ]
+            ]
+        ],
+        "date": "15th century{ds|t|1|a|1}",
+        "shortdef": [
+            "to draw or pull slowly or heavily : haul",
+            "to cause to move with slowness or difficulty",
+            "to cause to trail along a surface"
+        ]
+    },
+    {
+        "meta": {
+            "id": "foot-dragging",
+            "uuid": "b06c4a11-e201-4d4f-a2fd-cdd3885a7326",
+            "sort": "062437000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "foot-dragging",
+                "foot-draggings"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "foot-drag*ging",
+            "prs": [
+                {
+                    "mw": "\u02c8fu\u0307t-\u02ccdra-gi\u014b",
+                    "sound": {
+                        "audio": "foot_d01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}failure to act with the necessary promptness or vigor"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1947",
+        "shortdef": [
+            "failure to act with the necessary promptness or vigor"
+        ]
+    },
+    {
+        "meta": {
+            "id": "drop:2",
+            "uuid": "1d1f4311-050d-42f1-8320-c5717b94be8e",
+            "sort": "044044000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "drag and drop",
+                "dragged and dropped",
+                "dragging and dropping",
+                "drags and drops",
+                "drop",
+                "drop a dime",
+                "drop behind",
+                "drop the ball",
+                "droppable",
+                "dropped",
+                "dropped a dime",
+                "dropped behind",
+                "dropped the ball",
+                "dropping",
+                "dropping a dime",
+                "dropping behind",
+                "dropping the ball",
+                "drops",
+                "drops a dime",
+                "drops behind",
+                "drops the ball"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "drop"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "dropped"
+            },
+            {
+                "if": "drop*ping"
+            },
+            {
+                "if": "drops"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fall in {d_link|drops|drop:1}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2 a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to fall {dx_def}see {dxt|fall:1||1a}{/dx_def} unexpectedly or suddenly "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The book {it}dropped{/it} from her hand."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to descend {dx_def}see {dxt|descend||1}{/dx_def} from one line or level to another "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "the land {wi}drops{/wi} to sea level"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fall in a state of collapse {dx_def}see {dxt|collapse:2||1b}{/dx_def} or death "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dropped{/it} from exhaustion"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "sls": [
+                                    "of a playing card"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become played by reason of the obligation to follow suit"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fall or roll into a hole or basket"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to enter or pass as if without conscious effort of will {dx_def}see {dxt|will:2||4a}{/dx_def} into some state, condition, or activity "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dropped{/it} into sleep"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cease to be of concern {bc}{sx|lapse||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "let the matter {wi}drop{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pass from view or notice {bc}{sx|disappear||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}out{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{wi}drop{/wi} out of sight"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become less "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "production {it}dropped{/it}"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}off{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "sls": [
+                                    "nautical"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move with a favoring wind or current "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used with {it}down{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "We {it}dropped{/it} down the harbor."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "sls": [
+                                    "informal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be released to the public "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "His latest solo album {wi}dropped{/wi} in August \u2026",
+                                                "aq": {
+                                                    "auth": "Ed Rampell"
+                                                }
+                                            },
+                                            {
+                                                "t": "The second Podcast {wi}drops{/wi} Nov. 14 and can be downloaded free \u2026",
+                                                "aq": {
+                                                    "auth": "Langston Wertz, Jr."
+                                                }
+                                            },
+                                            {
+                                                "t": "There's also something to be said for jumping on a subscription for a month or two, say when a big, new game {wi}drops{/wi}.",
+                                                "aq": {
+                                                    "auth": "Adam Rosenberg"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to let fall {bc}cause to fall "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dropped{/it} the ball"
+                                            },
+                                            {
+                                                "t": "{it}dropping{/it} bombs on the city"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|give up||2}, {sx|abandon||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drop{/wi} an idea"
+                                            },
+                                            {
+                                                "t": "{wi}drop{/wi} the charges"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|discontinue||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dropped{/it} what she was doing"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to {d_link|break off|break off} an association or connection with {bc}{sx|dismiss||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drop{/wi} her old friends"
+                                            },
+                                            {
+                                                "t": "was {it}dropped{/it} by his sponsors"
+                                            },
+                                            {
+                                                "t": "students who {it}dropped{/it} the class"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to utter or mention in a casual way "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drop{/wi} a suggestion"
+                                            },
+                                            {
+                                                "t": "{wi}drop{/wi} names"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|write||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drop{/wi} us a line soon"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to lower or cause to descend from one level or position to another "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drop{/wi} the hem two inches"
+                                            },
+                                            {
+                                                "t": "{wi}drop{/wi} the water level"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to lessen or decrease {bc}{sx|reduce||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dropped{/it} his speed"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "sls": [
+                                    "of an animal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to give birth to"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|lose||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dropped{/it} three games"
+                                            },
+                                            {
+                                                "t": "{it}dropped{/it} $50 in a poker game"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|spend||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drop{/wi} $20 for lunch"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to get rid of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dropped{/it} 20 pounds"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring down with a shot or a blow "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dropped{/it} the buck with one shot"
+                                            },
+                                            {
+                                                "t": "{it}dropping{/it} the world champion in the ring"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "sls": [
+                                    "card games"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause a cardholder to unwillingly play (a high card) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dropped{/it} her ace"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to toss or roll into a hole or basket "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drop{/wi} a putt"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to deposit or deliver during a usually brief stop "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used with {it}off{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{wi}drop{/wi} the kids off at school"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|air-drop||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drop{/wi} the supplies to the medical team"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause (the voice) to be less loud"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "10 a",
+                                "sls": [
+                                    "linguistics"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to leave (a letter representing a speech sound) unsounded "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drop{/wi} the {it}g{/it} in {it}running{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to leave out in writing {bc}{sx|omit||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "accidentally {it}dropped{/it} a whole line"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "11",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to draw from an external point "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drop{/wi} a perpendicular to the line"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "12",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take (a drug) orally {bc}{sx|swallow||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drop{/wi} acid"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "13",
+                                "sls": [
+                                    "computers"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to place (an item on a computer screen) in one location in a {d_link|graphical user interface|graphical user interface} after {d_link|dragging|drag:1} it from another "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Move the video to the desired location and release the mouse button to {wi}drop{/wi} the file \u2026",
+                                                "aq": {
+                                                    "source": "{it}Techsling{/it}"
+                                                }
+                                            },
+                                            {
+                                                "t": "\u2026 you get a handy graphical representation of all your tasks and can even {phrase}drag and drop{/phrase} them from one list to another \u2026",
+                                                "aq": {
+                                                    "auth": "Jack Wallen"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "drop*pa*ble",
+                "prs": [
+                    {
+                        "mw": "\u02c8dr\u00e4-p\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "drop0002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "drop a dime",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to inform authorities (such as the police) of another's wrongdoing"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "drop behind",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to fail to keep up"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "drop the ball",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to make a mistake especially by failing to take timely, effective, or proper action"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|drop:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "before 12th century{ds|i|1||}",
+        "shortdef": [
+            "to fall in drops",
+            "to fall unexpectedly or suddenly",
+            "to descend from one line or level to another"
+        ]
+    },
+    {
+        "meta": {
+            "id": "drag down",
+            "uuid": "276b6e8b-887c-4d91-ac35-ef4c9829bcb2",
+            "sort": "3005060000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "drag down",
+                "dragged down",
+                "dragging down",
+                "drags down"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "drag down"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "dragged down"
+            },
+            {
+                "if": "drag*ging down"
+            },
+            {
+                "if": "drags down"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to force (someone) into a bad situation or condition "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We cannot let our enemies {it}drag{/it} us {it}down{/it} to their level."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make (someone) unhappy "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "You can't let her bad moods {it}drag{/it} you {it}down{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make (something) lower in amount or quality "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "High energy costs are {it}dragging down{/it} profits."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to force (someone) into a bad situation or condition",
+            "to make (someone) unhappy",
+            "to make (something) lower in amount or quality"
+        ]
+    },
+    {
+        "meta": {
+            "id": "drag into",
+            "uuid": "ff6d570c-48ee-4ee0-80b6-e6eae5d77e2a",
+            "sort": "3005061000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "drag into",
+                "dragged into",
+                "dragging into",
+                "drags into"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "drag into"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "dragged into"
+            },
+            {
+                "if": "drag*ging into"
+            },
+            {
+                "if": "drags into"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to involve (a person, group, etc.) in (a difficult or complicated situation) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I'm sorry for {it}dragging{/it} you {it}into{/it} this."
+                                            },
+                                            {
+                                                "t": "We will not let the country be {it}dragged into{/it} another war."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to involve (a person, group, etc.) in (a difficult or complicated situation)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "drag out",
+            "uuid": "0b3cb377-02eb-4d9e-879c-94eb15b40a08",
+            "sort": "3005067000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "drag out",
+                "dragged out",
+                "dragging out",
+                "drags out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "drag out"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "dragged out"
+            },
+            {
+                "if": "drag*ging out"
+            },
+            {
+                "if": "drags out"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause (something) to take more time than necessary "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He {it}dragged out{/it} the speech much too long."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to force (something, such as a confession) from (someone) {bc}to make (someone) tell one (something) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The teacher eventually {it}dragged{/it} a confession {it}out of{/it} one of the students."
+                                            },
+                                            {
+                                                "t": "Doctors sometimes have to {it}drag{/it} information {it}out of{/it} their patients."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to cause (something) to take more time than necessary",
+            "to force (something, such as a confession) from (someone) : to make (someone) tell one (something)"
+        ]
+    }
+]

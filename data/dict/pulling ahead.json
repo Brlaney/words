@@ -1,0 +1,82 @@
+[
+    {
+        "meta": {
+            "id": "pull ahead",
+            "uuid": "fe4af8f3-8cbb-4aab-a04a-9a3b8d58efc8",
+            "sort": "3015473000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "pull ahead",
+                "pulled ahead",
+                "pulling ahead",
+                "pulls ahead"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pull ahead"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "pulled ahead"
+            },
+            {
+                "if": "pull*ing ahead"
+            },
+            {
+                "if": "pulls ahead"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take the lead in a race, competition, contest, etc. "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The two runners were side by side until one {it}pulled ahead{/it}."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often + {it}of{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "He has {it}pulled ahead of{/it} the other candidates in the election polls."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to take the lead in a race, competition, contest, etc. \u2014often + of"
+        ]
+    }
+]

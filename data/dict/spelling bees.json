@@ -1,0 +1,43 @@
+[
+    {
+        "meta": {
+            "id": "spelling bee",
+            "uuid": "1851701f-f032-4274-83b3-b97d2c5f415a",
+            "sort": "194652100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "spelling bee",
+                "spelling bees"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "spelling bee"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a spelling contest in which contestants are eliminated as soon as they misspell a word"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1850",
+        "shortdef": [
+            "a spelling contest in which contestants are eliminated as soon as they misspell a word"
+        ]
+    }
+]

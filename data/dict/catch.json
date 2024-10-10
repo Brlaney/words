@@ -1,0 +1,2181 @@
+[
+    {
+        "meta": {
+            "id": "catch:1",
+            "uuid": "28157ec2-747c-43a6-8948-3a7fce983d81",
+            "sort": "031365000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "catch",
+                "catch a crab",
+                "catch dead",
+                "catch fire",
+                "catch her breath",
+                "catch her eye",
+                "catch his breath",
+                "catch his eye",
+                "catch it",
+                "catch its breath",
+                "catch my breath",
+                "catch my eye",
+                "catch one's breath",
+                "catch one's eye",
+                "catch our breath",
+                "catch our breaths",
+                "catch someone's eye",
+                "catch their eye",
+                "catch your breath",
+                "catch your breaths",
+                "catchable",
+                "catches",
+                "catches a crab",
+                "catches fire",
+                "catches her breath",
+                "catches her eye",
+                "catches his breath",
+                "catches his eye",
+                "catches my eye",
+                "catches one's breath",
+                "catches one's eye",
+                "catches their eye",
+                "catches their eyes",
+                "catching",
+                "catching a crab",
+                "catching fire",
+                "catching her breath",
+                "catching her eye",
+                "catching his breath",
+                "catching his eye",
+                "catching its breath",
+                "catching my breath",
+                "catching my eye",
+                "catching one's breath",
+                "catching one's eye",
+                "catching our breath",
+                "catching our breaths",
+                "catching their breath",
+                "catching their breaths",
+                "catching their eye",
+                "catching their eyes",
+                "catching your breath",
+                "catching your breaths",
+                "caught",
+                "caught a crab",
+                "caught dead",
+                "caught fire",
+                "caught her breath",
+                "caught her eye",
+                "caught his breath",
+                "caught his eye",
+                "caught its breath",
+                "caught my breath",
+                "caught my eye",
+                "caught one's breath",
+                "caught one's eye",
+                "caught our breath",
+                "caught our breaths",
+                "caught their breath",
+                "caught their breaths",
+                "caught their eye",
+                "caught their eyes",
+                "caught your breath",
+                "caught your breaths"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "catch",
+            "prs": [
+                {
+                    "mw": "\u02c8kach",
+                    "sound": {
+                        "audio": "catch001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "\u02c8kech"
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "caught",
+                "prs": [
+                    {
+                        "mw": "\u02c8k\u022ft",
+                        "sound": {
+                            "audio": "catch002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "l": "also",
+                        "mw": "\u02c8k\u00e4t"
+                    }
+                ]
+            },
+            {
+                "if": "catch*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to capture or seize especially after pursuit "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} a thief"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take or entangle in or as if in a snare "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} fish in a net"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|deceive||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to discover unexpectedly {bc}{sx|find||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}caught{/it} in the act"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "e",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to check (oneself) suddenly or momentarily "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He started to say the wrong thing but quickly {it}caught{/it} himself."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "f",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become suddenly aware of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}caught{/it} me looking at him"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take hold of {bc}{sx|seize||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He {it}caught{/it} her by the arm as she tripped."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to affect suddenly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The announcement {it}caught{/it} me by surprise."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to grasp and hold on to (something in motion) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} a fly ball"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to avail oneself of {bc}{sx|take||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}caught{/it} the first opportunity to leave"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "e",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to obtain through effort {bc}{sx|get||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} a ride"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "f",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to overtake unexpectedly "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used in the passive "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "was {it}caught{/it} in a storm"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "g",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to get entangled "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} a sleeve on a nail"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "bs",
+                            {
+                                "sense": {
+                                    "sn": "3",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to become affected by: such as"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|contract||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} a cold"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to respond sympathetically to the point of being imbued {dx_def}see {dxt|imbue||2}{/dx_def} with "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} the spirit of an occasion"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be struck by "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He {wi}caught{/wi} a bullet in the leg."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be subjected to {bc}{sx|receive||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} hell"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take in and retain "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a barrel to {wi}catch{/wi} rainwater"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|fasten||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} back a curtain"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take or get usually momentarily or quickly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} a glimpse of a friend"
+                                            },
+                                            {
+                                                "t": "{wi}catch{/wi} a nap"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|overtake||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} the leader in a race"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to get aboard in time "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} the bus"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to attract and hold {bc}{sx|arrest||}, {sx|engage||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}caught{/it} their attention"
+                                            },
+                                            {
+                                                "t": "The glint of the gold in each case {phrase}caught my eye{/phrase}, you see.",
+                                                "aq": {
+                                                    "auth": "Arthur Conan Doyle"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make contact with {bc}{sx|strike||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The pitch {wi}caught{/wi} him in the back."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to grasp by the senses or the mind "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "you {wi}catch{/wi} what I mean?"
+                                            },
+                                            {
+                                                "t": "didn't {wi}catch{/wi} the name"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to apprehend and fix by artistic means "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The new portrait {wi}catches{/wi} her likeness perfectly."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "10 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|see||}, {sx|watch||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} a game on TV"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to listen to "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}caught{/it} the last part of the concert"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "11",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to serve as a {a_link|catcher} for in baseball "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}caught{/it} both ends of the doubleheader"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "12",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to meet with "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}catch{/wi} you later"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to grasp hastily or try to grasp"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become caught "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The kite {it}caught{/it} in the tree branches."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to catch fire"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to play the position of catcher on a baseball team"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|kick over||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the engine {it}caught{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "catch*able",
+                "prs": [
+                    {
+                        "mw": "\u02c8ka-ch\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "catch003",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8ke-"
+                    }
+                ],
+                "fl": "adjective",
+                "utxt": [
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "an easily {wi}catchable{/wi} fly ball"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "catch a crab",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to fail to raise an oar clear of the water on recovery of a stroke"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "catch dead",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to find or see at any time "
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used in strongly negative constructions "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "wouldn't be {it}caught dead{/it} in that shirt"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "catch fire",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to become ignited"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to become fired with enthusiasm"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "3",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to increase greatly in scope, popularity, interest, or effectiveness "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "this stock has not {it}caught fire{/it}\u2014yet",
+                                                        "aq": {
+                                                            "source": "{it}Forbes{/it}"
+                                                        }
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "catch it",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to incur blame, reprimand, or punishment "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "He'll really {wi}catch it{/wi} from the boss if he's late again."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "catch one's breath",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to rest long enough to restore normal breathing"
+                                            ]
+                                        ],
+                                        "sdsense": {
+                                            "sd": "broadly",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}to rest after a period of intense activity"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}catch{/sc} {sc}capture{/sc} {sc}trap{/sc} {sc}snare{/sc} {sc}entrap{/sc} {sc}ensnare{/sc} {sc}bag{/sc} mean to come to possess or control by or as if by seizing. {sc}catch{/sc} implies the seizing of something in motion or in flight or in hiding. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}caught{/it} the dog as it ran by"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}capture{/sc} suggests taking by overcoming resistance or difficulty. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}capture{/it} an enemy stronghold"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}trap{/sc} {sc}snare{/sc} {sc}entrap{/sc} {sc}ensnare{/sc} imply seizing by some device that holds the one caught at the mercy of the captor. {sc}trap{/sc} and {sc}snare{/sc} apply more commonly to physical seizing. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}trap{/it} animals"
+                            },
+                            {
+                                "t": "{it}snared{/it} butterflies with a net"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}entrap{/sc} and {sc}ensnare{/sc} more often are figurative. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}entrapped{/it} the witness with a trick question"
+                            },
+                            {
+                                "t": "a sting operation that {it}ensnared{/it} burglars"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}bag{/sc} implies shooting down a fleeing or distant prey. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}bagged{/it} a brace of pheasants"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}cacchen{/it}, from Anglo-French {it}cacher, chacher, chacer{/it} to hunt, from Vulgar Latin {it}*captiare{/it}, alteration of Latin {it}captare{/it} to chase, frequentative of {it}capere{/it} to take {ma}{mat|heave:1|}{/ma}"
+            ]
+        ],
+        "date": "13th century{ds|t|1|a|}",
+        "shortdef": [
+            "to capture or seize especially after pursuit",
+            "to take or entangle in or as if in a snare",
+            "deceive"
+        ]
+    },
+    {
+        "meta": {
+            "id": "catch:2",
+            "uuid": "dd6edc04-11bc-49b5-b367-e5499c30fe41",
+            "sort": "031366000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "catch",
+                "catches"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "catch"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something caught"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the total quantity caught at one time "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "a large {wi}catch{/wi} of fish"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act, action, or fact of {a_link|catching} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The shortstop made a tough {wi}catch{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a game in which a ball is thrown and caught "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "played {wi}catch{/wi} with his dad"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that checks or holds immovable "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a safety {wi}catch{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}one worth catching especially as a spouse"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a round for three or more unaccompanied usually male voices often with suggestive or obscene lyrics"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|fragment||}, {sx|snatch||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "remembered only {wi}catches{/wi} of the song"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a concealed difficulty or complication "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "there must be a {wi}catch{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a momentary audible break in the voice or breath"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "14th century{ds||3||}",
+        "shortdef": [
+            "something caught; especially : the total quantity caught at one time",
+            "the act, action, or fact of catching",
+            "a game in which a ball is thrown and caught"
+        ]
+    },
+    {
+        "meta": {
+            "id": "caught:1",
+            "uuid": "96089cf3-cbc4-487b-8ce6-4bc5a72b9dfa",
+            "sort": "031498000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "catch",
+                "caught"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "caught",
+            "prs": [
+                {
+                    "mw": "\u02c8k\u022ft",
+                    "sound": {
+                        "audio": "catch002",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "cxs": [
+            {
+                "cxl": "past tense and past participle of",
+                "cxtis": [
+                    {
+                        "cxt": "catch"
+                    }
+                ]
+            }
+        ],
+        "shortdef": []
+    },
+    {
+        "meta": {
+            "id": "catch-as-catch-can",
+            "uuid": "4ae03666-5933-49b3-ba47-f7172506518a",
+            "sort": "031368000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "catch-as-catch-can"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "catch-as-catch-can",
+            "prs": [
+                {
+                    "mw": "\u02c8kach-\u0259z-\u02c8kach-\u02c8kan",
+                    "sound": {
+                        "audio": "catch-as-catch-",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}using any available means or method {bc}{sx|hit-or-miss||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}catch-as-catch-can{/wi} system that relies on borrowed judges",
+                                                "aq": {
+                                                    "auth": "Patricia Nealon"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1833",
+        "shortdef": [
+            "using any available means or method : hit-or-miss"
+        ]
+    },
+    {
+        "meta": {
+            "id": "catch on",
+            "uuid": "d3051310-1225-43bf-8fcf-7420d308406a",
+            "sort": "031374000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "catch on",
+                "catches on",
+                "catching on",
+                "caught on"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "catch on"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "caught on"
+            },
+            {
+                "if": "catch*ing on"
+            },
+            {
+                "if": "catch*es on"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become aware {bc}{sx|learn||}"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|understand||} "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "didn't {it}catch on{/it} to what was going on"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become popular "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "this idea has already {it}caught on{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1882{ds||1||}",
+        "shortdef": [
+            "to become aware : learn; also : understand",
+            "to become popular"
+        ]
+    },
+    {
+        "meta": {
+            "id": "catch out",
+            "uuid": "cf0e0c96-85b8-4cd6-8733-e21f4830d411",
+            "sort": "031375000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "catch out",
+                "catches out",
+                "catching out",
+                "caught out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "catch out"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "caught out"
+            },
+            {
+                "if": "catch*ing out"
+            },
+            {
+                "if": "catch*es out"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to detect in error or wrongdoing "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}caught{/it} him {it}out{/it} committing perjury"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take unawares or by surprise"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1759{ds||1||}",
+        "shortdef": [
+            "to detect in error or wrongdoing",
+            "to take unawares or by surprise"
+        ]
+    },
+    {
+        "meta": {
+            "id": "catch-22",
+            "uuid": "f90863ec-1e32-4652-bbac-cadbac51474d",
+            "sort": "031379000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "catch-22",
+                "catch-22's",
+                "catch-22s"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "catch-22",
+            "prs": [
+                {
+                    "mw": "\u02c8kach-\u02cctwen-t\u0113-\u02c8t\u00fc",
+                    "sound": {
+                        "audio": "catch_01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "\u02c8kech-"
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "catch-22's"
+            },
+            {
+                "il": "or",
+                "if": "catch-22s"
+            }
+        ],
+        "lbs": [
+            "often capitalized"
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a problematic situation for which the only solution is denied by a circumstance inherent in the problem or by a rule "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the show-business {wi}catch-22{/wi}\u2014no work unless you have an agent, no agent unless you've worked",
+                                                "aq": {
+                                                    "auth": "Mary Murphy"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the circumstance or rule that denies a solution"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an illogical, unreasonable, or senseless situation"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a measure or policy whose effect is the opposite of what was intended"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a situation presenting two equally undesirable alternatives"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a hidden difficulty or means of entrapment {bc}{sx|catch||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "from {it}Catch-22{/it}, paradoxical rule in the novel {it}Catch-22{/it} (1961) by Joseph Heller"
+            ]
+        ],
+        "date": "1963{ds||1||}",
+        "shortdef": [
+            "a problematic situation for which the only solution is denied by a circumstance inherent in the problem or by a rule; also : the circumstance or rule that denies a solution",
+            "an illogical, unreasonable, or senseless situation",
+            "a measure or policy whose effect is the opposite of what was intended"
+        ]
+    },
+    {
+        "meta": {
+            "id": "catch-up:1",
+            "uuid": "9a500564-d049-41fa-9138-a2e850207fa8",
+            "sort": "031381000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "catch-up"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "catch-up",
+            "prs": [
+                {
+                    "mw": "\u02c8kach-\u02cc\u0259p",
+                    "sound": {
+                        "audio": "catch_02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "\u02c8kech-"
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}intended to catch up to a theoretical norm or a competitor's accomplishments"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1879",
+        "shortdef": [
+            "intended to catch up to a theoretical norm or a competitor's accomplishments"
+        ]
+    },
+    {
+        "meta": {
+            "id": "catch-up:2",
+            "uuid": "21da4f4f-5819-4faf-add1-a6a8e3befc6a",
+            "sort": "031382000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "catch-up",
+                "catch-ups"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "catch-up"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act or fact of catching up or trying to catch up (as with a norm or competitor) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "had to play {wi}catch-up{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}an increase intended to achieve catch-up"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1885",
+        "shortdef": [
+            "the act or fact of catching up or trying to catch up (as with a norm or competitor); also : an increase intended to achieve catch-up"
+        ]
+    },
+    {
+        "meta": {
+            "id": "catch up",
+            "uuid": "26c61868-197a-4495-bd3f-11e23ae95018",
+            "sort": "031383000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "catch up",
+                "catches up",
+                "catching up",
+                "caught up"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "catch up"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "caught up"
+            },
+            {
+                "if": "catch*ing up"
+            },
+            {
+                "if": "catch*es up"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pick up often abruptly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the thief {it}caught{/it} the purse {it}up{/it} and ran"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|ensnare||}, {sx|entangle||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "education has been {it}caught up{/it} in a stultifying mythology",
+                                                "aq": {
+                                                    "auth": "N. M. Pusey"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|enthrall||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the \u2026 public was {it}caught up{/it} in the car's magic",
+                                                "aq": {
+                                                    "auth": "D. A. Jedlicka"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to provide with the latest information "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}catch{/it} me {it}up{/it} on the news"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to travel fast enough to overtake an advance party "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The soldier ran to {it}catch up{/it} with his unit."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to reach a state of parity {dx_def}see {dxt|parity||1}{/dx_def} or of being able to cope "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "students who miss class have difficulty {it}catching up{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring about arrest for illicit activities "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the police {it}caught up{/it} with the thieves"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to complete or compensate {dx_def}see {dxt|compensate||1}{/dx_def} for something belatedly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}catch up{/it} on lost sleep"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to acquire {d_link|belated|belated} information "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}catch up{/it} on the news"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|catch:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "14th century{ds|t|1|a|}",
+        "shortdef": [
+            "to pick up often abruptly",
+            "ensnare, entangle",
+            "enthrall"
+        ]
+    }
+]

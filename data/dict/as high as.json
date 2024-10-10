@@ -1,0 +1,52 @@
+[
+    {
+        "meta": {
+            "id": "as high as a kite",
+            "uuid": "31091a33-14c5-42ee-a416-a179d8a3b945",
+            "sort": "3000822000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "as high as a kite"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "as high as a kite"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}greatly affected by alcohol or drugs {bc}very drunk or intoxicated "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The driver was {it}as high as a kite{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "greatly affected by alcohol or drugs : very drunk or intoxicated"
+        ]
+    }
+]

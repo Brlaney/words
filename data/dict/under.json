@@ -1,0 +1,882 @@
+[
+    {
+        "meta": {
+            "id": "under:1",
+            "uuid": "d4a9cf5d-055f-4a83-97f5-128caca34fef",
+            "sort": "210829000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "under"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "un*der",
+            "prs": [
+                {
+                    "mw": "\u02c8\u0259n-d\u0259r",
+                    "sound": {
+                        "audio": "under001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adverb",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in or into a position below or beneath something"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}below or short of some quantity, level, or limit "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "$10 or {wi}under{/wi}"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used in combination "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{it}under{/it}staffed"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in or into a condition of subjection, subordination, or unconsciousness "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "put the patient {wi}under{/wi} for surgery"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}down to defeat, ruin, or death "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "weaker competitors will be forced {wi}under{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}so as to be covered "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "buried {wi}under{/wi} by the avalanche"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, adverb & preposition, from Old English; akin to Old High German {it}untar{/it} under, Latin {it}inferus{/it} situated beneath, lower, {it}infra{/it} below, Sanskrit {it}adha{/it}"
+            ]
+        ],
+        "date": "before 12th century{ds||1||}",
+        "shortdef": [
+            "in or into a position below or beneath something",
+            "below or short of some quantity, level, or limit \u2014often used in combination",
+            "in or into a condition of subjection, subordination, or unconsciousness"
+        ]
+    },
+    {
+        "meta": {
+            "id": "under:2",
+            "uuid": "fc1f551c-1d84-484b-8a08-fa256cf6a474",
+            "sort": "210830000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "under"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "under"
+        },
+        "fl": "preposition",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}below or beneath so as to be overhung, surmounted, covered, protected, or concealed by "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}under{/wi} sunny skies"
+                                            },
+                                            {
+                                                "t": "a soft heart {wi}under{/wi} a stern exterior"
+                                            },
+                                            {
+                                                "t": "{wi}under{/wi} cover of darkness"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}subject to the authority, control, guidance, or instruction of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "served {wi}under{/wi} the general"
+                                            },
+                                            {
+                                                "t": "{wi}under{/wi} the terms of the contract"
+                                            },
+                                            {
+                                                "t": "a program that runs {wi}under{/wi} any operating system"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}receiving or {a_link|undergoing} the action or effect of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}under{/wi} pressure"
+                                            },
+                                            {
+                                                "t": "courage {wi}under{/wi} fire"
+                                            },
+                                            {
+                                                "t": "{wi}under{/wi} the influence of alcohol"
+                                            },
+                                            {
+                                                "t": "the image of a point {wi}under{/wi} a mapping"
+                                            },
+                                            {
+                                                "t": "{wi}under{/wi} oath"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}within the group or designation of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}under{/wi} this heading"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}having as name or title "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "traveling {wi}under{/wi} an alias"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}less or lower than (as in size, amount, or rank)"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}falling short of a standard or required degree "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}under{/wi} the legal age"
+                                                },
+                                                {
+                                                    "t": "{wi}under{/wi} par"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "before 12th century{ds||1||}",
+        "shortdef": [
+            "below or beneath so as to be overhung, surmounted, covered, protected, or concealed by",
+            "subject to the authority, control, guidance, or instruction of",
+            "receiving or undergoing the action or effect of"
+        ]
+    },
+    {
+        "meta": {
+            "id": "under:3",
+            "uuid": "e69e1b1b-e05c-480e-80f2-2617f1f943fd",
+            "sort": "210831000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "under"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "under"
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}lying or placed below, beneath, or on the ventral side "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used in combination "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "the ocean's {wi}under{/wi}currents"
+                                                        },
+                                                        {
+                                                            "t": "the {wi}under{/wi}side of a car"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}facing or protruding downward "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used in combination "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "the {wi}under{/wi}surface of a leaf"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}lower in rank or authority {bc}{sx|subordinate||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used in combination "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "the {wi}under{/wi}secretary of defense"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}lower than usual, proper, or desired in amount, quality, or degree "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used in combination "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{wi}under{/wi}nourished children"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "13th century{ds||1|a|}",
+        "shortdef": [
+            "lying or placed below, beneath, or on the ventral side \u2014often used in combination",
+            "facing or protruding downward \u2014often used in combination",
+            "lower in rank or authority : subordinate \u2014often used in combination"
+        ]
+    },
+    {
+        "meta": {
+            "id": "under-the-counter",
+            "uuid": "74507422-6f99-4d2f-95bc-1d05e889ce59",
+            "sort": "210993000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "under-the-counter"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "un*der-the-count*er",
+            "prs": [
+                {
+                    "mw": "\u02c8\u0259n-d\u0259r-\u1e6fh\u0331\u0259-\u02c8kau\u0307n-t\u0259r",
+                    "sound": {
+                        "audio": "under-the-count",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}surreptitious and usually irregular or illicit "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}under-the-counter{/wi} liquor sales"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "from the hiding of illicit wares under the counter of stores where they are sold"
+            ]
+        ],
+        "date": "1926",
+        "shortdef": [
+            "surreptitious and usually irregular or illicit"
+        ]
+    },
+    {
+        "meta": {
+            "id": "under-the-table",
+            "uuid": "3888c391-fe0b-4805-ba88-df063988ba4a",
+            "sort": "210994000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "under-the-table"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "un*der-the-ta*ble",
+            "prs": [
+                {
+                    "mw": "\u02c8\u0259n-d\u0259r-\u1e6fh\u0331\u0259-\u02c8t\u0101-b\u0259l",
+                    "sound": {
+                        "audio": "under-the-table",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}covert and usually unlawful "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}under-the-table{/wi} payoffs"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1948",
+        "shortdef": [
+            "covert and usually unlawful"
+        ]
+    },
+    {
+        "meta": {
+            "id": "under weigh",
+            "uuid": "90c87362-7840-4b70-aae3-ccdd88b1ec04",
+            "sort": "211009000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "under weigh"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "under weigh"
+        },
+        "fl": "adverb",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|underway||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "by folk etymology"
+            ]
+        ],
+        "date": "1749",
+        "shortdef": [
+            "underway"
+        ]
+    },
+    {
+        "meta": {
+            "id": "under a cloud of suspicion",
+            "uuid": "8841d1aa-b5c6-4772-a113-040308660642",
+            "sort": "3021703000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "under a cloud of suspicion"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "under a cloud of suspicion"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}believed by others to have done something wrong "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The company remains {it}under a cloud of suspicion{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "believed by others to have done something wrong"
+        ]
+    },
+    {
+        "meta": {
+            "id": "under a doctor's care",
+            "uuid": "60bcb441-3abb-4b20-a91b-249af6711ddc",
+            "sort": "3021704000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "under a doctor's care"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "under a doctor's care"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}being treated by a doctor "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He is {it}under a doctor's care{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "being treated by a doctor"
+        ]
+    },
+    {
+        "meta": {
+            "id": "under an alias",
+            "uuid": "2974f146-1af4-4a83-8a4d-3bfe4ac24700",
+            "sort": "3021705000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "under an alias"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "under an alias"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}using an assumed name "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He was traveling {it}under an alias{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "using an assumed name"
+        ]
+    },
+    {
+        "meta": {
+            "id": "under appeal",
+            "uuid": "0a9d9655-7656-4fc6-8c1e-ded77c80d6c8",
+            "sort": "3021706000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "under appeal"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "under appeal"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}being reviewed by a higher court "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The case is currently {it}under appeal{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "being reviewed by a higher court"
+        ]
+    }
+]

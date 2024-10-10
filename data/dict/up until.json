@@ -1,0 +1,49 @@
+[
+    {
+        "meta": {
+            "id": "up until",
+            "uuid": "d6999bf8-38e8-4da2-b020-5dd165d07484",
+            "sort": "3021902000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "up until"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "up until"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}during the time or period before "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}Up until{/it} now, everything has gone very well."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "during the time or period before"
+        ]
+    }
+]

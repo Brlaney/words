@@ -1,0 +1,402 @@
+[
+    {
+        "meta": {
+            "id": "twinkle:1",
+            "uuid": "90052d4b-db96-4c5f-842c-39987ff4b1e9",
+            "sort": "200472800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "twinkle",
+                "twinkled",
+                "twinkler",
+                "twinklers",
+                "twinkles",
+                "twinkling"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "twin*kle",
+            "prs": [
+                {
+                    "mw": "\u02c8twi\u014b-k\u0259l",
+                    "sound": {
+                        "audio": "twinkl01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "twin*kled"
+            },
+            {
+                "if": "twin*kling",
+                "prs": [
+                    {
+                        "mw": "\u02c8twi\u014b-k(\u0259-)li\u014b",
+                        "sound": {
+                            "audio": "twinkl02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to shine with a flickering or sparkling light {bc}{sx|scintillate||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to appear bright especially with merriment "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "his eyes {it}twinkled{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to flutter the eyelids"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to flutter or flit rapidly"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to shine with fluctuating light"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to flicker or flirt rapidly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}twinkled{/it} the straight, red-lacquered toes",
+                                                "aq": {
+                                                    "auth": "Glenway Wescott"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "twin*kler",
+                "prs": [
+                    {
+                        "mw": "\u02c8twi\u014b-k(\u0259-)l\u0259r",
+                        "sound": {
+                            "audio": "twinkl03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}twinclian{/it}; akin to Middle High German {it}zwinken{/it} to blink"
+            ]
+        ],
+        "date": "before 12th century{ds|i|1||}",
+        "shortdef": [
+            "to shine with a flickering or sparkling light : scintillate",
+            "to appear bright especially with merriment",
+            "to flutter the eyelids"
+        ]
+    },
+    {
+        "meta": {
+            "id": "twinkle:2",
+            "uuid": "89407876-405a-4208-8f23-32f2e22b43fa",
+            "sort": "200472900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "twinkle",
+                "twinkles",
+                "twinklier",
+                "twinkly",
+                "twinliest"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "twinkle"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an intermittent radiance {bc}{sx|flicker||}, {sx|sparkle||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a rapid flashing motion {bc}{sx|flit||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a wink of the eyelids"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the instant's duration of a wink {bc}{sx|twinkling||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "twin*kly",
+                "prs": [
+                    {
+                        "mw": "\u02c8twi\u014b-k(\u0259-)l\u0113",
+                        "sound": {
+                            "audio": "twinkl04",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "date": "1548{ds||3||}",
+        "shortdef": [
+            "an intermittent radiance : flicker, sparkle",
+            "a rapid flashing motion : flit",
+            "a wink of the eyelids"
+        ]
+    },
+    {
+        "meta": {
+            "id": "a twinkle in one's eye",
+            "uuid": "f67f7fe3-72ce-4b0d-ace4-5b1455a740fa",
+            "sort": "3001209000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "a twinkle in her eye",
+                "a twinkle in his eye",
+                "a twinkle in one's eye",
+                "a twinkle in their eye"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "a twinkle in one's eye"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a friendly or happy expression in one's eyes "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He always talks about his children with {it}a twinkle in his eye{/it}."
+                                            },
+                                            {
+                                                "t": "Her grandchildren put {it}a twinkle in her eye{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a friendly or happy expression in one's eyes"
+        ]
+    },
+    {
+        "meta": {
+            "id": "in the twinkle/twinkling of an eye",
+            "uuid": "c6cd4144-8b64-4972-a134-d797a5876700",
+            "sort": "3010032000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "in the twinkle of an eye",
+                "in the twinkle/twinkling of an eye",
+                "in the twinkling of an eye"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "in the twinkle/twinkling of an eye"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}very quickly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He was back {it}in the twinkle/twinkling of an eye{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "very quickly"
+        ]
+    }
+]

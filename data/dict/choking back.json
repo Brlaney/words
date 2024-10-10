@@ -1,0 +1,66 @@
+[
+    {
+        "meta": {
+            "id": "choke back",
+            "uuid": "a184fb1a-54c8-4c0e-bb63-6d4035138b08",
+            "sort": "3003225000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "choke back",
+                "choked back",
+                "chokes back",
+                "choking back"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "choke back"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "choked back"
+            },
+            {
+                "if": "chok*ing back"
+            },
+            {
+                "if": "chokes back"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have difficulty not showing or expressing (tears, rage, anger, etc.) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He was {it}choking back{/it} tears as he talked about his late wife."
+                                            },
+                                            {
+                                                "t": "She struggled to {it}choke back{/it} her anger as she listened to their criticisms."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to have difficulty not showing or expressing (tears, rage, anger, etc.)"
+        ]
+    }
+]

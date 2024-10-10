@@ -1,0 +1,762 @@
+[
+    {
+        "meta": {
+            "id": "bleeding",
+            "uuid": "2e73fe48-8cd1-4c54-986e-38856b25a3ab",
+            "sort": "020274900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "bleeding"
+            ],
+            "offensive": true
+        },
+        "hwi": {
+            "hw": "bleed*ing",
+            "prs": [
+                {
+                    "mw": "\u02c8bl\u0113-di\u014b",
+                    "sound": {
+                        "audio": "bleedi01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "-d\u1d4an"
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sls": [
+                    "chiefly British",
+                    "informal + sometimes offensive"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used like {it}bloody{/it} or {it}damned{/it} as a generalized intensive "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "One fan said: {ldquo}What the {wi}bleeding{/wi} hell happened???{rdquo}",
+                                                            "aq": {
+                                                                "auth": "Charlotte Tutton"
+                                                            }
+                                                        },
+                                                        {
+                                                            "t": "I said, {ldquo}Shirley, your house is on fire!{rdquo} She looked at me and said, {ldquo}Michael, that's the pool. That's steam.{rdquo} I was such a {wi}bleeding{/wi} idiot, such a putz.",
+                                                            "aq": {
+                                                                "auth": "Michael Caine"
+                                                            }
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1839",
+        "shortdef": [
+            "\u2014used like bloody or damned as a generalized intensive"
+        ]
+    },
+    {
+        "meta": {
+            "id": "bleed:1",
+            "uuid": "27c9f26a-fb10-46b0-bdc0-50d0943e8579",
+            "sort": "020274600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "bled",
+                "bleed",
+                "bleed white",
+                "bleeding",
+                "bleeds"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "bleed",
+            "prs": [
+                {
+                    "mw": "\u02c8bl\u0113d",
+                    "sound": {
+                        "audio": "bleed001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "bled",
+                "prs": [
+                    {
+                        "mw": "\u02c8bled",
+                        "sound": {
+                            "audio": "bleed002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "if": "bleed*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to emit or lose blood"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to sacrifice one's blood especially in battle"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to feel anguish, pain, or sympathy "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a heart that {wi}bleeds{/wi} at a friend's misfortune"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to escape by oozing or flowing (as from a wound)"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to spread into or through something gradually {bc}{sx|seep||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "foreign policy {wi}bleeds{/wi} into economic policy",
+                                                "aq": {
+                                                    "auth": "J. B. Judis"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to give up some constituent (such as sap or dye) by exuding or diffusing it"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pay out or give money"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have money extorted"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be printed so as to run off one or more edges of the page after trimming"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to remove or draw blood from"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to get or extort money from especially over a prolonged period"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to draw sap from (a tree)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to extract or let out some or all of a contained substance from "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}bleed{/wi} a brake line"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to extract or cause to escape from a container"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to diminish gradually "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used with {it}off{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "a pilot {wi}bleeding{/wi} off airspeed"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to lose rapidly and uncontrollably "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the company was {wi}bleeding{/wi} money"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "e",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|sap||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "cost overruns \u2026 {wi}bleed{/wi} other programs",
+                                                "aq": {
+                                                    "auth": "Alex Roland"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause (something, such as a printed illustration) to bleed"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "bleed white",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to drain of blood or resources"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}bleden{/it}, from Old English {it}bl\u0113dan{/it}, from {it}bl\u014dd{/it} blood"
+            ]
+        ],
+        "date": "before 12th century{ds|i|1|a|}",
+        "shortdef": [
+            "to emit or lose blood",
+            "to sacrifice one's blood especially in battle",
+            "to feel anguish, pain, or sympathy"
+        ]
+    },
+    {
+        "meta": {
+            "id": "bleeding edge",
+            "uuid": "4dece8cf-0bd0-42fb-966d-f10fd37d6f30",
+            "sort": "020274950",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "bleeding edge",
+                "bleeding edges",
+                "bleeding-edge"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "bleeding edge"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the newest and most advanced part or position especially in technology {bc}the extreme cutting edge "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "So the first thing you learn about the Internet from studying America's Most Admired Companies is that you don't have to be on the {wi}bleeding edge{/wi} of the Web to be admired.",
+                                                "aq": {
+                                                    "auth": "Geoffrey Colvin"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "bleed*ing-edge",
+                "prs": [
+                    {
+                        "mw": "\u02c8bl\u0113-di\u014b-\u02c8ej",
+                        "sound": {
+                            "audio": "bleeding-edge_1",
+                            "ref": "owl",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective",
+                "utxt": [
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{wi}bleeding-edge{/wi} ideas/technology"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1983",
+        "shortdef": [
+            "the newest and most advanced part or position especially in technology : the extreme cutting edge"
+        ]
+    },
+    {
+        "meta": {
+            "id": "bleeding heart",
+            "uuid": "2d9bae5a-549c-49d1-95dc-b39d192a2c17",
+            "sort": "020275000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "bleeding heart",
+                "bleeding hearts"
+            ],
+            "offensive": true
+        },
+        "hwi": {
+            "hw": "bleeding heart"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a garden plant ({it}Lamprocapnos spectabilis{/it} synonym {it}Dicentra spectabilis{/it}) of the poppy family with racemes of usually deep pink or white drooping heart-shaped flowers"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "broadly",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}any of several related plants (genus {it}Dicentra{/it})"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "disparaging"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a person who shows extravagant sympathy especially for an object of alleged persecution "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "To question police practices in America is to plunge into a debate distorted by caricatures. Police defenders generally see critics as cop-hating {wi}bleeding hearts{/wi}, while police critics often see cops as trigger-happy killers.",
+                                                "aq": {
+                                                    "auth": "Ellis Cose"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1864{ds||1||}",
+        "shortdef": [
+            "a garden plant (Lamprocapnos spectabilis synonym Dicentra spectabilis) of the poppy family with racemes of usually deep pink or white drooping heart-shaped flowers; broadly : any of several related plants (genus Dicentra)",
+            "a person who shows extravagant sympathy especially for an object of alleged persecution"
+        ]
+    },
+    {
+        "meta": {
+            "id": "bleeding-heart",
+            "uuid": "5ff234e3-e961-47f5-b8e6-5055813c4486",
+            "sort": "020275050",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "bleeding-heart"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "bleed*ing-heart",
+            "prs": [
+                {
+                    "mw": "\u02c8bl\u0113-di\u014b-\u02c8h\u00e4rt",
+                    "sound": {
+                        "audio": "bleeding-heart_1",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}feeling or showing excessive or extravagant sympathy especially for an object of alleged persecution "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used as a term of disparagement for people with politically liberal opinions "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "\u2026 was often described as \u2026 a {wi}bleeding-heart{/wi} liberal because he lent his name to so many left-wing groups.",
+                                                            "aq": {
+                                                                "auth": "Patricia Bosworth"
+                                                            }
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1937",
+        "shortdef": [
+            "feeling or showing excessive or extravagant sympathy especially for an object of alleged persecution \u2014used as a term of disparagement for people with politically liberal opinions"
+        ]
+    },
+    {
+        "meta": {
+            "id": "internal bleeding",
+            "uuid": "ad0f6b9c-36ae-4d22-a48f-7055476caacc",
+            "sort": "3009887000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "internal bleeding"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "internal bleeding"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a loss of blood inside the body "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The procedure may cause {it}internal bleeding{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a loss of blood inside the body"
+        ]
+    }
+]

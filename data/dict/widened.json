@@ -1,0 +1,136 @@
+[
+    {
+        "meta": {
+            "id": "widen",
+            "uuid": "e037a4b5-613b-4d8f-ad91-8da1e062d461",
+            "sort": "230154500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "widen",
+                "widened",
+                "widener",
+                "wideners",
+                "widening",
+                "widens"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "wid*en",
+            "prs": [
+                {
+                    "mw": "\u02c8w\u012b-d\u1d4an",
+                    "sound": {
+                        "audio": "widen001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "wid*ened"
+            },
+            {
+                "if": "wid*en*ing",
+                "prs": [
+                    {
+                        "mw": "\u02c8w\u012bd-ni\u014b",
+                        "sound": {
+                            "audio": "wideni01",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8w\u012b-d\u1d4an-i\u014b"
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to increase the width, scope, or extent of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}widen{/wi} a road"
+                                            },
+                                            {
+                                                "t": "{wi}widen{/wi} an investigation"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become wide or {a_link|wider} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}widening gap{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "wid*en*er",
+                "prs": [
+                    {
+                        "mw": "\u02c8w\u012bd-n\u0259r",
+                        "sound": {
+                            "audio": "widene01",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8w\u012b-d\u1d4an-\u0259r"
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "date": "1566{ds|t|||}",
+        "shortdef": [
+            "to increase the width, scope, or extent of",
+            "to become wide or wider"
+        ]
+    }
+]

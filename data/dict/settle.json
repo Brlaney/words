@@ -1,0 +1,1263 @@
+[
+    {
+        "meta": {
+            "id": "settle:1",
+            "uuid": "a89b1630-3863-4a6b-8024-7cce0f428f33",
+            "sort": "193107000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "settle",
+                "settle for",
+                "settle her hash",
+                "settle his hash",
+                "settle its hash",
+                "settle my hash",
+                "settle one's hash",
+                "settle our hash",
+                "settle the stomach",
+                "settle their hash",
+                "settle your hash",
+                "settleable",
+                "settled",
+                "settled for",
+                "settled her hash",
+                "settled his hash",
+                "settled its hash",
+                "settled my hash",
+                "settled our hash",
+                "settled the stomach",
+                "settled their hash",
+                "settled your hash",
+                "settles",
+                "settles for",
+                "settles her hash",
+                "settles his hash",
+                "settles its hash",
+                "settles my hash",
+                "settles our hash",
+                "settles the stomach",
+                "settles their hash",
+                "settles your hash",
+                "settling",
+                "settling for",
+                "settling her hash",
+                "settling his hash",
+                "settling its hash",
+                "settling my hash",
+                "settling our hash",
+                "settling the stomach",
+                "settling their hash",
+                "settling your hash"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "set*tle",
+            "prs": [
+                {
+                    "mw": "\u02c8se-t\u1d4al",
+                    "sound": {
+                        "audio": "settle01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "set*tled"
+            },
+            {
+                "if": "set*tling",
+                "prs": [
+                    {
+                        "mw": "\u02c8se-t\u1d4al-i\u014b",
+                        "sound": {
+                            "audio": "settle02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8set-li\u014b"
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to place so as to stay"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to establish in residence"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to furnish with inhabitants {bc}{sx|colonize||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to pack down"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to clarify by causing dregs or impurities to sink"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make quiet or orderly"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fix or resolve conclusively "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}settle{/wi} the question"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to establish or secure permanently "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}settle{/wi} the order of royal succession"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to conclude (a lawsuit) by agreement between parties usually out of court"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to close (something, such as an account) by payment often of less than is due"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to arrange in a desired position"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make or arrange for final disposition of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}settled{/it} his affairs"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "sls": [
+                                    "of an animal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|impregnate||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to come to rest"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to sink gradually or to the bottom"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become clear by the deposit of sediment or scum"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become compact by sinking"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become fixed, resolved, or established "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a cold {it}settled{/it} in his chest"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to establish a residence or colony "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}settled{/it} in Wisconsin"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}down{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become quiet or orderly"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take up an ordered or stable life "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}down{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "marry and {wi}settle{/wi} down"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to adjust differences or accounts"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to come to a decision "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used with {it}on{/it} or {it}upon{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{it}settled{/it} on a new plan"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to conclude a lawsuit by agreement out of court"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "sls": [
+                                    "of an animal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|conceive||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "set*tle*able",
+                "prs": [
+                    {
+                        "mw": "\u02c8se-t\u1d4al-\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "settle03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8set-l\u0259-b\u0259l"
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "settle for",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be content with"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "settle one's hash",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to silence or subdue someone by decisive action"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "settle the stomach",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to remove or relieve the distress or nausea of indigestion"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}decide{/sc} {sc}determine{/sc} {sc}settle{/sc} {sc}rule{/sc} {sc}resolve{/sc} mean to come or cause to come to a conclusion. {sc}decide{/sc} implies previous consideration of a matter causing doubt, wavering, debate, or controversy. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "she {it}decided{/it} to sell her house"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}determine{/sc} implies fixing the identity, character, scope, or direction of something. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}determined{/it} the cause of the problem"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}settle{/sc} implies a decision reached by someone with power to end all dispute or uncertainty. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the dean's decision {it}settled{/it} the campus alcohol policy"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}rule{/sc} implies a determination by judicial or administrative authority. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the judge {it}ruled{/it} that the evidence was inadmissible"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}resolve{/sc} implies an expressed or clear decision or determination to do or refrain from doing something. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "he {it}resolved{/it} to quit smoking"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, to seat, bring to rest, come to rest, from Old English {it}setlan{/it}, from {it}setl{/it} seat"
+            ]
+        ],
+        "date": "1515{ds|t|1||}",
+        "shortdef": [
+            "to place so as to stay",
+            "to establish in residence",
+            "to furnish with inhabitants : colonize"
+        ]
+    },
+    {
+        "meta": {
+            "id": "settle:2",
+            "uuid": "1cd63193-8106-4973-800c-d060a9df629c",
+            "sort": "193108000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "settle",
+                "settles"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "settle"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a wooden bench with arms, a high solid back, and an enclosed foundation which can be used as a chest"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "art": {
+            "artid": "settle",
+            "capt": "settle"
+        },
+        "et": [
+            [
+                "text",
+                "Middle English, place for sitting, seat, chair, from Old English {it}setl{/it}; akin to Old High German {it}sezzal{/it} seat, Latin {it}sella{/it} seat, chair, Old English {it}sittan{/it} to sit"
+            ]
+        ],
+        "date": "1553",
+        "shortdef": [
+            "a wooden bench with arms, a high solid back, and an enclosed foundation which can be used as a chest"
+        ]
+    },
+    {
+        "meta": {
+            "id": "settle accounts with",
+            "uuid": "dcf5f63a-9a3a-4e08-ad3d-770a3fe1d1a0",
+            "sort": "3017212000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "settle accounts with"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "settle accounts with"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring a final end to an argument, disagreement, etc. "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She's decided to {it}settle accounts with{/it} her old political rivals."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to bring a final end to an argument, disagreement, etc."
+        ]
+    },
+    {
+        "meta": {
+            "id": "settle a lawsuit",
+            "uuid": "9831e2c4-8ca5-48d1-824c-9845ec68dee4",
+            "sort": "3017213000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "settle a lawsuit"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "settle a lawsuit"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to end a lawsuit before the court makes a decision about it "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They agreed to pay $100,000 to {it}settle the lawsuit{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to end a lawsuit before the court makes a decision about it"
+        ]
+    },
+    {
+        "meta": {
+            "id": "settle a/the score",
+            "uuid": "80fb6dde-1724-4828-94b6-7026347cf37c",
+            "sort": "3017214000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "settle a score",
+                "settle a/the score",
+                "settle the score"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "settle a/the score"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to harm or punish someone who caused one harm"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to harm or punish someone who caused one harm"
+        ]
+    },
+    {
+        "meta": {
+            "id": "settle down",
+            "uuid": "56821d57-63b3-4aa3-a4ce-913712d92203",
+            "sort": "3017215000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "settle down",
+                "settled down",
+                "settles down",
+                "settling down"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "settle down"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "set*tled down"
+            },
+            {
+                "if": "set*tling down"
+            },
+            {
+                "if": "set*tles down"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become quiet, calm, or orderly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}Settle down{/it}, children."
+                                            },
+                                            {
+                                                "t": "When things {it}settle down{/it} here, I'll come for a visit."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to begin to live a quiet and steady life by getting a regular job, getting married, etc. "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They swore they would never {it}settle down{/it} and get married."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to put oneself into a comfortable position "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He {it}settled down{/it} for the night."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become quiet and begin giving one's attention to something "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They quickly {it}settled down{/it} to their work."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to become quiet, calm, or orderly",
+            "to begin to live a quiet and steady life by getting a regular job, getting married, etc.",
+            "to put oneself into a comfortable position"
+        ]
+    },
+    {
+        "meta": {
+            "id": "settle one's account",
+            "uuid": "260fa9d0-d81b-4771-b763-f494a1cc8f06",
+            "sort": "3017218000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "settle her account",
+                "settle his account",
+                "settle one's account",
+                "settle their account"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "settle one's account"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pay what one owes "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "When do you intend to {it}settle your account{/it}?"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to pay what one owes"
+        ]
+    },
+    {
+        "meta": {
+            "id": "settle on/upon (something)",
+            "uuid": "53193a67-12ed-4091-bf0a-e2a41d40f9e8",
+            "sort": "3017219000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "settle on",
+                "settle on something",
+                "settle on/upon (something)",
+                "settle upon",
+                "settle upon something",
+                "settled on/upon (something)",
+                "settles on/upon (something)",
+                "settling on/upon (something)"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "settle on/upon (something)"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "settled on/upon (something)"
+            },
+            {
+                "if": "set*tling on/upon (something)"
+            },
+            {
+                "if": "settles on/upon (something)"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to choose (something or someone) after thinking about other possible choices "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We finally {it}settled on{/it} a soft yellow for the kitchen walls."
+                                            },
+                                            {
+                                                "t": "Hours later, they {it}settled on{/it} a plan."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to choose (something or someone) after thinking about other possible choices"
+        ]
+    },
+    {
+        "meta": {
+            "id": "settle (someone or something) down",
+            "uuid": "03047a77-401c-4184-ab23-6c5011c419ba",
+            "sort": "3017220000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "settle (someone or something) down",
+                "settle down",
+                "settle someone down",
+                "settle something down",
+                "settled (someone or something) down",
+                "settles (someone or something) down",
+                "settling (someone or something) down"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "settle (someone or something) down"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "settled (someone or something) down"
+            },
+            {
+                "if": "set*tling (someone or something) down"
+            },
+            {
+                "if": "settles (someone or something) down"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make (someone or something) quiet, calm, or orderly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He managed to {it}settle{/it} the dog {it}down{/it} long enough to give her the medicine."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to make (someone or something) quiet, calm, or orderly"
+        ]
+    },
+    {
+        "meta": {
+            "id": "settle (something) on (someone)",
+            "uuid": "e09962e6-7232-4909-8db2-51b0143bfbe0",
+            "sort": "3017221000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "settle (something) on (someone)",
+                "settle on",
+                "settle on someone",
+                "settle something on",
+                "settle something on someone",
+                "settled (something) on (someone)",
+                "settles (something) on (someone)",
+                "settling (something) on (someone)"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "settle (something) on (someone)"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "settled (something) on (someone)"
+            },
+            {
+                "if": "set*tling (something) on (someone)"
+            },
+            {
+                "if": "settles (something) on (someone)"
+            }
+        ],
+        "def": [
+            {
+                "sls": [
+                    "chiefly British"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to arrange to give (money or property) to (someone) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She {it}settled{/it} her whole fortune {it}on{/it} her grandchildren."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to arrange to give (money or property) to (someone)"
+        ]
+    }
+]

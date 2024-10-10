@@ -1,0 +1,629 @@
+[
+    {
+        "meta": {
+            "id": "reach:1",
+            "uuid": "5f1bd3f5-b35a-4d47-ac33-3ec860163738",
+            "sort": "180690000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "reach",
+                "reachable",
+                "reached",
+                "reacher",
+                "reachers",
+                "reaches",
+                "reaching"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "reach",
+            "prs": [
+                {
+                    "mw": "\u02c8r\u0113ch",
+                    "sound": {
+                        "audio": "reach001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "reached"
+            },
+            {
+                "if": "reach*ing"
+            },
+            {
+                "if": "reach*es"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stretch out {bc}{sx|extend||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|thrust||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to touch or grasp by extending a part of the body (such as a hand) or an object "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "couldn't {wi}reach{/wi} the apple"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pick up and draw toward one {bc}{sx|take||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "c (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to extend to "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "the shadow {wi}reached{/wi} the wall"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to get up to or as far as {bc}come to "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "your letter {wi}reached{/wi} me yesterday"
+                                                    },
+                                                    {
+                                                        "t": "his voice {wi}reached{/wi} the last rows"
+                                                    },
+                                                    {
+                                                        "t": "they hoped to {wi}reach{/wi} an agreement"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "d (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|encompass||}"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to make an impression on"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to communicate with"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to hand over {bc}{sx|pass||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a stretch with or as if with one's hand"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to strain after something"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|project||}, {sx|extend||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "his land {wi}reaches{/wi} to the river"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to arrive at or come to something "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "as far as the eye could {wi}reach{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to sail on a reach"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "reach*able",
+                "prs": [
+                    {
+                        "mw": "\u02c8r\u0113-ch\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "reach002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            },
+            {
+                "ure": "reach*er",
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}rechen{/it}, from Old English {it}r\u01e3can{/it}; akin to Old High German {it}reichen{/it} to reach, Lithuanian {it}rai\u017eytis{/it} to stretch oneself"
+            ]
+        ],
+        "date": "before 12th century{ds|t|1|a|}",
+        "shortdef": [
+            "to stretch out : extend",
+            "thrust",
+            "to touch or grasp by extending a part of the body (such as a hand) or an object"
+        ]
+    },
+    {
+        "meta": {
+            "id": "at the end of one's patience",
+            "uuid": "4d13cae8-8bf3-467a-910e-6ea200a16e49",
+            "sort": "3001158000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "at the end of her patience",
+                "at the end of his patience",
+                "at the end of one's patience",
+                "at the end of their patience",
+                "reached the end of my patience"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "at the end of one's patience"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}unable to be patient any longer "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I'm {it}at the end of my patience{/it} and I'm going to file a complaint."
+                                            },
+                                            {
+                                                "t": "I've {phrase}reached the end of my patience{/phrase} with you all."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "unable to be patient any longer"
+        ]
+    },
+    {
+        "meta": {
+            "id": "reach for",
+            "uuid": "98e27dc8-a29b-4cbf-a6a7-4c03ddafb9de",
+            "sort": "3015908000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "reach for",
+                "reached for",
+                "reaches for",
+                "reaching for"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "reach for"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "reached for"
+            },
+            {
+                "if": "reach*ing for"
+            },
+            {
+                "if": "reach*es for"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move one's hand in order to get or touch (someone or something) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She {it}reached for{/it} the salt and pepper."
+                                            },
+                                            {
+                                                "t": "He {it}reached{/it} into his pocket {it}for{/it} a dime."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to try hard to achieve or succeed at (something) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Success won't come to you, you have to {it}reach for{/it} it."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to move one's hand in order to get or touch (someone or something)",
+            "to try hard to achieve or succeed at (something)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "reach out",
+            "uuid": "bde0fd0f-e22e-4240-83fc-21262ee53917",
+            "sort": "3015912000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "reach out",
+                "reached out",
+                "reaches out",
+                "reaching out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "reach out"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "reached out"
+            },
+            {
+                "if": "reach*ing out"
+            },
+            {
+                "if": "reach*es out"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make an effort to do something for other people "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The church is {it}reaching out{/it} to help the poor."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to make an effort to do something for other people"
+        ]
+    },
+    {
+        "meta": {
+            "id": "reach out to (someone)",
+            "uuid": "2f17d006-0147-45a2-97d2-d175ad1c21a5",
+            "sort": "3015913000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "reach out to",
+                "reach out to (someone)",
+                "reach out to someone",
+                "reached out to",
+                "reaches out to (someone)",
+                "reaching out to"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "reach out to (someone)"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "reached out to"
+            },
+            {
+                "if": "reach*ing out to"
+            },
+            {
+                "if": "reach*es out to (someone)"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to offer help or support to (someone) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a community {it}reaching out to{/it} refugees"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to try to get the attention and interest of (someone) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He's {it}reaching out to{/it} young voters."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to offer help or support to (someone)",
+            "to try to get the attention and interest of (someone)"
+        ]
+    }
+]

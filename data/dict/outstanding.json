@@ -1,0 +1,397 @@
+[
+    {
+        "meta": {
+            "id": "outstanding",
+            "uuid": "30d3e82b-3621-42d8-9846-18f18fc7ba39",
+            "sort": "151766000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "outstanding",
+                "outstandingly"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "out*stand*ing",
+            "prs": [
+                {
+                    "mw": "au\u0307t-\u02c8stan-di\u014b",
+                    "sound": {
+                        "audio": "outsta02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "\u02c8au\u0307t-\u02ccstan-"
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}standing out {bc}{sx|projecting||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "stood on an {wi}outstanding{/wi} rock"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|unpaid||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "left several bills {wi}outstanding{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}continuing to exist {bc}{sx|unresolved||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a long {wi}outstanding{/wi} problem in astronomy"
+                                            },
+                                            {
+                                                "t": "was arrested on \u2026 an {wi}outstanding{/wi} warrant on a domestic violence charge",
+                                                "aq": {
+                                                    "auth": "Kathy Hogan"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "sls": [
+                                    "of securities"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}publicly issued and sold "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "has 20,000 shares {wi}outstanding{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}standing out from a group {bc}{sx|conspicuous||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "There are some {wi}outstanding{/wi} exceptions to this rule."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}marked by eminence and distinction "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "an {wi}outstanding{/wi} student"
+                                            },
+                                            {
+                                                "t": "an {wi}outstanding{/wi} achievement"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "out*stand*ing*ly",
+                "prs": [
+                    {
+                        "mw": "au\u0307t-\u02c8stan-di\u014b-l\u0113",
+                        "sound": {
+                            "audio": "outsta03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8au\u0307t-\u02ccstan-"
+                    }
+                ],
+                "fl": "adverb"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}noticeable{/sc} {sc}remarkable{/sc} {sc}prominent{/sc} {sc}outstanding{/sc} {sc}conspicuous{/sc} {sc}salient{/sc} {sc}striking{/sc} mean attracting notice or attention. {sc}noticeable{/sc} applies to something unlikely to escape observation. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a piano recital with no {it}noticeable{/it} errors"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}remarkable{/sc} applies to something so extraordinary or exceptional as to invite comment. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a film of {it}remarkable{/it} intelligence and wit"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}prominent{/sc} applies to something commanding notice by standing out from its surroundings or background. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a doctor who occupies a {it}prominent{/it} position in the town"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}outstanding{/sc} applies to something that rises above and excels others of the same kind. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "honored for her {it}outstanding{/it} contributions to science"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}conspicuous{/sc} applies to something that is obvious and unavoidable to the sight or mind. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}conspicuous{/it} bureaucratic waste"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}salient{/sc} applies to something of significance that merits the attention given it. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the {it}salient{/it} points of the speech"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}striking{/sc} applies to something that impresses itself powerfully and deeply upon the observer's mind or vision. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the region's {it}striking{/it} poverty"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1611{ds||1||}",
+        "shortdef": [
+            "standing out : projecting",
+            "unpaid",
+            "continuing to exist : unresolved"
+        ]
+    },
+    {
+        "meta": {
+            "id": "outstand",
+            "uuid": "7c0eb47a-439c-44fd-a9ab-b3f1219128f6",
+            "sort": "151765000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "outstand",
+                "outstanding",
+                "outstands",
+                "outstood"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "out*stand",
+            "prs": [
+                {
+                    "mw": "\u02ccau\u0307t-\u02c8stand",
+                    "sound": {
+                        "audio": "outsta01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "ifc": "-stood",
+                "if": "out*stood",
+                "prs": [
+                    {
+                        "mw": "\u02ccau\u0307t-\u02c8stu\u0307d",
+                        "sound": {
+                            "audio": "outstood_1",
+                            "ref": "owl",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "ifc": "-stand*ing",
+                "if": "out*stand*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to endure beyond "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I have {it}outstood{/it} my time",
+                                                "aq": {
+                                                    "auth": "William Shakespeare"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|stand out||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1571{ds|t|||}",
+        "shortdef": [
+            "to endure beyond",
+            "stand out"
+        ]
+    }
+]

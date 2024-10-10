@@ -1,0 +1,297 @@
+[
+    {
+        "meta": {
+            "id": "brisk:1",
+            "uuid": "27a3c27a-6b28-4a37-b4af-4f3da3a3ad09",
+            "sort": "020425800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "brisk",
+                "brisker",
+                "briskest",
+                "briskly",
+                "briskness",
+                "brisknesses"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "brisk",
+            "prs": [
+                {
+                    "mw": "\u02c8brisk",
+                    "sound": {
+                        "audio": "brisk001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}keenly alert {bc}{sx|lively||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}brisk{/wi} old lady with no nonsense about her",
+                                                "aq": {
+                                                    "auth": "Jean Stafford"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}pleasingly tangy "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}brisk{/wi} tea"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|fresh||}, {sx|invigorating|invigorating|} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}brisk{/wi} autumn day"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}sharp in tone or manner "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "was very {wi}brisk{/wi} on the phone"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|energetic||}, {sx|quick||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "took a {wi}brisk{/wi} walk"
+                                            },
+                                            {
+                                                "t": "at a {wi}brisk{/wi} pace"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}marked by much activity "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "business was {wi}brisk{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "brisk*ly",
+                "fl": "adverb"
+            },
+            {
+                "ure": "brisk*ness",
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "probably modification of Middle French {it}brusque{/it}"
+            ]
+        ],
+        "date": "1560{ds||1||}",
+        "shortdef": [
+            "keenly alert : lively",
+            "pleasingly tangy",
+            "fresh, invigorating"
+        ]
+    },
+    {
+        "meta": {
+            "id": "brisk:2",
+            "uuid": "42a11116-df40-497e-a8f1-3edc0ba8a706",
+            "sort": "020425900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "brisk",
+                "brisked",
+                "brisking",
+                "brisks"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "brisk"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "brisked"
+            },
+            {
+                "if": "brisk*ing"
+            },
+            {
+                "if": "brisks"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make animated, energetic, or marked by much activity {bc}to make {d_link|brisk|brisk:1}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become brisk "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used with {it}up{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "business {wi}brisked{/wi} up"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "verbal derivative of {et_link|brisk:1|brisk:1}"
+            ]
+        ],
+        "date": "1598{ds|t|||}",
+        "shortdef": [
+            "to make animated, energetic, or marked by much activity : to make brisk",
+            "to become brisk \u2014usually used with up"
+        ]
+    }
+]

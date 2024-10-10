@@ -1,0 +1,234 @@
+[
+    {
+        "meta": {
+            "id": "grudge:1",
+            "uuid": "0de0b1f6-fe04-4b01-98f1-0ff25c9969cd",
+            "sort": "072699000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "grudge",
+                "grudged",
+                "grudger",
+                "grudgers",
+                "grudges",
+                "grudging"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "grudge",
+            "prs": [
+                {
+                    "mw": "\u02c8gr\u0259j",
+                    "sound": {
+                        "audio": "grudge01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "grudged"
+            },
+            {
+                "if": "grudg*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be unwilling to give or admit {bc}give or allow reluctantly or resentfully "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "didn't {wi}grudge{/wi} the time"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "grudg*er",
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}grucchen, grudgen{/it} to grumble, complain, from Anglo-French {it}grucer, grucher{/it}, of Germanic origin; akin to Middle High German {it}grogezen{/it} to howl"
+            ]
+        ],
+        "date": "14th century",
+        "shortdef": [
+            "to be unwilling to give or admit : give or allow reluctantly or resentfully"
+        ]
+    },
+    {
+        "meta": {
+            "id": "grudge:2",
+            "uuid": "2036c16e-0121-4d30-9530-80bb050263d9",
+            "sort": "072700000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "grudge",
+                "grudges"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "grudge"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a feeling of deep-seated resentment or ill will "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "held no {wi}grudge{/wi} against those who mistreated him"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}malice{/sc} {sc}malevolence{/sc} {sc}ill will{/sc} {sc}spite{/sc} {sc}malignity{/sc} {sc}spleen{/sc} {sc}grudge{/sc} mean the desire to see another experience pain, injury, or distress. {sc}malice{/sc} implies a deep-seated often unexplainable desire to see another suffer. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "felt no {it}malice{/it} toward their former enemies"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}malevolence{/sc} suggests a bitter persistent hatred that is likely to be expressed in malicious conduct. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a look of dark {it}malevolence{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}ill will{/sc} implies a feeling of antipathy of limited duration. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}ill will{/it} provoked by a careless remark"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}spite{/sc} implies petty feelings of envy and resentment that are often expressed in small harassments. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "petty insults inspired by {it}spite{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}malignity{/sc} implies deep passion and relentlessness. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a life consumed by motiveless {it}malignity{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}spleen{/sc} suggests the wrathful release of latent spite or persistent malice. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "venting his {it}spleen{/it} against politicians"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}grudge{/sc} implies a harbored feeling of resentment or ill will that seeks satisfaction. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "never one to harbor a {it}grudge{/it}"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "derivative of {et_link|grudge:1|grudge:1}"
+            ]
+        ],
+        "date": "15th century",
+        "shortdef": [
+            "a feeling of deep-seated resentment or ill will"
+        ]
+    }
+]

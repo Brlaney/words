@@ -1,0 +1,420 @@
+[
+    {
+        "meta": {
+            "id": "standout",
+            "uuid": "5e0236fc-572b-4fa9-bea6-67242b96d507",
+            "sort": "194749300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "standout",
+                "standouts"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand*out",
+            "prs": [
+                {
+                    "mw": "\u02c8stand-\u02ccau\u0307t",
+                    "sound": {
+                        "audio": "stando03",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "lbs": [
+            "often attributive"
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}one that is prominent or conspicuous especially because of excellence"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1915",
+        "shortdef": [
+            "one that is prominent or conspicuous especially because of excellence"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stand out",
+            "uuid": "9d62e194-4143-4fd3-bc96-49399e588ac7",
+            "sort": "194749400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stand out",
+                "standing out",
+                "stands out",
+                "stood out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand out"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stood out"
+            },
+            {
+                "if": "stand*ing out"
+            },
+            {
+                "if": "stands out"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to appear as if in relief {bc}{sx|project||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be prominent or conspicuous "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}stands out{/it} from the crowd"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to steer away from shore"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be stubborn in resolution or resistance"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "14th century{ds||1|a|}",
+        "shortdef": [
+            "to appear as if in relief : project",
+            "to be prominent or conspicuous",
+            "to steer away from shore"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stand out from the crowd",
+            "uuid": "b3e22563-3765-41c3-956a-073d952bbc85",
+            "sort": "3018465000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "stand out from the crowd"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand out from the crowd"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be unusual in a good way "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "As a teacher, he always {it}stood out from the crowd{/it}."
+                                            },
+                                            {
+                                                "t": "The high quality of these tools makes them {it}stand out from the crowd{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to be unusual in a good way"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stand out from the pack",
+            "uuid": "81e28c54-d708-4866-aca2-1054a9f101c4",
+            "sort": "3018466000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "stand out from the pack"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand out from the pack"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be different from others "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "One writer {it}stands out from the pack{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to be different from others"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stand/stick out a mile",
+            "uuid": "118db3a8-0606-4ced-aa30-82ad6fa1e2a8",
+            "sort": "3018473000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "stand out a mile",
+                "stand/stick out a mile",
+                "stick out a mile"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stand/stick out a mile"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be very obvious "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The twins' resemblance {it}stood/stuck out a mile{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to be very obvious"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stick/stand out like a sore thumb",
+            "uuid": "a06e675c-a72d-4def-98ae-d216d5bc3026",
+            "sort": "3018669000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "stand out like a sore thumb",
+                "stick out like a sore thumb",
+                "stick/stand out like a sore thumb"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stick/stand out like a sore thumb"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be very noticeable in usually a bad way"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to be very noticeable in usually a bad way"
+        ]
+    },
+    {
+        "meta": {
+            "id": "the heat",
+            "uuid": "5811b631-4546-4aaa-817a-76c491d32e15",
+            "sort": "3020073000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "if you can't stand the heat, get out of the kitchen",
+                "if you can't stand/take the heat, get out of the kitchen",
+                "if you can't take the heat, get out of the kitchen",
+                "putting the heat on",
+                "the heat",
+                "the heat is on",
+                "turned up the heat on"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "the heat"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}pressure to do something "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The administration is {phrase}putting the heat on{/phrase} legislators to approve the tax bill."
+                                            },
+                                            {
+                                                "t": "She's at her best when {phrase}the heat is on{/phrase} with tight deadlines."
+                                            },
+                                            {
+                                                "t": "The company has {phrase}turned up the heat on{/phrase} its employees to finish the job quickly."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "snote",
+                                        [
+                                            [
+                                                "t",
+                                                "The expression {phrase}if you can't stand/take the heat, get out of the kitchen{/phrase} means that you should not try to do a difficult job if you cannot deal with the pressure and problems that are part of the job."
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "pressure to do something"
+        ]
+    }
+]

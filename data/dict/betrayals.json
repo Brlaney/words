@@ -1,0 +1,181 @@
+[
+    {
+        "meta": {
+            "id": "betrayal",
+            "uuid": "9c68b21a-cff6-4b28-9136-0b72788e1421",
+            "sort": "020178925",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "betrayal",
+                "betrayals"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "be*tray*al",
+            "prs": [
+                {
+                    "mw": "bi-\u02c8tr\u0101(-\u0259)l",
+                    "sound": {
+                        "audio": "betray02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "b\u0113-"
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "be*tray*als"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act of {d_link|betraying|betray} someone or something or the fact of being betrayed {bc}violation of a person's trust or confidence, of a moral standard, etc. "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the {wi}betrayal{/wi} of a friend"
+                                            },
+                                            {
+                                                "t": "a {wi}betrayal{/wi} of trust"
+                                            },
+                                            {
+                                                "t": "a {wi}betrayal{/wi} of one's principles"
+                                            },
+                                            {
+                                                "t": "A man who built his entire administration upon demanding unctuous loyalty from his allies now finds himself wounded by their shabby {wi}betrayal{/wi}.",
+                                                "aq": {
+                                                    "auth": "Jack Hitt"
+                                                }
+                                            },
+                                            {
+                                                "t": "The double life of an informant is a peculiar one, filled at the same time with tedium and {wi}betrayal{/wi}.",
+                                                "aq": {
+                                                    "auth": "Karen Richardson"
+                                                }
+                                            },
+                                            {
+                                                "t": "Even Jesus recognized that there was something paradoxical about his {wi}betrayal{/wi} by Judas Iscariot\u2014in three of the four canonical Gospels, with a kiss.",
+                                                "aq": {
+                                                    "auth": "David Gates"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}revelation of something hidden or secret "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}betrayal{/wi} of one's true feelings"
+                                            },
+                                            {
+                                                "t": "There was never doubt, never a {wi}betrayal{/wi} of indecision.",
+                                                "aq": {
+                                                    "auth": "Jack London"
+                                                }
+                                            },
+                                            {
+                                                "t": "\u2026 she had shrunk with irresistible dread from every course that could tend towards a {wi}betrayal{/wi} of her miserable secret.",
+                                                "aq": {
+                                                    "auth": "George Eliot"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1788{ds||1||}",
+        "shortdef": [
+            "the act of betraying someone or something or the fact of being betrayed : violation of a person's trust or confidence, of a moral standard, etc.",
+            "revelation of something hidden or secret"
+        ]
+    },
+    {
+        "meta": {
+            "id": "self-betrayal",
+            "uuid": "499c6941-f98a-4f1c-984f-adce96c7702d",
+            "sort": "192104000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "self-betrayal",
+                "self-betrayals"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "self-be*tray*al",
+            "prs": [
+                {
+                    "mw": "\u02ccself-bi-\u02c8tr\u0101(-\u0259)l",
+                    "sound": {
+                        "audio": "selfbe03",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|self-revelation||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1822",
+        "shortdef": [
+            "self-revelation"
+        ]
+    }
+]

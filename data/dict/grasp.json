@@ -1,0 +1,779 @@
+[
+    {
+        "meta": {
+            "id": "grasp:1",
+            "uuid": "284f2125-d516-40af-8dd5-0d9ad63b8186",
+            "sort": "072209000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "grasp",
+                "grasp at straws",
+                "grasp the nettle",
+                "graspable",
+                "grasped",
+                "grasped at straws",
+                "grasped the nettle",
+                "grasper",
+                "graspers",
+                "grasping",
+                "grasping at straws",
+                "grasping the nettle",
+                "grasps",
+                "grasps at straws",
+                "grasps the nettle"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "grasp",
+            "prs": [
+                {
+                    "mw": "\u02c8grasp",
+                    "sound": {
+                        "audio": "grasp001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "grasped"
+            },
+            {
+                "if": "grasp*ing"
+            },
+            {
+                "if": "grasps"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make the motion of seizing {bc}{sx|clutch||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grasping{/wi} for support"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take or seize eagerly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grasp{/wi} the opportunity for advancement"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to clasp or embrace especially with the fingers or arms "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}grasped{/wi} the pen and began writing"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to lay hold of with the mind {bc}{sx|comprehend||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "failed to {wi}grasp{/wi} the danger of the situation"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "grasp*able",
+                "prs": [
+                    {
+                        "mw": "\u02c8gra-sp\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "grasp002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            },
+            {
+                "ure": "grasp*er",
+                "fl": "noun"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "grasp at straws",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to reach for or try anything in desperation"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "grasp the nettle",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to act boldly"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}take{/sc} {sc}seize{/sc} {sc}grasp{/sc} {sc}clutch{/sc} {sc}snatch{/sc} {sc}grab{/sc} mean to get hold of by or as if by catching up with the hand. {sc}take{/sc} is a general term applicable to any manner of getting something into one's possession or control. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}take{/it} some salad from the bowl"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}seize{/sc} implies a sudden and forcible movement in getting hold of something tangible or an apprehending of something fleeting or elusive when intangible. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}seized{/it} the suspect"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}grasp{/sc} stresses a laying hold so as to have firmly in possession. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}grasp{/it} the handle and pull"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}clutch{/sc} suggests avidity or anxiety in seizing or grasping and may imply less success in holding. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}clutching{/it} her purse"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}snatch{/sc} suggests more suddenness or quickness but less force than {sc}seize{/sc}. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}snatched{/it} a doughnut and ran"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}grab{/sc} implies more roughness or rudeness than {sc}snatch{/sc}. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}grabbed{/it} roughly by the arm"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}graspen{/it}"
+            ]
+        ],
+        "date": "14th century{ds|i|||}",
+        "shortdef": [
+            "to make the motion of seizing : clutch",
+            "to take or seize eagerly",
+            "to clasp or embrace especially with the fingers or arms"
+        ]
+    },
+    {
+        "meta": {
+            "id": "grasp:2",
+            "uuid": "17cf15dd-08f7-4cf5-a988-06163e42a49c",
+            "sort": "072210000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "grasp",
+                "grasps"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "grasp"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|handle||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|embrace||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|hold||}, {sx|control||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "kept a firm {wi}grasp{/wi} on the rope"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the reach of the arms "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The books on the top shelf were beyond my {wi}grasp{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the power of seizing and holding or attaining "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "success lay within their {wi}grasp{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}mental hold or comprehension especially when broad "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a remarkable {wi}grasp{/wi} of the subject"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|grasp:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "1561{ds||1|a|}",
+        "shortdef": [
+            "handle",
+            "embrace",
+            "hold, control"
+        ]
+    },
+    {
+        "meta": {
+            "id": "grasp at",
+            "uuid": "7a65c1ac-74a5-40fe-8f50-3a06106b9d44",
+            "sort": "3007761000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "grasp at",
+                "grasped at",
+                "grasping at",
+                "grasps at"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "grasp at"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "grasped at"
+            },
+            {
+                "if": "grasp*ing at"
+            },
+            {
+                "if": "grasps at"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to try to take or get (something) in an eager or desperate way "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They were ready to {it}grasp at{/it} any possible solution."
+                                            },
+                                            {
+                                                "t": "He {it}grasped at{/it} the opportunity to speak with her."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to try to take or get (something) in an eager or desperate way"
+        ]
+    },
+    {
+        "meta": {
+            "id": "grasp for",
+            "uuid": "685b4283-3dcb-4322-8083-233fe2d19258",
+            "sort": "3007762000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "grasp for",
+                "grasped for",
+                "grasping for",
+                "grasps for"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "grasp for"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "grasped for"
+            },
+            {
+                "if": "grasp*ing for"
+            },
+            {
+                "if": "grasps for"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to try in a desperate or awkward way to get (something) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "His sudden decision to quit the race has left his supporters {it}grasping for{/it} explanations."
+                                            },
+                                            {
+                                                "t": "{it}grasping for{/it} attention"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to try in a desperate or awkward way to get (something)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beyond someone's grasp",
+            "uuid": "2967c09a-d500-44c1-8878-be45cf947dc6",
+            "sort": "3001841000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "beyond someone's grasp"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "beyond someone's grasp"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}impossible for someone to understand "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "His motives are {it}beyond my grasp{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "impossible for someone to understand"
+        ]
+    },
+    {
+        "meta": {
+            "id": "elude someone's grasp",
+            "uuid": "b3574037-f7fa-45b6-8d62-438fd0c96fa2",
+            "sort": "3005403000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "elude someone's grasp"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "elude someone's grasp"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stay too far away for someone to reach "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He tried to grab the rolling ball, but it {it}eluded his grasp{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to stay too far away for someone to reach"
+        ]
+    },
+    {
+        "meta": {
+            "id": "get a grasp on",
+            "uuid": "12c0e64f-9e89-4fc8-83d2-ecbcb83aff9f",
+            "sort": "3006893000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "get a grasp on"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "get a grasp on"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to gain a good understanding of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We're still trying to {it}get a grasp on{/it} the situation."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to gain a good understanding of"
+        ]
+    },
+    {
+        "meta": {
+            "id": "within someone's grasp",
+            "uuid": "463aa4be-2e71-49d6-afd5-de9b3bb656b5",
+            "sort": "3022772000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "within someone's grasp"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "within someone's grasp"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}able to be found or gotten "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She felt the solution was {it}within her grasp{/it}."
+                                            },
+                                            {
+                                                "t": "Success is almost {it}within our grasp.{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "able to be found or gotten"
+        ]
+    }
+]

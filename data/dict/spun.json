@@ -1,0 +1,807 @@
+[
+    {
+        "meta": {
+            "id": "spun",
+            "uuid": "5cf57071-e760-4ef6-8099-1f9ff9ed73c3",
+            "sort": "194710100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "spin",
+                "spun"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "spun"
+        },
+        "cxs": [
+            {
+                "cxl": "past tense and past participle of",
+                "cxtis": [
+                    {
+                        "cxt": "spin"
+                    }
+                ]
+            }
+        ],
+        "shortdef": []
+    },
+    {
+        "meta": {
+            "id": "spin:1",
+            "uuid": "e971ffe2-363a-440f-9b40-85ca7d0d40e4",
+            "sort": "194666100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "spin",
+                "spin her wheels",
+                "spin his wheels",
+                "spin its wheels",
+                "spin my wheels",
+                "spin one's wheels",
+                "spin our wheels",
+                "spin their wheels",
+                "spin your wheels",
+                "spinning",
+                "spinning her wheels",
+                "spinning his wheels",
+                "spinning its wheels",
+                "spinning my wheels",
+                "spinning our wheels",
+                "spinning their wheels",
+                "spinning your wheels",
+                "spins",
+                "spins her wheels",
+                "spins his wheels",
+                "spins its wheels",
+                "spun",
+                "spun her wheels",
+                "spun his wheels",
+                "spun its wheels",
+                "spun my wheels",
+                "spun our wheels",
+                "spun their wheels",
+                "spun your wheels"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "spin",
+            "prs": [
+                {
+                    "mw": "\u02c8spin",
+                    "sound": {
+                        "audio": "spin0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "spun",
+                "prs": [
+                    {
+                        "mw": "\u02c8sp\u0259n",
+                        "sound": {
+                            "audio": "spin0002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "if": "spin*ning"
+            },
+            {
+                "if": "spins"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to draw out and twist fiber into yarn or thread"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to form a thread by extruding a viscous rapidly hardening fluid "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used especially of a spider or insect"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to revolve rapidly {bc}{sx|gyrate||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to feel as if in a whirl {bc}{sx|reel||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "My head is {it}spinning{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move swiftly especially on or as if on wheels or in a vehicle"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fish with {d_link|spinning|spinning} bait {bc}{sx|troll||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6 a",
+                                "sls": [
+                                    "of an airplane"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fall in a spin"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to plunge helplessly and out of control"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "sls": [
+                                    "informal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to play records or compact discs "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "You're {wi}spinning{/wi} at the Pride event at UrbanBeat this weekend\u2014what can you tell us about that set?",
+                                                "aq": {
+                                                    "auth": "Rich Tupica"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to engage in {d_link|spin control|spin control} (as in politics)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to draw out and twist into yarns or threads"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to produce by drawing out and twisting a fibrous material"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to form (something, such as a web or cocoon) by spinning"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stretch out or extend (something, such as a story) lengthily {bc}{sx|protract||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used with {it}out{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to evolve, express, or fabricate by processes of mind or imagination "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}spin{/wi} a yarn"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to whirl {bc}impart spin to "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}spin{/wi} a top"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to shape into threadlike form in manufacture"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to manufacture by a whirling process"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to set (records or compact discs) rotating on a player {bc}{sx|play||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}spin{/wi} some discs"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to present (information) with a particular spin "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}spin{/wi} the statistics"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "spin one's wheels",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to make futile efforts to achieve progress"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}spinnen{/it}, from Old English {it}spinnan{/it}; akin to Old High German {it}spinnan{/it} to spin and perhaps to Lithuanian {it}sp\u0119sti{/it} to set (a trap)"
+            ]
+        ],
+        "date": "before 12th century{ds|i|1||}",
+        "shortdef": [
+            "to draw out and twist fiber into yarn or thread",
+            "to form a thread by extruding a viscous rapidly hardening fluid \u2014used especially of a spider or insect",
+            "to revolve rapidly : gyrate"
+        ]
+    },
+    {
+        "meta": {
+            "id": "spun glass",
+            "uuid": "838899cc-f00c-4337-b95a-021dbc7341ce",
+            "sort": "194710300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "spun glass",
+                "spun glasses"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "spun glass"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}blown glass that has slender threads of glass incorporated in it"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|fiberglass||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1779{ds||1||}",
+        "shortdef": [
+            "blown glass that has slender threads of glass incorporated in it",
+            "fiberglass"
+        ]
+    },
+    {
+        "meta": {
+            "id": "spun sugar",
+            "uuid": "879a919a-5714-42fa-ac07-524053f8bb42",
+            "sort": "194710800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "spun sugar",
+                "spun sugars"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "spun sugar"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}sugar boiled to long threads and gathered up and shaped into desired forms or heaped on a stick as a candy "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 thin shells of chocolate filled with caramel and white chocolate mousse and cradled in a nest of {wi}spun sugar{/wi}.",
+                                                "aq": {
+                                                    "auth": "Jeff Book"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1846",
+        "shortdef": [
+            "sugar boiled to long threads and gathered up and shaped into desired forms or heaped on a stick as a candy"
+        ]
+    },
+    {
+        "meta": {
+            "id": "spun yarn",
+            "uuid": "973dd800-2ce1-4594-8a45-588307e20c2f",
+            "sort": "194710900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "spun yarn",
+                "spun yarns"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "spun yarn"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a textile yarn spun from staple-length fiber"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a small rope or stuff formed of two or more rope yarns loosely twisted and used for seizings especially on board ship"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "a textile yarn spun from staple-length fiber",
+            "a small rope or stuff formed of two or more rope yarns loosely twisted and used for seizings especially on board ship"
+        ]
+    },
+    {
+        "meta": {
+            "id": "spin off",
+            "uuid": "870a7f7f-d4e4-4ad8-906a-0f7a1c0fb41f",
+            "sort": "194670500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "spin off",
+                "spinning off",
+                "spins off",
+                "spun off"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "spin off"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "spun off"
+            },
+            {
+                "if": "spin*ning off"
+            },
+            {
+                "if": "spins off"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to establish or produce as a spin-off "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the company {it}spun off{/it} its computer division"
+                                            },
+                                            {
+                                                "t": "{it}spin off{/it} a new TV series"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to establish or become a spin-off"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1950{ds|t|||}",
+        "shortdef": [
+            "to establish or produce as a spin-off",
+            "to establish or become a spin-off"
+        ]
+    },
+    {
+        "meta": {
+            "id": "spin out",
+            "uuid": "95bd9631-a7b2-44ce-9244-1525b16f20af",
+            "sort": "194671000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "spin out",
+                "spinning out",
+                "spins out",
+                "spun out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "spin out"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "spun out"
+            },
+            {
+                "if": "spin*ning out"
+            },
+            {
+                "if": "spins out"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a rotational skid in an automobile"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1951",
+        "shortdef": [
+            "to make a rotational skid in an automobile"
+        ]
+    }
+]

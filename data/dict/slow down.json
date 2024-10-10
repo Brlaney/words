@@ -1,0 +1,61 @@
+[
+    {
+        "meta": {
+            "id": "slowdown",
+            "uuid": "b570a669-5dc5-4bd1-b527-653e4511a383",
+            "sort": "194494800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "slowdown",
+                "slowdowns"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "slow*down",
+            "prs": [
+                {
+                    "mw": "\u02c8sl\u014d-\u02ccdau\u0307n",
+                    "sound": {
+                        "audio": "slowdo01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a {a_link|slowing} down "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a business {wi}slowdown{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1882",
+        "shortdef": [
+            "a slowing down"
+        ]
+    }
+]

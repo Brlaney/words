@@ -1,0 +1,208 @@
+[
+    {
+        "meta": {
+            "id": "swipe:2",
+            "uuid": "a8780b18-78b7-4283-a970-7066d09a87a5",
+            "sort": "195015500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "swipe",
+                "swiped",
+                "swipes",
+                "swiping"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "swipe"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "swiped"
+            },
+            {
+                "if": "swip*ing"
+            },
+            {
+                "if": "swipes"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to strike or move with a sweeping motion "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Among carnivores like the great cats, wolves and hyenas, cubs pretend to capture prey: stalking, pouncing, biting, {wi}swiping{/wi} at objects with claws extended.",
+                                                "aq": {
+                                                    "auth": "Natalie Angier"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to operate something (such as a function on a mobile device) by sliding one's finger while pressing against a {d_link|touch screen|touch screen} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "On the plus side, it does come with extra large icons on the home screen, and a button bar that you {wi}swipe{/wi} up from the bottom for easy access to video tutorials, troubleshooting tools and 24/7 phone support.",
+                                                "aq": {
+                                                    "auth": "Jennifer Jolly"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to strike or wipe (something or someone) with a sweeping motion "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Pallone mimicked Rose's gestures in rebuttal\u2014and, perhaps inadvertently, {wi}swiped{/wi} Rose on the cheek near his left eye.",
+                                                "aq": {
+                                                    "auth": "Steve Wulf"
+                                                }
+                                            },
+                                            {
+                                                "t": "One model boasted a small rectangular \"rest\" that kept the head from touching the counter when it was laid down and also sported a useful notch for {wi}swiping{/wi} the rim of a jar or bowl.",
+                                                "aq": {
+                                                    "auth": "Lisa McManus"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to activate or control (something) with a swiping gesture "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Tinder allows users to {wi}swipe{/wi} their phone screen to the right when they see a picture of someone they like. \u2026",
+                                                "aq": {
+                                                    "source": "{it}The Mercury{/it} (South Africa)"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|steal||}, {sx|pilfer||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "In a jailhouse interview in Russia, a former uranium worker explains why he {wi}swiped{/wi} nuclear material to sell: He needed money for a new fridge and stove.",
+                                                "aq": {
+                                                    "auth": "David Corn"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to slide (a card with a magnetic strip or bar code) through a slot in a reading device so that information contained in the strip or code can be processed (as in making a purchase) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Instead of {wi}swiping{/wi} your credit card, or inserting its chip to complete the payment process, contactless technology lets you make a purchase by placing or hovering your card or phone near a payment terminal, a.k.a. the credit card machine.",
+                                                "aq": {
+                                                    "auth": "Geoffrey Morrison"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1825{ds|i|1||}",
+        "shortdef": [
+            "to strike or move with a sweeping motion",
+            "to operate something (such as a function on a mobile device) by sliding one's finger while pressing against a touch screen",
+            "to strike or wipe (something or someone) with a sweeping motion"
+        ]
+    }
+]

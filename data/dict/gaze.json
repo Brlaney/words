@@ -1,0 +1,481 @@
+[
+    {
+        "meta": {
+            "id": "gaze:1",
+            "uuid": "2c90ccbc-d4ef-4875-ba6e-e63bcafde11c",
+            "sort": "070571000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gaze",
+                "gazed",
+                "gazer",
+                "gazers",
+                "gazes",
+                "gazing"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "gaze",
+            "prs": [
+                {
+                    "mw": "\u02c8g\u0101z",
+                    "sound": {
+                        "audio": "gaze0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "gazed"
+            },
+            {
+                "if": "gaz*ing"
+            },
+            {
+                "if": "gaz*es"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fix the eyes in a steady intent look often with eagerness or studious attention "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}gazed{/it} out the window at the snow"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "gaz*er",
+                "fl": "noun",
+                "ins": [
+                    {
+                        "il": "plural",
+                        "if": "gaz*ers"
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English"
+            ]
+        ],
+        "date": "14th century",
+        "shortdef": [
+            "to fix the eyes in a steady intent look often with eagerness or studious attention"
+        ]
+    },
+    {
+        "meta": {
+            "id": "gaze:2",
+            "uuid": "8c3985d8-e1b7-4e97-b567-ad22b8f843bb",
+            "sort": "070572000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "female gaze",
+                "female gazes",
+                "gaze",
+                "gazes",
+                "male gaze",
+                "male gazes",
+                "meet her gaze",
+                "meet his gaze",
+                "meet my gaze",
+                "meet our gaze",
+                "meet their gaze",
+                "meet your gaze",
+                "meeting her gaze",
+                "meeting his gaze",
+                "meeting my gaze",
+                "meeting our gaze",
+                "meeting their gaze",
+                "meeting your gaze",
+                "meets her gaze",
+                "meets his gaze",
+                "meets my gaze",
+                "meets our gaze",
+                "meets their gaze",
+                "meets your gaze",
+                "met her gaze",
+                "met his gaze",
+                "met my gaze",
+                "met our gaze",
+                "met their gaze",
+                "met your gaze",
+                "white gaze",
+                "white gazes"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "gaze"
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "gazes"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a fixed intent look "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a steady {wi}gaze{/wi}"
+                                            },
+                                            {
+                                                "t": "He fixed his {wi}gaze{/wi} out the window."
+                                            },
+                                            {
+                                                "t": "She lowered/dropped/raised her {wi}gaze{/wi}."
+                                            },
+                                            {
+                                                "t": "I {phrase}met his gaze{/phrase}. {gloss}=I looked back at him.{/gloss}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the collective preferences and expectations of a usually privileged social group especially when imposed as a standard or norm on other groups "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "In 1973, British feminist film writer Laura Mulvey wrote a seminal essay called {ldquo}Visual Pleasure and Narrative Cinema{rdquo}, which explored how mainstream films appealed to a {phrase}male gaze{/phrase}\u2014a term she coined\u2014because the industry was dominated by men who, inevitably, constructed representations of women from a masculine point of view.",
+                                                "aq": {
+                                                    "auth": "Kerrie O'Brien"
+                                                }
+                                            },
+                                            {
+                                                "t": "So few slots are available for nonwhite writers that those who break through are sometimes themselves charged with \u2026 exaggerating elements of their culture for a {phrase}white gaze{/phrase}; living up to the image that white writers have created for them, the easier to be packaged and sold.",
+                                                "aq": {
+                                                    "auth": "Ligaya Mishan"
+                                                }
+                                            },
+                                            {
+                                                "t": "It looks like a gentle scene of a seaside vacation. But this painting by Berthe Morisot, perhaps the most underrated Impressionist, is a layered vision of a dawning modern age and a rare glimpse at the 19th-century {phrase}female gaze{/phrase}.",
+                                                "aq": {
+                                                    "auth": "Natasha Frost"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "derivative of {et_link|gaze:1|gaze:1}"
+            ]
+        ],
+        "date": "1566{ds||1||}",
+        "shortdef": [
+            "a fixed intent look",
+            "the collective preferences and expectations of a usually privileged social group especially when imposed as a standard or norm on other groups"
+        ]
+    },
+    {
+        "meta": {
+            "id": "drop one's gaze",
+            "uuid": "6efbce0a-b207-4153-baca-c2633096319c",
+            "sort": "3005206000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "drop her gaze",
+                "drop his gaze",
+                "drop one's gaze",
+                "drop their gaze"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "drop one's gaze"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to look down"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to look down"
+        ]
+    },
+    {
+        "meta": {
+            "id": "lift one's gaze",
+            "uuid": "66dcc474-5346-4e31-8e40-8473f1bd8da5",
+            "sort": "3011091000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "lift her gaze",
+                "lift his gaze",
+                "lift one's gaze",
+                "lift their gaze"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "lift one's gaze"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to look up"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to look up"
+        ]
+    },
+    {
+        "meta": {
+            "id": "meet someone's gaze",
+            "uuid": "f661c83f-05a6-4d1a-be66-10a5efcefac4",
+            "sort": "3012097000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "meet someone's gaze"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "meet someone's gaze"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to look back at someone "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She calmly {it}met his gaze{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to look back at someone"
+        ]
+    },
+    {
+        "meta": {
+            "id": "fix one's eyes/gaze/stare on/upon",
+            "uuid": "08118477-311c-418a-badc-cf9d4be234ec",
+            "sort": "3006161000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "fix her eyes on",
+                "fix her eyes upon",
+                "fix her gaze on",
+                "fix her gaze upon",
+                "fix her stare on",
+                "fix her stare upon",
+                "fix his eyes on",
+                "fix his eyes upon",
+                "fix his gaze on",
+                "fix his gaze upon",
+                "fix his stare on",
+                "fix his stare upon",
+                "fix one's eyes on",
+                "fix one's eyes upon",
+                "fix one's eyes/gaze/stare on/upon",
+                "fix one's gaze on",
+                "fix one's gaze upon",
+                "fix one's stare on",
+                "fix one's stare upon",
+                "fix their eyes on",
+                "fix their eyes upon",
+                "fix their gaze on",
+                "fix their gaze upon",
+                "fix their stare on",
+                "fix their stare upon"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "fix one's eyes/gaze/stare on/upon"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to look at (someone or something) steadily "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Everyone {it}fixed their eyes on{/it} her as she entered the room."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to look at (someone or something) steadily"
+        ]
+    },
+    {
+        "meta": {
+            "id": "stare/gaze (off) into space",
+            "uuid": "a020e72d-3dce-4fca-aefe-10a6faae547f",
+            "sort": "3018493000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "gaze into space",
+                "gaze off into space",
+                "stare into space",
+                "stare off into space",
+                "stare/gaze (off) into space"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stare/gaze (off) into space"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to look straight ahead without looking at anything specific"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to look straight ahead without looking at anything specific"
+        ]
+    }
+]

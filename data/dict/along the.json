@@ -1,0 +1,158 @@
+[
+    {
+        "meta": {
+            "id": "along the line",
+            "uuid": "b2146e12-d3a0-42be-8f46-a11653ee94a7",
+            "sort": "3000489000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "along the line"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "along the line"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}during a process or series of events {bc}at some point in the past "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He seems to have lost his interest in music somewhere {it}along the line{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "during a process or series of events : at some point in the past"
+        ]
+    },
+    {
+        "meta": {
+            "id": "along the way",
+            "uuid": "9943c9a1-8ab1-4025-a39a-f65f93ebffa4",
+            "sort": "3000490000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "along the way"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "along the way"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}during a process or series of events {bc}at some point in the past "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He seems to have lost his interest in music somewhere {it}along the way{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "during a process or series of events : at some point in the past"
+        ]
+    },
+    {
+        "meta": {
+            "id": "along for the ride",
+            "uuid": "2f2022ec-c2d8-4ce1-b613-e95801add26c",
+            "sort": "3000486000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "along for the ride",
+                "came along for the ride",
+                "came/went along for the ride",
+                "went along for the ride"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "along for the ride"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}doing something with other people without being seriously involved in it or having a serious interest in it "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He wasn't interested in buying anything; he was just {it}along for the ride{/it}."
+                                            },
+                                            {
+                                                "t": "He just {phrase}came/went along for the ride{/phrase}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "doing something with other people without being seriously involved in it or having a serious interest in it"
+        ]
+    }
+]

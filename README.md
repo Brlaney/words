@@ -7,12 +7,15 @@
 <!-- - [audio/barely](./audio/barely.wav) -->
 <!-- https://github.com/user-attachments/assets/03b3361f-cb6e-417a-9671-83b94758b652 -->
 
-[Click here to view the video](https://github.com/user-attachments/assets/03b3361f-cb6e-417a-9671-83b94758b652)
+[barely](https://github.com/user-attachments/assets/03b3361f-cb6e-417a-9671-83b94758b652)
+
+
 
 <br/>
 
 ## To-Do
 
+- [ ] `pip install` the package for env variables - then fix the api_req file to remove from .gitignore
 - [ ] Update the data/long-entries/before.json file
 - [ ] Mark the edited audio files w/ a flag to not have the volumex(2) used again during the video creation
 - [ ] Need to replace all json objects in the words.json file with their new durations from after.json 

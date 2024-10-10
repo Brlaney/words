@@ -1,0 +1,49 @@
+[
+    {
+        "meta": {
+            "id": "magnifying glass",
+            "uuid": "e1ef9821-2e18-4e96-9f28-8f922d1b00d5",
+            "sort": "3011662000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "magnifying glass"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "magnifying glass"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a specially shaped piece of glass that is attached to a handle and is used to make an object look larger than it is "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The jeweler examined the diamond with a {it}magnifying glass{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a specially shaped piece of glass that is attached to a handle and is used to make an object look larger than it is"
+        ]
+    }
+]

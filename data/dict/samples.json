@@ -1,0 +1,306 @@
+[
+    {
+        "meta": {
+            "id": "sample:1",
+            "uuid": "602e685e-205b-4d3d-8011-41fceaeeba8f",
+            "sort": "190429000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sample",
+                "samples"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "sam*ple",
+            "prs": [
+                {
+                    "mw": "\u02c8sam-p\u0259l",
+                    "sound": {
+                        "audio": "sample01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a representative part or a single item from a larger whole or group especially when presented for inspection or shown as evidence of quality {bc}{sx|specimen||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a finite part of a statistical population whose properties are studied to gain information about the whole"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an excerpt from a recording (such as a popular song by another performer) that is used in a musical composition, recording, or performance "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 had to substantially rewrite \"Sometimes I Miss You \u2026 \" when he was denied permission to use a Michael Jackson {wi}sample{/wi} \u2026",
+                                                "aq": {
+                                                    "auth": "Jon Young"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}instance{/sc} {sc}case{/sc} {sc}illustration{/sc} {sc}example{/sc} {sc}sample{/sc} {sc}specimen{/sc} mean something that exhibits distinguishing characteristics in its category. {sc}instance{/sc} applies to any individual person, act, or thing that may be offered to illustrate or explain. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "an {it}instance{/it} of history repeating itself"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}case{/sc} is used to direct attention to a real or assumed occurrence or situation that is to be considered, studied, or dealt with. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}case{/it} of mistaken identity"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}illustration{/sc} applies to an instance offered as a means of clarifying or illuminating a general statement. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a telling {it}illustration{/it} of Murphy's Law"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}example{/sc} applies to a typical, representative, or illustrative instance or case. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a typical {it}example{/it} of bureaucratic waste"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}sample{/sc} implies a part or unit taken at random from a larger whole and so presumed to be typical of its qualities. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "show us a {it}sample{/it} of your work"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}specimen{/sc} applies to any example or sample whether representative or merely existent and available. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "one of the finest {it}specimens{/it} of the jeweler's art"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Anglo-French {it}sample, essample{/it}, from Latin {it}exemplum{/it} {ma}{mat|example|}{/ma}"
+            ]
+        ],
+        "date": "15th century{ds||1||}",
+        "shortdef": [
+            "a representative part or a single item from a larger whole or group especially when presented for inspection or shown as evidence of quality : specimen",
+            "a finite part of a statistical population whose properties are studied to gain information about the whole",
+            "an excerpt from a recording (such as a popular song by another performer) that is used in a musical composition, recording, or performance"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sample:2",
+            "uuid": "f1777147-74e5-462a-a76b-8890c9432341",
+            "sort": "190430000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sample",
+                "sampled",
+                "samples",
+                "sampling"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "sample"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "sam*pled"
+            },
+            {
+                "if": "sam*pling",
+                "prs": [
+                    {
+                        "mw": "\u02c8sam-p(\u0259-)li\u014b",
+                        "sound": {
+                            "audio": "sampli02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take a sample of or from"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to judge the quality of by a sample {bc}{sx|test||} "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{it}sampled{/it} his output for defects"
+                                                },
+                                                {
+                                                    "t": "{wi}sample{/wi} a wine"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to use a segment of (recorded music, sounds, or dialogue from another source) as part of one's own musical composition or recording "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "A Josh Wink record takes a series of {wi}sampled{/wi} noises, then twists and warps them through a barrage of sound processors \u2026",
+                                                "aq": {
+                                                    "auth": "Frank Broughton"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        " {bc}to use a sample {dx_def}see {dxt|sample:1||3}{/dx_def} from (another recording or performer) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 claims Carey {wi}sampled{/wi} his hit \"I Want to Thank You\" on her 1992 song \"Make It Happen.\"",
+                                                "aq": {
+                                                    "auth": "Jancee Dunn"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1767{ds||1||}",
+        "shortdef": [
+            "to take a sample of or from; especially : to judge the quality of by a sample : test",
+            "to use a segment of (recorded music, sounds, or dialogue from another source) as part of one's own musical composition or recording : to use a sample from (another recording or performer)"
+        ]
+    }
+]

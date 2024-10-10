@@ -1,0 +1,349 @@
+[
+    {
+        "meta": {
+            "id": "recoil:1",
+            "uuid": "b239a823-ab46-479f-b7f1-256b5483d6d0",
+            "sort": "181027000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "recoil",
+                "recoiled",
+                "recoiling",
+                "recoils"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "re*coil",
+            "prs": [
+                {
+                    "mw": "ri-\u02c8k\u022fi(-\u0259)l",
+                    "sound": {
+                        "audio": "recoil01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "re*coiled"
+            },
+            {
+                "if": "re*coil*ing"
+            },
+            {
+                "if": "re*coils"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fall back under pressure"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to shrink back physically or emotionally"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to spring back to or as if to a starting point {bc}{sx|rebound||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|degenerate||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}recoil{/sc} {sc}shrink{/sc} {sc}flinch{/sc} {sc}wince{/sc} {sc}blench{/sc} {sc}quail{/sc} mean to draw back in fear or distaste. {sc}recoil{/sc} implies a start or movement away through shock, fear, or disgust. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}recoiled{/it} at the suggestion of stealing"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}shrink{/sc} suggests an instinctive recoil through sensitiveness, scrupulousness, or cowardice. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}shrank{/it} from the unpleasant truth"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}flinch{/sc} implies a failure to endure pain or face something dangerous or frightening with resolution. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "faced her accusers without {it}flinching{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}wince{/sc} suggests a slight involuntary physical reaction (such as a start or recoiling). "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}winced{/it} in pain"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}blench{/sc} implies fainthearted flinching. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "stood their ground without {it}blenching{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}quail{/sc} suggests shrinking and cowering in fear. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}quailed{/it} before the apparition"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}reculen, recoilen{/it}, from Anglo-French {it}reculer, recuiler{/it}, from {it}re-{/it} + {it}cul{/it} backside {ma}{mat|culet|}{/ma}"
+            ]
+        ],
+        "date": "14th century{ds||1|a|}",
+        "shortdef": [
+            "to fall back under pressure",
+            "to shrink back physically or emotionally",
+            "to spring back to or as if to a starting point : rebound"
+        ]
+    },
+    {
+        "meta": {
+            "id": "recoil:2",
+            "uuid": "c1d620f0-a8ef-4a84-aa00-62c581c02780",
+            "sort": "181028000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "recoil",
+                "recoils"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "re*coil",
+            "prs": [
+                {
+                    "mw": "\u02c8r\u0113-\u02cck\u022fi(-\u0259)l",
+                    "sound": {
+                        "audio": "recoil02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "ri-\u02c8k\u022fi(-\u0259)l"
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act or action of {a_link|recoiling}"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the kickback of a gun upon firing"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|reaction||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the {wi}recoil{/wi} from the rigors of Calvinism",
+                                                "aq": {
+                                                    "auth": "Edmund Wilson"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "the act or action of recoiling; especially : the kickback of a gun upon firing",
+            "reaction"
+        ]
+    },
+    {
+        "meta": {
+            "id": "recoil-operated",
+            "uuid": "c7ff9e55-bd78-4f12-a260-274e15c5e26f",
+            "sort": "181030000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "recoil-operated"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "re*coil-op*er*at*ed",
+            "prs": [
+                {
+                    "mw": "\u02c8r\u0113-\u02cck\u022fi(-\u0259)l-\u02c8\u00e4-p\u0259-\u02ccr\u0101-t\u0259d",
+                    "sound": {
+                        "audio": "recoil-operated_1",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "ri-\u02c8k\u022fi(-\u0259)l-"
+                },
+                {
+                    "mw": "-\u02c8\u00e4-\u02ccpr\u0101-t\u0259d"
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sls": [
+                    "of a firearm"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}utilizing the movement of parts in recoil to operate the action"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1890",
+        "shortdef": [
+            "utilizing the movement of parts in recoil to operate the action"
+        ]
+    }
+]

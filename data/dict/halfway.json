@@ -1,0 +1,1012 @@
+[
+    {
+        "meta": {
+            "id": "halfway:1",
+            "uuid": "ac577cae-d841-4631-ae03-b2bfc0c299cc",
+            "sort": "080024850",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "halfway"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "half*way",
+            "prs": [
+                {
+                    "mw": "\u02c8haf-\u02c8w\u0101",
+                    "sound": {
+                        "audio": "halfwa01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "\u02c8h\u00e4f-"
+                }
+            ]
+        },
+        "fl": "adverb",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}midway between two points "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "At length the cat steps {wi}halfway{/wi} out the door, showing his spotted brown coat and the stripes on his legs.",
+                                                "aq": {
+                                                    "auth": "Paul Comstock"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}half wey,{/it} from {it}half{/it} {et_link|half:2|half:2} + {it}wey{/it} {et_link|way:1|way:1}"
+            ]
+        ],
+        "date": "14th century",
+        "shortdef": [
+            "midway between two points"
+        ]
+    },
+    {
+        "meta": {
+            "id": "halfway:2",
+            "uuid": "d4691fd7-0626-43f0-a2ff-2ef5ef3a7ef2",
+            "sort": "080024900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "halfway"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "halfway"
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}midway between two points "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "at the {wi}halfway{/wi} point/mark"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|partial||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}halfway{/wi} solution"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "derivative of {et_link|halfway:1|halfway:1}"
+            ]
+        ],
+        "date": "1644{ds||1||}",
+        "shortdef": [
+            "midway between two points",
+            "partial"
+        ]
+    },
+    {
+        "meta": {
+            "id": "halfway house",
+            "uuid": "8e8cba91-ef75-4cb7-917e-997f5bce3d75",
+            "sort": "080025000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "halfway house",
+                "halfway houses"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "halfway house"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a place to stop midway on a journey"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a halfway place in a progression"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a residence for individuals after release from institutionalization (as for mental illness, drug addiction, or criminal activity) that is designed to facilitate their readjustment to private life"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1648{ds||1|a|}",
+        "shortdef": [
+            "a place to stop midway on a journey",
+            "a halfway place in a progression",
+            "a residence for individuals after release from institutionalization (as for mental illness, drug addiction, or criminal activity) that is designed to facilitate their readjustment to private life"
+        ]
+    },
+    {
+        "meta": {
+            "id": "halfway decent",
+            "uuid": "9d68e65a-7a5e-4054-8f25-4357ddd57cd3",
+            "sort": "3007981000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "halfway decent"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "halfway decent"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}fairly good "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I'm willing to eat anywhere as long as the food is {it}halfway decent{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "fairly good"
+        ]
+    },
+    {
+        "meta": {
+            "id": "halfway through",
+            "uuid": "5fa8e8b8-7afb-4c10-bb18-57fa7129ef03",
+            "sort": "3007983000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "halfway through"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "halfway through"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}when half finished {bc}at the middle point (of) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The teacher stopped the movie {it}halfway through{/it}."
+                                            },
+                                            {
+                                                "t": "We left {it}halfway through{/it} the lecture."
+                                            },
+                                            {
+                                                "t": "We're about {it}halfway through{/it} the project."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "when half finished : at the middle point (of)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "meet:1",
+            "uuid": "e11365c1-38b7-4eb1-8201-34945f7ef43d",
+            "sort": "131638000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "meet",
+                "meet halfway",
+                "meet with",
+                "meeter",
+                "meeters",
+                "meeting",
+                "meeting halfway",
+                "meeting with",
+                "meets",
+                "meets halfway",
+                "meets with",
+                "met",
+                "met halfway",
+                "met with"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "meet",
+            "prs": [
+                {
+                    "mw": "\u02c8m\u0113t",
+                    "sound": {
+                        "audio": "meet0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "met",
+                "prs": [
+                    {
+                        "mw": "\u02c8met",
+                        "sound": {
+                            "audio": "meet0002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "if": "meet*ing"
+            },
+            {
+                "if": "meets"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to come into the presence of for the first time {bc}to be introduced to or become acquainted with "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I'm pleased to {wi}meet{/wi} you."
+                                            },
+                                            {
+                                                "t": "Where did you two {wi}meet{/wi} each other?"
+                                            },
+                                            {
+                                                "t": "I {wi}met{/wi} him in college."
+                                            },
+                                            {
+                                                "t": "We {wi}met{/wi} her through a mutual friend."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to come together with especially at a particular time or place "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I'll {wi}meet{/wi} you at the station"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to come into contact or conjunction with {bc}{sx|join||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "There is where the brook {wi}meets{/wi} the river."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to appear to the perception of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a pungent odor \u2026 {it}met{/it} his nostrils",
+                                                "aq": {
+                                                    "auth": "S. E. White"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to encounter as antagonist {dx_def}see {dxt|antagonist||1}{/dx_def} or foe {bc}{sx|oppose||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}met{/it} the heavyweight in a successful bout"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to enter into conference, argument, or personal dealings with "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We {wi}met{/wi} her over coffee."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to conform to especially with exactitude and precision "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a concept to {wi}meet{/wi} all requirements"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pay fully {bc}{sx|settle||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "could not {wi}meet{/wi} his loans",
+                                                "aq": {
+                                                    "auth": "Waldo Frank"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cope with "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "was able to {wi}meet{/wi} every social situation"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to provide for "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "enough money to {wi}meet{/wi} our needs"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become acquainted with "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I want you to {wi}meet{/wi} my sister."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|encounter||}, {sx|experience||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The proposal has {wi}met{/wi} some opposition."
+                                            },
+                                            {
+                                                "t": "You will likely {wi}meet{/wi} many obstacles on your journey."
+                                            },
+                                            {
+                                                "t": "He {wi}met{/wi} an untimely death."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "10",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to receive or greet in an official capacity "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The president {it}met{/it} the prime minister at the White House."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to come face-to-face "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "That's the restaurant where they {it}met{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to come together for a common purpose {bc}{sx|assemble||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The delegates {it}met{/it} at the convention."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to come together as contestants, opponents, or enemies "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The candidates {it}met{/it} for their debate."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to form a junction or confluence "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the lines {wi}meet{/wi} in a point"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to occur together "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "many graces and many virtues {wi}meet{/wi} in her"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "meet*er",
+                "fl": "noun"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "meet halfway",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to compromise with "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The senators {wi}met halfway{/wi} on an energy bill."
+                                                    },
+                                                    {
+                                                        "t": "We can't give you everything you've requested, but we can {wi}meet{/wi} you {wi}halfway{/wi}."
+                                                    },
+                                                    {
+                                                        "t": "Can you {wi}meet{/wi} us {wi}halfway{/wi} on this? = Can we {wi}meet halfway{/wi} on this?"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "meet with",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be subjected to {bc}{sx|encounter||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "the proposal {it}met with{/it} opposition"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}meten{/it}, from Old English {it}m\u0113tan{/it}; akin to Old English ge{it}m\u014dt{/it} assembly {ma}{mat|moot:3|}{/ma}"
+            ]
+        ],
+        "date": "before 12th century{ds|t|1|a|}",
+        "shortdef": [
+            "to come into the presence of for the first time : to be introduced to or become acquainted with",
+            "to come together with especially at a particular time or place",
+            "to come into contact or conjunction with : join"
+        ]
+    },
+    {
+        "meta": {
+            "id": "the world",
+            "uuid": "6c5a6e9a-715d-4ea8-a311-271f67d2de3d",
+            "sort": "3020748000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "halfway across the world",
+                "halfway around the world",
+                "halfway around/across the world",
+                "see the world",
+                "see/travel the world",
+                "the eyes of the world",
+                "the rest of the world",
+                "the world",
+                "travel the world"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "the world"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the earth and all the people and things on it "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He is famous throughout {it}the world{/it}."
+                                            },
+                                            {
+                                                "t": "They sailed around {it}the world{/it}."
+                                            },
+                                            {
+                                                "t": "The product is shipped {phrase}halfway around/across the world{/phrase}."
+                                            },
+                                            {
+                                                "t": "The island was cut off from {phrase}the rest of the world{/phrase}."
+                                            },
+                                            {
+                                                "t": "They want to {phrase}see/travel the world{/phrase}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the people in the world "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She felt that {it}the world{/it} was against her."
+                                            },
+                                            {
+                                                "t": "They announced their discovery to {it}the world{/it}."
+                                            },
+                                            {
+                                                "t": "{it}The world{/it} watched as he attempted to break the Olympic record."
+                                            },
+                                            {
+                                                "t": "She felt {phrase}the eyes of the world{/phrase} watching her."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}all that is important {bc}everything "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I would give my children {it}the world{/it} if I could."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "the earth and all the people and things on it",
+            "the people in the world",
+            "all that is important : everything"
+        ]
+    }
+]
