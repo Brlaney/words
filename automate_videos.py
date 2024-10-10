@@ -40,20 +40,23 @@ def create_video(audio_path, text_value):
 
     cvc.set_audio(audio_clip).volumex(2).write_videofile(f'videos/{text_value}.mp4', fps=25)
 
-
 def edit_audio(audio_path, text_value, duration=3):
     audio_clip = AudioFileClip(audio_path).set_duration(duration)
-    # edited_clip = CompositeAudioClip(audio_clip).set_duration(duration)
     audio_clip.volumex(2).write_audiofile(f'audio/{text_value}.wav')
 
+
 data = {
-    'id': 20,
-    'text': 'soared',
-    'duration': 13003,
-    'path': 'audio/soared.wav'
+    "id": 113,
+    "text": "alley",
+    "duration": 7639,
+    "path": "audio/alley.wav"
 }
 
-edit_audio(data['path'], data['text'])
+edit_audio(data['path'], data['text'], 2)
+
+'''
+'''
+
 
 '''
 The script can be stopped by: 

@@ -127,16 +127,16 @@ def get_audio_duration_test(json_obj):
 The script can be stopped by: 
 KeyboardInterrupt exception. ie ctrl + c .
 '''
-json_obj = read_and_process_json('data/words.json')
+json_obj = read_and_process_json('data/long-entries/before.json')
 
 if json_obj:
-    long_entries = []
-    count = 0
+    entries = []
     
     for item in json_obj:
         the_id = item['id']
         text = item['text']
         path = item['path']
+        duration_before = item['duration']
         
         # Check if the path exists
         if os.path.exists(path):
@@ -144,19 +144,18 @@ if json_obj:
             audio = AudioSegment.from_wav(path)
             duration_ms = len(audio)
             
-            if duration_ms >= 5000:
-                count += 1
-                long_entries.append({
-                    'id': the_id,
-                    'text': text,
-                    'duration': duration_ms,
-                    'path': path,
-                })
+            entries.append({
+                'id': the_id,
+                'text': text,
+                'durationAfter': duration_ms,
+                'durationBefore': duration_before,
+                'path': path,
+            })
 
-    print(f'final count: {count}')
+    # print(f'final count: {count}')
     
-    with open('long_entries.json', 'w') as json_file:
-        json.dump(long_entries, json_file, indent=4)
+    with open('after.json', 'w') as json_file:
+        json.dump(entries, json_file, indent=4)
     
     # output_data = get_audio_duration_test(json_obj)
     # with open('test_output.json', 'w') as json_file:

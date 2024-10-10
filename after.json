@@ -1,0 +1,114 @@
+[
+    {
+        "id": 20,
+        "text": "soared",
+        "durationAfter": 3000,
+        "durationBefore": 13003,
+        "path": "audio/soared.wav"
+    },
+    {
+        "id": 36,
+        "text": "nudged me into",
+        "durationAfter": 4000,
+        "durationBefore": 12446,
+        "path": "audio/nudged me into.wav"
+    },
+    {
+        "id": 53,
+        "text": "gang",
+        "durationAfter": 2000,
+        "durationBefore": 7268,
+        "path": "audio/gang.wav"
+    },
+    {
+        "id": 57,
+        "text": "samples",
+        "durationAfter": 3000,
+        "durationBefore": 7430,
+        "path": "audio/samples.wav"
+    },
+    {
+        "id": 59,
+        "text": "magnifying glass",
+        "durationAfter": 3000,
+        "durationBefore": 5782,
+        "path": "audio/magnifying glass.wav"
+    },
+    {
+        "id": 61,
+        "text": "i thrived",
+        "durationAfter": 4000,
+        "durationBefore": 7895,
+        "path": "audio/i thrived.wav"
+    },
+    {
+        "id": 65,
+        "text": "spelling bees",
+        "durationAfter": 3000,
+        "durationBefore": 5062,
+        "path": "audio/spelling bees.wav"
+    },
+    {
+        "id": 66,
+        "text": "a thrill swept",
+        "durationAfter": 3000,
+        "durationBefore": 7546,
+        "path": "audio/a thrill swept.wav"
+    },
+    {
+        "id": 74,
+        "text": "outstanding",
+        "durationAfter": 4500,
+        "durationBefore": 6037,
+        "path": "audio/outstanding.wav"
+    },
+    {
+        "id": 76,
+        "text": "sunshine slanting",
+        "durationAfter": 4000,
+        "durationBefore": 6920,
+        "path": "audio/sunshine slanting.wav"
+    },
+    {
+        "id": 81,
+        "text": "give rent",
+        "durationAfter": 2000,
+        "durationBefore": 5550,
+        "path": "audio/give rent.wav"
+    },
+    {
+        "id": 84,
+        "text": "tracks",
+        "durationAfter": 3000,
+        "durationBefore": 5364,
+        "path": "audio/tracks.wav"
+    },
+    {
+        "id": 90,
+        "text": "tingled",
+        "durationAfter": 2000,
+        "durationBefore": 6316,
+        "path": "audio/tingled.wav"
+    },
+    {
+        "id": 95,
+        "text": "surgeons",
+        "durationAfter": 3000,
+        "durationBefore": 5387,
+        "path": "audio/surgeons.wav"
+    },
+    {
+        "id": 110,
+        "text": "twinkle",
+        "durationAfter": 2000,
+        "durationBefore": 5573,
+        "path": "audio/twinkle.wav"
+    },
+    {
+        "id": 113,
+        "text": "alley",
+        "durationAfter": 2000,
+        "durationBefore": 7639,
+        "path": "audio/alley.wav"
+    }
+]
