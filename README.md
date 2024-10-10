@@ -39,10 +39,6 @@
       "id": 2,
       "text": "brisk",
       "duration": 2856,
-
-https://github.com/user-attachments/assets/250222ff-ffdf-4230-9c08-0d77c141f253
-
-
       "path": "audio/brisk.wav"
   },
   {
