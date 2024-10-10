@@ -6,6 +6,10 @@
 
 - [audio/barely](./audio/barely.wav)
 
+
+https://github.com/user-attachments/assets/03b3361f-cb6e-417a-9671-83b94758b652
+
+
 <br/>
 
 ## To-Do
@@ -36,6 +40,10 @@
       "id": 2,
       "text": "brisk",
       "duration": 2856,
+
+https://github.com/user-attachments/assets/250222ff-ffdf-4230-9c08-0d77c141f253
+
+
       "path": "audio/brisk.wav"
   },
   {
