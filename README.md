@@ -7,12 +7,7 @@
 <!-- - [audio/barely](./audio/barely.wav) -->
 <!-- https://github.com/user-attachments/assets/03b3361f-cb6e-417a-9671-83b94758b652 -->
 
-<div align="center">
-    <video width="500" height="300" controls>
-        <source src="https://github.com/user-attachments/assets/03b3361f-cb6e-417a-9671-83b94758b652" type="video/mp4">
-        <!-- Your browser does not support the video tag. -->
-    </video>
-</div>
+[Click here to view the video](https://github.com/user-attachments/assets/03b3361f-cb6e-417a-9671-83b94758b652)
 
 <br/>
 
