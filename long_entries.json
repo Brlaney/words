@@ -1,0 +1,98 @@
+[
+    {
+        "id": 20,
+        "text": "soared",
+        "duration": 13003,
+        "path": "audio/soared.wav"
+    },
+    {
+        "id": 36,
+        "text": "nudged me into",
+        "duration": 12446,
+        "path": "audio/nudged me into.wav"
+    },
+    {
+        "id": 53,
+        "text": "gang",
+        "duration": 7268,
+        "path": "audio/gang.wav"
+    },
+    {
+        "id": 57,
+        "text": "samples",
+        "duration": 7430,
+        "path": "audio/samples.wav"
+    },
+    {
+        "id": 59,
+        "text": "magnifying glass",
+        "duration": 5782,
+        "path": "audio/magnifying glass.wav"
+    },
+    {
+        "id": 61,
+        "text": "i thrived",
+        "duration": 7895,
+        "path": "audio/i thrived.wav"
+    },
+    {
+        "id": 65,
+        "text": "spelling bees",
+        "duration": 5062,
+        "path": "audio/spelling bees.wav"
+    },
+    {
+        "id": 66,
+        "text": "a thrill swept",
+        "duration": 7546,
+        "path": "audio/a thrill swept.wav"
+    },
+    {
+        "id": 74,
+        "text": "outstanding",
+        "duration": 6037,
+        "path": "audio/outstanding.wav"
+    },
+    {
+        "id": 76,
+        "text": "sunshine slanting",
+        "duration": 6920,
+        "path": "audio/sunshine slanting.wav"
+    },
+    {
+        "id": 81,
+        "text": "give rent",
+        "duration": 5550,
+        "path": "audio/give rent.wav"
+    },
+    {
+        "id": 84,
+        "text": "tracks",
+        "duration": 5364,
+        "path": "audio/tracks.wav"
+    },
+    {
+        "id": 90,
+        "text": "tingle",
+        "duration": 6316,
+        "path": "audio/tingle.wav"
+    },
+    {
+        "id": 95,
+        "text": "surgeons",
+        "duration": 5387,
+        "path": "audio/surgeons.wav"
+    },
+    {
+        "id": 110,
+        "text": "twinkle",
+        "duration": 5573,
+        "path": "audio/twinkle.wav"
+    },
+    {
+        "id": 113,
+        "text": "alley",
+        "duration": 7639,
+        "path": "audio/alley.wav"
+    }
+]

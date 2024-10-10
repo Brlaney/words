@@ -130,10 +130,37 @@ KeyboardInterrupt exception. ie ctrl + c .
 json_obj = read_and_process_json('data/words.json')
 
 if json_obj:
-    output_data = get_audio_duration_test(json_obj)
+    long_entries = []
+    count = 0
+    
+    for item in json_obj:
+        the_id = item['id']
+        text = item['text']
+        path = item['path']
+        
+        # Check if the path exists
+        if os.path.exists(path):
+            # Calculate duration if the file exists
+            audio = AudioSegment.from_wav(path)
+            duration_ms = len(audio)
+            
+            if duration_ms >= 5000:
+                count += 1
+                long_entries.append({
+                    'id': the_id,
+                    'text': text,
+                    'duration': duration_ms,
+                    'path': path,
+                })
 
-    with open('test_output.json', 'w') as json_file:
-        json.dump(output_data, json_file, indent=4)
+    print(f'final count: {count}')
+    
+    with open('long_entries.json', 'w') as json_file:
+        json.dump(long_entries, json_file, indent=4)
+    
+    # output_data = get_audio_duration_test(json_obj)
+    # with open('test_output.json', 'w') as json_file:
+    #     json.dump(output_data, json_file, indent=4)
 
 # try:
         
