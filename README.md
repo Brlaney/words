@@ -10,7 +10,7 @@
 
 <br/>
 
-<table style="width: 1200px;">
+<table style="width: 1200px;" width=1000>
   <tr>
     <td><a href="data/md/a-thrill-swept.md">a thrill swept</a></td>
     <td><a href="data/md/alley.md">alley</a></td>
