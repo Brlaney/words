@@ -10,7 +10,7 @@
 
 <br/>
 
-<table>
+<table style="width: 100%; max-width: 800px; margin: auto;">
   <tr>
     <td><a href="data/md/a-thrill-swept.md">a thrill swept</a></td>
     <td><a href="data/md/alley.md">alley</a></td>
@@ -32,6 +32,7 @@
     <td><a href="data/md/blood-vessels.md">blood vessels</a></td>
   </tr>
 </table>
+
 
 <br/>
 
