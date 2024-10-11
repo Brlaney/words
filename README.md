@@ -12,24 +12,24 @@
 
 <table>
   <tr>
-    <td><a href="data/md/a-thrill-swept.md" style="font-size: 18px;">a thrill swept</a></td>
-    <td><a href="data/md/alley.md" style="font-size: 18px;">alley</a></td>
-    <td><a href="data/md/along-the.md" style="font-size: 18px;">along the</a></td>
+    <td><a href="data/md/a-thrill-swept.md">a thrill swept</a></td>
+    <td><a href="data/md/alley.md">alley</a></td>
+    <td><a href="data/md/along-the.md">along the</a></td>
   </tr>
   <tr>
-    <td><a href="data/md/as-high-as.md" style="font-size: 18px;">as high as</a></td>
-    <td><a href="data/md/aside.md" style="font-size: 18px;">aside</a></td>
-    <td><a href="data/md/attempt.md" style="font-size: 18px;">attempt</a></td>
+    <td><a href="data/md/as-high-as.md">as high as</a></td>
+    <td><a href="data/md/aside.md">aside</a></td>
+    <td><a href="data/md/attempt.md">attempt</a></td>
   </tr>
   <tr>
-    <td><a href="data/md/barely.md" style="font-size: 18px;">barely</a></td>
-    <td><a href="data/md/be-labeled.md" style="font-size: 18px;">be labeled</a></td>
-    <td><a href="data/md/beamed.md" style="font-size: 18px;">beamed</a></td>
+    <td><a href="data/md/barely.md">barely</a></td>
+    <td><a href="data/md/be-labeled.md">be labeled</a></td>
+    <td><a href="data/md/beamed.md">beamed</a></td>
   </tr>
   <tr>
-    <td><a href="data/md/betrayals.md" style="font-size: 18px;">betrayals</a></td>
-    <td><a href="data/md/bleeding.md" style="font-size: 18px;">bleeding</a></td>
-    <td><a href="data/md/blood-vessels.md" style="font-size: 18px;">blood vessels</a></td>
+    <td><a href="data/md/betrayals.md">betrayals</a></td>
+    <td><a href="data/md/bleeding.md">bleeding</a></td>
+    <td><a href="data/md/blood-vessels.md">blood vessels</a></td>
   </tr>
 </table>
 
