@@ -1,0 +1,19 @@
+List of words:
+- sunsetting
+- in-line skating
+- sunshines
+- Sunshine Coast
+- sunshine bass
+- sunshine basses
+- underplanting
+- interplanting
+- machine learning
+- substantiating
+- sunscreening
+- sunshading
+- supplanting
+- unsheathing
+- unstinting
+- wine tasting
+
+========================================

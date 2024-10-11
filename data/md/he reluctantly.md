@@ -1,0 +1,23 @@
+List of words:
+- reluctantly
+- expectantly
+- reluctancy
+- reluctant
+- reluctance
+- resultantly
+- reluctances
+- unreluctant
+- reluctancies
+- exultantly
+- relucting
+- hesitantly
+- ineluctably
+- irrelevantly
+- reductant
+- reductants
+- redundantly
+- relevantly
+- reliantly
+- repentantly
+
+========================================

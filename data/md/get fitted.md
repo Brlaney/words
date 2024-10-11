@@ -1,0 +1,23 @@
+List of words:
+- fitted
+- get knotted
+- -fisted
+- retrofitted
+- fisted
+- befitted
+- fitter
+- benefitted
+- vetted
+- gas fitter
+- fatted
+- outfitted
+- get to
+- refitted
+- semifitted
+- gas fitters
+- get started
+- reoutfitted
+- quiet quitted
+- backfitted
+
+========================================

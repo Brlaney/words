@@ -1,0 +1,23 @@
+List of words:
+- hobos
+- hoboes
+- gobos
+- hobnobs
+- oboist
+- Cobols
+- hobbies
+- bobos
+- goboes
+- hoboed
+- kobos
+- lobos
+- oboes
+- obols
+- how-to's
+- go-to's
+- hobbits
+- hobbles
+- hoboing
+- kobolds
+
+========================================
