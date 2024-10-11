@@ -12,9 +12,9 @@
 
 <table style="width: 100%; max-width: 800px; margin: auto;">
   <tr>
-    <td style="font-size: 18px;"><a href="data/md/a-thrill-swept.md">a thrill swept</a></td>
-    <td style="font-size: 18px;"><a href="data/md/alley.md">alley</a></td>
-    <td style="font-size: 18px;"><a href="data/md/along-the.md">along the</a></td>
+    <td style="font-size: 32px;"><a href="data/md/a-thrill-swept.md">a thrill swept</a></td>
+    <td style="font-size: 32px;"><a href="data/md/alley.md">alley</a></td>
+    <td style="font-size: 32px;"><a href="data/md/along-the.md">along the</a></td>
   </tr>
   <!-- Additional rows here -->
 </table>
