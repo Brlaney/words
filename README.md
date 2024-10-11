@@ -8,6 +8,8 @@
     - [Words 📃:](#words-)
     - [To-Do](#to-do)
 
+<br/>
+
 ### Phrases 📃:
 
 | [a thrill swept](data/md/a-thrill-swept.md) | [along the](data/md/along-the.md) | [as high as](data/md/as-high-as.md) |
@@ -30,8 +32,6 @@
 | [toward me](data/md/toward-me.md)            | [unbounded](data/md/unbounded.md) | [up until](data/md/up-until.md)    |
 | [widened](data/md/widened.md)                | [without squinting](data/md/without-squinting.md) | [zoomed upward](data/md/zoomed-upward.md) |
 
-<br/>
-
 ### Words 📃:
 
 | [alley](data/md/alley.md)  | [aside](data/md/aside.md)  | [attempt](data/md/attempt.md)     |
@@ -53,7 +53,6 @@
 | [urging](data/md/urging.md) | [whacked me](data/md/whacked-me.md) | [yearning](data/md/yearning.md)  |
 
 <br/>
-
 
 ### To-Do
 
