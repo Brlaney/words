@@ -1,28 +1,15 @@
-Unexpected entry format: a thick ear
 
 ========================================
-Unexpected entry format: a trifle
-
-========================================
-Unexpected entry format: shrillest
-
-========================================
-Unexpected entry format: skill set
-
-========================================
-Unexpected entry format: thrill ride
-
-========================================
-Unexpected entry format: thrilled
-
-========================================
-Unexpected entry format: thriller
-
-========================================
-Unexpected entry format: thrillers
-
-========================================
-Unexpected entry format: thrills
+List of words:
+- a thick ear
+- a trifle
+- shrillest
+- skill set
+- thrill ride
+- thrilled
+- thriller
+- thrillers
+- thrills
 
 ========================================
 Word: alley:1
@@ -362,6 +349,91 @@ Short Definitions:
 - to try to subdue or take by force : attack
 
 Synonyms:
+
+========================================
+Word: attempt:2
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}the act or an instance of trying to do or accomplish something {bc}an act or instance of {a_link|attempting} something 
+   Example: She failed the test on her first {wi}attempt{/wi} but passed on her second {wi}attempt{/wi}.
+Definition: {bc}something resulting from or representing an attempt 
+   Example: … surrounded by lemon trees and a few {wi}attempts{/wi} at rose bushes.
+Definition: {bc}{sx|attack||}, {sx|assault||} 
+   Example: an {wi}attempt{/wi} on the life of the president
+
+Short Definitions:
+- the act or an instance of trying to do or accomplish something : an act or instance of attempting something; often : an unsuccessful effort
+- something resulting from or representing an attempt
+- attack, assault
+
+========================================
+Word: attempt suicide
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to try to kill oneself
+
+Short Definitions:
+- to try to kill oneself
+
+========================================
+Word: an attempt on someone's life
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}an act of trying to kill someone {bc}a usually unsuccessful effort to kill someone 
+   Example: Police report that there has been {it}an attempt on the actor's life{/it}.
+
+Short Definitions:
+- an act of trying to kill someone : a usually unsuccessful effort to kill someone
+
+========================================
+Word: make an attempt
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to try 
+   Example: We both {it}made an attempt{/it} to be friendly despite recent arguments.
+
+Short Definitions:
+- to try
+
+========================================
+Word: make an attempt on someone's life
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to try to kill someone 
+   Example: Someone {it}made an attempt on her life{/it}.
+
+Short Definitions:
+- to try to kill someone
+
+========================================
+Word: make no attempt
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to not try 
+   Example: He {it}made no attempt{/it} to apologize.
+
+Short Definitions:
+- to not try
+
+========================================
 Word: barely
 Part of Speech: adverb
 Pronunciation: ˈber-lē
@@ -378,64 +450,27 @@ Short Definitions:
 - scarcely, hardly
 
 ========================================
-Unexpected entry format: labeled
-
-========================================
-Unexpected entry format: relabeled
-
-========================================
-Unexpected entry format: labeler
-
-========================================
-Unexpected entry format: mislabeled
-
-========================================
-Unexpected entry format: labile
-
-========================================
-Unexpected entry format: relabelled
-
-========================================
-Unexpected entry format: labelled
-
-========================================
-Unexpected entry format: unlabeled
-
-========================================
-Unexpected entry format: lapeled
-
-========================================
-Unexpected entry format: self-labeled
-
-========================================
-Unexpected entry format: libeled
-
-========================================
-Unexpected entry format: mislabelled
-
-========================================
-Unexpected entry format: lapelled
-
-========================================
-Unexpected entry format: self-labelled
-
-========================================
-Unexpected entry format: leveled
-
-========================================
-Unexpected entry format: bejeweled
-
-========================================
-Unexpected entry format: libelled
-
-========================================
-Unexpected entry format: beveled
-
-========================================
-Unexpected entry format: empaneled
-
-========================================
-Unexpected entry format: enameled
+List of words:
+- labeled
+- relabeled
+- labeler
+- mislabeled
+- labile
+- relabelled
+- labelled
+- unlabeled
+- lapeled
+- self-labeled
+- libeled
+- mislabelled
+- lapelled
+- self-labelled
+- leveled
+- bejeweled
+- libelled
+- beveled
+- empaneled
+- enameled
 
 ========================================
 Word: beamed
@@ -541,6 +576,60 @@ Definition: {bc}to draw sap from (a tree)
 Definition: {bc}to extract or let out some or all of a contained substance from 
    Example: {wi}bleed{/wi} a brake line
 Definition: {bc}to extract or cause to escape from a container
+
+========================================
+Word: bleeding edge
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}the newest and most advanced part or position especially in technology {bc}the extreme cutting edge 
+   Example: So the first thing you learn about the Internet from studying America's Most Admired Companies is that you don't have to be on the {wi}bleeding edge{/wi} of the Web to be admired.
+
+Short Definitions:
+- the newest and most advanced part or position especially in technology : the extreme cutting edge
+
+Related Forms:
+bleed*ing-edge (ˈblē-diŋ-ˈej)
+
+========================================
+Word: bleeding heart
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a garden plant ({it}Lamprocapnos spectabilis{/it} synonym {it}Dicentra spectabilis{/it}) of the poppy family with racemes of usually deep pink or white drooping heart-shaped flowers
+Definition: {bc}a person who shows extravagant sympathy especially for an object of alleged persecution 
+   Example: To question police practices in America is to plunge into a debate distorted by caricatures. Police defenders generally see critics as cop-hating {wi}bleeding hearts{/wi}, while police critics often see cops as trigger-happy killers.
+
+Short Definitions:
+- a garden plant (Lamprocapnos spectabilis synonym Dicentra spectabilis) of the poppy family with racemes of usually deep pink or white drooping heart-shaped flowers; broadly : any of several related plants (genus Dicentra)
+- a person who shows extravagant sympathy especially for an object of alleged persecution
+
+========================================
+Word: bleeding-heart
+Part of Speech: adjective
+Pronunciation: ˈblē-diŋ-ˈhärt
+Audio Reference: bleeding-heart_1
+
+Definitions:
+
+========================================
+Word: internal bleeding
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a loss of blood inside the body 
+   Example: The procedure may cause {it}internal bleeding{/it}.
+
+Short Definitions:
+- a loss of blood inside the body
+
+========================================
 Word: blood vessel
 Part of Speech: noun
 Pronunciation: N/A
@@ -589,6 +678,8 @@ Audio Reference: N/A
 
 Definitions:
 Definition: {bc}to make animated, energetic, or marked by much activity {bc}to make {d_link|brisk|brisk:1}
+
+========================================
 Word: burdened
 Part of Speech: adjective
 Pronunciation: ˈbər-dᵊnd
@@ -615,184 +706,73 @@ Short Definitions:
 - load, oppress
 
 ========================================
-Unexpected entry format: by eye
+List of words:
+- by eye
+- but then
+- burthen
+- back then
+- by the by
+- by the hand
+- by turns
+- by the bye
+- by the day
+- by the way
+- Beuthen
+- earthen
+- heathen
+- writhen
+- even then
+- what then
+- by the book
+- by the head
+- by the time
+- buy the farm
 
 ========================================
-Unexpected entry format: but then
+List of words:
+- marching
+- time machine
+- countermarching
+- besmirching
+- came again
+- came along
+- came around
+- frog-marching
+- outmarching
+- overarching
+- researching
+- searching
+- coffee machine
+- simple machine
+- arching
+- came across
+- came back
+- came in
+- came round
+- cameoing
 
 ========================================
-Unexpected entry format: burthen
-
-========================================
-Unexpected entry format: back then
-
-========================================
-Unexpected entry format: by the by
-
-========================================
-Unexpected entry format: by the hand
-
-========================================
-Unexpected entry format: by turns
-
-========================================
-Unexpected entry format: by the bye
-
-========================================
-Unexpected entry format: by the day
-
-========================================
-Unexpected entry format: by the way
-
-========================================
-Unexpected entry format: Beuthen
-
-========================================
-Unexpected entry format: earthen
-
-========================================
-Unexpected entry format: heathen
-
-========================================
-Unexpected entry format: writhen
-
-========================================
-Unexpected entry format: even then
-
-========================================
-Unexpected entry format: what then
-
-========================================
-Unexpected entry format: by the book
-
-========================================
-Unexpected entry format: by the head
-
-========================================
-Unexpected entry format: by the time
-
-========================================
-Unexpected entry format: buy the farm
-
-========================================
-Unexpected entry format: marching
-
-========================================
-Unexpected entry format: time machine
-
-========================================
-Unexpected entry format: countermarching
-
-========================================
-Unexpected entry format: besmirching
-
-========================================
-Unexpected entry format: came again
-
-========================================
-Unexpected entry format: came along
-
-========================================
-Unexpected entry format: came around
-
-========================================
-Unexpected entry format: frog-marching
-
-========================================
-Unexpected entry format: outmarching
-
-========================================
-Unexpected entry format: overarching
-
-========================================
-Unexpected entry format: researching
-
-========================================
-Unexpected entry format: searching
-
-========================================
-Unexpected entry format: coffee machine
-
-========================================
-Unexpected entry format: simple machine
-
-========================================
-Unexpected entry format: arching
-
-========================================
-Unexpected entry format: came across
-
-========================================
-Unexpected entry format: came back
-
-========================================
-Unexpected entry format: came in
-
-========================================
-Unexpected entry format: came round
-
-========================================
-Unexpected entry format: cameoing
-
-========================================
-Unexpected entry format: railing
-
-========================================
-Unexpected entry format: clear sailing
-
-========================================
-Unexpected entry format: railings
-
-========================================
-Unexpected entry format: charbroiling
-
-========================================
-Unexpected entry format: riling
-
-========================================
-Unexpected entry format: curtailing
-
-========================================
-Unexpected entry format: roiling
-
-========================================
-Unexpected entry format: parasailing
-
-========================================
-Unexpected entry format: re-oiling
-
-========================================
-Unexpected entry format: boardsailing
-
-========================================
-Unexpected entry format: parasailings
-
-========================================
-Unexpected entry format: saber rattling
-
-========================================
-Unexpected entry format: Darjiling
-
-========================================
-Unexpected entry format: airmailing
-
-========================================
-Unexpected entry format: assailing
-
-========================================
-Unexpected entry format: availing
-
-========================================
-Unexpected entry format: brailing
-
-========================================
-Unexpected entry format: caracoling
-
-========================================
-Unexpected entry format: caracolling
-
-========================================
-Unexpected entry format: carling
+List of words:
+- railing
+- clear sailing
+- railings
+- charbroiling
+- riling
+- curtailing
+- roiling
+- parasailing
+- re-oiling
+- boardsailing
+- parasailings
+- saber rattling
+- Darjiling
+- airmailing
+- assailing
+- availing
+- brailing
+- caracoling
+- caracolling
+- carling
 
 ========================================
 Word: catch:1
@@ -822,6 +802,161 @@ Definition: {bc}to avail oneself of {bc}{sx|take||}
    Example: {it}caught{/it} the first opportunity to leave
 Definition: {bc}to obtain through effort {bc}{sx|get||} 
    Example: {wi}catch{/wi} a ride
+
+========================================
+Word: catch:2
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}something caught
+Definition: {bc}the act, action, or fact of {a_link|catching} 
+   Example: The shortstop made a tough {wi}catch{/wi}.
+Definition: {bc}a game in which a ball is thrown and caught 
+   Example: played {wi}catch{/wi} with his dad
+Definition: {bc}something that checks or holds immovable 
+   Example: a safety {wi}catch{/wi}
+Definition: {bc}one worth catching especially as a spouse
+Definition: {bc}a round for three or more unaccompanied usually male voices often with suggestive or obscene lyrics
+Definition: {bc}{sx|fragment||}, {sx|snatch||} 
+   Example: remembered only {wi}catches{/wi} of the song
+Definition: {bc}a concealed difficulty or complication 
+   Example: there must be a {wi}catch{/wi}
+Definition: {bc}a momentary audible break in the voice or breath
+
+Short Definitions:
+- something caught; especially : the total quantity caught at one time
+- the act, action, or fact of catching
+- a game in which a ball is thrown and caught
+
+========================================
+Word: caught:1
+Part of Speech: N/A
+Pronunciation: ˈkȯt
+Audio Reference: catch002
+
+Short Definitions:
+
+========================================
+Word: catch-as-catch-can
+Part of Speech: adjective
+Pronunciation: ˈkach-əz-ˈkach-ˈkan
+Audio Reference: catch-as-catch-
+
+Definitions:
+Definition: {bc}using any available means or method {bc}{sx|hit-or-miss||} 
+   Example: a {wi}catch-as-catch-can{/wi} system that relies on borrowed judges
+
+Short Definitions:
+- using any available means or method : hit-or-miss
+
+========================================
+Word: catch on
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to become aware {bc}{sx|learn||}
+Definition: {bc}to become popular 
+   Example: this idea has already {it}caught on{/it}
+
+Short Definitions:
+- to become aware : learn; also : understand
+- to become popular
+
+========================================
+Word: catch out
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to detect in error or wrongdoing 
+   Example: {it}caught{/it} him {it}out{/it} committing perjury
+Definition: {bc}to take unawares or by surprise
+
+Short Definitions:
+- to detect in error or wrongdoing
+- to take unawares or by surprise
+
+========================================
+Word: catch-22
+Part of Speech: noun
+Pronunciation: ˈkach-ˌtwen-tē-ˈtü
+Audio Reference: catch_01
+
+Definitions:
+Definition: {bc}a problematic situation for which the only solution is denied by a circumstance inherent in the problem or by a rule 
+   Example: the show-business {wi}catch-22{/wi}—no work unless you have an agent, no agent unless you've worked
+Definition: {bc}an illogical, unreasonable, or senseless situation
+Definition: {bc}a measure or policy whose effect is the opposite of what was intended
+Definition: {bc}a situation presenting two equally undesirable alternatives
+Definition: {bc}a hidden difficulty or means of entrapment {bc}{sx|catch||}
+
+Short Definitions:
+- a problematic situation for which the only solution is denied by a circumstance inherent in the problem or by a rule; also : the circumstance or rule that denies a solution
+- an illogical, unreasonable, or senseless situation
+- a measure or policy whose effect is the opposite of what was intended
+
+========================================
+Word: catch-up:1
+Part of Speech: adjective
+Pronunciation: ˈkach-ˌəp
+Audio Reference: catch_02
+
+Definitions:
+Definition: {bc}intended to catch up to a theoretical norm or a competitor's accomplishments
+
+Short Definitions:
+- intended to catch up to a theoretical norm or a competitor's accomplishments
+
+========================================
+Word: catch-up:2
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}the act or fact of catching up or trying to catch up (as with a norm or competitor) 
+   Example: had to play {wi}catch-up{/wi}
+
+Short Definitions:
+- the act or fact of catching up or trying to catch up (as with a norm or competitor); also : an increase intended to achieve catch-up
+
+========================================
+Word: catch up
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to pick up often abruptly 
+   Example: the thief {it}caught{/it} the purse {it}up{/it} and ran
+Definition: {bc}{sx|ensnare||}, {sx|entangle||} 
+   Example: education has been {it}caught up{/it} in a stultifying mythology
+Definition: {bc}{sx|enthrall||} 
+   Example: the … public was {it}caught up{/it} in the car's magic
+Definition: {bc}to provide with the latest information 
+   Example: {it}catch{/it} me {it}up{/it} on the news
+Definition: {bc}to travel fast enough to overtake an advance party 
+   Example: The soldier ran to {it}catch up{/it} with his unit.
+Definition: {bc}to reach a state of parity {dx_def}see {dxt|parity||1}{/dx_def} or of being able to cope 
+   Example: students who miss class have difficulty {it}catching up{/it}
+Definition: {bc}to bring about arrest for illicit activities 
+   Example: the police {it}caught up{/it} with the thieves
+Definition: {bc}to complete or compensate {dx_def}see {dxt|compensate||1}{/dx_def} for something belatedly 
+   Example: {it}catch up{/it} on lost sleep
+Definition: {bc}to acquire {d_link|belated|belated} information 
+   Example: {it}catch up{/it} on the news
+
+Short Definitions:
+- to pick up often abruptly
+- ensnare, entangle
+- enthrall
+
+========================================
 Word: catch up
 Part of Speech: verb
 Pronunciation: N/A
@@ -934,55 +1069,24 @@ Short Definitions:
 - to have difficulty not showing or expressing (tears, rage, anger, etc.)
 
 ========================================
-Unexpected entry format: upward
-
-========================================
-Unexpected entry format: climb down
-
-========================================
-Unexpected entry format: climbing wall
-
-========================================
-Unexpected entry format: clipboard
-
-========================================
-Unexpected entry format: clam up
-
-========================================
-Unexpected entry format: came forward
-
-========================================
-Unexpected entry format: climbdown
-
-========================================
-Unexpected entry format: climbdowns
-
-========================================
-Unexpected entry format: climbed
-
-========================================
-Unexpected entry format: climber
-
-========================================
-Unexpected entry format: climbers
-
-========================================
-Unexpected entry format: climbing plant
-
-========================================
-Unexpected entry format: climbs down
-
-========================================
-Unexpected entry format: come forward
-
-========================================
-Unexpected entry format: coming forward
-
-========================================
-Unexpected entry format: count toward
-
-========================================
-Unexpected entry format: point toward
+List of words:
+- upward
+- climb down
+- climbing wall
+- clipboard
+- clam up
+- came forward
+- climbdown
+- climbdowns
+- climbed
+- climber
+- climbers
+- climbing plant
+- climbs down
+- come forward
+- coming forward
+- count toward
+- point toward
 
 ========================================
 Word: clot:2
@@ -1008,64 +1112,29 @@ Pronunciation: N/A
 Audio Reference: N/A
 
 Definitions:
-Unexpected entry format: come up to
 
 ========================================
-Unexpected entry format: come up trumps
-
-========================================
-Unexpected entry format: came up to
-
-========================================
-Unexpected entry format: comes up to
-
-========================================
-Unexpected entry format: come up short of
-
-========================================
-Unexpected entry format: cracked up to be
-
-========================================
-Unexpected entry format: come into use
-
-========================================
-Unexpected entry format: come on to
-
-========================================
-Unexpected entry format: come to terms
-
-========================================
-Unexpected entry format: come up dry
-
-========================================
-Unexpected entry format: come up empty
-
-========================================
-Unexpected entry format: come up short
-
-========================================
-Unexpected entry format: come up with
-
-========================================
-Unexpected entry format: come upon
-
-========================================
-Unexpected entry format: comes to terms
-
-========================================
-Unexpected entry format: comes up empty
-
-========================================
-Unexpected entry format: not up to much
-
-========================================
-Unexpected entry format: make up to someone
-
-========================================
-Unexpected entry format: come to
-
-========================================
-Unexpected entry format: come to life
+List of words:
+- come up to
+- come up trumps
+- came up to
+- comes up to
+- come up short of
+- cracked up to be
+- come into use
+- come on to
+- come to terms
+- come up dry
+- come up empty
+- come up short
+- come up with
+- come upon
+- comes to terms
+- comes up empty
+- not up to much
+- make up to someone
+- come to
+- come to life
 
 ========================================
 Word: command:1
@@ -1099,6 +1168,136 @@ Short Definitions:
 - to have at one's immediate disposal
 
 Synonyms:
+
+========================================
+Word: command:2
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}an order given 
+   Example: The {wi}command{/wi} was to hold fire.
+Definition: {bc}the ability to control {bc}{sx|mastery||} 
+   Example: She was in {wi}command{/wi} of her emotions.
+Definition: {bc}the authority or right to command 
+   Example: the officer in {wi}command{/wi}
+Definition: {bc}facility in use 
+   Example: a good {wi}command{/wi} of French
+Definition: {bc}{sx|control||1d} 
+   Example: a pitcher with good {wi}command{/wi} of his curveball
+Definition: {bc}the act of {a_link|commanding} 
+   Example: The troops will charge at {wi}command{/wi}.
+Definition: {bc}the personnel, area, or organization under a {a_link|commander}
+Definition: {bc}a position of highest usually military authority 
+   Example: He was relieved of his {wi}command{/wi} after being charged with misconduct.
+
+Short Definitions:
+- an order given
+- a signal that actuates a device (such as a control mechanism in a spacecraft or one step in a computer)
+- the activation of a device by means of such a signal
+
+Synonyms:
+
+========================================
+Word: command:3
+Part of Speech: adjective
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}done on command or request 
+   Example: a {wi}command{/wi} performance
+
+Short Definitions:
+- done on command or request
+
+========================================
+Word: command car
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}an open armored car designed especially for military reconnaissance and capable of traveling over rough terrain
+
+Short Definitions:
+- an open armored car designed especially for military reconnaissance and capable of traveling over rough terrain
+
+========================================
+Word: command economy
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}an economic system in which activity is controlled by a central authority and the means of production are publicly owned
+
+Short Definitions:
+- an economic system in which activity is controlled by a central authority and the means of production are publicly owned
+
+========================================
+Word: command module
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a space vehicle module designed to carry the crew, the chief communication equipment, and the equipment for reentry
+
+Short Definitions:
+- a space vehicle module designed to carry the crew, the chief communication equipment, and the equipment for reentry
+
+========================================
+Word: command post
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a post at which the commander of a unit in the field receives orders and exercises command
+
+Short Definitions:
+- a post at which the commander of a unit in the field receives orders and exercises command
+
+========================================
+Word: command sergeant major
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a noncommissioned officer in the army ranking above a first sergeant
+
+Short Definitions:
+- a noncommissioned officer in the army ranking above a first sergeant
+
+========================================
+Word: command performance
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a special performance of a concert, play, etc., that is done at the request of an important person (such as a king)
+
+Short Definitions:
+- a special performance of a concert, play, etc., that is done at the request of an important person (such as a king)
+
+========================================
+Word: chain of command
+Part of Speech: noun phrase
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a series of executive positions in order of authority 
+   Example: a military {it}chain of command{/it}
+
+Short Definitions:
+- a series of executive positions in order of authority
+
+========================================
 Word: cut off
 Part of Speech: verb
 Pronunciation: N/A
@@ -1131,64 +1330,27 @@ Short Definitions:
 - shut off, bar
 
 ========================================
-Unexpected entry format: bade fair
-
-========================================
-Unexpected entry format: daredevil
-
-========================================
-Unexpected entry format: dareful
-
-========================================
-Unexpected entry format: daresaid
-
-========================================
-Unexpected entry format: square sail
-
-========================================
-Unexpected entry format: daredevils
-
-========================================
-Unexpected entry format: dark field
-
-========================================
-Unexpected entry format: trade fair
-
-========================================
-Unexpected entry format: square sails
-
-========================================
-Unexpected entry format: welfare family
-
-========================================
-Unexpected entry format: care for
-
-========================================
-Unexpected entry format: daresay
-
-========================================
-Unexpected entry format: daresays
-
-========================================
-Unexpected entry format: dark age
-
-========================================
-Unexpected entry format: darn well
-
-========================================
-Unexpected entry format: epic fail
-
-========================================
-Unexpected entry format: pass-fail
-
-========================================
-Unexpected entry format: daredevilry
-
-========================================
-Unexpected entry format: dark fields
-
-========================================
-Unexpected entry format: fair's fair
+List of words:
+- bade fair
+- daredevil
+- dareful
+- daresaid
+- square sail
+- daredevils
+- dark field
+- trade fair
+- square sails
+- welfare family
+- care for
+- daresay
+- daresays
+- dark age
+- darn well
+- epic fail
+- pass-fail
+- daredevilry
+- dark fields
+- fair's fair
 
 ========================================
 Word: desire:1
@@ -1214,6 +1376,80 @@ Short Definitions:
 - to express a wish to : ask
 
 Synonyms:
+
+========================================
+Word: desire:2
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}conscious impulse {dx_def}see {dxt|impulse:1||1}{/dx_def} toward something that promises enjoyment or satisfaction in its attainment 
+   Example: ridding oneself of all {wi}desires{/wi}
+Definition: {bc}{sx|longing||}, {sx|craving||} 
+   Example: teenagers' {wi}desire{/wi} for independence
+Definition: {bc}sexual urge or appetite
+Definition: {bc}something longed or hoped for {bc}something {d_link|desired|desire:1} 
+   Example: You are my heart's {wi}desire{/wi}.
+Definition: {bc}a usually formal request or petition for some action 
+   Example: at the {wi}desire{/wi} of one fifth of those present
+
+Short Definitions:
+- conscious impulse toward something that promises enjoyment or satisfaction in its attainment
+- longing, craving
+- sexual urge or appetite
+
+========================================
+Word: desire line
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}an unplanned route or path (such as one worn into a grassy surface by repeated foot traffic) that is used by pedestrians in preference to or in the absence of a designated alternative (such as a paved pathway) 
+   Example: There's a concept in landscape architecture called a {wi}desire line{/wi}. It refers to a path worn into the ground by foot traffic, in defiance of the planned curves of sidewalks and roadways.
+
+Short Definitions:
+- an unplanned route or path (such as one worn into a grassy surface by repeated foot traffic) that is used by pedestrians in preference to or in the absence of a designated alternative (such as a paved pathway)
+
+========================================
+Word: heart's desire
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}something someone wants very much 
+   Example: A good education had always been her {it}heart's desire{/it}.
+
+Short Definitions:
+- something someone wants very much
+
+========================================
+Word: object of desire
+Part of Speech: noun phrase
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}something that people want to have
+
+Short Definitions:
+- something that people want to have
+
+========================================
+Word: Kabila:b2
+Part of Speech: biographical name
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: Laurent (Désiré) 1938–2001 {it}father of {i_link|Joseph Kabila|Kabila:b1}{/it} president of Democratic Republic of Congo (1997–2001)
+
+Short Definitions:
+- Laurent (Désiré) 1938—2001 father of Joseph Kabila president of Democratic Republic of Congo (1997—2001)
+
+========================================
 Word: drag:1
 Part of Speech: verb
 Pronunciation: ˈdrag
@@ -1280,16 +1516,61 @@ Definition: {bc}to enter or pass as if without conscious effort of will {dx_def}
    Example: {it}dropped{/it} into sleep
 Definition: {bc}to cease to be of concern {bc}{sx|lapse||} 
    Example: let the matter {wi}drop{/wi}
-Unexpected entry format: dumbest
 
 ========================================
-Unexpected entry format: dumbed
+Word: drag down
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to force (someone) into a bad situation or condition 
+   Example: We cannot let our enemies {it}drag{/it} us {it}down{/it} to their level.
+Definition: {bc}to make (someone) unhappy 
+   Example: You can't let her bad moods {it}drag{/it} you {it}down{/it}.
+Definition: {bc}to make (something) lower in amount or quality 
+   Example: High energy costs are {it}dragging down{/it} profits.
+
+Short Definitions:
+- to force (someone) into a bad situation or condition
+- to make (someone) unhappy
+- to make (something) lower in amount or quality
 
 ========================================
-Unexpected entry format: dumbstruck
+Word: drag into
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to involve (a person, group, etc.) in (a difficult or complicated situation) 
+   Example: I'm sorry for {it}dragging{/it} you {it}into{/it} this.
+
+Short Definitions:
+- to involve (a person, group, etc.) in (a difficult or complicated situation)
 
 ========================================
-Unexpected entry format: numbest
+Word: drag out
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to cause (something) to take more time than necessary 
+   Example: He {it}dragged out{/it} the speech much too long.
+Definition: {bc}to force (something, such as a confession) from (someone) {bc}to make (someone) tell one (something) 
+   Example: The teacher eventually {it}dragged{/it} a confession {it}out of{/it} one of the students.
+
+Short Definitions:
+- to cause (something) to take more time than necessary
+- to force (something, such as a confession) from (someone) : to make (someone) tell one (something)
+
+========================================
+List of words:
+- dumbest
+- dumbed
+- dumbstruck
+- numbest
 
 ========================================
 Word: encouragement
@@ -1348,61 +1629,29 @@ Related Forms:
 en*vy*ing*ly (ˈen-vē-iŋ-lē)
 
 ========================================
-Unexpected entry format: examination
+List of words:
+- examination
+- examination table
+- examinational
+- re-examination
+- examinations
+- re-examinations
+- reexamination
+- reexaminations
+- organizational chart
+- self-examination
+- self-examinations
+- under examination
 
 ========================================
-Unexpected entry format: examination table
-
-========================================
-Unexpected entry format: examinational
-
-========================================
-Unexpected entry format: re-examination
-
-========================================
-Unexpected entry format: examinations
-
-========================================
-Unexpected entry format: re-examinations
-
-========================================
-Unexpected entry format: reexamination
-
-========================================
-Unexpected entry format: reexaminations
-
-========================================
-Unexpected entry format: organizational chart
-
-========================================
-Unexpected entry format: self-examination
-
-========================================
-Unexpected entry format: self-examinations
-
-========================================
-Unexpected entry format: under examination
-
-========================================
-Unexpected entry format: first edition
-
-========================================
-Unexpected entry format: first editions
-
-========================================
-Unexpected entry format: first gentleman
-
-========================================
-Unexpected entry format: first gentlemen
-
-========================================
-Unexpected entry format: first lieutenant
-
-========================================
-Unexpected entry format: first reading
-
-========================================
-Unexpected entry format: first sergeant
+List of words:
+- first edition
+- first editions
+- first gentleman
+- first gentlemen
+- first lieutenant
+- first reading
+- first sergeant
 
 ========================================
 Word: flax
@@ -1742,124 +1991,50 @@ Short Definitions:
 - to look straight ahead without looking at anything specific
 
 ========================================
-Unexpected entry format: fitted
+List of words:
+- fitted
+- get knotted
+- -fisted
+- retrofitted
+- fisted
+- befitted
+- fitter
+- benefitted
+- vetted
+- gas fitter
+- fatted
+- outfitted
+- get to
+- refitted
+- semifitted
+- gas fitters
+- get started
+- reoutfitted
+- quiet quitted
+- backfitted
 
 ========================================
-Unexpected entry format: get knotted
-
-========================================
-Unexpected entry format: -fisted
-
-========================================
-Unexpected entry format: retrofitted
-
-========================================
-Unexpected entry format: fisted
-
-========================================
-Unexpected entry format: befitted
-
-========================================
-Unexpected entry format: fitter
-
-========================================
-Unexpected entry format: benefitted
-
-========================================
-Unexpected entry format: vetted
-
-========================================
-Unexpected entry format: gas fitter
-
-========================================
-Unexpected entry format: fatted
-
-========================================
-Unexpected entry format: outfitted
-
-========================================
-Unexpected entry format: get to
-
-========================================
-Unexpected entry format: refitted
-
-========================================
-Unexpected entry format: semifitted
-
-========================================
-Unexpected entry format: gas fitters
-
-========================================
-Unexpected entry format: get started
-
-========================================
-Unexpected entry format: reoutfitted
-
-========================================
-Unexpected entry format: quiet quitted
-
-========================================
-Unexpected entry format: backfitted
-
-========================================
-Unexpected entry format: giver
-
-========================================
-Unexpected entry format: give a rest
-
-========================================
-Unexpected entry format: give away
-
-========================================
-Unexpected entry format: give hell
-
-========================================
-Unexpected entry format: give way
-
-========================================
-Unexpected entry format: give in
-
-========================================
-Unexpected entry format: give rise to
-
-========================================
-Unexpected entry format: give vent to
-
-========================================
-Unexpected entry format: give a ring
-
-========================================
-Unexpected entry format: give effect
-
-========================================
-Unexpected entry format: give ground
-
-========================================
-Unexpected entry format: give birth
-
-========================================
-Unexpected entry format: give on to
-
-========================================
-Unexpected entry format: give a break
-
-========================================
-Unexpected entry format: give offense
-
-========================================
-Unexpected entry format: give it a rest
-
-========================================
-Unexpected entry format: give credence to
-
-========================================
-Unexpected entry format: give back
-
-========================================
-Unexpected entry format: give dap
-
-========================================
-Unexpected entry format: give daps
+List of words:
+- giver
+- give a rest
+- give away
+- give hell
+- give way
+- give in
+- give rise to
+- give vent to
+- give a ring
+- give effect
+- give ground
+- give birth
+- give on to
+- give a break
+- give offense
+- give it a rest
+- give credence to
+- give back
+- give dap
+- give daps
 
 ========================================
 Word: grab:1
@@ -1885,6 +2060,137 @@ Short Definitions:
 - to seize the attention of
 
 Synonyms:
+
+========================================
+Word: grab:2
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a sudden snatch
+Definition: {bc}an unlawful or unethical seizure 
+   Example: a {wi}grab{/wi} for power
+Definition: {bc}something taken, seized, or grasped suddenly
+Definition: {bc}a device for clutching an object
+Definition: {bc}{sx|clamshell||2a}
+
+Short Definitions:
+- a sudden snatch
+- an unlawful or unethical seizure
+- something taken, seized, or grasped suddenly
+
+========================================
+Word: grab:3
+Part of Speech: adjective
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}intended to be taken, seized, or grasped suddenly 
+   Example: a {wi}grab{/wi} rail
+Definition: {bc}taken at random 
+   Example: {wi}grab{/wi} samples of rocks
+
+Short Definitions:
+- intended to be taken, seized, or grasped suddenly
+- taken at random
+
+========================================
+Word: grab bag
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a receptacle (such as a bag) containing small articles which are to be drawn (as at a party or fair) without being seen
+Definition: {bc}a miscellaneous collection {bc}{sx|potpourri||}
+
+Short Definitions:
+- a receptacle (such as a bag) containing small articles which are to be drawn (as at a party or fair) without being seen
+- a miscellaneous collection : potpourri
+
+========================================
+Word: grab a seat
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to sit down 
+   Example: {it}Grab a seat{/it}. I'll be with you in a minute.
+
+Short Definitions:
+- to sit down
+
+========================================
+Word: grab at/for
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to quickly stretch out one's hand and try to touch or hold (something or someone) 
+   Example: People were {it}grabbing at{/it} her as she walked through the crowd.
+
+Short Definitions:
+- to quickly stretch out one's hand and try to touch or hold (something or someone) —often used figuratively
+
+========================================
+Word: grab hold of
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to quickly take and hold (someone or something) with the hand or arms 
+   Example: She {it}grabbed hold of{/it} his arm.
+
+Short Definitions:
+- to quickly take and hold (someone or something) with the hand or arms
+
+========================================
+Word: grab (the) headlines
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to be given much attention in the news 
+   Example: A new cancer treatment {it}grabbed (the) headlines{/it} this week.
+
+Short Definitions:
+- to be given much attention in the news
+
+========================================
+Word: cash grab
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}the greedy pursuit of an opportunity for making money especially when done without regard for ethics, concerns, or consequences {bc}{sx|money grab||} 
+   Example: Some Republican leaders have also said any attempt to undo the state's flat tax amounts to a {wi}cash grab{/wi}.
+
+Short Definitions:
+- the greedy pursuit of an opportunity for making money especially when done without regard for ethics, concerns, or consequences : money grab; also : something (such as a product or service) used for a cash grab
+
+========================================
+Word: land grab
+Part of Speech: noun
+Pronunciation: ˈlan(d)-ˌgrab
+Audio Reference: landgr01
+
+Definitions:
+Definition: {bc}a usually swift acquisition of property (such as land or patent rights) often by fraud or force
+
+Short Definitions:
+- a usually swift acquisition of property (such as land or patent rights) often by fraud or force
+
+Related Forms:
+land-grab*ber (ˈlan(d)-ˌgra-bər)
+
+========================================
 Word: grasp:1
 Part of Speech: verb
 Pronunciation: ˈgrasp
@@ -1906,6 +2212,109 @@ Short Definitions:
 - to clasp or embrace especially with the fingers or arms
 
 Synonyms:
+
+========================================
+Word: grasp:2
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}{sx|handle||}
+Definition: {bc}{sx|embrace||}
+Definition: {bc}{sx|hold||}, {sx|control||} 
+   Example: kept a firm {wi}grasp{/wi} on the rope
+Definition: {bc}the reach of the arms 
+   Example: The books on the top shelf were beyond my {wi}grasp{/wi}.
+Definition: {bc}the power of seizing and holding or attaining 
+   Example: success lay within their {wi}grasp{/wi}
+Definition: {bc}mental hold or comprehension especially when broad 
+   Example: a remarkable {wi}grasp{/wi} of the subject
+
+Short Definitions:
+- handle
+- embrace
+- hold, control
+
+========================================
+Word: grasp at
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to try to take or get (something) in an eager or desperate way 
+   Example: They were ready to {it}grasp at{/it} any possible solution.
+
+Short Definitions:
+- to try to take or get (something) in an eager or desperate way
+
+========================================
+Word: grasp for
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to try in a desperate or awkward way to get (something) 
+   Example: His sudden decision to quit the race has left his supporters {it}grasping for{/it} explanations.
+
+Short Definitions:
+- to try in a desperate or awkward way to get (something)
+
+========================================
+Word: beyond someone's grasp
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}impossible for someone to understand 
+   Example: His motives are {it}beyond my grasp{/it}.
+
+Short Definitions:
+- impossible for someone to understand
+
+========================================
+Word: elude someone's grasp
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to stay too far away for someone to reach 
+   Example: He tried to grab the rolling ball, but it {it}eluded his grasp{/it}.
+
+Short Definitions:
+- to stay too far away for someone to reach
+
+========================================
+Word: get a grasp on
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to gain a good understanding of 
+   Example: We're still trying to {it}get a grasp on{/it} the situation.
+
+Short Definitions:
+- to gain a good understanding of
+
+========================================
+Word: within someone's grasp
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}able to be found or gotten 
+   Example: She felt the solution was {it}within her grasp{/it}.
+
+Short Definitions:
+- able to be found or gotten
+
+========================================
 Word: ground:1
 Part of Speech: noun
 Pronunciation: ˈgrau̇nd
@@ -2004,6 +2413,68 @@ Definition: {bc}to wear down, polish, or sharpen by friction
    Example: {wi}grind{/wi} an ax
 Definition: {bc}{sx|oppress||}, {sx|harass||} 
    Example: tyrants who {wi}grind{/wi} their subjects
+
+========================================
+Word: ground ball
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a batted baseball that bounds or rolls along the ground
+
+Short Definitions:
+- a batted baseball that bounds or rolls along the ground
+
+========================================
+Word: ground bass
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a short bass passage continually repeated below constantly changing melody and harmony
+
+Short Definitions:
+- a short bass passage continually repeated below constantly changing melody and harmony
+
+========================================
+Word: ground beetle
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}any of a large cosmopolitan family (Carabidae) of soil-inhabiting usually carnivorous often shiny black or metallic beetles commonly having fused elytra
+
+Short Definitions:
+- any of a large cosmopolitan family (Carabidae) of soil-inhabiting usually carnivorous often shiny black or metallic beetles commonly having fused elytra
+
+========================================
+Word: ground-cherry
+Part of Speech: noun
+Pronunciation: ˈgrau̇n(d)-ˈcher-ē
+Audio Reference: ground05
+
+Definitions:
+Definition: {bc}any of various chiefly New World herbs (genus {it}Physalis{/it}) of the nightshade family with pulpy fruits in papery husks
+
+Short Definitions:
+- any of various chiefly New World herbs (genus Physalis) of the nightshade family with pulpy fruits in papery husks; also : the fruit of the ground-cherry
+
+========================================
+Word: ground cloth
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a waterproof sheet placed on the ground for protection (as of a sleeping bag) against soil moisture
+
+Short Definitions:
+- a waterproof sheet placed on the ground for protection (as of a sleeping bag) against soil moisture
+
+========================================
 Word: growth
 Part of Speech: noun
 Pronunciation: ˈgrōth
@@ -2172,6 +2643,8 @@ Short Definitions:
 - a feeling of deep-seated resentment or ill will
 
 Synonyms:
+
+========================================
 Word: grumble
 Part of Speech: verb
 Pronunciation: ˈgrəm-bəl
@@ -2196,40 +2669,19 @@ grum*bler (ˈgrəm-b(ə-)lər)
 grum*bly (ˈgrəm-b(ə-)lē)
 
 ========================================
-Unexpected entry format: worsened
-
-========================================
-Unexpected entry format: had done
-
-========================================
-Unexpected entry format: worsen
-
-========================================
-Unexpected entry format: hoarsened
-
-========================================
-Unexpected entry format: worsens
-
-========================================
-Unexpected entry format: had gotten bent
-
-========================================
-Unexpected entry format: coarsened
-
-========================================
-Unexpected entry format: had on
-
-========================================
-Unexpected entry format: had over
-
-========================================
-Unexpected entry format: had sex
-
-========================================
-Unexpected entry format: loosened
-
-========================================
-Unexpected entry format: unloosened
+List of words:
+- worsened
+- had done
+- worsen
+- hoarsened
+- worsens
+- had gotten bent
+- coarsened
+- had on
+- had over
+- had sex
+- loosened
+- unloosened
 
 ========================================
 Word: halfway:1
@@ -2438,184 +2890,75 @@ Short Definitions:
 - physically discomforting : unpleasant and difficult to accept or experience
 
 Synonyms:
-Unexpected entry format: reluctantly
 
 ========================================
-Unexpected entry format: expectantly
+List of words:
+- reluctantly
+- expectantly
+- reluctancy
+- reluctant
+- reluctance
+- resultantly
+- reluctances
+- unreluctant
+- reluctancies
+- exultantly
+- relucting
+- hesitantly
+- ineluctably
+- irrelevantly
+- reductant
+- reductants
+- redundantly
+- relevantly
+- reliantly
+- repentantly
 
 ========================================
-Unexpected entry format: reluctancy
+List of words:
+- held to
+- held in
+- hold to
+- held on
+- held up
+- held over
+- help menu
+- held off
+- held out
+- field mice
+- held water
+- help menus
+- end men
+- old men
+- red men
+- dead meat
+- gold mine
+- held back
+- held down
+- held sway
 
 ========================================
-Unexpected entry format: reluctant
-
-========================================
-Unexpected entry format: reluctance
-
-========================================
-Unexpected entry format: resultantly
-
-========================================
-Unexpected entry format: reluctances
-
-========================================
-Unexpected entry format: unreluctant
-
-========================================
-Unexpected entry format: reluctancies
-
-========================================
-Unexpected entry format: exultantly
-
-========================================
-Unexpected entry format: relucting
-
-========================================
-Unexpected entry format: hesitantly
-
-========================================
-Unexpected entry format: ineluctably
-
-========================================
-Unexpected entry format: irrelevantly
-
-========================================
-Unexpected entry format: reductant
-
-========================================
-Unexpected entry format: reductants
-
-========================================
-Unexpected entry format: redundantly
-
-========================================
-Unexpected entry format: relevantly
-
-========================================
-Unexpected entry format: reliantly
-
-========================================
-Unexpected entry format: repentantly
-
-========================================
-Unexpected entry format: held to
-
-========================================
-Unexpected entry format: held in
-
-========================================
-Unexpected entry format: hold to
-
-========================================
-Unexpected entry format: held on
-
-========================================
-Unexpected entry format: held up
-
-========================================
-Unexpected entry format: held over
-
-========================================
-Unexpected entry format: help menu
-
-========================================
-Unexpected entry format: held off
-
-========================================
-Unexpected entry format: held out
-
-========================================
-Unexpected entry format: field mice
-
-========================================
-Unexpected entry format: held water
-
-========================================
-Unexpected entry format: help menus
-
-========================================
-Unexpected entry format: end men
-
-========================================
-Unexpected entry format: old men
-
-========================================
-Unexpected entry format: red men
-
-========================================
-Unexpected entry format: dead meat
-
-========================================
-Unexpected entry format: gold mine
-
-========================================
-Unexpected entry format: held back
-
-========================================
-Unexpected entry format: held down
-
-========================================
-Unexpected entry format: held sway
-
-========================================
-Unexpected entry format: hobos
-
-========================================
-Unexpected entry format: hoboes
-
-========================================
-Unexpected entry format: gobos
-
-========================================
-Unexpected entry format: hobnobs
-
-========================================
-Unexpected entry format: oboist
-
-========================================
-Unexpected entry format: Cobols
-
-========================================
-Unexpected entry format: hobbies
-
-========================================
-Unexpected entry format: bobos
-
-========================================
-Unexpected entry format: goboes
-
-========================================
-Unexpected entry format: hoboed
-
-========================================
-Unexpected entry format: kobos
-
-========================================
-Unexpected entry format: lobos
-
-========================================
-Unexpected entry format: oboes
-
-========================================
-Unexpected entry format: obols
-
-========================================
-Unexpected entry format: how-to's
-
-========================================
-Unexpected entry format: go-to's
-
-========================================
-Unexpected entry format: hobbits
-
-========================================
-Unexpected entry format: hobbles
-
-========================================
-Unexpected entry format: hoboing
-
-========================================
-Unexpected entry format: kobolds
+List of words:
+- hobos
+- hoboes
+- gobos
+- hobnobs
+- oboist
+- Cobols
+- hobbies
+- bobos
+- goboes
+- hoboed
+- kobos
+- lobos
+- oboes
+- obols
+- how-to's
+- go-to's
+- hobbits
+- hobbles
+- hoboing
+- kobolds
 
 ========================================
 Word: hold on
@@ -2713,6 +3056,127 @@ Audio Reference: hop00001
 Definitions:
 Definition: {bc}to move by a quick springy leap or in a series of leaps
 Definition: {bc}to make a quick trip especially by air
+
+========================================
+Word: hop:2
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a short brisk leap especially on one leg
+Definition: {bc}{sx|bounce||}, {sx|rebound||} 
+   Example: shortstop scooped it up on the first {wi}hop{/wi}
+Definition: {bc}{sx|dance||3}
+Definition: {bc}a flight in an aircraft
+Definition: {bc}a short trip
+
+Short Definitions:
+- a short brisk leap especially on one leg
+- bounce, rebound
+- dance
+
+========================================
+Word: hop:3
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}the ripe dried female cone-like flower clusters of a north-temperate zone twining plant ({it}Humulus lupulus{/it}) of the hemp family used especially to impart a bitter flavor to beer
+Definition: {bc}the perennial climbing {d_link|bine|bine} from which hops are obtained that have 3- to 5-lobed leaves and inconspicuous flowers of which the {d_link|pistillate|pistillate} ones are in scaly cone-like clusters
+
+Short Definitions:
+- the ripe dried female cone-like flower clusters of a north-temperate zone twining plant (Humulus lupulus) of the hemp family used especially to impart a bitter flavor to beer
+- the perennial climbing bine from which hops are obtained that have 3- to 5-lobed leaves and inconspicuous flowers of which the pistillate ones are in scaly cone-like clusters
+
+========================================
+Word: hop:4
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to flavor with hops
+
+Short Definitions:
+- to flavor with hops
+
+========================================
+Word: hop hornbeam
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a chiefly eastern North American tree ({it}Ostrya virginiana{/it}) of the birch family with fruiting clusters resembling hops
+
+Short Definitions:
+- a chiefly eastern North American tree (Ostrya virginiana) of the birch family with fruiting clusters resembling hops
+
+========================================
+Word: hop-o'-my-thumb
+Part of Speech: noun
+Pronunciation: ˌhä-pə-mə-ˈthəm
+Audio Reference: hopomy01
+
+Definitions:
+Definition: {bc}a very small person
+
+Short Definitions:
+- a very small person
+
+========================================
+Word: hop, skip, and jump
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a short distance
+
+Short Definitions:
+- a short distance
+
+========================================
+Word: hop, step, and jump
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}{sx|triple jump||}
+
+Short Definitions:
+- triple jump
+
+========================================
+Word: hop it
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to go away quickly 
+   Example: She told her brother to {it}hop it{/it} and leave her alone.
+
+Short Definitions:
+- to go away quickly
+
+========================================
+Word: hop to it
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to act or move quickly 
+   Example: The car was ready to leave and he was told to {it}hop to it{/it}.
+
+Short Definitions:
+- to act or move quickly
+
+========================================
 Word: huddle:1
 Part of Speech: verb
 Pronunciation: ˈhə-dᵊl
@@ -2744,118 +3208,48 @@ Related Forms:
 hud*dler (ˈhə-dᵊl-ər)
 
 ========================================
-Unexpected entry format: burst into tears
+List of words:
+- burst into tears
+- burst into flames
+- burst into
+- brim with tears
+- brought to bear
+- close to tears
+- brought to terms
+- reduce to tears
+- burst at the seams
+- be bursting at the seams
+- burst in on
+- bursts into
+- end in tears
+- fought back tears
+- move to tears
+- put into play
+- put into words
+- wear and tears
 
 ========================================
-Unexpected entry format: burst into flames
-
-========================================
-Unexpected entry format: burst into
-
-========================================
-Unexpected entry format: brim with tears
-
-========================================
-Unexpected entry format: brought to bear
-
-========================================
-Unexpected entry format: close to tears
-
-========================================
-Unexpected entry format: brought to terms
-
-========================================
-Unexpected entry format: reduce to tears
-
-========================================
-Unexpected entry format: burst at the seams
-
-========================================
-Unexpected entry format: be bursting at the seams
-
-========================================
-Unexpected entry format: burst in on
-
-========================================
-Unexpected entry format: bursts into
-
-========================================
-Unexpected entry format: end in tears
-
-========================================
-Unexpected entry format: fought back tears
-
-========================================
-Unexpected entry format: move to tears
-
-========================================
-Unexpected entry format: put into play
-
-========================================
-Unexpected entry format: put into words
-
-========================================
-Unexpected entry format: wear and tears
-
-========================================
-Unexpected entry format: thrived
-
-========================================
-Unexpected entry format: shrived
-
-========================================
-Unexpected entry format: trivet
-
-========================================
-Unexpected entry format: strived
-
-========================================
-Unexpected entry format: thrifted
-
-========================================
-Unexpected entry format: thrive
-
-========================================
-Unexpected entry format: thrived on
-
-========================================
-Unexpected entry format: thriven
-
-========================================
-Unexpected entry format: thriver
-
-========================================
-Unexpected entry format: thrives
-
-========================================
-Unexpected entry format: piledrived
-
-========================================
-Unexpected entry format: up the river
-
-========================================
-Unexpected entry format: Guthrie
-
-========================================
-Unexpected entry format: archived
-
-========================================
-Unexpected entry format: arrived
-
-========================================
-Unexpected entry format: contrived
-
-========================================
-Unexpected entry format: deprived
-
-========================================
-Unexpected entry format: derived
-
-========================================
-Unexpected entry format: motived
-
-========================================
-Unexpected entry format: outlived
+List of words:
+- thrived
+- shrived
+- trivet
+- strived
+- thrifted
+- thrive
+- thrived on
+- thriven
+- thriver
+- thrives
+- piledrived
+- up the river
+- Guthrie
+- archived
+- arrived
+- contrived
+- deprived
+- derived
+- motived
+- outlived
 
 ========================================
 Word: juncture
@@ -2876,6 +3270,8 @@ Short Definitions:
 - the manner of transition or mode of relationship between two consecutive sounds in speech
 
 Synonyms:
+
+========================================
 Word: knack
 Part of Speech: noun
 Pronunciation: ˈnak
@@ -2893,6 +3289,8 @@ Short Definitions:
 - a clever way of doing something
 
 Synonyms:
+
+========================================
 Word: lay down
 Part of Speech: verb
 Pronunciation: N/A
@@ -3032,121 +3430,49 @@ mutter (N/A)
 mut*ter*er (ˈmə-tər-ər)
 
 ========================================
-Unexpected entry format: greatly
+List of words:
+- greatly
+- not really
+- not badly
+- not exactly
+- not merely
+- not rightly
+- not dream of
+- not especially
+- not infrequently
+- neatly
+- not at all
+- not half
+- not least
+- not likely
+- not many
+- not give a toss
+- not care a fig
+- not give a fig
+- not go amiss
 
 ========================================
-Unexpected entry format: not really
-
-========================================
-Unexpected entry format: not badly
-
-========================================
-Unexpected entry format: not exactly
-
-========================================
-Unexpected entry format: not merely
-
-========================================
-Unexpected entry format: not rightly
-
-========================================
-Unexpected entry format: not dream of
-
-========================================
-Unexpected entry format: not especially
-
-========================================
-Unexpected entry format: not infrequently
-
-========================================
-Unexpected entry format: neatly
-
-========================================
-Unexpected entry format: not at all
-
-========================================
-Unexpected entry format: not half
-
-========================================
-Unexpected entry format: not least
-
-========================================
-Unexpected entry format: not likely
-
-========================================
-Unexpected entry format: not many
-
-========================================
-Unexpected entry format: not give a toss
-
-========================================
-Unexpected entry format: not care a fig
-
-========================================
-Unexpected entry format: not give a fig
-
-========================================
-Unexpected entry format: not go amiss
-
-========================================
-Unexpected entry format: bumped into
-
-========================================
-Unexpected entry format: logged into
-
-========================================
-Unexpected entry format: lucked into
-
-========================================
-Unexpected entry format: plugged into
-
-========================================
-Unexpected entry format: plunged into
-
-========================================
-Unexpected entry format: pulled into
-
-========================================
-Unexpected entry format: backed into
-
-========================================
-Unexpected entry format: booked into
-
-========================================
-Unexpected entry format: bounced into
-
-========================================
-Unexpected entry format: build into
-
-========================================
-Unexpected entry format: building into
-
-========================================
-Unexpected entry format: builds into
-
-========================================
-Unexpected entry format: bump into
-
-========================================
-Unexpected entry format: bursted into
-
-========================================
-Unexpected entry format: came into
-
-========================================
-Unexpected entry format: come into
-
-========================================
-Unexpected entry format: dipped into
-
-========================================
-Unexpected entry format: dive into
-
-========================================
-Unexpected entry format: dragged into
-
-========================================
-Unexpected entry format: drummed into
+List of words:
+- bumped into
+- logged into
+- lucked into
+- plugged into
+- plunged into
+- pulled into
+- backed into
+- booked into
+- bounced into
+- build into
+- building into
+- builds into
+- bump into
+- bursted into
+- came into
+- come into
+- dipped into
+- dive into
+- dragged into
+- drummed into
 
 ========================================
 Word: outstanding
@@ -3174,6 +3500,23 @@ Short Definitions:
 - continuing to exist : unresolved
 
 Synonyms:
+
+========================================
+Word: outstand
+Part of Speech: verb
+Pronunciation: ˌau̇t-ˈstand
+Audio Reference: outsta01
+
+Definitions:
+Definition: {bc}to endure beyond 
+   Example: I have {it}outstood{/it} my time
+Definition: {bc}{sx|stand out||}
+
+Short Definitions:
+- to endure beyond
+- stand out
+
+========================================
 Word: painstaking:1
 Part of Speech: adjective
 Pronunciation: ˈpān-ˌstā-kiŋ
@@ -3368,6 +3711,8 @@ Short Definitions:
 - to harass with petty irritations : annoy
 
 Synonyms:
+
+========================================
 Word: pleading
 Part of Speech: noun
 Pronunciation: ˈplē-diŋ
@@ -3480,6 +3825,24 @@ Audio Reference: N/A
 Definitions:
 Definition: {bc}to reduce to powder or pulp by beating
 Definition: {bc}to strike heavily or repeatedly
+
+========================================
+Word: pound out
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to make or produce (something) quickly especially by pounding (such as on a keyboard) 
+   Example: Every week he {it}pounds out{/it} another column for the newspaper.
+Definition: {bc}to play (a song, melody, etc.) loudly on a musical instrument especially by pounding (such as on a piano) 
+   Example: The band's lead singer was {it}pounding out{/it} a tune on the piano.
+
+Short Definitions:
+- to make or produce (something) quickly especially by pounding (such as on a keyboard)
+- to play (a song, melody, etc.) loudly on a musical instrument especially by pounding (such as on a piano)
+
+========================================
 Word: prod:1
 Part of Speech: verb
 Pronunciation: ˈpräd
@@ -3513,22 +3876,13 @@ Short Definitions:
 - to take the lead in a race, competition, contest, etc. —often + of
 
 ========================================
-Unexpected entry format: railroad bridge
-
-========================================
-Unexpected entry format: food securities
-
-========================================
-Unexpected entry format: railroad crossing
-
-========================================
-Unexpected entry format: food security
-
-========================================
-Unexpected entry format: railroad worm
-
-========================================
-Unexpected entry format: railroad worms
+List of words:
+- railroad bridge
+- food securities
+- railroad crossing
+- food security
+- railroad worm
+- railroad worms
 
 ========================================
 Word: reach:1
@@ -3636,6 +3990,35 @@ Short Definitions:
 - to spring back to or as if to a starting point : rebound
 
 Synonyms:
+
+========================================
+Word: recoil:2
+Part of Speech: noun
+Pronunciation: ˈrē-ˌkȯi(-ə)l
+Audio Reference: recoil02
+
+Definitions:
+Definition: {bc}the act or action of {a_link|recoiling}
+Definition: {bc}{sx|reaction||} 
+   Example: the {wi}recoil{/wi} from the rigors of Calvinism
+
+Short Definitions:
+- the act or action of recoiling; especially : the kickback of a gun upon firing
+- reaction
+
+========================================
+Word: recoil-operated
+Part of Speech: adjective
+Pronunciation: ˈrē-ˌkȯi(-ə)l-ˈä-pə-ˌrā-təd
+Audio Reference: recoil-operated_1
+
+Definitions:
+Definition: {bc}utilizing the movement of parts in recoil to operate the action
+
+Short Definitions:
+- utilizing the movement of parts in recoil to operate the action
+
+========================================
 Word: rehearsal
 Part of Speech: noun
 Pronunciation: ri-ˈhər-səl
@@ -3688,6 +4071,20 @@ Short Definitions:
 - to refuse as lover or spouse
 
 Synonyms:
+
+========================================
+Word: reject:2
+Part of Speech: noun
+Pronunciation: ˈrē-ˌjekt
+Audio Reference: reject05
+
+Definitions:
+Definition: {bc}a {a_link|rejected} person or thing
+
+Short Definitions:
+- a rejected person or thing; especially : one rejected as not wanted, unsatisfactory, or not fulfilling requirements
+
+========================================
 Word: rush:1
 Part of Speech: noun
 Pronunciation: ˈrəsh
@@ -3718,6 +4115,118 @@ Definition: {bc}to urge to an unnatural or extreme speed
    Example: don't {wi}rush{/wi} me
 Definition: {bc}to run toward or against in attack {bc}{sx|charge||}
 Definition: {bc}to carry (a ball) forward in a running play
+
+========================================
+Word: rush:3
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a violent forward motion
+Definition: {bc}{sx|attack||}, {sx|onset||}
+Definition: {bc}a surging of emotion
+Definition: {bc}a burst of activity, productivity, or speed
+Definition: {bc}a sudden insistent demand
+Definition: {bc}a thronging of people usually to a new place in search of wealth 
+   Example: a gold {wi}rush{/wi}
+Definition: {bc}the act of carrying a football during a game {bc}running play
+Definition: {bc}the action or an instance of {a_link|rushing} a passer or kicker in football 
+   Example: a pass {wi}rush{/wi}
+Definition: {bc}a round of attention usually involving extensive social activity
+Definition: {bc}a drive by a fraternity or sorority to recruit new members
+
+========================================
+Word: rush:4
+Part of Speech: adjective
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}requiring or marked by special speed or urgency 
+   Example: {wi}rush{/wi} orders
+
+Short Definitions:
+- requiring or marked by special speed or urgency
+
+========================================
+Word: Rush:b
+Part of Speech: biographical name
+Pronunciation: ˈrəsh
+Audio Reference: bixrus01
+
+Definitions:
+Definition: Benjamin 1745–1813 American physician and patriot
+
+Short Definitions:
+- Benjamin 1745—1813 American physician and patriot
+
+========================================
+Word: rush candle
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}{sx|rushlight||}
+
+Short Definitions:
+- rushlight
+
+========================================
+Word: rush hour
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a period of the day when the demands especially of traffic or business are at a peak
+
+Short Definitions:
+- a period of the day when the demands especially of traffic or business are at a peak
+
+========================================
+Word: rush out
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to produce (something) very quickly 
+   Example: We had to {it}rush{/it} the manuscript {it}out{/it} so that it could be copied.
+
+Short Definitions:
+- to produce (something) very quickly
+
+========================================
+Word: bull rush
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a direct forceful rush by a defensive player in football
+
+Short Definitions:
+- a direct forceful rush by a defensive player in football
+
+Related Forms:
+bull-rush (ˈbu̇l-ˌrəsh)
+
+========================================
+Word: bum-rush
+Part of Speech: verb
+Pronunciation: ˈbəm-ˈrəsh
+Audio Reference: bumru01v
+
+Definitions:
+Definition: {bc}to attack or seize with an overpowering rush 
+   Example: {wi}bum-rush{/wi} the stage
+
+Short Definitions:
+- to attack or seize with an overpowering rush
+
+========================================
 Word: sample:1
 Part of Speech: noun
 Pronunciation: ˈsam-pəl
@@ -3735,6 +4244,23 @@ Short Definitions:
 - an excerpt from a recording (such as a popular song by another performer) that is used in a musical composition, recording, or performance
 
 Synonyms:
+
+========================================
+Word: sample:2
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to take a sample of or from
+Definition: {bc}to use a segment of (recorded music, sounds, or dialogue from another source) as part of one's own musical composition or recording 
+   Example: A Josh Wink record takes a series of {wi}sampled{/wi} noises, then twists and warps them through a barrage of sound processors …
+
+Short Definitions:
+- to take a sample of or from; especially : to judge the quality of by a sample : test
+- to use a segment of (recorded music, sounds, or dialogue from another source) as part of one's own musical composition or recording : to use a sample from (another recording or performer)
+
+========================================
 Word: scheme:1
 Part of Speech: noun
 Pronunciation: ˈskēm
@@ -3753,6 +4279,99 @@ Short Definitions:
 - a concise statement or table : epitome
 
 Synonyms:
+
+========================================
+Word: scheme:2
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to form plans
+Definition: {bc}to form a scheme for
+
+Short Definitions:
+- to form plans; also : plot, intrigue
+- to form a scheme for
+
+Related Forms:
+schem*er (N/A)
+
+========================================
+Word: Ponzi scheme
+Part of Speech: noun
+Pronunciation: ˈpän-zē-
+Audio Reference: ponzis01
+
+Definitions:
+Definition: {bc}an investment swindle in which some early investors are paid off with money put up by later ones in order to encourage more and bigger risks
+
+Short Definitions:
+- an investment swindle in which some early investors are paid off with money put up by later ones in order to encourage more and bigger risks
+
+========================================
+Word: pyramid scheme
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a usually illegal operation in which participants pay to join and profit mainly from payments made by subsequent participants
+
+Short Definitions:
+- a usually illegal operation in which participants pay to join and profit mainly from payments made by subsequent participants
+
+========================================
+Word: rhyme scheme
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}the arrangement of rhymes in a stanza or a poem
+
+Short Definitions:
+- the arrangement of rhymes in a stanza or a poem
+
+========================================
+Word: color scheme
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a particular combination of colors 
+   Example: They chose an unusual {it}color scheme{/it} for the living room.
+
+Short Definitions:
+- a particular combination of colors
+
+========================================
+Word: pension scheme
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}an arrangement made with an employer to pay money to an employee after retirement
+
+Short Definitions:
+- an arrangement made with an employer to pay money to an employee after retirement
+
+========================================
+Word: the scheme of things
+Part of Speech: noun phrase
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}the general way that things are organized and relate to each other 
+   Example: Everyone has their role to play in {phrase}the overall scheme of things{/phrase}.
+
+Short Definitions:
+- the general way that things are organized and relate to each other
+
+========================================
 Word: settle:1
 Part of Speech: verb
 Pronunciation: ˈse-tᵊl
@@ -3784,6 +4403,8 @@ Definition: {bc}to become fixed, resolved, or established
 Definition: {bc}to establish a residence or colony 
    Example: {it}settled{/it} in Wisconsin
 Definition: {bc}to become quiet or orderly
+
+========================================
 Word: settle:1
 Part of Speech: verb
 Pronunciation: ˈse-tᵊl
@@ -3815,6 +4436,131 @@ Definition: {bc}to become fixed, resolved, or established
 Definition: {bc}to establish a residence or colony 
    Example: {it}settled{/it} in Wisconsin
 Definition: {bc}to become quiet or orderly
+
+========================================
+Word: settle:2
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a wooden bench with arms, a high solid back, and an enclosed foundation which can be used as a chest
+
+Short Definitions:
+- a wooden bench with arms, a high solid back, and an enclosed foundation which can be used as a chest
+
+========================================
+Word: settle accounts with
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to bring a final end to an argument, disagreement, etc. 
+   Example: She's decided to {it}settle accounts with{/it} her old political rivals.
+
+Short Definitions:
+- to bring a final end to an argument, disagreement, etc.
+
+========================================
+Word: settle a lawsuit
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to end a lawsuit before the court makes a decision about it 
+   Example: They agreed to pay $100,000 to {it}settle the lawsuit{/it}.
+
+Short Definitions:
+- to end a lawsuit before the court makes a decision about it
+
+========================================
+Word: settle a/the score
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to harm or punish someone who caused one harm
+
+Short Definitions:
+- to harm or punish someone who caused one harm
+
+========================================
+Word: settle down
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to become quiet, calm, or orderly 
+   Example: {it}Settle down{/it}, children.
+Definition: {bc}to begin to live a quiet and steady life by getting a regular job, getting married, etc. 
+   Example: They swore they would never {it}settle down{/it} and get married.
+Definition: {bc}to put oneself into a comfortable position 
+   Example: He {it}settled down{/it} for the night.
+Definition: {bc}to become quiet and begin giving one's attention to something 
+   Example: They quickly {it}settled down{/it} to their work.
+
+Short Definitions:
+- to become quiet, calm, or orderly
+- to begin to live a quiet and steady life by getting a regular job, getting married, etc.
+- to put oneself into a comfortable position
+
+========================================
+Word: settle one's account
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to pay what one owes 
+   Example: When do you intend to {it}settle your account{/it}?
+
+Short Definitions:
+- to pay what one owes
+
+========================================
+Word: settle on/upon (something)
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to choose (something or someone) after thinking about other possible choices 
+   Example: We finally {it}settled on{/it} a soft yellow for the kitchen walls.
+
+Short Definitions:
+- to choose (something or someone) after thinking about other possible choices
+
+========================================
+Word: settle (someone or something) down
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to make (someone or something) quiet, calm, or orderly 
+   Example: He managed to {it}settle{/it} the dog {it}down{/it} long enough to give her the medicine.
+
+Short Definitions:
+- to make (someone or something) quiet, calm, or orderly
+
+========================================
+Word: settle (something) on (someone)
+Part of Speech: phrasal verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to arrange to give (money or property) to (someone) 
+   Example: She {it}settled{/it} her whole fortune {it}on{/it} her grandchildren.
+
+Short Definitions:
+- to arrange to give (money or property) to (someone)
+
+========================================
 Word: slowdown
 Part of Speech: noun
 Pronunciation: ˈslō-ˌdau̇n
@@ -3950,64 +4696,27 @@ Short Definitions:
 - a spelling contest in which contestants are eliminated as soon as they misspell a word
 
 ========================================
-Unexpected entry format: split
-
-========================================
-Unexpected entry format: spit up
-
-========================================
-Unexpected entry format: Split
-
-========================================
-Unexpected entry format: lit up
-
-========================================
-Unexpected entry format: split on
-
-========================================
-Unexpected entry format: sit up
-
-========================================
-Unexpected entry format: split end
-
-========================================
-Unexpected entry format: spat up
-
-========================================
-Unexpected entry format: split pea
-
-========================================
-Unexpected entry format: suit up
-
-========================================
-Unexpected entry format: splits on
-
-========================================
-Unexpected entry format: belt up
-
-========================================
-Unexpected entry format: splits
-
-========================================
-Unexpected entry format: felt up
-
-========================================
-Unexpected entry format: splitter
-
-========================================
-Unexpected entry format: hit up
-
-========================================
-Unexpected entry format: split ends
-
-========================================
-Unexpected entry format: kit up
-
-========================================
-Unexpected entry format: split peas
-
-========================================
-Unexpected entry format: let up
+List of words:
+- split
+- spit up
+- Split
+- lit up
+- split on
+- sit up
+- split end
+- spat up
+- split pea
+- suit up
+- splits on
+- belt up
+- splits
+- felt up
+- splitter
+- hit up
+- split ends
+- kit up
+- split peas
+- let up
 
 ========================================
 Word: spun
@@ -4025,6 +4734,76 @@ Audio Reference: spin0001
 
 Definitions:
 Definition: {bc}to draw out and twist fiber into yarn or thread
+
+========================================
+Word: spun glass
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}blown glass that has slender threads of glass incorporated in it
+Definition: {bc}{sx|fiberglass||}
+
+Short Definitions:
+- blown glass that has slender threads of glass incorporated in it
+- fiberglass
+
+========================================
+Word: spun sugar
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}sugar boiled to long threads and gathered up and shaped into desired forms or heaped on a stick as a candy 
+   Example: … thin shells of chocolate filled with caramel and white chocolate mousse and cradled in a nest of {wi}spun sugar{/wi}.
+
+Short Definitions:
+- sugar boiled to long threads and gathered up and shaped into desired forms or heaped on a stick as a candy
+
+========================================
+Word: spun yarn
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a textile yarn spun from staple-length fiber
+Definition: {bc}a small rope or stuff formed of two or more rope yarns loosely twisted and used for seizings especially on board ship
+
+Short Definitions:
+- a textile yarn spun from staple-length fiber
+- a small rope or stuff formed of two or more rope yarns loosely twisted and used for seizings especially on board ship
+
+========================================
+Word: spin off
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to establish or produce as a spin-off 
+   Example: the company {it}spun off{/it} its computer division
+Definition: {bc}to establish or become a spin-off
+
+Short Definitions:
+- to establish or produce as a spin-off
+- to establish or become a spin-off
+
+========================================
+Word: spin out
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to make a rotational skid in an automobile
+
+Short Definitions:
+- to make a rotational skid in an automobile
+
+========================================
 Word: staff:1
 Part of Speech: noun
 Pronunciation: ˈstaf
@@ -4035,6 +4814,111 @@ Definition: {bc}a long stick carried in the hand for support in walking
 Definition: {bc}{sx|club||}, {sx|cudgel||}
 Definition: {bc}{sx|crosier||}
 Definition: {bc}a rod carried as a symbol of office or authority
+
+========================================
+Word: staff:2
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to supply with a staff or with workers
+Definition: {bc}to serve as a staff member of 
+   Example: an organization {wi}staffed{/wi} by volunteers
+
+Short Definitions:
+- to supply with a staff or with workers
+- to serve as a staff member of
+
+========================================
+Word: staves
+Part of Speech: N/A
+Pronunciation: N/A
+Audio Reference: N/A
+
+Short Definitions:
+
+========================================
+Word: staff of Asclepius
+Part of Speech: noun phrase
+Pronunciation: -ˌa-ˈsklē-pē-əs
+Audio Reference: ascle050
+
+Definitions:
+
+========================================
+Word: staff officer
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a commissioned officer assigned to a military commander's staff {dx}compare {dxt|line officer||}{/dx}
+
+Short Definitions:
+- a commissioned officer assigned to a military commander's staff
+
+========================================
+Word: staff of life
+Part of Speech: noun phrase
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a staple of diet
+
+Short Definitions:
+- a staple of diet; especially : bread
+
+========================================
+Word: staff sergeant
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a noncommissioned officer ranking in the army above a sergeant and below a platoon sergeant or sergeant first class, in the air force above a sergeant and below a technical sergeant, and in the marine corps above a sergeant and below a gunnery sergeant
+
+Short Definitions:
+- a noncommissioned officer ranking in the army above a sergeant and below a platoon sergeant or sergeant first class, in the air force above a sergeant and below a technical sergeant, and in the marine corps above a sergeant and below a gunnery sergeant
+
+========================================
+Word: staff sergeant major
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a noncommissioned officer in the army ranking above a master sergeant
+
+Short Definitions:
+- a noncommissioned officer in the army ranking above a master sergeant
+
+========================================
+Word: staff tree
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}any of a genus ({it}Celastrus{/it} of the family Celastraceae, the staff-tree family) of mostly twining shrubby plants including the common bittersweet
+
+Short Definitions:
+- any of a genus (Celastrus of the family Celastraceae, the staff-tree family) of mostly twining shrubby plants including the common bittersweet
+
+========================================
+Word: staff nurse
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a nurse who is on the staff of a hospital
+
+Short Definitions:
+- a nurse who is on the staff of a hospital
+
+========================================
 Word: standout
 Part of Speech: noun
 Pronunciation: ˈstand-ˌau̇t
@@ -4188,28 +5072,43 @@ Pronunciation: N/A
 Audio Reference: N/A
 
 Definitions:
-Unexpected entry format: in front of
 
 ========================================
-Unexpected entry format: stood on your own feet
+Word: stare (someone) in the eye(s)
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to look directly into the eyes of (someone) 
+   Example: She {it}stared{/it} me {it}in the eye{/it} and told me to leave.
+
+Short Definitions:
+- to look directly into the eyes of (someone) —sometimes used figuratively
 
 ========================================
-Unexpected entry format: stood on her own feet
+Word: stare (someone) in the face
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to look directly into the eyes of (someone) 
+   Example: She {it}stared{/it} me {it}in the face{/it} and told me to leave.
+
+Short Definitions:
+- to look directly into the eyes of (someone) —usually used figuratively for something that should be apparent
 
 ========================================
-Unexpected entry format: stood on our own feet
-
-========================================
-Unexpected entry format: stood on their own feet
-
-========================================
-Unexpected entry format: put one foot in front of the other
-
-========================================
-Unexpected entry format: stood in with
-
-========================================
-Unexpected entry format: stood on my own feet
+List of words:
+- in front of
+- stood on your own feet
+- stood on her own feet
+- stood on our own feet
+- stood on their own feet
+- put one foot in front of the other
+- stood in with
+- stood on my own feet
 
 ========================================
 Word: stood
@@ -4251,112 +5150,178 @@ Definition: {bc}to remain stationary or inactive
    Example: the car {it}stood{/it} in the garage for a week
 Definition: {bc}to gather slowly and remain 
    Example: tears {wi}standing{/wi} in her eyes
-Unexpected entry format: stretch it
 
 ========================================
-Unexpected entry format: scratched out
+Word: self-condemned
+Part of Speech: adjective
+Pronunciation: ˌself-kən-ˈdemd
+Audio Reference: self-condemned_1
+
+Definitions:
+Definition: {bc}{d_link|condemned|condemn} by oneself 
+   Example: {wi}self-condemned{/wi} by poor decisions
+
+Short Definitions:
+- condemned by oneself
 
 ========================================
-Unexpected entry format: stretched
+Word: stand by
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to be present
+Definition: {bc}to be or to get ready to act 
+   Example: an ambulance was {it}standing by{/it}
+Definition: {bc}to remain loyal or faithful to {bc}{sx|defend||} 
+   Example: {it}stood by{/it} his decision
+
+Short Definitions:
+- to be present; also : to remain apart or aloof
+- to be or to get ready to act
+- to remain loyal or faithful to : defend
 
 ========================================
-Unexpected entry format: reached out
+Word: stand down
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to leave the witness stand
+Definition: {bc}to go off duty
+Definition: {bc}to withdraw from a contest, a position of leadership, or a state of alert or readiness
+Definition: {bc}to remove from active duty 
+   Example: In December of 1944, it was judged safe to {wi}stand down{/wi} the Home Guard … after four and a half years of guarding Britain against invasion.
+
+Short Definitions:
+- to leave the witness stand
+- to go off duty
+- to withdraw from a contest, a position of leadership, or a state of alert or readiness
 
 ========================================
-Unexpected entry format: stretcher
+Word: stand in
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to act as a stand-in
+
+Short Definitions:
+- to act as a stand-in
 
 ========================================
-Unexpected entry format: stretch-out
+Word: stand off
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to stay at a distance from something
+Definition: {bc}to sail away from the shore
+Definition: {bc}to keep from advancing {bc}{sx|repel||}
+Definition: {bc}{sx|put off||}, {sx|stall||}
+
+Short Definitions:
+- to stay at a distance from something
+- to sail away from the shore
+- to keep from advancing : repel
 
 ========================================
-Unexpected entry format: stretches
+Word: stand out
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to appear as if in relief {bc}{sx|project||}
+Definition: {bc}to be prominent or conspicuous 
+   Example: {it}stands out{/it} from the crowd
+Definition: {bc}to steer away from shore
+Definition: {bc}to be stubborn in resolution or resistance
+
+Short Definitions:
+- to appear as if in relief : project
+- to be prominent or conspicuous
+- to steer away from shore
 
 ========================================
-Unexpected entry format: stretched a point
+Word: stand pat
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to play one's hand as dealt in draw poker without drawing
+Definition: {bc}to oppose or resist change
+
+Short Definitions:
+- to play one's hand as dealt in draw poker without drawing
+- to oppose or resist change
+
+Related Forms:
+stand*pat*ter (ˈstan(d)-ˌpa-tər)
+stand*pat*tism (ˈstan(d)-ˌpa-ˌti-zəm)
 
 ========================================
-Unexpected entry format: stretchy
+Word: stand up
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to rise to a standing position
+Definition: {bc}to remain sound and intact under stress, attack, or close scrutiny
+Definition: {bc}to fail to keep an appointment with
+
+Short Definitions:
+- to rise to a standing position
+- to remain sound and intact under stress, attack, or close scrutiny
+- to fail to keep an appointment with
 
 ========================================
-Unexpected entry format: branched out
+List of words:
+- stretch it
+- scratched out
+- stretched
+- reached out
+- stretcher
+- stretch-out
+- stretches
+- stretched a point
+- stretchy
+- branched out
+- started out
+- pitched out
+- stretch-outs
+- scratched off
+- stretch a point
+- searched out
+- stretched our legs
+- smoothed out
+- stretches a point
+- stressed-out
 
 ========================================
-Unexpected entry format: started out
-
-========================================
-Unexpected entry format: pitched out
-
-========================================
-Unexpected entry format: stretch-outs
-
-========================================
-Unexpected entry format: scratched off
-
-========================================
-Unexpected entry format: stretch a point
-
-========================================
-Unexpected entry format: searched out
-
-========================================
-Unexpected entry format: stretched our legs
-
-========================================
-Unexpected entry format: smoothed out
-
-========================================
-Unexpected entry format: stretches a point
-
-========================================
-Unexpected entry format: stressed-out
-
-========================================
-Unexpected entry format: sunsetting
-
-========================================
-Unexpected entry format: in-line skating
-
-========================================
-Unexpected entry format: sunshines
-
-========================================
-Unexpected entry format: Sunshine Coast
-
-========================================
-Unexpected entry format: sunshine bass
-
-========================================
-Unexpected entry format: sunshine basses
-
-========================================
-Unexpected entry format: underplanting
-
-========================================
-Unexpected entry format: interplanting
-
-========================================
-Unexpected entry format: machine learning
-
-========================================
-Unexpected entry format: substantiating
-
-========================================
-Unexpected entry format: sunscreening
-
-========================================
-Unexpected entry format: sunshading
-
-========================================
-Unexpected entry format: supplanting
-
-========================================
-Unexpected entry format: unsheathing
-
-========================================
-Unexpected entry format: unstinting
-
-========================================
-Unexpected entry format: wine tasting
+List of words:
+- sunsetting
+- in-line skating
+- sunshines
+- Sunshine Coast
+- sunshine bass
+- sunshine basses
+- underplanting
+- interplanting
+- machine learning
+- substantiating
+- sunscreening
+- sunshading
+- supplanting
+- unsheathing
+- unstinting
+- wine tasting
 
 ========================================
 Word: surgeon
@@ -4740,64 +5705,27 @@ Related Forms:
 bring*er (N/A)
 
 ========================================
-Unexpected entry format: toward
-
-========================================
-Unexpected entry format: cowardice
-
-========================================
-Unexpected entry format: towardly
-
-========================================
-Unexpected entry format: towards
-
-========================================
-Unexpected entry format: cowardices
-
-========================================
-Unexpected entry format: towardliness
-
-========================================
-Unexpected entry format: Howard Nemerov
-
-========================================
-Unexpected entry format: Coward
-
-========================================
-Unexpected entry format: Howard
-
-========================================
-Unexpected entry format: coward
-
-========================================
-Unexpected entry format: cowardly
-
-========================================
-Unexpected entry format: cowards
-
-========================================
-Unexpected entry format: towage
-
-========================================
-Unexpected entry format: Edward Grey
-
-========================================
-Unexpected entry format: Edward Hyde
-
-========================================
-Unexpected entry format: Edward Lear
-
-========================================
-Unexpected entry format: Froward, Cape
-
-========================================
-Unexpected entry format: Howard Carter
-
-========================================
-Unexpected entry format: Howard Hughes
-
-========================================
-Unexpected entry format: Edward Albee
+List of words:
+- toward
+- cowardice
+- towardly
+- towards
+- cowardices
+- towardliness
+- Howard Nemerov
+- Coward
+- Howard
+- coward
+- cowardly
+- cowards
+- towage
+- Edward Grey
+- Edward Hyde
+- Edward Lear
+- Froward, Cape
+- Howard Carter
+- Howard Hughes
+- Edward Albee
 
 ========================================
 Word: track:2
@@ -4863,6 +5791,143 @@ Short Definitions:
 - a path made by or as if by repeated footfalls : trail
 
 Synonyms:
+
+========================================
+Word: stop dead in one's tracks
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to stop suddenly 
+   Example: He {it}stopped dead in his tracks{/it} when he heard the shout.
+
+Short Definitions:
+- to stop suddenly
+
+========================================
+Word: stop/freeze in one's tracks
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to stop doing something suddenly or immediately 
+   Example: He stopped/froze {it}in his tracks{/it}, turned, and came back.
+
+Short Definitions:
+- to stop doing something suddenly or immediately
+
+========================================
+Word: stop (someone) in his/her tracks
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to surprise (someone) very much {bc}to cause someone to stop and think 
+   Example: Hearing the show's poignant ballad, {ldquo}Memory Song,{rdquo} {wi}stopped me in my tracks{/wi}.
+
+Short Definitions:
+- to surprise (someone) very much : to cause someone to stop and think
+
+========================================
+Word: cover:1
+Part of Speech: verb
+Pronunciation: ˈkə-vər
+Audio Reference: cover001
+
+Definitions:
+Definition: {bc}to guard from attack
+Definition: {bc}to hide from sight or knowledge {bc}{sx|conceal||} 
+   Example: {wi}cover{/wi} up a scandal
+Definition: {bc}to lie over {bc}{sx|envelop||} 
+   Example: a blanket {wi}covering{/wi} her legs
+Definition: {bc}to lay or spread something over {bc}{sx|overlay||} 
+   Example: {wi}Cover{/wi} the seedbed with straw.
+Definition: {bc}to spread over 
+   Example: Snow {wi}covered{/wi} the hills.
+Definition: {bc}to appear here and there on the surface of 
+   Example: a region {wi}covered{/wi} with lakes
+Definition: {bc}to place or set a cover or {a_link|covering} over 
+   Example: {wi}Cover{/wi} the pot.
+Definition: {bc}to copulate with (a female animal) 
+   Example: a horse {wi}covers{/wi} a mare
+Definition: {bc}to sit on and incubate (eggs)
+Definition: {bc}to invest with a large or excessive amount of something 
+   Example: {wi}covered{/wi} herself with glory
+Definition: {bc}to play a higher-ranking card on (a previously played card)
+Definition: {bc}to have sufficient scope to include or take into account 
+   Example: an examination {wi}covering{/wi} a full year's work
+Definition: {bc}to deal with {bc}{sx|treat||} 
+   Example: material {wi}covered{/wi} in the first chapter
+Definition: {bc}to have as one's territory or field of activity 
+   Example: One sales rep {wi}covers{/wi} the whole state.
+Definition: {bc}to report news about 
+   Example: reporters {wi}covering{/wi} the campaign
+Definition: {bc}to pass over {bc}{sx|traverse||} 
+   Example: The hikers {wi}covered{/wi} 12 miles that day.
+Definition: {bc}to defray the cost of 
+   Example: {wi}cover{/wi} expenses
+Definition: {bc}to place one's stake in equal jeopardy within a bet
+Definition: {bc}to buy securities or commodities for delivery against (an earlier short sale)
+Definition: {bc}to record or perform a cover of (a song)
+
+========================================
+Word: fast-track:2
+Part of Speech: verb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}to speed up the processing, production, or construction of in order to meet a goal
+
+Short Definitions:
+- to speed up the processing, production, or construction of in order to meet a goal
+
+Related Forms:
+fast-track*er (N/A)
+
+========================================
+Word: fast track
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}a course leading to rapid advancement or success
+Definition: {bc}a course of expedited consideration or approval
+
+Short Definitions:
+- a course leading to rapid advancement or success
+- a course of expedited consideration or approval
+
+========================================
+Word: half-track
+Part of Speech: noun
+Pronunciation: ˈhaf-ˌtrak
+Audio Reference: halftr01
+
+Definitions:
+Definition: {bc}an endless chain-track drive system that propels a vehicle supported in front by a pair of wheels
+Definition: {bc}a motor vehicle propelled by half-tracks
+
+Short Definitions:
+- an endless chain-track drive system that propels a vehicle supported in front by a pair of wheels
+- a motor vehicle propelled by half-tracks; specifically : one lightly armored for military use
+
+Related Forms:
+half-track (N/A)
+
+========================================
+Word: hen track
+Part of Speech: noun
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+
+========================================
 Word: twinkle:1
 Part of Speech: verb
 Pronunciation: ˈtwiŋ-kəl
@@ -5003,6 +6068,98 @@ Pronunciation: N/A
 Audio Reference: N/A
 
 Definitions:
+
+========================================
+Word: under-the-counter
+Part of Speech: adjective
+Pronunciation: ˈən-dər-ṯẖə-ˈkau̇n-tər
+Audio Reference: under-the-count
+
+Definitions:
+Definition: {bc}surreptitious and usually irregular or illicit 
+   Example: {wi}under-the-counter{/wi} liquor sales
+
+Short Definitions:
+- surreptitious and usually irregular or illicit
+
+========================================
+Word: under-the-table
+Part of Speech: adjective
+Pronunciation: ˈən-dər-ṯẖə-ˈtā-bəl
+Audio Reference: under-the-table
+
+Definitions:
+Definition: {bc}covert and usually unlawful 
+   Example: {wi}under-the-table{/wi} payoffs
+
+Short Definitions:
+- covert and usually unlawful
+
+========================================
+Word: under weigh
+Part of Speech: adverb
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}{sx|underway||}
+
+Short Definitions:
+- underway
+
+========================================
+Word: under a cloud of suspicion
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}believed by others to have done something wrong 
+   Example: The company remains {it}under a cloud of suspicion{/it}.
+
+Short Definitions:
+- believed by others to have done something wrong
+
+========================================
+Word: under a doctor's care
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}being treated by a doctor 
+   Example: He is {it}under a doctor's care{/it}.
+
+Short Definitions:
+- being treated by a doctor
+
+========================================
+Word: under an alias
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}using an assumed name 
+   Example: He was traveling {it}under an alias{/it}.
+
+Short Definitions:
+- using an assumed name
+
+========================================
+Word: under appeal
+Part of Speech: idiom
+Pronunciation: N/A
+Audio Reference: N/A
+
+Definitions:
+Definition: {bc}being reviewed by a higher court 
+   Example: The case is currently {it}under appeal{/it}.
+
+Short Definitions:
+- being reviewed by a higher court
+
+========================================
 Word: unflagging
 Part of Speech: adjective
 Pronunciation: ˌən-ˈfla-giŋ
@@ -5077,64 +6234,27 @@ Short Definitions:
 - to encourage (someone or something) to move ahead, to do something, etc.
 
 ========================================
-Unexpected entry format: whacked
-
-========================================
-Unexpected entry format: whacked up
-
-========================================
-Unexpected entry format: waked
-
-========================================
-Unexpected entry format: whacked off
-
-========================================
-Unexpected entry format: whisked
-
-========================================
-Unexpected entry format: hacked it
-
-========================================
-Unexpected entry format: who asked you?
-
-========================================
-Unexpected entry format: shacked up
-
-========================================
-Unexpected entry format: wicked
-
-========================================
-Unexpected entry format: whacked-out
-
-========================================
-Unexpected entry format: backed up
-
-========================================
-Unexpected entry format: cracked up
-
-========================================
-Unexpected entry format: hacked
-
-========================================
-Unexpected entry format: hacked off
-
-========================================
-Unexpected entry format: jacked in
-
-========================================
-Unexpected entry format: jacked up
-
-========================================
-Unexpected entry format: packed in
-
-========================================
-Unexpected entry format: packed up
-
-========================================
-Unexpected entry format: racked up
-
-========================================
-Unexpected entry format: smacked of
+List of words:
+- whacked
+- whacked up
+- waked
+- whacked off
+- whisked
+- hacked it
+- who asked you?
+- shacked up
+- wicked
+- whacked-out
+- backed up
+- cracked up
+- hacked
+- hacked off
+- jacked in
+- jacked up
+- packed in
+- packed up
+- racked up
+- smacked of
 
 ========================================
 Word: widen
@@ -5156,64 +6276,27 @@ Related Forms:
 wid*en*er (ˈwīd-nər)
 
 ========================================
-Unexpected entry format: squinting
-
-========================================
-Unexpected entry format: without question
-
-========================================
-Unexpected entry format: without hesitation
-
-========================================
-Unexpected entry format: without obligation
-
-========================================
-Unexpected entry format: outsprinting
-
-========================================
-Unexpected entry format: without a hitch
-
-========================================
-Unexpected entry format: without doubt
-
-========================================
-Unexpected entry format: without equal
-
-========================================
-Unexpected entry format: without exception
-
-========================================
-Unexpected entry format: without incident
-
-========================================
-Unexpected entry format: without limit
-
-========================================
-Unexpected entry format: without notice
-
-========================================
-Unexpected entry format: without success
-
-========================================
-Unexpected entry format: without reservation
-
-========================================
-Unexpected entry format: be without substance
-
-========================================
-Unexpected entry format: without detriment to
-
-========================================
-Unexpected entry format: without prior notice
-
-========================================
-Unexpected entry format: go without saying
-
-========================================
-Unexpected entry format: outpointing
-
-========================================
-Unexpected entry format: witch-hunting
+List of words:
+- squinting
+- without question
+- without hesitation
+- without obligation
+- outsprinting
+- without a hitch
+- without doubt
+- without equal
+- without exception
+- without incident
+- without limit
+- without notice
+- without success
+- without reservation
+- be without substance
+- without detriment to
+- without prior notice
+- go without saying
+- outpointing
+- witch-hunting
 
 ========================================
 Word: yearning
@@ -5244,30 +6327,17 @@ Short Definitions:
 - to feel tenderness or compassion
 
 Synonyms:
-Unexpected entry format: looked forward
 
 ========================================
-Unexpected entry format: pointed toward
-
-========================================
-Unexpected entry format: James Edward
-
-========================================
-Unexpected entry format: Woodward
-
-========================================
-Unexpected entry format: come forward
-
-========================================
-Unexpected entry format: comes forward
-
-========================================
-Unexpected entry format: homeward
-
-========================================
-Unexpected entry format: zoomed in
-
-========================================
-Unexpected entry format: zoomed out
+List of words:
+- looked forward
+- pointed toward
+- James Edward
+- Woodward
+- come forward
+- comes forward
+- homeward
+- zoomed in
+- zoomed out
 
 ========================================
