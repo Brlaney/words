@@ -7,7 +7,6 @@
 - [English Words 📰📃😃](#english-words-)
   - [Table of Contents](#table-of-contents)
     - [Phrases and Words 📃:](#phrases-and-words-)
-    - [Phrases and Words 📃:](#phrases-and-words--1)
     - [To-Do](#to-do)
     - [JSON Data:](#json-data)
 
@@ -15,7 +14,6 @@
 <!-- - [audio/barely](./audio/barely.wav) -->
 <!-- https://github.com/user-attachments/assets/03b3361f-cb6e-417a-9671-83b94758b652 -->
 
-### Phrases and Words 📃:
 ### Phrases and Words 📃:
 
 | [a thrill swept](data/md/a-thrill-swept.md) | [alley](data/md/alley.md) | [along the](data/md/along-the.md) | [as high as](data/md/as-high-as.md) |
