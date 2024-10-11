@@ -10,6 +10,15 @@
 
 <br/>
 
+<table style="width: 100%; max-width: 800px; margin: auto;">
+  <tr>
+    <td style="font-size: 18px;"><a href="data/md/a-thrill-swept.md">a thrill swept</a></td>
+    <td style="font-size: 18px;"><a href="data/md/alley.md">alley</a></td>
+    <td style="font-size: 18px;"><a href="data/md/along-the.md">along the</a></td>
+  </tr>
+  <!-- Additional rows here -->
+</table>
+
 ### Phrases 📃:
 
 | [a thrill swept](data/md/a-thrill-swept.md) | [along the](data/md/along-the.md) | [as high as](data/md/as-high-as.md) |
