@@ -17,7 +17,6 @@
 ### Phrases and Words 📃:
 
 | [a thrill swept](data/md/a-thrill-swept.md) | [alley](data/md/alley.md) | [along the](data/md/along-the.md) | [as high as](data/md/as-high-as.md) |
-|-----------------------------------------------|-----------------------------|-----------------------------------|--------------------------------------|
 | [aside](data/md/aside.md)                    | [attempt](data/md/attempt.md) | [barely](data/md/barely.md)       | [be labeled](data/md/be-labeled.md) |
 | [beamed](data/md/beamed.md)                  | [betrayals](data/md/betrayals.md) | [bleeding](data/md/bleeding.md)   | [blood vessels](data/md/blood-vessels.md) |
 | [brisk](data/md/brisk.md)                    | [burdened](data/md/burdened.md) | [by then](data/md/by-then.md)     | [came marching](data/md/came-marching.md) |
