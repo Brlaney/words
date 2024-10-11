@@ -38,11 +38,8 @@ def interpret_word_data(data, output_file):
                 f.write('\n' + '='*40 + '\n')
                 return
             
-            i = 0
-            
             # Otherwise, process as if it's a list of dictionary entries
             for entry in data:
-                logging.error(f'starting entry no. {i}')
                 last_word = '' # Initialize last_word as an empty string
                 
                 try:
@@ -149,9 +146,7 @@ def interpret_word_data(data, output_file):
                     logging.error(f'Unexpected entry format: {entry}\n')
                     logging.error(f'exc: {e}')
                     
-                f.write('\n' + '='*40 + '\n')
-            
-            i += 1
+                f.write('\n' + '='*40 + '\n')            
   
     except Exception as e:
         # Log the error details to the log file
@@ -167,12 +162,16 @@ def process_all_json_files_in_directory(directory, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write('')
         f.write('\n' + '='*40 + '\n')
-
+    
+    j = 1
+    
     # Iterate through all files in the given directory
     for filename in os.listdir(directory):
+        logging.info(f'index: {j}, file: {filename}')
+        
         if filename.endswith('.json'):
             file_path = os.path.join(directory, filename)
-            print(f'Processing file: {file_path}')
+            print(f'Processing index: {j}, file: {filename}')
             
             # Load and interpret JSON data
             with open(file_path, 'r', encoding='utf-8') as file:
@@ -183,6 +182,7 @@ def process_all_json_files_in_directory(directory, output_file):
                     logging.error(f'l0 - JSON Decode Error in {filename}: {e}')
                 except Exception as e:
                     logging.error(f'l0 - Error processing {filename}: {e}')
+        j += 1
 
 '''
 Define your dir containing the dictionary word .json files.
