@@ -11,6 +11,9 @@
 
 <br/>
 
+---
+
+
 ### Phrases 📃:
 
 | [a thrill swept](data/md/a-thrill-swept.md) | [along the](data/md/along-the.md) | [as high as](data/md/as-high-as.md) |
@@ -55,6 +58,8 @@
 
 <br/>
 
+---
+
 ### To-Do
 
 - [ ] write script to seperate these into two categories: *1. Phrases* and *2. Words*.
@@ -70,6 +75,8 @@
 - [ ] Currently at: `Harsh` (*id = 124*) as of 10/07/2024
 
 <br/>
+
+---
 
 ### Requirements (**.txt**)
 
