@@ -4,6 +4,7 @@
 
 - [English Phrases and Words 📰📃😃](#english-phrases-and-words-)
   - [Table of Contents](#table-of-contents)
+    - [Project Stats 📈📊](#project-stats-)
     - [Phrases 📃](#phrases-)
     - [Words 📃](#words-)
     - [Mishaps ⚠️](#mishaps-️)
@@ -13,6 +14,12 @@
     - [Requirements (**.txt**)](#requirements-txt)
 
 <br/>
+
+---
+
+### Project Stats 📈📊
+
+[![Word's project stats](https://github-readme-stats.vercel.app/api?username=brlaney)](https://github.com/brlaney/github-readme-stats)
 
 ---
 
