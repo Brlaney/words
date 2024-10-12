@@ -19,7 +19,7 @@
 
 ### Project Stats 📈📊
 
-[![Word's project stats](https://github-readme-stats.vercel.app/api?username=brlaney)](https://github.com/brlaney/github-readme-stats)
+[![Word's project stats](https://github-readme-stats.vercel.app/api?username=brlaney)](https://github.com/brlaney/words/github-readme-stats)
 
 ---
 
