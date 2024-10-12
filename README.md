@@ -104,6 +104,18 @@ No matter the mishap, click the link below to see the page containing all of the
 
 **Note**: all of the data is in the `data/` directory.
 
+**data/**
+   - **audio/**
+   - **backed-up/**
+   - **dict/**
+   - **sentences/**
+   - **videos/**
+   - **markdown_links.txt**
+   - **mistakes.json**
+   - **words.json**
+
+
+
 **audio** (`audio/`)
 - brendan's audio recordings of pronunciations
    - phrases (`audio/phrases/`)
