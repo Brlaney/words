@@ -125,8 +125,7 @@ No matter the mishap, click the link below to see the page containing all of the
 
 **dictionary** (`dict/`)
 - data fetched from the official [Webster English API](https://dictionaryapi.com/)
-   - `dict/audio/` (**audio**)
-     - **.wav** audio files downloaded from the dictionaryapi.com's media endpoint
+   - `dict/audio/` (**.wav audio**) *downloaded from dictionary API's media endpoint*
      - `dict/audio/phrases/` (**phrases**)
      - `dict/audio/words/` (**words**)
    - `dict/json/` (**json**) *json response from dictionary API for {searched word} + .json*
