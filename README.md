@@ -129,10 +129,10 @@ No matter the mishap, click the link below to see the page containing all of the
      - **.wav** audio files downloaded from the dictionaryapi.com's media endpoint
      - `dict/audio/phrases/` (**phrases**)
      - `dict/audio/words/` (**words**)
-   - `dict/json/` (**json**)
-     - **.json** response data from dictionary api's word query endpoint (`each word or phrase is the filename`)
+   - `dict/json/` (**json**) *json response from dictionary API for {searched word} + .json*
      - `dict/json/phrases/` (**phrases**) phrases are camel case, `example`: **a_thrill_swept.json**
      - `dict/json/words/` (**words**)
+
 ---
 
 <br/>
