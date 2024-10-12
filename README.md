@@ -76,11 +76,9 @@
 
 `Note` *the definition of mishap*: [mishap](md/words/mishap.md)
 
-These are words or phrases you wrote on your paper that either;
-1. I'm not sure I understand
-2. I either misread what you wrote
-3. I need more context
-4. Do not exist in the English dictionary
+These either:
+1.) I'm not sure I understand
+2.) I need to redo
 
 No matter the mishap, click the link below to see the page containing all of the **mishap words** and their potential replacements.
 
