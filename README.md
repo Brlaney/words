@@ -93,7 +93,9 @@ These are words or phrases you wrote on your paper that either;
 
 No matter the mishap, click the link below to see the page containing all of the **mishap words** and their potential replacements.
 
-[List of mishaps](md/mishaps/mishap-words.md)
+<h3>
+   [List of mishaps](md/mishaps/mishap-words.md)
+</h3>
 
 <br/>
 
