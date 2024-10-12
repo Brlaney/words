@@ -81,7 +81,7 @@
 
 ### Mishaps ⚠️
 
-`Note` *the definition of mishap*:` [mishap](md/words/mishap.md)
+`Note` *the definition of mishap*: [mishap](md/words/mishap.md)
 
 These are words or phrases you wrote on your paper that either;
 1. I'm not sure I understand
