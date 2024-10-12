@@ -1,7 +1,9 @@
 # pleading
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈplē-diŋ
+
 **Audio Reference:** pleading_1
 
 ## Definitions:
@@ -20,7 +22,9 @@
 # plead
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈplēd
+
 **Audio Reference:** plead001
 
 ## Definitions:
@@ -47,7 +51,9 @@
 # special pleading
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -60,7 +66,9 @@
 # plead the Fifth
 
 **Part of Speech:** idiomatic phrase
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

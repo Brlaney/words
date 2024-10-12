@@ -1,7 +1,9 @@
 # desire:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** di-ˈzī(-ə)r
+
 **Audio Reference:** desire01
 
 ## Definitions:

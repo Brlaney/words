@@ -1,7 +1,9 @@
 # outstanding
 
 **Part of Speech:** adjective
+
 **Pronunciation:** au̇t-ˈstan-diŋ
+
 **Audio Reference:** outsta02
 
 ## Definitions:

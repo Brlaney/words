@@ -1,7 +1,9 @@
 # unflagging
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˌən-ˈfla-giŋ
+
 **Audio Reference:** unflag01
 
 ## Definitions:

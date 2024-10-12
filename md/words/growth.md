@@ -1,7 +1,9 @@
 # growth
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈgrōth
+
 **Audio Reference:** growth01
 
 ## Definitions:
@@ -27,7 +29,9 @@
 # growth company
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -38,7 +42,9 @@
 # growth cone
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -49,7 +55,9 @@
 # growth factor
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -60,7 +68,9 @@
 # growth hormone
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -73,7 +83,9 @@
 # growth industry
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -84,7 +96,9 @@
 # growth regulator
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -95,7 +109,9 @@
 # growth ring
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -106,7 +122,9 @@
 # growth area
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -118,7 +136,9 @@
 # growth cycle
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

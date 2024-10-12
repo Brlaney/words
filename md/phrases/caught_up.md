@@ -1,7 +1,9 @@
 # catch up
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -31,7 +33,9 @@
 # caught up in
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

@@ -1,7 +1,9 @@
 # twinkle:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈtwiŋ-kəl
+
 **Audio Reference:** twinkl01
 
 ## Definitions:
@@ -24,7 +26,9 @@
 # twinkle:2
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -43,7 +47,9 @@
 # a twinkle in one's eye
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -55,7 +61,9 @@
 # in the twinkle/twinkling of an eye
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

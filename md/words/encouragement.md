@@ -1,7 +1,9 @@
 # encouragement
 
 **Part of Speech:** noun
+
 **Pronunciation:** in-ˈkər-ij-mənt
+
 **Audio Reference:** encour02
 
 ## Definitions:

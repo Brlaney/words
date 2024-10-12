@@ -1,7 +1,9 @@
 # standout
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈstand-ˌau̇t
+
 **Audio Reference:** stando03
 
 ## Definitions:
@@ -12,7 +14,9 @@
 # stand out
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -29,7 +33,9 @@
 # stand out from the crowd
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -41,7 +47,9 @@
 # stand out from the pack
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -53,7 +61,9 @@
 # stand/stick out a mile
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -65,7 +75,9 @@
 # stick/stand out like a sore thumb
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -76,7 +88,9 @@
 # the heat
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

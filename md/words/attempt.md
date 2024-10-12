@@ -1,7 +1,9 @@
 # attempt:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ə-ˈtem(p)t
+
 **Audio Reference:** attemp01
 
 ## Definitions:

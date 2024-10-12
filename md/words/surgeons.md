@@ -1,7 +1,9 @@
 # surgeon
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈsər-jən
+
 **Audio Reference:** surgeo01
 
 ## Definitions:
@@ -12,7 +14,9 @@
 # flight surgeon
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -23,7 +27,9 @@
 # plastic surgeon
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -34,7 +40,9 @@
 # surgeon general
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -45,7 +53,9 @@
 # surgeon's knot
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -56,7 +66,9 @@
 # tree surgery
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -70,7 +82,9 @@
 # veterinary surgeon
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

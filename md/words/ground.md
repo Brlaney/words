@@ -1,7 +1,9 @@
 # ground:1
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈgrau̇nd
+
 **Audio Reference:** ground01
 
 ## Definitions:
@@ -35,7 +37,9 @@
 # ground:2
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -64,7 +68,9 @@
 # ground:3
 
 **Part of Speech:** adjective
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -76,7 +82,9 @@
 # ground:4
 
 **Part of Speech:** N/A
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 
@@ -84,7 +92,9 @@
 # grind:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈgrīnd
+
 **Audio Reference:** grind001
 
 ## Definitions:

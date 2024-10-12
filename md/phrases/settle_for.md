@@ -1,7 +1,9 @@
 # settle:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈse-tᵊl
+
 **Audio Reference:** settle01
 
 ## Definitions:

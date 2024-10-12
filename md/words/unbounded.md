@@ -1,7 +1,9 @@
 # unbounded
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˌən-ˈbau̇n-dəd
+
 **Audio Reference:** unboun02
 
 ## Definitions:

@@ -1,7 +1,9 @@
 # rehearsal
 
 **Part of Speech:** noun
+
 **Pronunciation:** ri-ˈhər-səl
+
 **Audio Reference:** rehear04
 
 ## Definitions:
@@ -16,7 +18,9 @@
 # dress rehearsal
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

@@ -1,7 +1,9 @@
 # harsh
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˈhärsh
+
 **Audio Reference:** harsh001
 
 ## Definitions:

@@ -1,7 +1,9 @@
 # aside:1
 
 **Part of Speech:** adverb
+
 **Pronunciation:** ə-ˈsīd
+
 **Audio Reference:** aside001
 
 ## Definitions:
@@ -21,7 +23,9 @@
 # aside:2
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -35,7 +39,9 @@
 # aside:3
 
 **Part of Speech:** preposition
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -46,7 +52,9 @@
 # aside from
 
 **Part of Speech:** preposition
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -61,7 +69,9 @@
 # set-aside
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈset-ə-ˌsīd
+
 **Audio Reference:** setasi01
 
 ## Definitions:
@@ -74,7 +84,9 @@
 # step aside
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -85,7 +97,9 @@
 # brush aside
 
 **Part of Speech:** phrasal verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -97,7 +111,9 @@
 # cast aside
 
 **Part of Speech:** phrasal verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -109,7 +125,9 @@
 # joking aside
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

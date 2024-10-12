@@ -1,7 +1,9 @@
 # grumble
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈgrəm-bəl
+
 **Audio Reference:** grumbl01
 
 ## Definitions:

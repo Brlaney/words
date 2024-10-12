@@ -1,7 +1,9 @@
 # catch:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈkach
+
 **Audio Reference:** catch001
 
 ## Definitions:

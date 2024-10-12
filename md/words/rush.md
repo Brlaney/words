@@ -1,7 +1,9 @@
 # rush:1
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈrəsh
+
 **Audio Reference:** rush0001
 
 ## Definitions:
@@ -15,7 +17,9 @@
 # rush:2
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

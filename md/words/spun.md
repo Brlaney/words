@@ -1,7 +1,9 @@
 # spun
 
 **Part of Speech:** N/A
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 
@@ -9,7 +11,9 @@
 # spin:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈspin
+
 **Audio Reference:** spin0001
 
 ## Definitions:

@@ -1,7 +1,9 @@
 # sample:1
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈsam-pəl
+
 **Audio Reference:** sample01
 
 ## Definitions:

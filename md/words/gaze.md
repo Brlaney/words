@@ -1,7 +1,9 @@
 # gaze:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈgāz
+
 **Audio Reference:** gaze0001
 
 ## Definitions:
@@ -16,7 +18,9 @@
 # gaze:2
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -31,7 +35,9 @@
 # drop one's gaze
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -42,7 +48,9 @@
 # lift one's gaze
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -53,7 +61,9 @@
 # meet someone's gaze
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -65,7 +75,9 @@
 # fix one's eyes/gaze/stare on/upon
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -77,7 +89,9 @@
 # stare/gaze (off) into space
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

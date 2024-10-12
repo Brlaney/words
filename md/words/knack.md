@@ -1,7 +1,9 @@
 # knack
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈnak
+
 **Audio Reference:** knack001
 
 ## Definitions:

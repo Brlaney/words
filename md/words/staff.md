@@ -1,7 +1,9 @@
 # staff:1
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈstaf
+
 **Audio Reference:** staff001
 
 ## Definitions:

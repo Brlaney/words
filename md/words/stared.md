@@ -1,7 +1,9 @@
 # stare:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈster
+
 **Audio Reference:** stare001
 
 ## Definitions:
@@ -22,7 +24,9 @@
 # dagger
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈda-gər
+
 **Audio Reference:** dagger01
 
 ## Definitions:
@@ -40,7 +44,9 @@
 # stare down
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -51,7 +57,9 @@
 # stare out
 
 **Part of Speech:** phrasal verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

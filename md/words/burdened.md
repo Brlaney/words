@@ -1,7 +1,9 @@
 # burdened
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˈbər-dᵊnd
+
 **Audio Reference:** burdened_1
 
 ## Definitions:
@@ -13,7 +15,9 @@
 # burden:2
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

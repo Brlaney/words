@@ -1,7 +1,9 @@
 # hop:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈhäp
+
 **Audio Reference:** hop00001
 
 ## Definitions:

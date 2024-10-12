@@ -1,7 +1,9 @@
 # grasp:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈgrasp
+
 **Audio Reference:** grasp001
 
 ## Definitions:

@@ -1,7 +1,9 @@
 # reach:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈrēch
+
 **Audio Reference:** reach001
 
 ## Definitions:
@@ -30,7 +32,9 @@
 # at the end of one's patience
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -42,7 +46,9 @@
 # reach for
 
 **Part of Speech:** phrasal verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -57,7 +63,9 @@
 # reach out
 
 **Part of Speech:** phrasal verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -69,7 +77,9 @@
 # reach out to (someone)
 
 **Part of Speech:** phrasal verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

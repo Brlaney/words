@@ -1,7 +1,9 @@
 # slowdown
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈslō-ˌdau̇n
+
 **Audio Reference:** slowdo01
 
 ## Definitions:

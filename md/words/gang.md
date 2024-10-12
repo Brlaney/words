@@ -1,7 +1,9 @@
 # gang:1
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈgaŋ
+
 **Audio Reference:** gang0001
 
 ## Definitions:
@@ -21,7 +23,9 @@
 # gang:2
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -41,7 +45,9 @@
 # gang:3
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -52,7 +58,9 @@
 # gang bang
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -65,7 +73,9 @@
 # gang hook
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -76,7 +86,9 @@
 # gang rape
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -90,7 +102,9 @@
 # gang-tackle
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈgaŋ-ˌta-kəl
+
 **Audio Reference:** gangta01
 
 ## Definitions:
@@ -101,7 +115,9 @@
 # gang up
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -119,7 +135,9 @@
 # anti-gang
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˌan-tē-ˈgaŋ
+
 **Audio Reference:** antiga01
 
 ## Definitions:
@@ -131,7 +149,9 @@
 # chain gang
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

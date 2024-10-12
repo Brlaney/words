@@ -1,7 +1,9 @@
 # urge:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈərj
+
 **Audio Reference:** urge0001
 
 ## Definitions:
@@ -30,7 +32,9 @@
 # urge on
 
 **Part of Speech:** phrasal verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

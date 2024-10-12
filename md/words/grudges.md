@@ -1,7 +1,9 @@
 # grudge:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈgrəj
+
 **Audio Reference:** grudge01
 
 ## Definitions:
@@ -16,7 +18,9 @@
 # grudge:2
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

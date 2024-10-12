@@ -1,7 +1,9 @@
 # juncture
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈjəŋ(k)-chər
+
 **Audio Reference:** junctu02
 
 ## Definitions:

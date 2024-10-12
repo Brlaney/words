@@ -1,7 +1,9 @@
 # point out
 
 **Part of Speech:** phrasal verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -16,7 +18,9 @@
 # hasten to add/say/explain (etc.)
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

@@ -1,7 +1,9 @@
 # widen
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈwī-dᵊn
+
 **Audio Reference:** widen001
 
 ## Definitions:

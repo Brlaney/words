@@ -1,7 +1,9 @@
 # reject:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ri-ˈjekt
+
 **Audio Reference:** reject01
 
 ## Definitions:

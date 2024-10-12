@@ -1,7 +1,9 @@
 # mutter
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈmə-tər
+
 **Audio Reference:** mutter01
 
 ## Definitions:

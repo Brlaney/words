@@ -1,7 +1,9 @@
 # lookup
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈlu̇k-ˌəp
+
 **Audio Reference:** lookup01
 
 ## Definitions:
@@ -13,7 +15,9 @@
 # look up
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -33,7 +37,9 @@
 # look up to
 
 **Part of Speech:** phrasal verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

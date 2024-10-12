@@ -1,7 +1,9 @@
 # painstaking:1
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˈpān-ˌstā-kiŋ
+
 **Audio Reference:** painst01
 
 ## Definitions:
@@ -16,7 +18,9 @@
 # painstaking:2
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

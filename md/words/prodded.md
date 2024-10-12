@@ -1,7 +1,9 @@
 # prod:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈpräd
+
 **Audio Reference:** prod0001
 
 ## Definitions:

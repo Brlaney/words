@@ -15,7 +15,6 @@ def is_phrase(text):
     """ Determines if a text is a phrase by checking for spaces. """
     return ' ' in text
 
-
 def interpret_word_data(text_data, data, words_output_dir, phrases_output_dir):
     try:
         # Determine the directory for words or phrases
@@ -53,8 +52,8 @@ def interpret_word_data(text_data, data, words_output_dir, phrases_output_dir):
                         clean_speech = format_markdown(part_of_speech)
                         clean_pron = format_markdown(pronunciation)
                         clean_ref = format_markdown(audio_ref)
-                        f.write(f"**Part of Speech:** {clean_speech}\n")
-                        f.write(f"**Pronunciation:** {clean_pron}\n")
+                        f.write(f"**Part of Speech:** {clean_speech}\n\n")
+                        f.write(f"**Pronunciation:** {clean_pron}\n\n")
                         f.write(f"**Audio Reference:** {clean_ref}\n\n")
 
                         # Process definitions

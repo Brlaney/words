@@ -1,7 +1,9 @@
 # pester
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈpe-stər
+
 **Audio Reference:** pester01
 
 ## Definitions:

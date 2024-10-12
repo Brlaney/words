@@ -1,7 +1,9 @@
 # frightened
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˈfrī-tᵊnd
+
 **Audio Reference:** frightened_1
 
 ## Definitions:
@@ -13,7 +15,9 @@
 # frighten
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈfrī-tᵊn
+
 **Audio Reference:** fright02
 
 ## Definitions:
@@ -34,7 +38,9 @@
 # frighten into
 
 **Part of Speech:** phrasal verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -46,7 +52,9 @@
 # frighten out of
 
 **Part of Speech:** phrasal verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -58,7 +66,9 @@
 # the dickens
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

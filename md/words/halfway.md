@@ -1,7 +1,9 @@
 # halfway:1
 
 **Part of Speech:** adverb
+
 **Pronunciation:** ˈhaf-ˈwā
+
 **Audio Reference:** halfwa01
 
 ## Definitions:
@@ -13,7 +15,9 @@
 # halfway:2
 
 **Part of Speech:** adjective
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -28,7 +32,9 @@
 # halfway house
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -43,7 +49,9 @@
 # halfway decent
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -55,7 +63,9 @@
 # halfway through
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -67,7 +77,9 @@
 # meet:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈmēt
+
 **Audio Reference:** meet0001
 
 ## Definitions:
@@ -118,7 +130,9 @@
 # the world
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

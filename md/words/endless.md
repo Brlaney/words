@@ -1,7 +1,9 @@
 # endless
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˈen(d)-ləs
+
 **Audio Reference:** endles01
 
 ## Definitions:

@@ -1,7 +1,9 @@
 # checkout
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈchek-ˌau̇t
+
 **Audio Reference:** checko02
 
 ## Definitions:
@@ -19,7 +21,9 @@
 # check out
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -39,7 +43,9 @@
 # check it out
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

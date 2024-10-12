@@ -1,7 +1,9 @@
 # soar:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈsȯr
+
 **Audio Reference:** soar0001
 
 ## Definitions:

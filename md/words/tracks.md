@@ -1,7 +1,9 @@
 # track:2
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -32,7 +34,9 @@
 # track:1
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈtrak
+
 **Audio Reference:** track001
 
 ## Definitions:

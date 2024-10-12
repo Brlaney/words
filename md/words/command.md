@@ -1,7 +1,9 @@
 # command:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** kə-ˈmand
+
 **Audio Reference:** comman01
 
 ## Definitions:

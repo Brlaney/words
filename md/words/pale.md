@@ -1,7 +1,9 @@
 # pale:1
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˈpāl
+
 **Audio Reference:** pale0001
 
 ## Definitions:
@@ -24,7 +26,9 @@
 # pale:2
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -37,7 +41,9 @@
 # pale:3
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -59,7 +65,9 @@
 # pale:4
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -70,7 +78,9 @@
 # pale-
 
 **Part of Speech:** combining form
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -80,7 +90,9 @@
 # paleo-
 
 **Part of Speech:** combining form
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -95,7 +107,9 @@
 # pale ale
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -106,7 +120,9 @@
 # pale by comparison
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -118,7 +134,9 @@
 # pale imitation
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -130,7 +148,9 @@
 # pale in/by comparison to/with
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

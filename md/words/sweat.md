@@ -1,7 +1,9 @@
 # sweat:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈswet
+
 **Audio Reference:** sweat001
 
 ## Definitions:
@@ -39,7 +41,9 @@
 # sweat:2
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -59,7 +63,9 @@
 # sweat bee
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -70,7 +76,9 @@
 # sweat equity
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -81,7 +89,9 @@
 # sweat gland
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -92,7 +102,9 @@
 # sweat lodge
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -103,7 +115,9 @@
 # sweat out
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -116,7 +130,9 @@
 # sweat suit
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -127,7 +143,9 @@
 # sweat test
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -138,7 +156,9 @@
 # sweat bullets
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

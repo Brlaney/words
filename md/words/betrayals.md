@@ -1,7 +1,9 @@
 # betrayal
 
 **Part of Speech:** noun
+
 **Pronunciation:** bi-ˈtrā(-ə)l
+
 **Audio Reference:** betray02
 
 ## Definitions:
@@ -16,7 +18,9 @@
 # self-betrayal
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˌself-bi-ˈtrā(-ə)l
+
 **Audio Reference:** selfbe03
 
 ## Definitions:

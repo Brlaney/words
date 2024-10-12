@@ -1,7 +1,9 @@
 # barely
 
 **Part of Speech:** adverb
+
 **Pronunciation:** ˈber-lē
+
 **Audio Reference:** barel01ld
 
 ## Definitions:

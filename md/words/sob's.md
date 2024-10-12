@@ -1,7 +1,9 @@
 # SOB
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˌes-ˌō-ˈbē
+
 **Audio Reference:** sob00002
 
 ## Definitions:

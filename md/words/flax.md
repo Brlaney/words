@@ -1,7 +1,9 @@
 # flax
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈflaks
+
 **Audio Reference:** flax0001
 
 ## Definitions:

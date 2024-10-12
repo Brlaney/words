@@ -1,7 +1,9 @@
 # therefore
 
 **Part of Speech:** adverb
+
 **Pronunciation:** ˈt͟her-ˌfȯr
+
 **Audio Reference:** theref02
 
 ## Definitions:

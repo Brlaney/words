@@ -1,7 +1,9 @@
 # cross to bear
 
 **Part of Speech:** noun phrase
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -13,7 +15,9 @@
 # bring
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈbriŋ
+
 **Audio Reference:** bring001
 
 ## Definitions:

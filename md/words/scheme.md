@@ -1,7 +1,9 @@
 # scheme:1
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈskēm
+
 **Audio Reference:** scheme01
 
 ## Definitions:

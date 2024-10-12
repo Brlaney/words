@@ -1,7 +1,9 @@
 # somehow
 
 **Part of Speech:** adverb
+
 **Pronunciation:** ˈsəm-ˌhau̇
+
 **Audio Reference:** someho01
 
 ## Definitions:
@@ -13,7 +15,9 @@
 # somehow or other
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

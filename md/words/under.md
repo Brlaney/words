@@ -1,7 +1,9 @@
 # under:1
 
 **Part of Speech:** adverb
+
 **Pronunciation:** ˈən-dər
+
 **Audio Reference:** under001
 
 ## Definitions:
@@ -22,7 +24,9 @@
 # under:2
 
 **Part of Speech:** preposition
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -45,7 +49,9 @@
 # under:3
 
 **Part of Speech:** adjective
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

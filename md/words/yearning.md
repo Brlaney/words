@@ -1,7 +1,9 @@
 # yearning
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈyər-niŋ
+
 **Audio Reference:** yearn01v
 
 ## Definitions:
@@ -13,7 +15,9 @@
 # yearn
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈyərn
+
 **Audio Reference:** yearn001
 
 ## Definitions:

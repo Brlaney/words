@@ -1,7 +1,9 @@
 # recoil:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ri-ˈkȯi(-ə)l
+
 **Audio Reference:** recoil01
 
 ## Definitions:

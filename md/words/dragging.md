@@ -1,7 +1,9 @@
 # drag:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈdrag
+
 **Audio Reference:** drag0001
 
 ## Definitions:
@@ -39,7 +41,9 @@
 # foot-dragging
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈfu̇t-ˌdra-giŋ
+
 **Audio Reference:** foot_d01
 
 ## Definitions:
@@ -50,7 +54,9 @@
 # drop:2
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

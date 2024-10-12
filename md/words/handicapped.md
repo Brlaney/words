@@ -1,7 +1,9 @@
 # handicapped
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˈhan-di-ˌkapt
+
 **Audio Reference:** handicapped
 
 ## Definitions:
@@ -12,7 +14,9 @@
 # handicap:2
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -27,7 +31,9 @@
 # multi-handicapped
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˌməl-tē-ˈhan-di-ˌkapt
+
 **Audio Reference:** multi30m
 
 ## Definitions:

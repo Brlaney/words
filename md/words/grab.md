@@ -1,7 +1,9 @@
 # grab:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈgrab
+
 **Audio Reference:** grab0001
 
 ## Definitions:

@@ -1,7 +1,9 @@
 # stood
 
 **Part of Speech:** N/A
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 
@@ -9,7 +11,9 @@
 # stand:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈstand
+
 **Audio Reference:** stand001
 
 ## Definitions:

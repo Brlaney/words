@@ -1,7 +1,9 @@
 # huddle:1
 
 **Part of Speech:** verb
+
 **Pronunciation:** ˈhə-dᵊl
+
 **Audio Reference:** huddle01
 
 ## Definitions:

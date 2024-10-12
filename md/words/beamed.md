@@ -1,7 +1,9 @@
 # beamed
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˈbēmd
+
 **Audio Reference:** beamed_1
 
 ## Definitions:
@@ -13,7 +15,9 @@
 # beam:2
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

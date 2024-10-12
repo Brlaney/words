@@ -1,7 +1,9 @@
 # alley:1
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˈa-lē
+
 **Audio Reference:** alley001
 
 ## Definitions:
@@ -20,7 +22,9 @@
 # alley:2
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -31,7 +35,9 @@
 # alley cat
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -42,7 +48,9 @@
 # alley-oop
 
 **Part of Speech:** noun
+
 **Pronunciation:** ˌa-lē-ˈyüp
+
 **Audio Reference:** alley01w
 
 ## Definitions:
@@ -60,7 +68,9 @@
 # blind alley
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -71,7 +81,9 @@
 # Tin Pan Alley
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -82,7 +94,9 @@
 # Tornado Alley:g
 
 **Part of Speech:** geographical name
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -93,7 +107,9 @@
 # bowling alley
 
 **Part of Speech:** noun
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
@@ -104,7 +120,9 @@
 # (right) up/down someone's alley
 
 **Part of Speech:** idiom
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:

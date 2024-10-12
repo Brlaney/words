@@ -1,7 +1,9 @@
 # brisk:1
 
 **Part of Speech:** adjective
+
 **Pronunciation:** ˈbrisk
+
 **Audio Reference:** brisk001
 
 ## Definitions:
@@ -29,7 +31,9 @@
 # brisk:2
 
 **Part of Speech:** verb
+
 **Pronunciation:** N/A
+
 **Audio Reference:** N/A
 
 ## Definitions:
