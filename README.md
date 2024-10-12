@@ -4,9 +4,9 @@
 
 - [English Phrases and Words 📰📃😃](#english-phrases-and-words-)
   - [Table of Contents](#table-of-contents)
-    - [Phrases 📃:](#phrases-)
-    - [Words 📃:](#words-)
-    - [Mishaps ⚠️:](#mishaps-️)
+    - [Phrases 📃](#phrases-)
+    - [Words 📃](#words-)
+    - [Mishaps ⚠️](#mishaps-️)
     - [To-Do](#to-do)
       - [Completed](#completed)
       - [Pending](#pending)
@@ -16,7 +16,7 @@
 
 ---
 
-### Phrases 📃:
+### Phrases 📃
 
 - [as high as](md/phrases/as_high_as.md)
 - [point out](md/phrases/point_out.md)
@@ -38,7 +38,7 @@
 
 ---
 
-### Words 📃:
+### Words 📃
 
 - [halfway](md/words/halfway.md)
 - [barely](md/words/barely.md)
@@ -78,7 +78,7 @@
 
 ---
 
-### Mishaps ⚠️:
+### Mishaps ⚠️
 
 These are words or phrases you wrote on your paper that either;
 1. I'm not sure I understand
