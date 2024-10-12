@@ -15,13 +15,13 @@
 
 ### Phrases 📃:
 
-[a thrill swept](md/phrases/along-the.md)
+[along the](md/phrases/along_the.md)
 
 ---
 
 ### Words 📃:
 
-[widened](md/words/alley.md)
+[alley](md/words/alley.md)
 
 <br/>
 
