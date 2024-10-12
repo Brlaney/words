@@ -6,7 +6,10 @@
   - [Table of Contents](#table-of-contents)
     - [Phrases 📃:](#phrases-)
     - [Words 📃:](#words-)
+    - [Mishaps ⚠️:](#mishaps-️)
     - [To-Do](#to-do)
+      - [Completed](#completed)
+      - [Pending](#pending)
     - [Requirements (**.txt**)](#requirements-txt)
 
 <br/>
@@ -73,26 +76,45 @@
 - [betrayals](md/words/betrayals.md)
 - [huddled](md/words/huddled.md)
 
+---
+
+### Mishaps ⚠️:
+
+These are words or phrases you wrote on your paper that either;
+1. I'm not sure I understand
+2. I either misread what you wrote
+3. I need more context
+4. Do not exist in the English dictionary
+
+<br/>
+
+No matter the mishap, click the link below to see the page containing all of the **mishap words** and their potential replacements.
+
+[List of mishaps](md/mishaps/mishap-words.md)
+
 <br/>
 
 ---
 
-### To-Do
+### To-Do 
+
+#### Completed
 
 - [X] Fix recordings that are too long with *blank/no noise*. Write script to scan for and output all files with `duration > 3 seconds`. 
-  
-- [ ] If the md file will say *List of words:* then write a message like `This word or phrase doesn't seem to exist in the English dictionary - maybe I misunderstood the text in your image`
+- [X] `pip install` the package for env variables - then fix the api_req file to remove from .gitignore
+- [X] If the md file will say *List of words:* then write a message like `This word or phrase doesn't seem to exist in the English dictionary - maybe I misunderstood the text in your image`
+- [X] Mark the edited audio files w/ a flag to not have the volumex(2) used again during the video creation
+- [X] Need to replace all json objects in the words.json file with their new durations from after.json 
+- [X] write script to seperate these into two categories: *1. Phrases* and *2. Words*.
+- [X] Update the long-entries/before.json file
 
-- [ ] `pip install` the package for env variables - then fix the api_req file to remove from .gitignore
-- [ ] Mark the edited audio files w/ a flag to not have the volumex(2) used again during the video creation
-- [ ] Need to replace all json objects in the words.json file with their new durations from after.json 
+#### Pending
 
-- [ ] write script to seperate these into two categories: *1. Phrases* and *2. Words*.
-- [ ] Finish the MoviePy script to prompt to record `using each word in a sentence` 
 - [ ] Only pages *5* and *6* are left to complete
-- [ ] Update the long-entries/before.json file
-- [ ] Write script to separate into batches by *date*
 - [ ] Currently at: `Harsh` (*id = 124*) as of 10/07/2024
+- [ ] Update the Requirements.txt
+- [ ] Finish the MoviePy script to prompt to record `using each word in a sentence` 
+- [ ] Write script to separate into batches by *date*
 
 <br/>
 
