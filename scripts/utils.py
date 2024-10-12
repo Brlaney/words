@@ -47,6 +47,40 @@ def get_audio_duration(file_path, file_name):
     return duration_ms
 
 
+def create_markdown_links(words_data):
+    words_links = []
+    phrases_links = []
+
+    # Iterate through each word entry in the words data
+    for word in words_data:
+        if word.get("has_md", False):
+            text = word.get("text", "")
+            md_path = word.get("md_path", "")
+            
+            # Create the markdown link
+            markdown_link = f'[{text}]({md_path})'
+            
+            # Append to words or phrases list based on md_path
+            if 'md/words/' in md_path:
+                words_links.append(markdown_link)
+            elif 'md/phrases/' in md_path:
+                phrases_links.append(markdown_link)
+
+    # Sort the lists alphabetically
+    words_links.sort()
+    phrases_links.sort()
+
+    return words_links, phrases_links
+
+
+def write_links_to_file(words_links, phrases_links, output_file):
+    # Format the output with sections and emojis
+    output_content = "### Phrases 📃\n\n" + '\n'.join(f'- {link}' for link in phrases_links) + '\n\n---\n\n### Words 📃\n\n' + '\n'.join(f'- {link}' for link in words_links)
+    
+    with open(output_file, 'w', encoding='utf-8') as links_file:
+        links_file.write(output_content)
+
+
 def format_markdown(text):
     '''
         Replaces placeholders with markdown formatting and adds line returns.
