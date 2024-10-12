@@ -1,6 +1,4 @@
-# mishap
-
-## Basics
+# Mishap
 
 **Part of Speech:** noun
 
@@ -13,11 +11,12 @@
 ## Definitions:
 - **:** an unfortunate accident 
   *Example:* The fire was a tragic `mishap` that could have been prevented.
-- **:** bad luck **:** {sx|misfortune||} 
+- **:** bad luck **:** misfortune 
   *Example:* The ceremony proceeded without `mishap`.
 
 ## Short Definitions:
 - an unfortunate accident
-- bad luck : misfortune
+- bad luck : `misfortune`
 
 ## Synonyms:
+- misfortune
