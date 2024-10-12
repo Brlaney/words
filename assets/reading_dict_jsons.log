@@ -1320,3 +1320,13 @@
 2024-10-12 14:05:18,204 - DEBUG - https://example.com:443 "GET /path/to/audio/mishap01.wav HTTP/11" 404 648
 2024-10-12 14:14:43,879 - DEBUG - Starting new HTTPS connection (1): media.merriam-webster.com:443
 2024-10-12 14:14:44,260 - DEBUG - https://media.merriam-webster.com:443 "GET /audio/prons/en/us/wav/m/mishap01.wav HTTP/11" 200 7540
+2024-10-12 14:34:33,236 - ERROR - f0 - File not found: mishap.json
+2024-10-12 14:34:59,527 - ERROR - f0 - File not found: mishap.json
+2024-10-12 14:35:12,971 - ERROR - f0 - File not found: mishap.json
+2024-10-12 14:35:52,513 - ERROR - Unexpected entry format: meta
+2024-10-12 14:35:52,513 - ERROR - Unexpected entry format: hwi
+2024-10-12 14:35:52,513 - ERROR - Unexpected entry format: fl
+2024-10-12 14:35:52,513 - ERROR - Unexpected entry format: def
+2024-10-12 14:35:52,513 - ERROR - Unexpected entry format: syns
+2024-10-12 14:35:52,513 - ERROR - Unexpected entry format: date
+2024-10-12 14:35:52,513 - ERROR - Unexpected entry format: shortdef
