@@ -1,5 +1,7 @@
 # English Phrases and Words 📰📃😃
 
+<br/>
+
 ## Table of Contents
 
 - [English Phrases and Words 📰📃😃](#english-phrases-and-words-)
