@@ -13,6 +13,16 @@ from scripts.utils import save_audio_file
 
 json_input = read_and_process_json('data/dict/json/words/mishap.json')
 
+'''
+    We want to use the following json_input instead. 
+    
+    Goal is to iterate over each word or phrase 
+    obj in json data and use the info in the data
+    to create each needed filepath.
+
+json_input = read_and_process_json('data/words.json')
+'''
+
 # Ensure json_input is a list and extract the first entry
 if isinstance(json_input, list) and json_input:
     # audio_data = json_input[0]  # Extract the first entry from the list

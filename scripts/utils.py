@@ -325,10 +325,10 @@ def save_audio_file(json_obj, save_dir):
         # Define the local file path
         local_audio_path = os.path.join(save_dir, f'{base_filename}.{output_format}')
         
-        t = True
-        if t == True:
-            print(f'did it make it here?')
-            exit_program()
+        # t = True
+        # if t == True:
+        #     print(f'did it make it here?')
+        #     exit_program()
             
         # Download the audio file
         try:
