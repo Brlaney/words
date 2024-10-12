@@ -98,7 +98,7 @@ No matter the mishap, click the link below to see the page containing all of the
 
 **Note**: all of the data is in the `data/` directory.
 
-`data/`
+- `data/`
    - `audio/` (**folder**)
    - `backed-up/` (**folder**)
    - `dict/` (**folder**)
