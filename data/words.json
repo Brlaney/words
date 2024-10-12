@@ -3,744 +3,992 @@
         "id": 1,
         "text": "eye examination chart",
         "duration": 2601,
-        "audio_path": "data/audio/eye examination chart.wav"
+        "audio_path": "data/audio/eye_examination_chart.wav",
+        "dict_path": "data/dict/eye_examination_chart.json",
+        "mistake": true
     },
     {
         "id": 2,
         "text": "brisk",
         "duration": 2856,
-        "audio_path": "data/audio/brisk.wav"
+        "audio_path": "data/audio/brisk.wav",
+        "dict_path": "data/dict/brisk.json",
+        "mistake": false
     },
     {
         "id": 3,
         "text": "without squinting",
         "duration": 2252,
-        "audio_path": "data/audio/without squinting.wav"
+        "audio_path": "data/audio/without_squinting.wav",
+        "dict_path": "data/dict/without_squinting.json",
+        "mistake": true
     },
     {
         "id": 4,
         "text": "halfway",
         "duration": 2090,
-        "audio_path": "data/audio/halfway.wav"
+        "audio_path": "data/audio/halfway.wav",
+        "dict_path": "data/dict/halfway.json",
+        "mistake": false
     },
     {
         "id": 5,
         "text": "barely",
         "duration": 1579,
-        "audio_path": "data/audio/barely.wav"
+        "audio_path": "data/audio/barely.wav",
+        "dict_path": "data/dict/barely.json",
+        "mistake": false
     },
     {
         "id": 6,
         "text": "get fitted",
         "duration": 2601,
-        "audio_path": "data/audio/get fitted.wav"
+        "audio_path": "data/audio/get_fitted.wav",
+        "dict_path": "data/dict/get_fitted.json",
+        "mistake": true
     },
     {
         "id": 7,
         "text": "be labeled",
         "duration": 1927,
-        "audio_path": "data/audio/be labeled.wav"
+        "audio_path": "data/audio/be_labeled.wav",
+        "dict_path": "data/dict/be_labeled.json",
+        "mistake": true
     },
     {
         "id": 8,
         "text": "handicapped",
         "duration": 1533,
-        "audio_path": "data/audio/handicapped.wav"
+        "audio_path": "data/audio/handicapped.wav",
+        "dict_path": "data/dict/handicapped.json",
+        "mistake": false
     },
     {
         "id": 9,
         "text": "had worsened",
         "duration": 2276,
-        "audio_path": "data/audio/had worsened.wav"
+        "audio_path": "data/audio/had_worsened.wav",
+        "dict_path": "data/dict/had_worsened.json",
+        "mistake": true
     },
     {
         "id": 10,
         "text": "climb upward",
         "duration": 2786,
-        "audio_path": "data/audio/climb upward.wav"
+        "audio_path": "data/audio/climb_upward.wav",
+        "dict_path": "data/dict/climb_upward.json",
+        "mistake": true
     },
     {
         "id": 11,
         "text": "not greatly",
         "duration": 2577,
-        "audio_path": "data/audio/not greatly.wav"
+        "audio_path": "data/audio/not_greatly.wav",
+        "dict_path": "data/dict/not_greatly.json",
+        "mistake": true
     },
     {
         "id": 12,
         "text": "aside",
         "duration": 3158,
-        "audio_path": "data/audio/aside.wav"
+        "audio_path": "data/audio/aside.wav",
+        "dict_path": "data/dict/aside.json",
+        "mistake": false
     },
     {
         "id": 13,
         "text": "dumbest kid",
         "duration": 3065,
-        "audio_path": "data/audio/dumbest kid.wav"
+        "audio_path": "data/audio/dumbest_kid.wav",
+        "dict_path": "data/dict/dumbest_kid.json",
+        "mistake": true
     },
     {
         "id": 14,
         "text": "zoomed upward",
         "duration": 2415,
-        "audio_path": "data/audio/zoomed upward.wav"
+        "audio_path": "data/audio/zoomed_upward.wav",
+        "dict_path": "data/dict/zoomed_upward.json",
+        "mistake": true
     },
     {
         "id": 15,
         "text": "settle for",
         "duration": 2229,
-        "audio_path": "data/audio/settle for.wav"
+        "audio_path": "data/audio/settle_for.wav",
+        "dict_path": "data/dict/settle_for.json",
+        "mistake": false
     },
     {
         "id": 16,
         "text": "scheme",
         "duration": 3181,
-        "audio_path": "data/audio/scheme.wav"
+        "audio_path": "data/audio/scheme.wav",
+        "dict_path": "data/dict/scheme.json",
+        "mistake": false
     },
     {
         "id": 17,
         "text": "stood",
         "duration": 2601,
-        "audio_path": "data/audio/stood.wav"
+        "audio_path": "data/audio/stood.wav",
+        "dict_path": "data/dict/stood.json",
+        "mistake": false
     },
     {
         "id": 18,
         "text": "unflagging",
         "duration": 3994,
-        "audio_path": "data/audio/unflagging.wav"
+        "audio_path": "data/audio/unflagging.wav",
+        "dict_path": "data/dict/unflagging.json",
+        "mistake": false
     },
     {
         "id": 19,
         "text": "encouragement",
         "duration": 3460,
-        "audio_path": "data/audio/encouragement.wav"
+        "audio_path": "data/audio/encouragement.wav",
+        "dict_path": "data/dict/encouragement.json",
+        "mistake": false
     },
     {
         "id": 20,
         "text": "soared",
         "duration": 3000,
-        "audio_path": "data/audio/soared.wav"
+        "audio_path": "data/audio/soared.wav",
+        "dict_path": "data/dict/soared.json",
+        "mistake": false
     },
     {
         "id": 21,
         "text": "reached",
         "duration": 1649,
-        "audio_path": "data/audio/reached.wav"
+        "audio_path": "data/audio/reached.wav",
+        "dict_path": "data/dict/reached.json",
+        "mistake": false
     },
     {
         "id": 22,
         "text": "as high as",
         "duration": 2252,
-        "audio_path": "data/audio/as high as.wav"
+        "audio_path": "data/audio/as_high_as.wav",
+        "dict_path": "data/dict/as_high_as.json",
+        "mistake": false
     },
     {
         "id": 23,
         "text": "point out",
         "duration": 1858,
-        "audio_path": "data/audio/point out.wav"
+        "audio_path": "data/audio/point_out.wav",
+        "dict_path": "data/dict/point_out.json",
+        "mistake": false
     },
     {
         "id": 24,
         "text": "laid down",
         "duration": 2299,
-        "audio_path": "data/audio/laid down.wav"
+        "audio_path": "data/audio/laid_down.wav",
+        "dict_path": "data/dict/laid_down.json",
+        "mistake": false
     },
     {
         "id": 25,
         "text": "urging",
         "duration": 2902,
-        "audio_path": "data/audio/urging.wav"
+        "audio_path": "data/audio/urging.wav",
+        "dict_path": "data/dict/urging.json",
+        "mistake": false
     },
     {
         "id": 26,
         "text": "pleading",
         "duration": 4481,
-        "audio_path": "data/audio/pleading.wav"
+        "audio_path": "data/audio/pleading.wav",
+        "dict_path": "data/dict/pleading.json",
+        "mistake": false
     },
     {
         "id": 27,
         "text": "look up",
         "duration": 1950,
-        "audio_path": "data/audio/look up.wav"
+        "audio_path": "data/audio/look_up.wav",
+        "dict_path": "data/dict/look_up.json",
+        "mistake": false
     },
     {
         "id": 28,
         "text": "somehow",
         "duration": 2183,
-        "audio_path": "data/audio/somehow.wav"
+        "audio_path": "data/audio/somehow.wav",
+        "dict_path": "data/dict/somehow.json",
+        "mistake": false
     },
     {
         "id": 29,
         "text": "laying down",
         "duration": 2392,
-        "audio_path": "data/audio/laying down.wav"
+        "audio_path": "data/audio/laying_down.wav",
+        "dict_path": "data/dict/laying_down.json",
+        "mistake": false
     },
     {
         "id": 30,
         "text": "check out",
         "duration": 3901,
-        "audio_path": "data/audio/check out.wav"
+        "audio_path": "data/audio/check_out.wav",
+        "dict_path": "data/dict/check_out.json",
+        "mistake": false
     },
     {
         "id": 31,
         "text": "dragging",
         "duration": 2856,
-        "audio_path": "data/audio/dragging.wav"
+        "audio_path": "data/audio/dragging.wav",
+        "dict_path": "data/dict/dragging.json",
+        "mistake": false
     },
     {
         "id": 32,
         "text": "grumbled",
         "duration": 2206,
-        "audio_path": "data/audio/grumbled.wav"
+        "audio_path": "data/audio/grumbled.wav",
+        "dict_path": "data/dict/grumbled.json",
+        "mistake": false
     },
     {
         "id": 33,
         "text": "endless",
         "duration": 1950,
-        "audio_path": "data/audio/endless.wav"
+        "audio_path": "data/audio/endless.wav",
+        "dict_path": "data/dict/endless.json",
+        "mistake": false
     },
     {
         "id": 34,
         "text": "dare fail",
         "duration": 3831,
-        "audio_path": "data/audio/dare fail.wav"
+        "audio_path": "data/audio/dare_fail.wav",
+        "dict_path": "data/dict/dare_fail.json",
+        "mistake": true
     },
     {
         "id": 35,
         "text": "unbounded",
         "duration": 4783,
-        "audio_path": "data/audio/unbounded.wav"
+        "audio_path": "data/audio/unbounded.wav",
+        "dict_path": "data/dict/unbounded.json",
+        "mistake": false
     },
     {
         "id": 36,
         "text": "nudged me into",
         "duration": 4000,
-        "audio_path": "data/audio/nudged me into.wav"
+        "audio_path": "data/audio/nudged_me_into.wav",
+        "dict_path": "data/dict/nudged_me_into.json",
+        "mistake": true
     },
     {
         "id": 37,
         "text": "hold on",
         "duration": 1811,
-        "audio_path": "data/audio/hold on.wav"
+        "audio_path": "data/audio/hold_on.wav",
+        "dict_path": "data/dict/hold_on.json",
+        "mistake": false
     },
     {
         "id": 38,
         "text": "railroad security men",
         "duration": 2786,
-        "audio_path": "data/audio/railroad security men.wav"
+        "audio_path": "data/audio/railroad_security_men.wav",
+        "dict_path": "data/dict/railroad_security_men.json",
+        "mistake": true
     },
     {
         "id": 39,
         "text": "hobo's",
         "duration": 1950,
-        "audio_path": "data/audio/hobo's.wav"
+        "audio_path": "data/audio/hobo's.wav",
+        "dict_path": "data/dict/hobo's.json",
+        "mistake": false
     },
     {
         "id": 40,
         "text": "came marching",
         "duration": 2136,
-        "audio_path": "data/audio/came marching.wav"
+        "audio_path": "data/audio/came_marching.wav",
+        "dict_path": "data/dict/came_marching.json",
+        "mistake": true
     },
     {
         "id": 41,
         "text": "toward me",
         "duration": 2229,
-        "audio_path": "data/audio/toward me.wav"
+        "audio_path": "data/audio/toward_me.wav",
+        "dict_path": "data/dict/toward_me.json",
+        "mistake": true
     },
     {
         "id": 42,
         "text": "stared",
         "duration": 2717,
-        "audio_path": "data/audio/stared.wav"
+        "audio_path": "data/audio/stared.wav",
+        "dict_path": "data/dict/stared.json",
+        "mistake": false
     },
     {
         "id": 43,
         "text": "frightened",
         "duration": 2368,
-        "audio_path": "data/audio/frightened.wav"
+        "audio_path": "data/audio/frightened.wav",
+        "dict_path": "data/dict/frightened.json",
+        "mistake": false
     },
     {
         "id": 44,
         "text": "whacked me",
         "duration": 1741,
-        "audio_path": "data/audio/whacked me.wav"
+        "audio_path": "data/audio/whacked_me.wav",
+        "dict_path": "data/dict/whacked_me.json",
+        "mistake": true
     },
     {
         "id": 45,
         "text": "recoil",
         "duration": 2067,
-        "audio_path": "data/audio/recoil.wav"
+        "audio_path": "data/audio/recoil.wav",
+        "dict_path": "data/dict/recoil.json",
+        "mistake": false
     },
     {
         "id": 46,
         "text": "stood in front of me",
         "duration": 3228,
-        "audio_path": "data/audio/stood in front of me.wav"
+        "audio_path": "data/audio/stood_in_front_of_me.wav",
+        "dict_path": "data/dict/stood_in_front_of_me.json",
+        "mistake": true
     },
     {
         "id": 47,
         "text": "pounded",
         "duration": 2252,
-        "audio_path": "data/audio/pounded.wav"
+        "audio_path": "data/audio/pounded.wav",
+        "dict_path": "data/dict/pounded.json",
+        "mistake": false
     },
     {
         "id": 48,
         "text": "sweat",
         "duration": 2508,
-        "audio_path": "data/audio/sweat.wav"
+        "audio_path": "data/audio/sweat.wav",
+        "dict_path": "data/dict/sweat.json",
+        "mistake": false
     },
     {
         "id": 49,
         "text": "pale",
         "duration": 2786,
-        "audio_path": "data/audio/pale.wav"
+        "audio_path": "data/audio/pale.wav",
+        "dict_path": "data/dict/pale.json",
+        "mistake": false
     },
     {
         "id": 50,
         "text": "gaze",
         "duration": 2229,
-        "audio_path": "data/audio/gaze.wav"
+        "audio_path": "data/audio/gaze.wav",
+        "dict_path": "data/dict/gaze.json",
+        "mistake": false
     },
     {
         "id": 51,
         "text": "muttered",
         "duration": 2345,
-        "audio_path": "data/audio/muttered.wav"
+        "audio_path": "data/audio/muttered.wav",
+        "dict_path": "data/dict/muttered.json",
+        "mistake": false
     },
     {
         "id": 52,
         "text": "prodded",
         "duration": 3715,
-        "audio_path": "data/audio/prodded.wav"
+        "audio_path": "data/audio/prodded.wav",
+        "dict_path": "data/dict/prodded.json",
+        "mistake": false
     },
     {
         "id": 53,
         "text": "gang",
         "duration": 2000,
-        "audio_path": "data/audio/gang.wav"
+        "audio_path": "data/audio/gang.wav",
+        "dict_path": "data/dict/gang.json",
+        "mistake": false
     },
     {
         "id": 54,
         "text": "cutting off",
         "duration": 1834,
-        "audio_path": "data/audio/cutting off.wav"
+        "audio_path": "data/audio/cutting_off.wav",
+        "dict_path": "data/dict/cutting_off.json",
+        "mistake": false
     },
     {
         "id": 55,
         "text": "knack",
         "duration": 1718,
-        "audio_path": "data/audio/knack.wav"
+        "audio_path": "data/audio/knack.wav",
+        "dict_path": "data/dict/knack.json",
+        "mistake": false
     },
     {
         "id": 56,
         "text": "along the",
         "duration": 2252,
-        "audio_path": "data/audio/along the.wav"
+        "audio_path": "data/audio/along_the.wav",
+        "dict_path": "data/dict/along_the.json",
+        "mistake": false
     },
     {
         "id": 57,
         "text": "samples",
         "duration": 3000,
-        "audio_path": "data/audio/samples.wav"
+        "audio_path": "data/audio/samples.wav",
+        "dict_path": "data/dict/samples.json",
+        "mistake": false
     },
     {
         "id": 58,
         "text": "under",
         "duration": 3367,
-        "audio_path": "data/audio/under.wav"
+        "audio_path": "data/audio/under.wav",
+        "dict_path": "data/dict/under.json",
+        "mistake": false
     },
     {
         "id": 59,
         "text": "magnifying glass",
         "duration": 3000,
-        "audio_path": "data/audio/magnifying glass.wav"
+        "audio_path": "data/audio/magnifying_glass.wav",
+        "dict_path": "data/dict/magnifying_glass.json",
+        "mistake": false
     },
     {
         "id": 60,
         "text": "staff",
         "duration": 3228,
-        "audio_path": "data/audio/staff.wav"
+        "audio_path": "data/audio/staff.wav",
+        "dict_path": "data/dict/staff.json",
+        "mistake": false
     },
     {
         "id": 61,
         "text": "i thrived",
         "duration": 4000,
-        "audio_path": "data/audio/i thrived.wav"
+        "audio_path": "data/audio/i_thrived.wav",
+        "dict_path": "data/dict/i_thrived.json",
+        "mistake": true
     },
     {
         "id": 62,
         "text": "widened",
         "duration": 2299,
-        "audio_path": "data/audio/widened.wav"
+        "audio_path": "data/audio/widened.wav",
+        "dict_path": "data/dict/widened.json",
+        "mistake": false
     },
     {
         "id": 63,
         "text": "up until",
         "duration": 2322,
-        "audio_path": "data/audio/up until.wav"
+        "audio_path": "data/audio/up_until.wav",
+        "dict_path": "data/dict/up_until.json",
+        "mistake": false
     },
     {
         "id": 64,
         "text": "aside",
         "duration": 3158,
-        "audio_path": "data/audio/aside.wav"
+        "audio_path": "data/audio/aside.wav",
+        "dict_path": "data/dict/aside.json",
+        "mistake": false
     },
     {
         "id": 65,
         "text": "spelling bees",
         "duration": 3000,
-        "audio_path": "data/audio/spelling bees.wav"
+        "audio_path": "data/audio/spelling_bees.wav",
+        "dict_path": "data/dict/spelling_bees.json",
+        "mistake": false
     },
     {
         "id": 66,
         "text": "a thrill swept",
         "duration": 3000,
-        "audio_path": "data/audio/a thrill swept.wav"
+        "audio_path": "data/audio/a_thrill_swept.wav",
+        "dict_path": "data/dict/a_thrill_swept.json",
+        "mistake": true
     },
     {
         "id": 67,
         "text": "yearning",
         "duration": 3065,
-        "audio_path": "data/audio/yearning.wav"
+        "audio_path": "data/audio/yearning.wav",
+        "dict_path": "data/dict/yearning.json",
+        "mistake": false
     },
     {
         "id": 68,
         "text": "flax",
         "duration": 2647,
-        "audio_path": "data/audio/flax.wav"
+        "audio_path": "data/audio/flax.wav",
+        "dict_path": "data/dict/flax.json",
+        "mistake": false
     },
     {
         "id": 69,
         "text": "spun",
         "duration": 2647,
-        "audio_path": "data/audio/spun.wav"
+        "audio_path": "data/audio/spun.wav",
+        "dict_path": "data/dict/spun.json",
+        "mistake": false
     },
     {
         "id": 70,
         "text": "pulling ahead",
         "duration": 2949,
-        "audio_path": "data/audio/pulling ahead.wav"
+        "audio_path": "data/audio/pulling_ahead.wav",
+        "dict_path": "data/dict/pulling_ahead.json",
+        "mistake": false
     },
     {
         "id": 71,
         "text": "desire",
         "duration": 3924,
-        "audio_path": "data/audio/desire.wav"
+        "audio_path": "data/audio/desire.wav",
+        "dict_path": "data/dict/desire.json",
+        "mistake": false
     },
     {
         "id": 72,
         "text": "beamed",
         "duration": 2067,
-        "audio_path": "data/audio/beamed.wav"
+        "audio_path": "data/audio/beamed.wav",
+        "dict_path": "data/dict/beamed.json",
+        "mistake": false
     },
     {
         "id": 73,
         "text": "smiled",
         "duration": 1788,
-        "audio_path": "data/audio/smiled.wav"
+        "audio_path": "data/audio/smiled.wav",
+        "dict_path": "data/dict/smiled.json",
+        "mistake": false
     },
     {
         "id": 74,
         "text": "outstanding",
         "duration": 4500,
-        "audio_path": "data/audio/outstanding.wav"
+        "audio_path": "data/audio/outstanding.wav",
+        "dict_path": "data/dict/outstanding.json",
+        "mistake": false
     },
     {
         "id": 75,
         "text": "first excelled among",
         "duration": 4946,
-        "audio_path": "data/audio/first excelled among.wav"
+        "audio_path": "data/audio/first_excelled_among.wav",
+        "dict_path": "data/dict/first_excelled_among.json",
+        "mistake": true
     },
     {
         "id": 76,
         "text": "sunshine slanting",
         "duration": 4000,
-        "audio_path": "data/audio/sunshine slanting.wav"
+        "audio_path": "data/audio/sunshine_slanting.wav",
+        "dict_path": "data/dict/sunshine_slanting.json",
+        "mistake": true
     },
     {
         "id": 77,
         "text": "ground",
         "duration": 3553,
-        "audio_path": "data/audio/ground.wav"
+        "audio_path": "data/audio/ground.wav",
+        "dict_path": "data/dict/ground.json",
+        "mistake": false
     },
     {
         "id": 78,
         "text": "by then",
         "duration": 3228,
-        "audio_path": "data/audio/by then.wav"
+        "audio_path": "data/audio/by_then.wav",
+        "dict_path": "data/dict/by_then.json",
+        "mistake": true
     },
     {
         "id": 79,
         "text": "come up to me",
         "duration": 1950,
-        "audio_path": "data/audio/come up to me.wav"
+        "audio_path": "data/audio/come_up_to_me.wav",
+        "dict_path": "data/dict/come_up_to_me.json",
+        "mistake": true
     },
     {
         "id": 80,
         "text": "growth",
         "duration": 1974,
-        "audio_path": "data/audio/growth.wav"
+        "audio_path": "data/audio/growth.wav",
+        "dict_path": "data/dict/growth.json",
+        "mistake": false
     },
     {
         "id": 81,
         "text": "give rent",
         "duration": 2000,
-        "audio_path": "data/audio/give rent.wav"
+        "audio_path": "data/audio/give_rent.wav",
+        "dict_path": "data/dict/give_rent.json",
+        "mistake": true
     },
     {
         "id": 82,
         "text": "caught up",
         "duration": 3390,
-        "audio_path": "data/audio/caught up.wav"
+        "audio_path": "data/audio/caught_up.wav",
+        "dict_path": "data/dict/caught_up.json",
+        "mistake": false
     },
     {
         "id": 83,
         "text": "stand out",
         "duration": 2577,
-        "audio_path": "data/audio/stand out.wav"
+        "audio_path": "data/audio/stand_out.wav",
+        "dict_path": "data/dict/stand_out.json",
+        "mistake": false
     },
     {
         "id": 84,
         "text": "tracks",
         "duration": 3000,
-        "audio_path": "data/audio/tracks.wav"
+        "audio_path": "data/audio/tracks.wav",
+        "dict_path": "data/dict/tracks.json",
+        "mistake": false
     },
     {
         "id": 85,
         "text": "hop",
         "duration": 3785,
-        "audio_path": "data/audio/hop.wav"
+        "audio_path": "data/audio/hop.wav",
+        "dict_path": "data/dict/hop.json",
+        "mistake": false
     },
     {
         "id": 86,
         "text": "grab",
         "duration": 2415,
-        "audio_path": "data/audio/grab.wav"
+        "audio_path": "data/audio/grab.wav",
+        "dict_path": "data/dict/grab.json",
+        "mistake": false
     },
     {
         "id": 87,
         "text": "catch",
         "duration": 2647,
-        "audio_path": "data/audio/catch.wav"
+        "audio_path": "data/audio/catch.wav",
+        "dict_path": "data/dict/catch.json",
+        "mistake": false
     },
     {
         "id": 88,
         "text": "slow down",
         "duration": 3994,
-        "audio_path": "data/audio/slow down.wav"
+        "audio_path": "data/audio/slow_down.wav",
+        "dict_path": "data/dict/slow_down.json",
+        "mistake": false
     },
     {
         "id": 89,
         "text": "envied",
         "duration": 2276,
-        "audio_path": "data/audio/envied.wav"
+        "audio_path": "data/audio/envied.wav",
+        "dict_path": "data/dict/envied.json",
+        "mistake": false
     },
     {
         "id": 90,
         "text": "tingled",
         "duration": 2000,
-        "audio_path": "data/audio/tingled.wav"
+        "audio_path": "data/audio/tingled.wav",
+        "dict_path": "data/dict/tingled.json",
+        "mistake": false
     },
     {
         "id": 91,
         "text": "car railing",
         "duration": 2995,
-        "audio_path": "data/audio/car railing.wav"
+        "audio_path": "data/audio/car_railing.wav",
+        "dict_path": "data/dict/car_railing.json",
+        "mistake": true
     },
     {
         "id": 92,
         "text": "command",
         "duration": 2043,
-        "audio_path": "data/audio/command.wav"
+        "audio_path": "data/audio/command.wav",
+        "dict_path": "data/dict/command.json",
+        "mistake": false
     },
     {
         "id": 93,
         "text": "bleeding",
         "duration": 2415,
-        "audio_path": "data/audio/bleeding.wav"
+        "audio_path": "data/audio/bleeding.wav",
+        "dict_path": "data/dict/bleeding.json",
+        "mistake": false
     },
     {
         "id": 94,
         "text": "attempt",
         "duration": 1904,
-        "audio_path": "data/audio/attempt.wav"
+        "audio_path": "data/audio/attempt.wav",
+        "dict_path": "data/dict/attempt.json",
+        "mistake": false
     },
     {
         "id": 95,
         "text": "surgeons",
         "duration": 3000,
-        "audio_path": "data/audio/surgeons.wav"
+        "audio_path": "data/audio/surgeons.wav",
+        "dict_path": "data/dict/surgeons.json",
+        "mistake": false
     },
     {
         "id": 96,
         "text": "to bear",
         "duration": 3228,
-        "audio_path": "data/audio/to bear.wav"
+        "audio_path": "data/audio/to_bear.wav",
+        "dict_path": "data/dict/to_bear.json",
+        "mistake": false
     },
     {
         "id": 97,
         "text": "painstaking",
         "duration": 2368,
-        "audio_path": "data/audio/painstaking.wav"
+        "audio_path": "data/audio/painstaking.wav",
+        "dict_path": "data/dict/painstaking.json",
+        "mistake": false
     },
     {
         "id": 98,
         "text": "blood vessels",
         "duration": 1811,
-        "audio_path": "data/audio/blood vessels.wav"
+        "audio_path": "data/audio/blood_vessels.wav",
+        "dict_path": "data/dict/blood_vessels.json",
+        "mistake": false
     },
     {
         "id": 99,
         "text": "rehearsals",
         "duration": 1904,
-        "audio_path": "data/audio/rehearsals.wav"
+        "audio_path": "data/audio/rehearsals.wav",
+        "dict_path": "data/dict/rehearsals.json",
+        "mistake": false
     },
     {
         "id": 100,
         "text": "juncture",
         "duration": 2694,
-        "audio_path": "data/audio/juncture.wav"
+        "audio_path": "data/audio/juncture.wav",
+        "dict_path": "data/dict/juncture.json",
+        "mistake": false
     },
     {
         "id": 101,
         "text": "clotting",
         "duration": 2949,
-        "audio_path": "data/audio/clotting.wav"
+        "audio_path": "data/audio/clotting.wav",
+        "dict_path": "data/dict/clotting.json",
+        "mistake": false
     },
     {
         "id": 102,
         "text": "therefore",
         "duration": 2949,
-        "audio_path": "data/audio/therefore.wav"
+        "audio_path": "data/audio/therefore.wav",
+        "dict_path": "data/dict/therefore.json",
+        "mistake": false
     },
     {
         "id": 103,
         "text": "choking back",
         "duration": 4087,
-        "audio_path": "data/audio/choking back.wav"
+        "audio_path": "data/audio/choking_back.wav",
+        "dict_path": "data/dict/choking_back.json",
+        "mistake": false
     },
     {
         "id": 104,
         "text": "i burst into tears",
         "duration": 4063,
-        "audio_path": "data/audio/i burst into tears.wav"
+        "audio_path": "data/audio/i_burst_into_tears.wav",
+        "dict_path": "data/dict/i_burst_into_tears.json",
+        "mistake": true
     },
     {
         "id": 105,
         "text": "held me",
         "duration": 3878,
-        "audio_path": "data/audio/held me.wav"
+        "audio_path": "data/audio/held_me.wav",
+        "dict_path": "data/dict/held_me.json",
+        "mistake": true
     },
     {
         "id": 106,
         "text": "sob's",
         "duration": 2670,
-        "audio_path": "data/audio/sob's.wav"
+        "audio_path": "data/audio/sob's.wav",
+        "dict_path": "data/dict/sob's.json",
+        "mistake": false
     },
     {
         "id": 107,
         "text": "grasp",
         "duration": 2531,
-        "audio_path": "data/audio/grasp.wav"
+        "audio_path": "data/audio/grasp.wav",
+        "dict_path": "data/dict/grasp.json",
+        "mistake": false
     },
     {
         "id": 108,
         "text": "swiped",
         "duration": 4598,
-        "audio_path": "data/audio/swiped.wav"
+        "audio_path": "data/audio/swiped.wav",
+        "dict_path": "data/dict/swiped.json",
+        "mistake": false
     },
     {
         "id": 109,
         "text": "reject",
         "duration": 1950,
-        "audio_path": "data/audio/reject.wav"
+        "audio_path": "data/audio/reject.wav",
+        "dict_path": "data/dict/reject.json",
+        "mistake": false
     },
     {
         "id": 110,
         "text": "twinkle",
         "duration": 2000,
-        "audio_path": "data/audio/twinkle.wav"
+        "audio_path": "data/audio/twinkle.wav",
+        "dict_path": "data/dict/twinkle.json",
+        "mistake": false
     },
     {
         "id": 111,
         "text": "pester",
         "duration": 2159,
-        "audio_path": "data/audio/pester.wav"
+        "audio_path": "data/audio/pester.wav",
+        "dict_path": "data/dict/pester.json",
+        "mistake": false
     },
     {
         "id": 112,
         "text": "rush",
         "duration": 2972,
-        "audio_path": "data/audio/rush.wav"
+        "audio_path": "data/audio/rush.wav",
+        "dict_path": "data/dict/rush.json",
+        "mistake": false
     },
     {
         "id": 113,
         "text": "alley",
         "duration": 2000,
-        "audio_path": "data/audio/alley.wav"
+        "audio_path": "data/audio/alley.wav",
+        "dict_path": "data/dict/alley.json",
+        "mistake": false
     },
     {
         "id": 114,
         "text": "stretched out",
         "duration": 3251,
-        "audio_path": "data/audio/stretched out.wav"
+        "audio_path": "data/audio/stretched_out.wav",
+        "dict_path": "data/dict/stretched_out.json",
+        "mistake": true
     },
     {
         "id": 115,
         "text": "pounded",
         "duration": 2252,
-        "audio_path": "data/audio/pounded.wav"
+        "audio_path": "data/audio/pounded.wav",
+        "dict_path": "data/dict/pounded.json",
+        "mistake": false
     },
     {
         "id": 116,
         "text": "pleading",
         "duration": 4481,
-        "audio_path": "data/audio/pleading.wav"
+        "audio_path": "data/audio/pleading.wav",
+        "dict_path": "data/dict/pleading.json",
+        "mistake": false
     },
     {
         "id": 117,
         "text": "settle",
         "duration": 3320,
-        "audio_path": "data/audio/settle.wav"
+        "audio_path": "data/audio/settle.wav",
+        "dict_path": "data/dict/settle.json",
+        "mistake": false
     },
     {
         "id": 118,
         "text": "burdened",
         "duration": 1695,
-        "audio_path": "data/audio/burdened.wav"
+        "audio_path": "data/audio/burdened.wav",
+        "dict_path": "data/dict/burdened.json",
+        "mistake": false
     },
     {
         "id": 119,
         "text": "betrayals",
         "duration": 4249,
-        "audio_path": "data/audio/betrayals.wav"
+        "audio_path": "data/audio/betrayals.wav",
+        "dict_path": "data/dict/betrayals.json",
+        "mistake": false
     },
     {
         "id": 120,
         "text": "huddled",
         "duration": 1602,
-        "audio_path": "data/audio/huddled.wav"
+        "audio_path": "data/audio/huddled.wav",
+        "dict_path": "data/dict/huddled.json",
+        "mistake": false
     },
     {
         "id": 121,
         "text": "split up",
         "duration": 2763,
-        "audio_path": "data/audio/split up.wav"
+        "audio_path": "data/audio/split_up.wav",
+        "dict_path": "data/dict/split_up.json",
+        "mistake": true
     },
     {
         "id": 122,
         "text": "he reluctantly",
         "duration": 2252,
-        "audio_path": "data/audio/he reluctantly.wav"
+        "audio_path": "data/audio/he_reluctantly.wav",
+        "dict_path": "data/dict/he_reluctantly.json",
+        "mistake": true
     },
     {
         "id": 123,
         "text": "grudges",
         "duration": 2647,
-        "audio_path": "data/audio/grudges.wav"
+        "audio_path": "data/audio/grudges.wav",
+        "dict_path": "data/dict/grudges.json",
+        "mistake": false
     },
     {
         "id": 124,
         "text": "harsh",
         "duration": 2485,
-        "audio_path": "data/audio/harsh.wav"
+        "audio_path": "data/audio/harsh.wav",
+        "dict_path": "data/dict/harsh.json",
+        "mistake": false
     }
 ]

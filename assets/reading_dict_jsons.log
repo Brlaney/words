@@ -2,3 +2,378 @@
 2024-10-12 11:26:36,855 - ERROR - Error processing hobos.json: 'charmap' codec can't decode byte 0x8d in position 576: character maps to <undefined>
 2024-10-12 11:29:26,425 - ERROR - Error processing hobos.json: 'charmap' codec can't decode byte 0x8d in position 576: character maps to <undefined>
 2024-10-12 11:31:10,796 - ERROR - Error processing hobos.json: 'charmap' codec can't decode byte 0x8d in position 576: character maps to <undefined>
+2024-10-12 11:41:12,013 - INFO - Renamed: eye examination chart.wav -> eye_examination_chart.wav
+2024-10-12 11:41:12,017 - INFO - Renamed: brisk.wav -> brisk.wav
+2024-10-12 11:41:12,019 - INFO - Renamed: without squinting.wav -> without_squinting.wav
+2024-10-12 11:41:12,023 - INFO - Renamed: halfway.wav -> halfway.wav
+2024-10-12 11:41:12,026 - INFO - Renamed: barely.wav -> barely.wav
+2024-10-12 11:41:12,029 - INFO - Renamed: get fitted.wav -> get_fitted.wav
+2024-10-12 11:41:12,032 - INFO - Renamed: be labeled.wav -> be_labeled.wav
+2024-10-12 11:41:12,035 - INFO - Renamed: handicapped.wav -> handicapped.wav
+2024-10-12 11:41:12,037 - INFO - Renamed: had worsened.wav -> had_worsened.wav
+2024-10-12 11:41:12,041 - INFO - Renamed: climb upward.wav -> climb_upward.wav
+2024-10-12 11:41:12,043 - INFO - Renamed: not greatly.wav -> not_greatly.wav
+2024-10-12 11:41:12,045 - INFO - Renamed: aside.wav -> aside.wav
+2024-10-12 11:41:12,048 - INFO - Renamed: dumbest kid.wav -> dumbest_kid.wav
+2024-10-12 11:41:12,050 - INFO - Renamed: zoomed upward.wav -> zoomed_upward.wav
+2024-10-12 11:41:12,054 - INFO - Renamed: settle for.wav -> settle_for.wav
+2024-10-12 11:41:12,056 - INFO - Renamed: scheme.wav -> scheme.wav
+2024-10-12 11:41:12,059 - INFO - Renamed: stood.wav -> stood.wav
+2024-10-12 11:41:12,062 - INFO - Renamed: unflagging.wav -> unflagging.wav
+2024-10-12 11:41:12,064 - INFO - Renamed: encouragement.wav -> encouragement.wav
+2024-10-12 11:41:12,066 - INFO - Renamed: soared.wav -> soared.wav
+2024-10-12 11:41:12,068 - INFO - Renamed: reached.wav -> reached.wav
+2024-10-12 11:41:12,072 - INFO - Renamed: as high as.wav -> as_high_as.wav
+2024-10-12 11:41:12,075 - INFO - Renamed: point out.wav -> point_out.wav
+2024-10-12 11:41:12,078 - INFO - Renamed: laid down.wav -> laid_down.wav
+2024-10-12 11:41:12,080 - INFO - Renamed: urging.wav -> urging.wav
+2024-10-12 11:41:12,083 - INFO - Renamed: pleading.wav -> pleading.wav
+2024-10-12 11:41:12,086 - INFO - Renamed: look up.wav -> look_up.wav
+2024-10-12 11:41:12,089 - INFO - Renamed: somehow.wav -> somehow.wav
+2024-10-12 11:41:12,092 - INFO - Renamed: laying down.wav -> laying_down.wav
+2024-10-12 11:41:12,096 - INFO - Renamed: check out.wav -> check_out.wav
+2024-10-12 11:41:12,099 - INFO - Renamed: dragging.wav -> dragging.wav
+2024-10-12 11:41:12,100 - INFO - Renamed: grumbled.wav -> grumbled.wav
+2024-10-12 11:41:12,103 - INFO - Renamed: endless.wav -> endless.wav
+2024-10-12 11:41:12,107 - INFO - Renamed: dare fail.wav -> dare_fail.wav
+2024-10-12 11:41:12,111 - INFO - Renamed: unbounded.wav -> unbounded.wav
+2024-10-12 11:41:12,114 - INFO - Renamed: nudged me into.wav -> nudged_me_into.wav
+2024-10-12 11:41:12,117 - INFO - Renamed: hold on.wav -> hold_on.wav
+2024-10-12 11:41:12,120 - INFO - Renamed: railroad security men.wav -> railroad_security_men.wav
+2024-10-12 11:41:12,123 - INFO - Renamed: hobo's.wav -> hobo's.wav
+2024-10-12 11:41:12,126 - INFO - Renamed: came marching.wav -> came_marching.wav
+2024-10-12 11:41:12,130 - INFO - Renamed: toward me.wav -> toward_me.wav
+2024-10-12 11:41:12,133 - INFO - Renamed: stared.wav -> stared.wav
+2024-10-12 11:41:12,137 - INFO - Renamed: frightened.wav -> frightened.wav
+2024-10-12 11:41:12,140 - INFO - Renamed: whacked me.wav -> whacked_me.wav
+2024-10-12 11:41:12,143 - INFO - Renamed: recoil.wav -> recoil.wav
+2024-10-12 11:41:12,146 - INFO - Renamed: stood in front of me.wav -> stood_in_front_of_me.wav
+2024-10-12 11:41:12,149 - INFO - Renamed: pounded.wav -> pounded.wav
+2024-10-12 11:41:12,151 - INFO - Renamed: sweat.wav -> sweat.wav
+2024-10-12 11:41:12,153 - INFO - Renamed: pale.wav -> pale.wav
+2024-10-12 11:41:12,157 - INFO - Renamed: gaze.wav -> gaze.wav
+2024-10-12 11:41:12,160 - INFO - Renamed: muttered.wav -> muttered.wav
+2024-10-12 11:41:12,162 - INFO - Renamed: prodded.wav -> prodded.wav
+2024-10-12 11:41:12,164 - INFO - Renamed: gang.wav -> gang.wav
+2024-10-12 11:41:12,167 - INFO - Renamed: cutting off.wav -> cutting_off.wav
+2024-10-12 11:41:12,169 - INFO - Renamed: knack.wav -> knack.wav
+2024-10-12 11:41:12,171 - INFO - Renamed: along the.wav -> along_the.wav
+2024-10-12 11:41:12,174 - INFO - Renamed: samples.wav -> samples.wav
+2024-10-12 11:41:12,176 - INFO - Renamed: under.wav -> under.wav
+2024-10-12 11:41:12,179 - INFO - Renamed: magnifying glass.wav -> magnifying_glass.wav
+2024-10-12 11:41:12,181 - INFO - Renamed: staff.wav -> staff.wav
+2024-10-12 11:41:12,183 - INFO - Renamed: i thrived.wav -> i_thrived.wav
+2024-10-12 11:41:12,186 - INFO - Renamed: widened.wav -> widened.wav
+2024-10-12 11:41:12,189 - INFO - Renamed: up until.wav -> up_until.wav
+2024-10-12 11:41:12,190 - INFO - Renamed: aside.wav -> aside.wav
+2024-10-12 11:41:12,193 - INFO - Renamed: spelling bees.wav -> spelling_bees.wav
+2024-10-12 11:41:12,196 - INFO - Renamed: a thrill swept.wav -> a_thrill_swept.wav
+2024-10-12 11:41:12,198 - INFO - Renamed: yearning.wav -> yearning.wav
+2024-10-12 11:41:12,200 - INFO - Renamed: flax.wav -> flax.wav
+2024-10-12 11:41:12,202 - INFO - Renamed: spun.wav -> spun.wav
+2024-10-12 11:41:12,206 - INFO - Renamed: pulling ahead.wav -> pulling_ahead.wav
+2024-10-12 11:41:12,209 - INFO - Renamed: desire.wav -> desire.wav
+2024-10-12 11:41:12,212 - INFO - Renamed: beamed.wav -> beamed.wav
+2024-10-12 11:41:12,214 - INFO - Renamed: smiled.wav -> smiled.wav
+2024-10-12 11:41:12,216 - INFO - Renamed: outstanding.wav -> outstanding.wav
+2024-10-12 11:41:12,218 - INFO - Renamed: first excelled among.wav -> first_excelled_among.wav
+2024-10-12 11:41:12,222 - INFO - Renamed: sunshine slanting.wav -> sunshine_slanting.wav
+2024-10-12 11:41:12,224 - INFO - Renamed: ground.wav -> ground.wav
+2024-10-12 11:41:12,227 - INFO - Renamed: by then.wav -> by_then.wav
+2024-10-12 11:41:12,229 - INFO - Renamed: come up to me.wav -> come_up_to_me.wav
+2024-10-12 11:41:12,231 - INFO - Renamed: growth.wav -> growth.wav
+2024-10-12 11:41:12,234 - INFO - Renamed: give rent.wav -> give_rent.wav
+2024-10-12 11:41:12,236 - INFO - Renamed: caught up.wav -> caught_up.wav
+2024-10-12 11:41:12,239 - INFO - Renamed: stand out.wav -> stand_out.wav
+2024-10-12 11:41:12,241 - INFO - Renamed: tracks.wav -> tracks.wav
+2024-10-12 11:41:12,243 - INFO - Renamed: hop.wav -> hop.wav
+2024-10-12 11:41:12,246 - INFO - Renamed: grab.wav -> grab.wav
+2024-10-12 11:41:12,248 - INFO - Renamed: catch.wav -> catch.wav
+2024-10-12 11:41:12,250 - INFO - Renamed: slow down.wav -> slow_down.wav
+2024-10-12 11:41:12,252 - INFO - Renamed: envied.wav -> envied.wav
+2024-10-12 11:41:12,255 - INFO - Renamed: tingled.wav -> tingled.wav
+2024-10-12 11:41:12,257 - INFO - Renamed: car railing.wav -> car_railing.wav
+2024-10-12 11:41:12,260 - INFO - Renamed: command.wav -> command.wav
+2024-10-12 11:41:12,262 - INFO - Renamed: bleeding.wav -> bleeding.wav
+2024-10-12 11:41:12,264 - INFO - Renamed: attempt.wav -> attempt.wav
+2024-10-12 11:41:12,266 - INFO - Renamed: surgeons.wav -> surgeons.wav
+2024-10-12 11:41:12,268 - INFO - Renamed: to bear.wav -> to_bear.wav
+2024-10-12 11:41:12,270 - INFO - Renamed: painstaking.wav -> painstaking.wav
+2024-10-12 11:41:12,273 - INFO - Renamed: blood vessels.wav -> blood_vessels.wav
+2024-10-12 11:41:12,276 - INFO - Renamed: rehearsals.wav -> rehearsals.wav
+2024-10-12 11:41:12,278 - INFO - Renamed: juncture.wav -> juncture.wav
+2024-10-12 11:41:12,280 - INFO - Renamed: clotting.wav -> clotting.wav
+2024-10-12 11:41:12,282 - INFO - Renamed: therefore.wav -> therefore.wav
+2024-10-12 11:41:12,284 - INFO - Renamed: choking back.wav -> choking_back.wav
+2024-10-12 11:41:12,286 - INFO - Renamed: i burst into tears.wav -> i_burst_into_tears.wav
+2024-10-12 11:41:12,290 - INFO - Renamed: held me.wav -> held_me.wav
+2024-10-12 11:41:12,293 - INFO - Renamed: sob's.wav -> sob's.wav
+2024-10-12 11:41:12,296 - INFO - Renamed: grasp.wav -> grasp.wav
+2024-10-12 11:41:12,298 - INFO - Renamed: swiped.wav -> swiped.wav
+2024-10-12 11:41:12,301 - INFO - Renamed: reject.wav -> reject.wav
+2024-10-12 11:41:12,303 - INFO - Renamed: twinkle.wav -> twinkle.wav
+2024-10-12 11:41:12,306 - INFO - Renamed: pester.wav -> pester.wav
+2024-10-12 11:41:12,308 - INFO - Renamed: rush.wav -> rush.wav
+2024-10-12 11:41:12,311 - INFO - Renamed: alley.wav -> alley.wav
+2024-10-12 11:41:12,313 - INFO - Renamed: stretched out.wav -> stretched_out.wav
+2024-10-12 11:41:12,314 - INFO - Renamed: pounded.wav -> pounded.wav
+2024-10-12 11:41:12,316 - INFO - Renamed: pleading.wav -> pleading.wav
+2024-10-12 11:41:12,318 - INFO - Renamed: settle.wav -> settle.wav
+2024-10-12 11:41:12,322 - INFO - Renamed: burdened.wav -> burdened.wav
+2024-10-12 11:41:12,325 - INFO - Renamed: betrayals.wav -> betrayals.wav
+2024-10-12 11:41:12,328 - INFO - Renamed: huddled.wav -> huddled.wav
+2024-10-12 11:41:12,331 - INFO - Renamed: split up.wav -> split_up.wav
+2024-10-12 11:41:12,334 - INFO - Renamed: he reluctantly.wav -> he_reluctantly.wav
+2024-10-12 11:41:12,336 - INFO - Renamed: grudges.wav -> grudges.wav
+2024-10-12 11:41:12,339 - INFO - Renamed: harsh.wav -> harsh.wav
+2024-10-12 11:41:12,342 - INFO - All files processed and data/words.json updated successfully.
+2024-10-12 11:48:33,610 - INFO - Renamed: eye examination chart.json -> eye_examination_chart.json
+2024-10-12 11:49:37,315 - WARNING - File not found: data/dict/eye examination chart.json
+2024-10-12 11:49:37,318 - INFO - Renamed: brisk.json -> brisk.json
+2024-10-12 11:49:37,320 - INFO - Renamed: without squinting.json -> without_squinting.json
+2024-10-12 11:49:37,323 - INFO - Renamed: halfway.json -> halfway.json
+2024-10-12 11:49:37,326 - INFO - Renamed: barely.json -> barely.json
+2024-10-12 11:49:37,329 - INFO - Renamed: get fitted.json -> get_fitted.json
+2024-10-12 11:49:37,333 - INFO - Renamed: be labeled.json -> be_labeled.json
+2024-10-12 11:49:37,335 - INFO - Renamed: handicapped.json -> handicapped.json
+2024-10-12 11:49:37,339 - INFO - Renamed: had worsened.json -> had_worsened.json
+2024-10-12 11:49:37,342 - INFO - Renamed: climb upward.json -> climb_upward.json
+2024-10-12 11:49:37,345 - INFO - Renamed: not greatly.json -> not_greatly.json
+2024-10-12 11:49:37,347 - INFO - Renamed: aside.json -> aside.json
+2024-10-12 11:49:37,350 - INFO - Renamed: dumbest kid.json -> dumbest_kid.json
+2024-10-12 11:49:37,353 - INFO - Renamed: zoomed upward.json -> zoomed_upward.json
+2024-10-12 11:49:37,356 - INFO - Renamed: settle for.json -> settle_for.json
+2024-10-12 11:49:37,358 - INFO - Renamed: scheme.json -> scheme.json
+2024-10-12 11:49:37,361 - INFO - Renamed: stood.json -> stood.json
+2024-10-12 11:49:37,363 - INFO - Renamed: unflagging.json -> unflagging.json
+2024-10-12 11:49:37,367 - INFO - Renamed: encouragement.json -> encouragement.json
+2024-10-12 11:49:37,370 - INFO - Renamed: soared.json -> soared.json
+2024-10-12 11:49:37,374 - INFO - Renamed: reached.json -> reached.json
+2024-10-12 11:49:37,377 - INFO - Renamed: as high as.json -> as_high_as.json
+2024-10-12 11:49:37,380 - INFO - Renamed: point out.json -> point_out.json
+2024-10-12 11:49:37,382 - INFO - Renamed: laid down.json -> laid_down.json
+2024-10-12 11:49:37,384 - INFO - Renamed: urging.json -> urging.json
+2024-10-12 11:49:37,387 - INFO - Renamed: pleading.json -> pleading.json
+2024-10-12 11:49:37,390 - INFO - Renamed: look up.json -> look_up.json
+2024-10-12 11:49:37,392 - INFO - Renamed: somehow.json -> somehow.json
+2024-10-12 11:49:37,395 - INFO - Renamed: laying down.json -> laying_down.json
+2024-10-12 11:49:37,397 - INFO - Renamed: check out.json -> check_out.json
+2024-10-12 11:49:37,400 - INFO - Renamed: dragging.json -> dragging.json
+2024-10-12 11:49:37,402 - INFO - Renamed: grumbled.json -> grumbled.json
+2024-10-12 11:49:37,404 - INFO - Renamed: endless.json -> endless.json
+2024-10-12 11:49:37,407 - INFO - Renamed: dare fail.json -> dare_fail.json
+2024-10-12 11:49:37,410 - INFO - Renamed: unbounded.json -> unbounded.json
+2024-10-12 11:49:37,413 - INFO - Renamed: nudged me into.json -> nudged_me_into.json
+2024-10-12 11:49:37,416 - INFO - Renamed: hold on.json -> hold_on.json
+2024-10-12 11:49:37,419 - INFO - Renamed: railroad security men.json -> railroad_security_men.json
+2024-10-12 11:49:37,419 - WARNING - File not found: data/dict/hobo's.json
+2024-10-12 11:49:37,424 - INFO - Renamed: came marching.json -> came_marching.json
+2024-10-12 11:49:37,426 - INFO - Renamed: toward me.json -> toward_me.json
+2024-10-12 11:49:37,429 - INFO - Renamed: stared.json -> stared.json
+2024-10-12 11:49:37,432 - INFO - Renamed: frightened.json -> frightened.json
+2024-10-12 11:49:37,434 - INFO - Renamed: whacked me.json -> whacked_me.json
+2024-10-12 11:49:37,438 - INFO - Renamed: recoil.json -> recoil.json
+2024-10-12 11:49:37,441 - INFO - Renamed: stood in front of me.json -> stood_in_front_of_me.json
+2024-10-12 11:49:37,443 - INFO - Renamed: pounded.json -> pounded.json
+2024-10-12 11:49:37,446 - INFO - Renamed: sweat.json -> sweat.json
+2024-10-12 11:49:37,448 - INFO - Renamed: pale.json -> pale.json
+2024-10-12 11:49:37,450 - INFO - Renamed: gaze.json -> gaze.json
+2024-10-12 11:49:37,453 - INFO - Renamed: muttered.json -> muttered.json
+2024-10-12 11:49:37,457 - INFO - Renamed: prodded.json -> prodded.json
+2024-10-12 11:49:37,459 - INFO - Renamed: gang.json -> gang.json
+2024-10-12 11:49:37,463 - INFO - Renamed: cutting off.json -> cutting_off.json
+2024-10-12 11:49:37,465 - INFO - Renamed: knack.json -> knack.json
+2024-10-12 11:49:37,468 - INFO - Renamed: along the.json -> along_the.json
+2024-10-12 11:49:37,471 - INFO - Renamed: samples.json -> samples.json
+2024-10-12 11:49:37,473 - INFO - Renamed: under.json -> under.json
+2024-10-12 11:49:37,476 - INFO - Renamed: magnifying glass.json -> magnifying_glass.json
+2024-10-12 11:49:37,479 - INFO - Renamed: staff.json -> staff.json
+2024-10-12 11:49:37,482 - INFO - Renamed: i thrived.json -> i_thrived.json
+2024-10-12 11:49:37,485 - INFO - Renamed: widened.json -> widened.json
+2024-10-12 11:49:37,487 - INFO - Renamed: up until.json -> up_until.json
+2024-10-12 11:49:37,489 - INFO - Renamed: aside.json -> aside.json
+2024-10-12 11:49:37,491 - INFO - Renamed: spelling bees.json -> spelling_bees.json
+2024-10-12 11:49:37,494 - INFO - Renamed: a thrill swept.json -> a_thrill_swept.json
+2024-10-12 11:49:37,497 - INFO - Renamed: yearning.json -> yearning.json
+2024-10-12 11:49:37,500 - INFO - Renamed: flax.json -> flax.json
+2024-10-12 11:49:37,502 - INFO - Renamed: spun.json -> spun.json
+2024-10-12 11:49:37,505 - INFO - Renamed: pulling ahead.json -> pulling_ahead.json
+2024-10-12 11:49:37,508 - INFO - Renamed: desire.json -> desire.json
+2024-10-12 11:49:37,510 - INFO - Renamed: beamed.json -> beamed.json
+2024-10-12 11:49:37,512 - INFO - Renamed: smiled.json -> smiled.json
+2024-10-12 11:49:37,515 - INFO - Renamed: outstanding.json -> outstanding.json
+2024-10-12 11:49:37,517 - INFO - Renamed: first excelled among.json -> first_excelled_among.json
+2024-10-12 11:49:37,520 - INFO - Renamed: sunshine slanting.json -> sunshine_slanting.json
+2024-10-12 11:49:37,523 - INFO - Renamed: ground.json -> ground.json
+2024-10-12 11:49:37,525 - INFO - Renamed: by then.json -> by_then.json
+2024-10-12 11:49:37,528 - INFO - Renamed: come up to me.json -> come_up_to_me.json
+2024-10-12 11:49:37,530 - INFO - Renamed: growth.json -> growth.json
+2024-10-12 11:49:37,533 - INFO - Renamed: give rent.json -> give_rent.json
+2024-10-12 11:49:37,536 - INFO - Renamed: caught up.json -> caught_up.json
+2024-10-12 11:49:37,539 - INFO - Renamed: stand out.json -> stand_out.json
+2024-10-12 11:49:37,542 - INFO - Renamed: tracks.json -> tracks.json
+2024-10-12 11:49:37,544 - INFO - Renamed: hop.json -> hop.json
+2024-10-12 11:49:37,546 - INFO - Renamed: grab.json -> grab.json
+2024-10-12 11:49:37,548 - INFO - Renamed: catch.json -> catch.json
+2024-10-12 11:49:37,552 - INFO - Renamed: slow down.json -> slow_down.json
+2024-10-12 11:49:37,555 - INFO - Renamed: envied.json -> envied.json
+2024-10-12 11:49:37,555 - WARNING - File not found: data/dict/tingled.json
+2024-10-12 11:49:37,558 - INFO - Renamed: car railing.json -> car_railing.json
+2024-10-12 11:49:37,560 - INFO - Renamed: command.json -> command.json
+2024-10-12 11:49:37,563 - INFO - Renamed: bleeding.json -> bleeding.json
+2024-10-12 11:49:37,565 - INFO - Renamed: attempt.json -> attempt.json
+2024-10-12 11:49:37,567 - INFO - Renamed: surgeons.json -> surgeons.json
+2024-10-12 11:49:37,570 - INFO - Renamed: to bear.json -> to_bear.json
+2024-10-12 11:49:37,572 - INFO - Renamed: painstaking.json -> painstaking.json
+2024-10-12 11:49:37,575 - INFO - Renamed: blood vessels.json -> blood_vessels.json
+2024-10-12 11:49:37,577 - INFO - Renamed: rehearsals.json -> rehearsals.json
+2024-10-12 11:49:37,579 - INFO - Renamed: juncture.json -> juncture.json
+2024-10-12 11:49:37,581 - INFO - Renamed: clotting.json -> clotting.json
+2024-10-12 11:49:37,584 - INFO - Renamed: therefore.json -> therefore.json
+2024-10-12 11:49:37,588 - INFO - Renamed: choking back.json -> choking_back.json
+2024-10-12 11:49:37,592 - INFO - Renamed: i burst into tears.json -> i_burst_into_tears.json
+2024-10-12 11:49:37,596 - INFO - Renamed: held me.json -> held_me.json
+2024-10-12 11:49:37,599 - INFO - Renamed: sob's.json -> sob's.json
+2024-10-12 11:49:37,601 - INFO - Renamed: grasp.json -> grasp.json
+2024-10-12 11:49:37,603 - INFO - Renamed: swiped.json -> swiped.json
+2024-10-12 11:49:37,606 - INFO - Renamed: reject.json -> reject.json
+2024-10-12 11:49:37,608 - INFO - Renamed: twinkle.json -> twinkle.json
+2024-10-12 11:49:37,610 - INFO - Renamed: pester.json -> pester.json
+2024-10-12 11:49:37,613 - INFO - Renamed: rush.json -> rush.json
+2024-10-12 11:49:37,615 - INFO - Renamed: alley.json -> alley.json
+2024-10-12 11:49:37,618 - INFO - Renamed: stretched out.json -> stretched_out.json
+2024-10-12 11:49:37,620 - INFO - Renamed: pounded.json -> pounded.json
+2024-10-12 11:49:37,621 - INFO - Renamed: pleading.json -> pleading.json
+2024-10-12 11:49:37,623 - INFO - Renamed: settle.json -> settle.json
+2024-10-12 11:49:37,625 - INFO - Renamed: burdened.json -> burdened.json
+2024-10-12 11:49:37,628 - INFO - Renamed: betrayals.json -> betrayals.json
+2024-10-12 11:49:37,630 - INFO - Renamed: huddled.json -> huddled.json
+2024-10-12 11:49:37,632 - INFO - Renamed: split up.json -> split_up.json
+2024-10-12 11:49:37,637 - INFO - Renamed: he reluctantly.json -> he_reluctantly.json
+2024-10-12 11:49:37,641 - INFO - Renamed: grudges.json -> grudges.json
+2024-10-12 11:49:37,645 - INFO - Renamed: harsh.json -> harsh.json
+2024-10-12 11:50:59,183 - WARNING - File not found: data/dict/eye examination chart.json
+2024-10-12 11:50:59,186 - INFO - Renamed: brisk.json -> brisk.json
+2024-10-12 11:50:59,186 - WARNING - File not found: data/dict/without squinting.json
+2024-10-12 11:50:59,187 - INFO - Renamed: halfway.json -> halfway.json
+2024-10-12 11:50:59,188 - INFO - Renamed: barely.json -> barely.json
+2024-10-12 11:50:59,188 - WARNING - File not found: data/dict/get fitted.json
+2024-10-12 11:50:59,188 - WARNING - File not found: data/dict/be labeled.json
+2024-10-12 11:50:59,190 - INFO - Renamed: handicapped.json -> handicapped.json
+2024-10-12 11:50:59,190 - WARNING - File not found: data/dict/had worsened.json
+2024-10-12 11:50:59,190 - WARNING - File not found: data/dict/climb upward.json
+2024-10-12 11:50:59,190 - WARNING - File not found: data/dict/not greatly.json
+2024-10-12 11:50:59,192 - INFO - Renamed: aside.json -> aside.json
+2024-10-12 11:50:59,192 - WARNING - File not found: data/dict/dumbest kid.json
+2024-10-12 11:50:59,192 - WARNING - File not found: data/dict/zoomed upward.json
+2024-10-12 11:50:59,192 - WARNING - File not found: data/dict/settle for.json
+2024-10-12 11:50:59,193 - INFO - Renamed: scheme.json -> scheme.json
+2024-10-12 11:50:59,195 - INFO - Renamed: stood.json -> stood.json
+2024-10-12 11:50:59,196 - INFO - Renamed: unflagging.json -> unflagging.json
+2024-10-12 11:50:59,197 - INFO - Renamed: encouragement.json -> encouragement.json
+2024-10-12 11:50:59,199 - INFO - Renamed: soared.json -> soared.json
+2024-10-12 11:50:59,200 - INFO - Renamed: reached.json -> reached.json
+2024-10-12 11:50:59,200 - WARNING - File not found: data/dict/as high as.json
+2024-10-12 11:50:59,200 - WARNING - File not found: data/dict/point out.json
+2024-10-12 11:50:59,200 - WARNING - File not found: data/dict/laid down.json
+2024-10-12 11:50:59,202 - INFO - Renamed: urging.json -> urging.json
+2024-10-12 11:50:59,203 - INFO - Renamed: pleading.json -> pleading.json
+2024-10-12 11:50:59,203 - WARNING - File not found: data/dict/look up.json
+2024-10-12 11:50:59,204 - INFO - Renamed: somehow.json -> somehow.json
+2024-10-12 11:50:59,204 - WARNING - File not found: data/dict/laying down.json
+2024-10-12 11:50:59,204 - WARNING - File not found: data/dict/check out.json
+2024-10-12 11:50:59,206 - INFO - Renamed: dragging.json -> dragging.json
+2024-10-12 11:50:59,208 - INFO - Renamed: grumbled.json -> grumbled.json
+2024-10-12 11:50:59,210 - INFO - Renamed: endless.json -> endless.json
+2024-10-12 11:50:59,210 - WARNING - File not found: data/dict/dare fail.json
+2024-10-12 11:50:59,212 - INFO - Renamed: unbounded.json -> unbounded.json
+2024-10-12 11:50:59,212 - WARNING - File not found: data/dict/nudged me into.json
+2024-10-12 11:50:59,212 - WARNING - File not found: data/dict/hold on.json
+2024-10-12 11:50:59,212 - WARNING - File not found: data/dict/railroad security men.json
+2024-10-12 11:50:59,212 - WARNING - File not found: data/dict/hobo's.json
+2024-10-12 11:50:59,213 - WARNING - File not found: data/dict/came marching.json
+2024-10-12 11:50:59,213 - WARNING - File not found: data/dict/toward me.json
+2024-10-12 11:50:59,214 - INFO - Renamed: stared.json -> stared.json
+2024-10-12 11:50:59,216 - INFO - Renamed: frightened.json -> frightened.json
+2024-10-12 11:50:59,216 - WARNING - File not found: data/dict/whacked me.json
+2024-10-12 11:50:59,217 - INFO - Renamed: recoil.json -> recoil.json
+2024-10-12 11:50:59,217 - WARNING - File not found: data/dict/stood in front of me.json
+2024-10-12 11:50:59,218 - INFO - Renamed: pounded.json -> pounded.json
+2024-10-12 11:50:59,220 - INFO - Renamed: sweat.json -> sweat.json
+2024-10-12 11:50:59,221 - INFO - Renamed: pale.json -> pale.json
+2024-10-12 11:50:59,223 - INFO - Renamed: gaze.json -> gaze.json
+2024-10-12 11:50:59,224 - INFO - Renamed: muttered.json -> muttered.json
+2024-10-12 11:50:59,226 - INFO - Renamed: prodded.json -> prodded.json
+2024-10-12 11:50:59,227 - INFO - Renamed: gang.json -> gang.json
+2024-10-12 11:50:59,228 - WARNING - File not found: data/dict/cutting off.json
+2024-10-12 11:50:59,229 - INFO - Renamed: knack.json -> knack.json
+2024-10-12 11:50:59,229 - WARNING - File not found: data/dict/along the.json
+2024-10-12 11:50:59,231 - INFO - Renamed: samples.json -> samples.json
+2024-10-12 11:50:59,232 - INFO - Renamed: under.json -> under.json
+2024-10-12 11:50:59,232 - WARNING - File not found: data/dict/magnifying glass.json
+2024-10-12 11:50:59,233 - INFO - Renamed: staff.json -> staff.json
+2024-10-12 11:50:59,233 - WARNING - File not found: data/dict/i thrived.json
+2024-10-12 11:50:59,235 - INFO - Renamed: widened.json -> widened.json
+2024-10-12 11:50:59,235 - WARNING - File not found: data/dict/up until.json
+2024-10-12 11:50:59,236 - INFO - Renamed: aside.json -> aside.json
+2024-10-12 11:50:59,236 - WARNING - File not found: data/dict/spelling bees.json
+2024-10-12 11:50:59,236 - WARNING - File not found: data/dict/a thrill swept.json
+2024-10-12 11:50:59,237 - INFO - Renamed: yearning.json -> yearning.json
+2024-10-12 11:50:59,238 - INFO - Renamed: flax.json -> flax.json
+2024-10-12 11:50:59,240 - INFO - Renamed: spun.json -> spun.json
+2024-10-12 11:50:59,240 - WARNING - File not found: data/dict/pulling ahead.json
+2024-10-12 11:50:59,242 - INFO - Renamed: desire.json -> desire.json
+2024-10-12 11:50:59,244 - INFO - Renamed: beamed.json -> beamed.json
+2024-10-12 11:50:59,246 - INFO - Renamed: smiled.json -> smiled.json
+2024-10-12 11:50:59,247 - INFO - Renamed: outstanding.json -> outstanding.json
+2024-10-12 11:50:59,247 - WARNING - File not found: data/dict/first excelled among.json
+2024-10-12 11:50:59,247 - WARNING - File not found: data/dict/sunshine slanting.json
+2024-10-12 11:50:59,248 - INFO - Renamed: ground.json -> ground.json
+2024-10-12 11:50:59,248 - WARNING - File not found: data/dict/by then.json
+2024-10-12 11:50:59,248 - WARNING - File not found: data/dict/come up to me.json
+2024-10-12 11:50:59,250 - INFO - Renamed: growth.json -> growth.json
+2024-10-12 11:50:59,250 - WARNING - File not found: data/dict/give rent.json
+2024-10-12 11:50:59,250 - WARNING - File not found: data/dict/caught up.json
+2024-10-12 11:50:59,250 - WARNING - File not found: data/dict/stand out.json
+2024-10-12 11:50:59,251 - INFO - Renamed: tracks.json -> tracks.json
+2024-10-12 11:50:59,252 - INFO - Renamed: hop.json -> hop.json
+2024-10-12 11:50:59,254 - INFO - Renamed: grab.json -> grab.json
+2024-10-12 11:50:59,255 - INFO - Renamed: catch.json -> catch.json
+2024-10-12 11:50:59,255 - WARNING - File not found: data/dict/slow down.json
+2024-10-12 11:50:59,256 - INFO - Renamed: envied.json -> envied.json
+2024-10-12 11:50:59,256 - WARNING - File not found: data/dict/tingled.json
+2024-10-12 11:50:59,257 - WARNING - File not found: data/dict/car railing.json
+2024-10-12 11:50:59,258 - INFO - Renamed: command.json -> command.json
+2024-10-12 11:50:59,259 - INFO - Renamed: bleeding.json -> bleeding.json
+2024-10-12 11:50:59,261 - INFO - Renamed: attempt.json -> attempt.json
+2024-10-12 11:50:59,262 - INFO - Renamed: surgeons.json -> surgeons.json
+2024-10-12 11:50:59,262 - WARNING - File not found: data/dict/to bear.json
+2024-10-12 11:50:59,263 - INFO - Renamed: painstaking.json -> painstaking.json
+2024-10-12 11:50:59,263 - WARNING - File not found: data/dict/blood vessels.json
+2024-10-12 11:50:59,264 - INFO - Renamed: rehearsals.json -> rehearsals.json
+2024-10-12 11:50:59,265 - INFO - Renamed: juncture.json -> juncture.json
+2024-10-12 11:50:59,266 - INFO - Renamed: clotting.json -> clotting.json
+2024-10-12 11:50:59,267 - INFO - Renamed: therefore.json -> therefore.json
+2024-10-12 11:50:59,267 - WARNING - File not found: data/dict/choking back.json
+2024-10-12 11:50:59,268 - WARNING - File not found: data/dict/i burst into tears.json
+2024-10-12 11:50:59,268 - WARNING - File not found: data/dict/held me.json
+2024-10-12 11:50:59,269 - INFO - Renamed: sob's.json -> sob's.json
+2024-10-12 11:50:59,270 - INFO - Renamed: grasp.json -> grasp.json
+2024-10-12 11:50:59,272 - INFO - Renamed: swiped.json -> swiped.json
+2024-10-12 11:50:59,273 - INFO - Renamed: reject.json -> reject.json
+2024-10-12 11:50:59,275 - INFO - Renamed: twinkle.json -> twinkle.json
+2024-10-12 11:50:59,276 - INFO - Renamed: pester.json -> pester.json
+2024-10-12 11:50:59,277 - INFO - Renamed: rush.json -> rush.json
+2024-10-12 11:50:59,279 - INFO - Renamed: alley.json -> alley.json
+2024-10-12 11:50:59,279 - WARNING - File not found: data/dict/stretched out.json
+2024-10-12 11:50:59,280 - INFO - Renamed: pounded.json -> pounded.json
+2024-10-12 11:50:59,281 - INFO - Renamed: pleading.json -> pleading.json
+2024-10-12 11:50:59,282 - INFO - Renamed: settle.json -> settle.json
+2024-10-12 11:50:59,283 - INFO - Renamed: burdened.json -> burdened.json
+2024-10-12 11:50:59,284 - INFO - Renamed: betrayals.json -> betrayals.json
+2024-10-12 11:50:59,285 - INFO - Renamed: huddled.json -> huddled.json
+2024-10-12 11:50:59,285 - WARNING - File not found: data/dict/split up.json
+2024-10-12 11:50:59,285 - WARNING - File not found: data/dict/he reluctantly.json
+2024-10-12 11:50:59,286 - INFO - Renamed: grudges.json -> grudges.json
+2024-10-12 11:50:59,288 - INFO - Renamed: harsh.json -> harsh.json
+2024-10-12 11:50:59,294 - INFO - All files processed and data/words.json & data/mistakes.json updated successfully.
