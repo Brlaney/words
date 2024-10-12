@@ -16,21 +16,37 @@
 ### Phrases 📃:
 
 [as high as](md/phrases/as_high_as.md)
+
 [point out](md/phrases/point_out.md)
+
 [laid down](md/phrases/laid_down.md)
+
 [look up](md/phrases/look_up.md)
+
 [laying down](md/phrases/laying_down.md)
+
 [cutting off](md/phrases/cutting_off.md)
+
 [along the](md/phrases/along_the.md)
+
 [magnifying glass](md/phrases/magnifying_glass.md)
+
 [up until](md/phrases/up_until.md)
+
 [spelling bees](md/phrases/spelling_bees.md)
+
 [pulling ahead](md/phrases/pulling_ahead.md)
+
 [caught up](md/phrases/caught_up.md)
+
 [stand out](md/phrases/stand_out.md)
+
 [slow down](md/phrases/slow_down.md)
+
 [to bear](md/phrases/to_bear.md)
+
 [blood vessels](md/phrases/blood_vessels.md)
+
 [choking back](md/phrases/choking_back.md)
 
 ---
@@ -38,39 +54,73 @@
 ### Words 📃:
 
 [halfway](md/words/halfway.md)
+
 [barely](md/words/barely.md)
+
 [handicapped](md/words/handicapped.md)
+
 [unflagging](md/words/unflagging.md)
+
 [encouragement](md/words/encouragement.md)
+
 [soared](md/words/soared.md)
+
 [reached](md/words/reached.md)
+
 [urging](md/words/urging.md)
+
 [pleading](md/words/pleading.md)
+
 [grumbled](md/words/grumbled.md)
+
 [endless](md/words/endless.md)
+
 [unbounded](md/words/unbounded.md)
+
 [sweat](md/words/sweat.md)
+
 [pale](md/words/pale.md)
+
 [gaze](md/words/gaze.md)
+
 [muttered](md/words/muttered.md)
+
 [prodded](md/words/prodded.md)
+
 [gang](md/words/gang.md)
+
 [widened](md/words/widened.md)
+
 [flax](md/words/flax.md)
+
 [beamed](md/words/beamed.md)
+
 [growth](md/words/growth.md)
+
 [envied](md/words/envied.md)
+
 [surgeons](md/words/surgeons.md)
+
 [painstaking](md/words/painstaking.md)
+
 [rehearsals](md/words/rehearsals.md)
+
 [therefore](md/words/therefore.md)
+
 [sob's](md/words/sob's.md)
+
 [swiped](md/words/swiped.md)
+
 [twinkle](md/words/twinkle.md)
+
 [alley](md/words/alley.md)
+
 [pleading](md/words/pleading.md)
+
 [burdened](md/words/burdened.md)
+
 [betrayals](md/words/betrayals.md)
+
 [huddled](md/words/huddled.md)
 
 <br/>
