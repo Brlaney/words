@@ -32,9 +32,9 @@ def create_video(audio_path, text_value, inc_vol):
         size=(1080, 720)).set_duration(3)
 
     if inc_vol == true:
-        cvc.set_audio(audio_clip).volumex(2).write_videofile(f'videos/{text_value}.mp4', fps=25)
+        cvc.set_audio(audio_clip).volumex(2).write_videofile(f'assets/videos/{text_value}.mp4', fps=25)
     else:
-        cvc.set_audio(audio_clip).write_videofile(f'videos/{text_value}.mp4', fps=25)
+        cvc.set_audio(audio_clip).write_videofile(f'assets/videos/{text_value}.mp4', fps=25)
 
 def edit_audio(audio_path, text_value, duration=3):
     audio_clip = AudioFileClip(audio_path).set_duration(duration)
@@ -55,16 +55,27 @@ try:
         json_new = read_and_process_json('data/long-entries/after.json')
         
         if json_obj and json_new:
-            for item in json_obj:
+            after_lookup = {item['id']: item for item in json_new}
+            
+            for index, item in enumerate(json_obj):
+                gl_id = item['id']
+                gl_path = item['path']
+                gl_word = item['text']
                 
-                create_video(item['path'], item['text'])                
+                if gl_id in after_lookup:
+                    json_obj[index] = after_lookup[gl_id]
+                    print(f'Replaced entry for id {gl_id}')
+                 
+                # create_video(item['path'], item['text'])       
                 # # Stop at index no. 2 to quickly test changes
                 # if int(item['id']) == 1:
                 #     exit_program()
-        else:
-            break
+        
+        with open('test.json', 'w') as json_file:
+            json.dump(json_obj, json_file, indent=4)
 
 except KeyboardInterrupt:
+    exit_program()
     print('\nEnding script.. gracefully')
 finally:
     print('Ending script.')

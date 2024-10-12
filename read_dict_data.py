@@ -5,7 +5,7 @@ import logging
 from scripts.utils import exit_program, read_and_process_json
 
 # Configure logging
-logging.basicConfig(filename='assets/reading_dict_jsons.log', 
+logging.basicConfig(filename='assets/logs/reading_dict_jsons.log', 
                     level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 

@@ -1,0 +1,225 @@
+[
+    {
+        "meta": {
+            "id": "hobo:1",
+            "uuid": "7d648303-7002-4022-8042-584035b0bb8b",
+            "sort": "080213200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hobo",
+                "hobo bag",
+                "hobo bags",
+                "hoboes",
+                "hobos"
+            ],
+            "offensive": true
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "ho*bo",
+            "prs": [
+                {
+                    "mw": "ˈhō-(ˌ)bō",
+                    "sound": {
+                        "audio": "hobo0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "ho*boes"
+            },
+            {
+                "il": "also",
+                "if": "ho*bos"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "sls": [
+                                    "often disparaging",
+                                    "see usage paragraph below"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a usually very poor person who has no permanent residence and travels from place to place especially by furtively hopping {dx_def}see {dxt|hop:1|hop:1|{it}transitive{/it} 2}{/dx_def} trains "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "It should be noted that much of the discussion about the park … involved whether a fence needed to be built around the park to discourage the {it}hobos{/it} and tramps, who traveled along the railroad, from taking up residence in the park.",
+                                                "aq": {
+                                                    "auth": "Kevin Dayhoff"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a {d_link|migrant|migrant} worker "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}Hoboes{/wi} travel across the country by hopping onto trains (although other modes of transportation are also acceptable), but crucially they work for their living, performing seasonal labor and taking on odd jobs.",
+                                                    "aq": {
+                                                        "auth": "Marguerite Happe"
+                                                    }
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "vrs": [
+                                    {
+                                        "vl": "or less commonly",
+                                        "va": "hobo bag"
+                                    }
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a large shoulder bag shaped like a pouch "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "To punctuate the all-blue outfit, the actress slung on an unstructured, oversized suede {wi}hobo{/wi}, a practical antidote to the current craze for fanny packs and mini bags.",
+                                                "aq": {
+                                                    "auth": "Edward Barsamian"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "usages": [
+            {
+                "pl": "Usage of {parahw}hobo{/parahw}",
+                "pt": [
+                    [
+                        "text",
+                        "{it}Hobo{/it} functions as a neutral or positive self-descriptor. In general use, it is sometimes used disparagingly, but frequently the term carries positive connotations from its association with an adventurous life that is free of obligation. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "The {wi}hobo{/wi} never knows what is going to happen the next moment; hence, he lives only in the present moment. He has learned the futility of telic endeavor, and knows the delight of drifting along with the whimsicalities of Chance.",
+                                "aq": {
+                                    "auth": "Jack London"
+                                }
+                            },
+                            {
+                                "t": "I imagined a {wi}hobo's{/wi} life would be a fine thing. I would sleep in haystacks and do exactly what I wanted all the time.",
+                                "aq": {
+                                    "auth": "Matthew Power"
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "origin unknown"
+            ]
+        ],
+        "date": "1885{ds||1||}",
+        "shortdef": [
+            "a usually very poor person who has no permanent residence and travels from place to place especially by furtively hopping trains; also : a migrant worker",
+            "a large shoulder bag shaped like a pouch"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hobo:2",
+            "uuid": "6854d398-c313-4a2e-b636-8c6905008c27",
+            "sort": "080213300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hobo",
+                "hoboed",
+                "hoboes",
+                "hoboing"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "hobo"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "ho*boed"
+            },
+            {
+                "if": "ho*bo*ing"
+            },
+            {
+                "if": "ho*bos"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to live or travel in the manner of a hobo"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1892",
+        "shortdef": [
+            "to live or travel in the manner of a hobo"
+        ]
+    }
+]

@@ -15,45 +15,45 @@
 
 ### Phrases 📃:
 
-| [a thrill swept](data/md/a-thrill-swept.md) | [along the](data/md/along-the.md) | [as high as](data/md/as-high-as.md) |
+| [a thrill swept](md/a-thrill-swept.md) | [along the](md/along-the.md) | [as high as](md/as-high-as.md) |
 |-----------------------------------------------|-----------------------------------|-------------------------------------|
-| [be labeled](data/md/be-labeled.md)          | [barely](data/md/barely.md)      | [betrayals](data/md/betrayals.md)  |
-| [blood vessels](data/md/blood-vessels.md)    | [by then](data/md/by-then.md)    | [came marching](data/md/came-marching.md) |
-| [car railing](data/md/car-railing.md)        | [check out](data/md/check-out.md) | [choking back](data/md/choking-back.md) |
-| [climb upward](data/md/climb-upward.md)      | [cutting off](data/md/cutting-off.md) | [come up to me](data/md/come-up-to-me.md) |
-| [dare fail](data/md/dare-fail.md)            | [dragging](data/md/dragging.md)  | [endless](data/md/endless.md)      |
-| [eye examination chart](data/md/eye-examination-chart.md) | [first excelled among](data/md/first-excelled-among.md) | [get fitted](data/md/get-fitted.md) |
-| [give rent](data/md/give-rent.md)            | [grudges](data/md/grudges.md)    | [halfway](data/md/halfway.md)      |
-| [held me](data/md/held-me.md)                | [he reluctantly](data/md/he-reluctantly.md) | [hold on](data/md/hold-on.md)    |
-| [i burst into tears](data/md/i-burst-into-tears.md) | [laid down](data/md/laid-down.md) | [look up](data/md/look-up.md)      |
-| [not greatly](data/md/not-greatly.md)        | [nudged me into](data/md/nudged-me-into.md) | [painstaking](data/md/painstaking.md) |
-| [pleading](data/md/pleading.md)              | [pulling ahead](data/md/pulling-ahead.md) | [railroad security men](data/md/railroad-security-men.md) |
-| [reached](data/md/reached.md)                | [recoil](data/md/recoil.md)      | [reject](data/md/reject.md)        |
-| [rush](data/md/rush.md)                      | [settle for](data/md/settle-for.md) | [slow down](data/md/slow-down.md)  |
-| [somehow](data/md/somehow.md)                | [spelling bees](data/md/spelling-bees.md) | [stand out](data/md/stand-out.md)  |
-| [stretched out](data/md/stretched-out.md)    | [sunshine slanting](data/md/sunshine-slanting.md) | [therefore](data/md/therefore.md)  |
-| [toward me](data/md/toward-me.md)            | [unbounded](data/md/unbounded.md) | [up until](data/md/up-until.md)    |
-| [widened](data/md/widened.md)                | [without squinting](data/md/without-squinting.md) | [zoomed upward](data/md/zoomed-upward.md) |
+| [be labeled](md/be-labeled.md)          | [barely](md/barely.md)      | [betrayals](md/betrayals.md)  |
+| [blood vessels](md/blood-vessels.md)    | [by then](md/by-then.md)    | [came marching](md/came-marching.md) |
+| [car railing](md/car-railing.md)        | [check out](md/check-out.md) | [choking back](md/choking-back.md) |
+| [climb upward](md/climb-upward.md)      | [cutting off](md/cutting-off.md) | [come up to me](md/come-up-to-me.md) |
+| [dare fail](md/dare-fail.md)            | [dragging](md/dragging.md)  | [endless](md/endless.md)      |
+| [eye examination chart](md/eye-examination-chart.md) | [first excelled among](md/first-excelled-among.md) | [get fitted](md/get-fitted.md) |
+| [give rent](md/give-rent.md)            | [grudges](md/grudges.md)    | [halfway](md/halfway.md)      |
+| [held me](md/held-me.md)                | [he reluctantly](md/he-reluctantly.md) | [hold on](md/hold-on.md)    |
+| [i burst into tears](md/i-burst-into-tears.md) | [laid down](md/laid-down.md) | [look up](md/look-up.md)      |
+| [not greatly](md/not-greatly.md)        | [nudged me into](md/nudged-me-into.md) | [painstaking](md/painstaking.md) |
+| [pleading](md/pleading.md)              | [pulling ahead](md/pulling-ahead.md) | [railroad security men](md/railroad-security-men.md) |
+| [reached](md/reached.md)                | [recoil](md/recoil.md)      | [reject](md/reject.md)        |
+| [rush](md/rush.md)                      | [settle for](md/settle-for.md) | [slow down](md/slow-down.md)  |
+| [somehow](md/somehow.md)                | [spelling bees](md/spelling-bees.md) | [stand out](md/stand-out.md)  |
+| [stretched out](md/stretched-out.md)    | [sunshine slanting](md/sunshine-slanting.md) | [therefore](md/therefore.md)  |
+| [toward me](md/toward-me.md)            | [unbounded](md/unbounded.md) | [up until](md/up-until.md)    |
+| [widened](md/widened.md)                | [without squinting](md/without-squinting.md) | [zoomed upward](md/zoomed-upward.md) |
 
 ### Words 📃:
 
-| [alley](data/md/alley.md)  | [aside](data/md/aside.md)  | [attempt](data/md/attempt.md)     |
+| [alley](md/alley.md)  | [aside](md/aside.md)  | [attempt](md/attempt.md)     |
 |-----------------------------|-----------------------------|-----------------------------------|
-| [bleeding](data/md/bleeding.md) | [brisk](data/md/brisk.md) | [burdened](data/md/burdened.md)  |
-| [catch](data/md/catch.md)  | [choking back](data/md/choking-back.md) | [clotting](data/md/clotting.md)  |
-| [command](data/md/command.md) | [dumbest kid](data/md/dumbest-kid.md) | [desire](data/md/desire.md)      |
-| [envied](data/md/envied.md) | [frightened](data/md/frightened.md) | [gang](data/md/gang.md)          |
-| [gaze](data/md/gaze.md)    | [grab](data/md/grab.md)    | [grasp](data/md/grasp.md)        |
-| [growth](data/md/growth.md) | [grumbled](data/md/grumbled.md) | [had worsened](data/md/had-worsened.md) |
-| [harsh](data/md/harsh.md)  | [hobo's](data/md/hobo's.md) | [huddled](data/md/huddled.md)    |
-| [hop](data/md/hop.md)      | [i thrived](data/md/i-thrived.md) | [juncture](data/md/juncture.md)  |
-| [knack](data/md/knack.md)  | [laying down](data/md/laying-down.md) | [magnifying glass](data/md/magnifying-glass.md) |
-| [muttered](data/md/muttered.md) | [outstanding](data/md/outstanding.md) | [pale](data/md/pale.md)          |
-| [pester](data/md/pester.md) | [pounded](data/md/pounded.md) | [samples](data/md/samples.md)    |
-| [scheme](data/md/scheme.md) | [smiled](data/md/smiled.md) | [soared](data/md/soared.md)      |
-| [sweat](data/md/sweat.md)  | [swiped](data/md/swiped.md) | [tingle](data/md/tingle.md)      |
-| [tracks](data/md/tracks.md) | [twinkle](data/md/twinkle.md) | [unflagging](data/md/unflagging.md) |
-| [urging](data/md/urging.md) | [whacked me](data/md/whacked-me.md) | [yearning](data/md/yearning.md)  |
+| [bleeding](md/bleeding.md) | [brisk](md/brisk.md) | [burdened](md/burdened.md)  |
+| [catch](md/catch.md)  | [choking back](md/choking-back.md) | [clotting](md/clotting.md)  |
+| [command](md/command.md) | [dumbest kid](md/dumbest-kid.md) | [desire](md/desire.md)      |
+| [envied](md/envied.md) | [frightened](md/frightened.md) | [gang](md/gang.md)          |
+| [gaze](md/gaze.md)    | [grab](md/grab.md)    | [grasp](md/grasp.md)        |
+| [growth](md/growth.md) | [grumbled](md/grumbled.md) | [had worsened](md/had-worsened.md) |
+| [harsh](md/harsh.md)  | [hobo's](md/hobo's.md) | [huddled](md/huddled.md)    |
+| [hop](md/hop.md)      | [i thrived](md/i-thrived.md) | [juncture](md/juncture.md)  |
+| [knack](md/knack.md)  | [laying down](md/laying-down.md) | [magnifying glass](md/magnifying-glass.md) |
+| [muttered](md/muttered.md) | [outstanding](md/outstanding.md) | [pale](md/pale.md)          |
+| [pester](md/pester.md) | [pounded](md/pounded.md) | [samples](md/samples.md)    |
+| [scheme](md/scheme.md) | [smiled](md/smiled.md) | [soared](md/soared.md)      |
+| [sweat](md/sweat.md)  | [swiped](md/swiped.md) | [tingle](md/tingle.md)      |
+| [tracks](md/tracks.md) | [twinkle](md/twinkle.md) | [unflagging](md/unflagging.md) |
+| [urging](md/urging.md) | [whacked me](md/whacked-me.md) | [yearning](md/yearning.md)  |
 
 <br/>
 
@@ -72,7 +72,7 @@
 - [ ] write script to seperate these into two categories: *1. Phrases* and *2. Words*.
 - [ ] Finish the MoviePy script to prompt to record `using each word in a sentence` 
 - [ ] Only pages *5* and *6* are left to complete
-- [ ] Update the data/long-entries/before.json file
+- [ ] Update the long-entries/before.json file
 - [ ] Write script to separate into batches by *date*
 - [ ] Currently at: `Harsh` (*id = 124*) as of 10/07/2024
 

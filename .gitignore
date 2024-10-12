@@ -21,6 +21,8 @@ MANIFEST
 # Environment variables
 .env
 
+scripts/__pycache__/
+
 # SageMath parsed files
 *.sage.py
 
