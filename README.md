@@ -81,6 +81,8 @@
 
 ### Mishaps ⚠️
 
+`Note:` [widened](md/words/mishap.md)
+
 These are words or phrases you wrote on your paper that either;
 1. I'm not sure I understand
 2. I either misread what you wrote
