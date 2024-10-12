@@ -1,9 +1,21 @@
 # utils.py
 '''
-You can then ref these functions like:
-from scripts.utils import exit_program
-from scripts.utils import read_and_process_json
-from scripts.utils import get_audio_duration
+    You can then ref these functions like:
+        from scripts.utils import exit_program
+        from scripts.utils import read_and_process_json
+        from scripts.utils import get_audio_duration
+    
+    Functions in this file:
+    
+        *exit_program*: Ends the script gracefully.
+        *read_and_process_json*: Reads a JSON file and returns the data as a list of objects.
+        *get_audio_duration*: Returns the duration of the audio file in milliseconds.
+        *create_markdown_links*: Generates markdown links for words and phrases based on provided data.
+        *write_links_to_file*: Writes markdown links to a specified output file.
+        *format_markdown*: Formats text by replacing placeholders with markdown formatting.
+        *interpret_word_data_as_string*: Interprets structured word data and returns a raw markdown string.
+        *save_audio_file*: Downloads and saves an audio file based on provided metadata.
+        *categorize_audio_files*: Moves .wav files into appropriate directories and updates their paths in the JSON file.
 '''
 import sys
 import json
@@ -193,3 +205,121 @@ def interpret_word_data_as_string(text_data, data):
             logging.error(f'Unexpected entry format: {entry}')
 
     return ''.join(markdown_content)
+
+
+'''
+    This procedures takes in a single json object (would need to iterate over json file) and the output, save_directory.
+'''
+def save_audio_file(audio_info, save_dir):
+    # Create the save directory if it doesn't exist
+    os.makedirs(save_dir, exist_ok=True)
+
+    # Extract audio details from the JSON
+    if audio_info['hwi']['prs']:  # Check if there are any pronunciation entries
+        '''
+            [language_code] - 2 letter ISO language code.
+              en for all API references except the Spanish-English Dictionary.
+              es for entries with a "lang": "es" metadata value in the Spanish-English Dictionary
+
+            [country_code] - 2 letter ISO country code.
+              us for all API references except the Spanish-English Dictionary.
+              me for entries with a "lang": "es" metadata value in the Spanish-English Dictionary
+
+            [format] - One of 3 audio formats supported for all audio values:
+              mp3
+              wav
+              ogg
+
+            [subdirectory] is determined as follows:
+              if audio begins with "bix", the subdirectory should be "bix",
+              if audio begins with "gg", the subdirectory should be "gg",
+              if audio begins with a number or punctuation (eg, "_"), the subdirectory should be "number",
+              otherwise, the subdirectory is equal to the first letter of audio.
+        
+            [base filename] - The name contained in audio.
+        '''
+        
+        audio_filename = audio_info['hwi']['prs'][0]['sound']['audio']  # Get the audio filename without extension
+        language_code = 'en'  # Default to English
+        country_code = 'us'   # Default to US
+        output_format = 'wav' # Desired output format
+        
+        # Determine the base filename and subdirectory
+        base_filename = audio_filename
+        subdirectory = ''
+        
+        # Determine subdirectory based on audio filename
+        if audio_filename.startswith('bix'):
+            subdirectory = 'bix'
+        elif audio_filename.startswith('gg'):
+            subdirectory = 'gg'
+        elif audio_filename[0].isdigit() or audio_filename[0] in ['_', '.', '-']:
+            subdirectory = 'number'
+        else:
+            subdirectory = audio_filename[0].lower()  # Use the first letter of the audio filename
+        
+        # Construct the base URL
+        base_url = f'https://media.merriam-webster.com/audio/prons/{language_code}/{country_code}/{output_format}/{subdirectory}/{base_filename}.{output_format}'
+        
+        # Define the local file path
+        local_audio_path = os.path.join(save_dir, f'{base_filename}.{output_format}')
+
+        # Download the audio file
+        try:
+            response = requests.get(base_url)
+            response.raise_for_status()  # Check for request errors
+            with open(local_audio_path, 'wb') as audio_file:
+                audio_file.write(response.content)
+            print(f'Audio file saved as: {local_audio_path}')
+        except Exception as e:
+            print(f'Error downloading audio file: {e}')
+    else:
+        print("No pronunciation entries found in the audio info.")
+        
+'''
+    This function:
+        - moves all .wav files in data/audio into their appropriate data/audio/words or ../phrases dir accordingly.
+        - updates the words.json file with the new filepaths.
+'''
+def categorize_audio_files(source_dir, words_dir, phrases_dir, json_file_path):
+    # Create destination directories if they don't exist
+    os.makedirs(words_dir, exist_ok=True)
+    os.makedirs(phrases_dir, exist_ok=True)
+
+    # Load the words JSON file
+    with open(json_file_path, 'r', encoding='utf-8') as json_file:
+        words_data = json.load(json_file)
+
+    # Iterate over each .wav file in the source directory
+    for filename in os.listdir(source_dir):
+        if filename.endswith('.wav'):
+            # Determine if the filename is a word or phrase
+            if '_' in filename or ' ' in filename:
+                # Move to phrases directory
+                destination_dir = phrases_dir
+                audio_type = 'phrase'
+            else:
+                # Move to words directory
+                destination_dir = words_dir
+                audio_type = 'word'
+            
+            # Define the source and destination file paths
+            source_file = os.path.join(source_dir, filename)
+            destination_file = os.path.join(destination_dir, filename)
+
+            # Move the file
+            shutil.move(source_file, destination_file)
+            print(f'Moving {filename} to {destination_dir}')
+
+            # Update the audio path in the words data
+            for entry in words_data:
+                # Check if the audio path matches the old one
+                if entry.get('audio_path') == os.path.join(source_dir, filename):
+                    # Update to the new path
+                    new_audio_path = os.path.join(destination_dir, filename)
+                    entry['audio_path'] = new_audio_path
+                    print(f'Updated audio path for {entry["text"]} to {new_audio_path}')
+
+    # Save the updated words data back to the JSON file
+    with open(json_file_path, 'w', encoding='utf-8') as json_file:
+        json.dump(words_data, json_file, indent=4)

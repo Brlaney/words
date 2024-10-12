@@ -6,6 +6,8 @@
 
 **Audio Reference:** mishap01
 
+**Offensive:** *No*
+
 ---
 
 ## Definitions:
