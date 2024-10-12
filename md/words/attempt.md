@@ -5,10 +5,10 @@
 **Audio Reference:** attemp01
 
 ## Definitions:
-- {bc}to make an effort to do, accomplish, solve, or effect 
-  *Example:* He {wi}attempted{/wi} to swim the swollen river.
-- {bc}{sx|tempt||}
-- {bc}to try to subdue or take by force {bc}{sx|attack||}
+- **:** to make an effort to do, accomplish, solve, or effect 
+  *Example:* He `attempted` to swim the swollen river.
+- **:** {sx|tempt||}
+- **:** to try to subdue or take by force **:** {sx|attack||}
 
 ## Short Definitions:
 - to make an effort to do, accomplish, solve, or effect

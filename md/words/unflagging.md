@@ -5,9 +5,9 @@
 **Audio Reference:** unflag01
 
 ## Definitions:
-- {bc}not flagging {bc}{sx|tireless||} 
-  *Example:* {wi}unflagging{/wi} enthusiasm
-- {bc}{sx|unrelenting||2}
+- **:** not flagging **:** {sx|tireless||} 
+  *Example:* `unflagging` enthusiasm
+- **:** {sx|unrelenting||2}
 
 ## Short Definitions:
 - not flagging : tireless

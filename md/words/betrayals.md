@@ -5,10 +5,10 @@
 **Audio Reference:** betray02
 
 ## Definitions:
-- {bc}the act of {d_link|betraying|betray} someone or something or the fact of being betrayed {bc}violation of a person's trust or confidence, of a moral standard, etc. 
-  *Example:* the {wi}betrayal{/wi} of a friend
-- {bc}revelation of something hidden or secret 
-  *Example:* a {wi}betrayal{/wi} of one's true feelings
+- **:** the act of {d_link|betraying|betray} someone or something or the fact of being betrayed **:** violation of a person's trust or confidence, of a moral standard, etc. 
+  *Example:* the `betrayal` of a friend
+- **:** revelation of something hidden or secret 
+  *Example:* a `betrayal` of one's true feelings
 
 ## Short Definitions:
 - the act of betraying someone or something or the fact of being betrayed : violation of a person's trust or confidence, of a moral standard, etc.
@@ -20,7 +20,7 @@
 **Audio Reference:** selfbe03
 
 ## Definitions:
-- {bc}{sx|self-revelation||}
+- **:** {sx|self-revelation||}
 
 ## Short Definitions:
 - self-revelation

@@ -5,24 +5,24 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to pick up often abruptly 
-  *Example:* the thief {it}caught{/it} the purse {it}up{/it} and ran
-- {bc}{sx|ensnare||}, {sx|entangle||} 
-  *Example:* education has been {it}caught up{/it} in a stultifying mythology
-- {bc}{sx|enthrall||} 
-  *Example:* the … public was {it}caught up{/it} in the car's magic
-- {bc}to provide with the latest information 
-  *Example:* {it}catch{/it} me {it}up{/it} on the news
-- {bc}to travel fast enough to overtake an advance party 
-  *Example:* The soldier ran to {it}catch up{/it} with his unit.
-- {bc}to reach a state of parity {dx_def}see {dxt|parity||1}{/dx_def} or of being able to cope 
-  *Example:* students who miss class have difficulty {it}catching up{/it}
-- {bc}to bring about arrest for illicit activities 
-  *Example:* the police {it}caught up{/it} with the thieves
-- {bc}to complete or compensate {dx_def}see {dxt|compensate||1}{/dx_def} for something belatedly 
-  *Example:* {it}catch up{/it} on lost sleep
-- {bc}to acquire {d_link|belated|belated} information 
-  *Example:* {it}catch up{/it} on the news
+- **:** to pick up often abruptly 
+  *Example:* the thief *caught* the purse *up* and ran
+- **:** {sx|ensnare||}, {sx|entangle||} 
+  *Example:* education has been *caught up* in a stultifying mythology
+- **:** {sx|enthrall||} 
+  *Example:* the … public was *caught up* in the car's magic
+- **:** to provide with the latest information 
+  *Example:* *catch* me *up* on the news
+- **:** to travel fast enough to overtake an advance party 
+  *Example:* The soldier ran to *catch up* with his unit.
+- **:** to reach a state of parity {dx_def}see {dxt|parity||1}{/dx_def} or of being able to cope 
+  *Example:* students who miss class have difficulty *catching up*
+- **:** to bring about arrest for illicit activities 
+  *Example:* the police *caught up* with the thieves
+- **:** to complete or compensate {dx_def}see {dxt|compensate||1}{/dx_def} for something belatedly 
+  *Example:* *catch up* on lost sleep
+- **:** to acquire {d_link|belated|belated} information 
+  *Example:* *catch up* on the news
 
 ## Short Definitions:
 - to pick up often abruptly
@@ -35,10 +35,10 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}involved in (a difficult or confusing situation) 
-  *Example:* Several members of Congress were {it}caught up in{/it} the scandal.
-- {bc}excited about something and having trouble thinking about anything else 
-  *Example:* Everyone was {it}caught up in{/it} the excitement.
+- **:** involved in (a difficult or confusing situation) 
+  *Example:* Several members of Congress were *caught up in* the scandal.
+- **:** excited about something and having trouble thinking about anything else 
+  *Example:* Everyone was *caught up in* the excitement.
 
 ## Short Definitions:
 - involved in (a difficult or confusing situation)

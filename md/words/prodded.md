@@ -5,10 +5,10 @@
 **Audio Reference:** prod0001
 
 ## Definitions:
-- {bc}to thrust a pointed instrument into {bc}{sx|prick||}
-- {bc}to incite to action {bc}{sx|stir||}
-- {bc}to poke or stir as if with a prod
-- {bc}to urge someone on
+- **:** to thrust a pointed instrument into **:** {sx|prick||}
+- **:** to incite to action **:** {sx|stir||}
+- **:** to poke or stir as if with a prod
+- **:** to urge someone on
 
 ## Short Definitions:
 - to thrust a pointed instrument into : prick

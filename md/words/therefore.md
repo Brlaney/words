@@ -5,10 +5,10 @@
 **Audio Reference:** theref02
 
 ## Definitions:
-- {bc}for that reason {bc}{sx|consequently||}
-- {bc}because of that
-- {bc}on that {d_link|ground|ground:1}
-- {bc}to that end
+- **:** for that reason **:** {sx|consequently||}
+- **:** because of that
+- **:** on that {d_link|ground|ground:1}
+- **:** to that end
 
 ## Short Definitions:
 - for that reason : consequently

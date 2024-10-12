@@ -37,7 +37,7 @@
         "dict_path": "data/dict/halfway.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/halfway.md"
+        "md_path": "md/words//halfway.md"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "dict_path": "data/dict/barely.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/barely.md"
+        "md_path": "md/words//barely.md"
     },
     {
         "id": 6,
@@ -77,7 +77,7 @@
         "dict_path": "data/dict/handicapped.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/handicapped.md"
+        "md_path": "md/words//handicapped.md"
     },
     {
         "id": 9,
@@ -116,8 +116,8 @@
         "audio_path": "data/audio/aside.wav",
         "dict_path": "data/dict/aside.json",
         "mistake": false,
-        "has_md": true,
-        "md_path": "md/words/aside.md"
+        "has_md": false,
+        "md_path": ""
     },
     {
         "id": 13,
@@ -177,7 +177,7 @@
         "dict_path": "data/dict/unflagging.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/unflagging.md"
+        "md_path": "md/words//unflagging.md"
     },
     {
         "id": 19,
@@ -187,7 +187,7 @@
         "dict_path": "data/dict/encouragement.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/encouragement.md"
+        "md_path": "md/words//encouragement.md"
     },
     {
         "id": 20,
@@ -197,7 +197,7 @@
         "dict_path": "data/dict/soared.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/soared.md"
+        "md_path": "md/words//soared.md"
     },
     {
         "id": 21,
@@ -207,7 +207,7 @@
         "dict_path": "data/dict/reached.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/reached.md"
+        "md_path": "md/words//reached.md"
     },
     {
         "id": 22,
@@ -217,7 +217,7 @@
         "dict_path": "data/dict/as_high_as.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/as_high_as.md"
+        "md_path": "md/phrases//as_high_as.md"
     },
     {
         "id": 23,
@@ -227,7 +227,7 @@
         "dict_path": "data/dict/point_out.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/point_out.md"
+        "md_path": "md/phrases//point_out.md"
     },
     {
         "id": 24,
@@ -237,7 +237,7 @@
         "dict_path": "data/dict/laid_down.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/laid_down.md"
+        "md_path": "md/phrases//laid_down.md"
     },
     {
         "id": 25,
@@ -247,7 +247,7 @@
         "dict_path": "data/dict/urging.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/urging.md"
+        "md_path": "md/words//urging.md"
     },
     {
         "id": 26,
@@ -257,7 +257,7 @@
         "dict_path": "data/dict/pleading.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/pleading.md"
+        "md_path": "md/words//pleading.md"
     },
     {
         "id": 27,
@@ -267,7 +267,7 @@
         "dict_path": "data/dict/look_up.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/look_up.md"
+        "md_path": "md/phrases//look_up.md"
     },
     {
         "id": 28,
@@ -276,8 +276,8 @@
         "audio_path": "data/audio/somehow.wav",
         "dict_path": "data/dict/somehow.json",
         "mistake": false,
-        "has_md": true,
-        "md_path": "md/words/somehow.md"
+        "has_md": false,
+        "md_path": ""
     },
     {
         "id": 29,
@@ -287,7 +287,7 @@
         "dict_path": "data/dict/laying_down.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/laying_down.md"
+        "md_path": "md/phrases//laying_down.md"
     },
     {
         "id": 30,
@@ -296,8 +296,8 @@
         "audio_path": "data/audio/check_out.wav",
         "dict_path": "data/dict/check_out.json",
         "mistake": false,
-        "has_md": true,
-        "md_path": "md/phrases/check_out.md"
+        "has_md": false,
+        "md_path": ""
     },
     {
         "id": 31,
@@ -317,7 +317,7 @@
         "dict_path": "data/dict/grumbled.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/grumbled.md"
+        "md_path": "md/words//grumbled.md"
     },
     {
         "id": 33,
@@ -327,7 +327,7 @@
         "dict_path": "data/dict/endless.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/endless.md"
+        "md_path": "md/words//endless.md"
     },
     {
         "id": 34,
@@ -347,7 +347,7 @@
         "dict_path": "data/dict/unbounded.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/unbounded.md"
+        "md_path": "md/words//unbounded.md"
     },
     {
         "id": 36,
@@ -366,8 +366,8 @@
         "audio_path": "data/audio/hold_on.wav",
         "dict_path": "data/dict/hold_on.json",
         "mistake": false,
-        "has_md": true,
-        "md_path": "md/phrases/hold_on.md"
+        "has_md": false,
+        "md_path": ""
     },
     {
         "id": 38,
@@ -424,8 +424,8 @@
         "audio_path": "data/audio/frightened.wav",
         "dict_path": "data/dict/frightened.json",
         "mistake": false,
-        "has_md": true,
-        "md_path": "md/words/frightened.md"
+        "has_md": false,
+        "md_path": ""
     },
     {
         "id": 44,
@@ -475,7 +475,7 @@
         "dict_path": "data/dict/sweat.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/sweat.md"
+        "md_path": "md/words//sweat.md"
     },
     {
         "id": 49,
@@ -485,7 +485,7 @@
         "dict_path": "data/dict/pale.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/pale.md"
+        "md_path": "md/words//pale.md"
     },
     {
         "id": 50,
@@ -495,7 +495,7 @@
         "dict_path": "data/dict/gaze.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/gaze.md"
+        "md_path": "md/words//gaze.md"
     },
     {
         "id": 51,
@@ -505,7 +505,7 @@
         "dict_path": "data/dict/muttered.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/muttered.md"
+        "md_path": "md/words//muttered.md"
     },
     {
         "id": 52,
@@ -515,7 +515,7 @@
         "dict_path": "data/dict/prodded.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/prodded.md"
+        "md_path": "md/words//prodded.md"
     },
     {
         "id": 53,
@@ -525,7 +525,7 @@
         "dict_path": "data/dict/gang.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/gang.md"
+        "md_path": "md/words//gang.md"
     },
     {
         "id": 54,
@@ -535,7 +535,7 @@
         "dict_path": "data/dict/cutting_off.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/cutting_off.md"
+        "md_path": "md/phrases//cutting_off.md"
     },
     {
         "id": 55,
@@ -555,7 +555,7 @@
         "dict_path": "data/dict/along_the.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/along_the.md"
+        "md_path": "md/phrases//along_the.md"
     },
     {
         "id": 57,
@@ -585,7 +585,7 @@
         "dict_path": "data/dict/magnifying_glass.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/magnifying_glass.md"
+        "md_path": "md/phrases//magnifying_glass.md"
     },
     {
         "id": 60,
@@ -615,7 +615,7 @@
         "dict_path": "data/dict/widened.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/widened.md"
+        "md_path": "md/words//widened.md"
     },
     {
         "id": 63,
@@ -625,7 +625,7 @@
         "dict_path": "data/dict/up_until.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/up_until.md"
+        "md_path": "md/phrases//up_until.md"
     },
     {
         "id": 64,
@@ -634,8 +634,8 @@
         "audio_path": "data/audio/aside.wav",
         "dict_path": "data/dict/aside.json",
         "mistake": false,
-        "has_md": true,
-        "md_path": "md/words/aside.md"
+        "has_md": false,
+        "md_path": ""
     },
     {
         "id": 65,
@@ -645,7 +645,7 @@
         "dict_path": "data/dict/spelling_bees.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/spelling_bees.md"
+        "md_path": "md/phrases//spelling_bees.md"
     },
     {
         "id": 66,
@@ -675,7 +675,7 @@
         "dict_path": "data/dict/flax.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/flax.md"
+        "md_path": "md/words//flax.md"
     },
     {
         "id": 69,
@@ -695,7 +695,7 @@
         "dict_path": "data/dict/pulling_ahead.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/pulling_ahead.md"
+        "md_path": "md/phrases//pulling_ahead.md"
     },
     {
         "id": 71,
@@ -715,7 +715,7 @@
         "dict_path": "data/dict/beamed.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/beamed.md"
+        "md_path": "md/words//beamed.md"
     },
     {
         "id": 73,
@@ -724,8 +724,8 @@
         "audio_path": "data/audio/smiled.wav",
         "dict_path": "data/dict/smiled.json",
         "mistake": false,
-        "has_md": true,
-        "md_path": "md/words/smiled.md"
+        "has_md": false,
+        "md_path": ""
     },
     {
         "id": 74,
@@ -795,7 +795,7 @@
         "dict_path": "data/dict/growth.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/growth.md"
+        "md_path": "md/words//growth.md"
     },
     {
         "id": 81,
@@ -815,7 +815,7 @@
         "dict_path": "data/dict/caught_up.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/caught_up.md"
+        "md_path": "md/phrases//caught_up.md"
     },
     {
         "id": 83,
@@ -825,7 +825,7 @@
         "dict_path": "data/dict/stand_out.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/stand_out.md"
+        "md_path": "md/phrases//stand_out.md"
     },
     {
         "id": 84,
@@ -875,7 +875,7 @@
         "dict_path": "data/dict/slow_down.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/slow_down.md"
+        "md_path": "md/phrases//slow_down.md"
     },
     {
         "id": 89,
@@ -885,7 +885,7 @@
         "dict_path": "data/dict/envied.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/envied.md"
+        "md_path": "md/words//envied.md"
     },
     {
         "id": 90,
@@ -943,7 +943,7 @@
         "dict_path": "data/dict/surgeons.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/surgeons.md"
+        "md_path": "md/words//surgeons.md"
     },
     {
         "id": 96,
@@ -953,7 +953,7 @@
         "dict_path": "data/dict/to_bear.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/to_bear.md"
+        "md_path": "md/phrases//to_bear.md"
     },
     {
         "id": 97,
@@ -963,7 +963,7 @@
         "dict_path": "data/dict/painstaking.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/painstaking.md"
+        "md_path": "md/words//painstaking.md"
     },
     {
         "id": 98,
@@ -973,7 +973,7 @@
         "dict_path": "data/dict/blood_vessels.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/blood_vessels.md"
+        "md_path": "md/phrases//blood_vessels.md"
     },
     {
         "id": 99,
@@ -983,7 +983,7 @@
         "dict_path": "data/dict/rehearsals.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/rehearsals.md"
+        "md_path": "md/words//rehearsals.md"
     },
     {
         "id": 100,
@@ -1013,7 +1013,7 @@
         "dict_path": "data/dict/therefore.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/therefore.md"
+        "md_path": "md/words//therefore.md"
     },
     {
         "id": 103,
@@ -1023,7 +1023,7 @@
         "dict_path": "data/dict/choking_back.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/phrases/choking_back.md"
+        "md_path": "md/phrases//choking_back.md"
     },
     {
         "id": 104,
@@ -1053,7 +1053,7 @@
         "dict_path": "data/dict/sob's.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/sob's.md"
+        "md_path": "md/words//sob's.md"
     },
     {
         "id": 107,
@@ -1073,7 +1073,7 @@
         "dict_path": "data/dict/swiped.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/swiped.md"
+        "md_path": "md/words//swiped.md"
     },
     {
         "id": 109,
@@ -1093,7 +1093,7 @@
         "dict_path": "data/dict/twinkle.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/twinkle.md"
+        "md_path": "md/words//twinkle.md"
     },
     {
         "id": 111,
@@ -1123,7 +1123,7 @@
         "dict_path": "data/dict/alley.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/alley.md"
+        "md_path": "md/words//alley.md"
     },
     {
         "id": 114,
@@ -1153,7 +1153,7 @@
         "dict_path": "data/dict/pleading.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/pleading.md"
+        "md_path": "md/words//pleading.md"
     },
     {
         "id": 117,
@@ -1173,7 +1173,7 @@
         "dict_path": "data/dict/burdened.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/burdened.md"
+        "md_path": "md/words//burdened.md"
     },
     {
         "id": 119,
@@ -1183,7 +1183,7 @@
         "dict_path": "data/dict/betrayals.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/betrayals.md"
+        "md_path": "md/words//betrayals.md"
     },
     {
         "id": 120,
@@ -1193,7 +1193,7 @@
         "dict_path": "data/dict/huddled.json",
         "mistake": false,
         "has_md": true,
-        "md_path": "md/words/huddled.md"
+        "md_path": "md/words//huddled.md"
     },
     {
         "id": 121,

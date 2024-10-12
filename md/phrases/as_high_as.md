@@ -5,8 +5,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}greatly affected by alcohol or drugs {bc}very drunk or intoxicated 
-  *Example:* The driver was {it}as high as a kite{/it}.
+- **:** greatly affected by alcohol or drugs **:** very drunk or intoxicated 
+  *Example:* The driver was *as high as a kite*.
 
 ## Short Definitions:
 - greatly affected by alcohol or drugs : very drunk or intoxicated

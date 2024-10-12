@@ -5,8 +5,8 @@
 **Audio Reference:** burdened_1
 
 ## Definitions:
-- {bc}carrying a {a_link|burden} {bc}heavily laden or encumbered 
-  *Example:* {wi}burdened{/wi} with/by debt/guilt/responsibilities
+- **:** carrying a {a_link|burden} **:** heavily laden or encumbered 
+  *Example:* `burdened` with/by debt/guilt/responsibilities
 
 ## Short Definitions:
 - carrying a burden : heavily laden or encumbered
@@ -17,8 +17,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}{sx|load||}, {sx|oppress||} 
-  *Example:* I will not {wi}burden{/wi} you with a lengthy account.
+- **:** {sx|load||}, {sx|oppress||} 
+  *Example:* I will not `burden` you with a lengthy account.
 
 ## Short Definitions:
 - load, oppress

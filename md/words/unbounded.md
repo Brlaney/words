@@ -5,9 +5,9 @@
 **Audio Reference:** unboun02
 
 ## Definitions:
-- {bc}having no limit 
-  *Example:* {wi}unbounded{/wi} joy
-- {bc}{sx|unrestrained||}, {sx|uncontrolled||}
+- **:** having no limit 
+  *Example:* `unbounded` joy
+- **:** {sx|unrestrained||}, {sx|uncontrolled||}
 
 ## Short Definitions:
 - having no limit

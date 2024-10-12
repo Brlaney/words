@@ -5,5 +5,5 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to reduce to powder or pulp by beating
-- {bc}to strike heavily or repeatedly
+- **:** to reduce to powder or pulp by beating
+- **:** to strike heavily or repeatedly

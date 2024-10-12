@@ -5,7 +5,7 @@
 **Audio Reference:** stando03
 
 ## Definitions:
-- {bc}one that is prominent or conspicuous especially because of excellence
+- **:** one that is prominent or conspicuous especially because of excellence
 
 ## Short Definitions:
 - one that is prominent or conspicuous especially because of excellence
@@ -16,11 +16,11 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to appear as if in relief {bc}{sx|project||}
-- {bc}to be prominent or conspicuous 
-  *Example:* {it}stands out{/it} from the crowd
-- {bc}to steer away from shore
-- {bc}to be stubborn in resolution or resistance
+- **:** to appear as if in relief **:** {sx|project||}
+- **:** to be prominent or conspicuous 
+  *Example:* *stands out* from the crowd
+- **:** to steer away from shore
+- **:** to be stubborn in resolution or resistance
 
 ## Short Definitions:
 - to appear as if in relief : project
@@ -33,8 +33,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to be unusual in a good way 
-  *Example:* As a teacher, he always {it}stood out from the crowd{/it}.
+- **:** to be unusual in a good way 
+  *Example:* As a teacher, he always *stood out from the crowd*.
 
 ## Short Definitions:
 - to be unusual in a good way
@@ -45,8 +45,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to be different from others 
-  *Example:* One writer {it}stands out from the pack{/it}.
+- **:** to be different from others 
+  *Example:* One writer *stands out from the pack*.
 
 ## Short Definitions:
 - to be different from others
@@ -57,8 +57,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to be very obvious 
-  *Example:* The twins' resemblance {it}stood/stuck out a mile{/it}.
+- **:** to be very obvious 
+  *Example:* The twins' resemblance *stood/stuck out a mile*.
 
 ## Short Definitions:
 - to be very obvious
@@ -69,7 +69,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to be very noticeable in usually a bad way
+- **:** to be very noticeable in usually a bad way
 
 ## Short Definitions:
 - to be very noticeable in usually a bad way
@@ -80,7 +80,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}pressure to do something 
+- **:** pressure to do something 
   *Example:* The administration is {phrase}putting the heat on{/phrase} legislators to approve the tax bill.
 
 ## Short Definitions:

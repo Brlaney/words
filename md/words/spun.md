@@ -13,4 +13,4 @@
 **Audio Reference:** spin0001
 
 ## Definitions:
-- {bc}to draw out and twist fiber into yarn or thread
+- **:** to draw out and twist fiber into yarn or thread

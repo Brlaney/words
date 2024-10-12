@@ -5,10 +5,10 @@
 **Audio Reference:** widen001
 
 ## Definitions:
-- {bc}to increase the width, scope, or extent of 
-  *Example:* {wi}widen{/wi} a road
-- {bc}to become wide or {a_link|wider} 
-  *Example:* a {wi}widening gap{/wi}
+- **:** to increase the width, scope, or extent of 
+  *Example:* `widen` a road
+- **:** to become wide or {a_link|wider} 
+  *Example:* a `widening gap`
 
 ## Short Definitions:
 - to increase the width, scope, or extent of

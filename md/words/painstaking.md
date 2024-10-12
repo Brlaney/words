@@ -5,8 +5,8 @@
 **Audio Reference:** painst01
 
 ## Definitions:
-- {bc}taking {d_link|pains|pain:1} {bc}expending, showing, or involving diligent care and effort 
-  *Example:* {wi}painstaking{/wi} research
+- **:** taking {d_link|pains|pain:1} **:** expending, showing, or involving diligent care and effort 
+  *Example:* `painstaking` research
 
 ## Short Definitions:
 - taking pains : expending, showing, or involving diligent care and effort
@@ -20,8 +20,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}the action of taking {d_link|pains|pain:1} {bc}diligent care and effort 
-  *Example:* … greater {wi}painstaking{/wi} to achieve incidental verisimilitude and accuracy of detail …
+- **:** the action of taking {d_link|pains|pain:1} **:** diligent care and effort 
+  *Example:* … greater `painstaking` to achieve incidental verisimilitude and accuracy of detail …
 
 ## Short Definitions:
 - the action of taking pains : diligent care and effort

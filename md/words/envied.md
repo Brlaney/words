@@ -5,9 +5,9 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to feel envy toward or on account of
-- {bc}{sx|begrudge||}
-- {bc}to feel or show envy
+- **:** to feel envy toward or on account of
+- **:** {sx|begrudge||}
+- **:** to feel or show envy
 
 ## Short Definitions:
 - to feel envy toward or on account of

@@ -5,12 +5,12 @@
 **Audio Reference:** pale0001
 
 ## Definitions:
-- {bc}deficient in color or intensity of color {bc}{sx|pallid||} 
-  *Example:* a {wi}pale{/wi} complexion
-- {bc}not bright or brilliant {bc}{sx|dim||} 
-  *Example:* a {wi}pale{/wi} sun shining through the fog
-- {bc}{sx|feeble||}, {sx|faint||} 
-  *Example:* a {wi}pale{/wi} imitation
+- **:** deficient in color or intensity of color **:** {sx|pallid||} 
+  *Example:* a `pale` complexion
+- **:** not bright or brilliant **:** {sx|dim||} 
+  *Example:* a `pale` sun shining through the fog
+- **:** {sx|feeble||}, {sx|faint||} 
+  *Example:* a `pale` imitation
 
 ## Short Definitions:
 - deficient in color or intensity of color : pallid
@@ -28,8 +28,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to become pale
-- {bc}to make pale
+- **:** to become pale
+- **:** to make pale
 
 ## Short Definitions:
 - to become pale
@@ -41,16 +41,16 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}an area or the limits within which one is privileged or protected (as from censure) 
-  *Example:* conduct that was beyond the {wi}pale{/wi}
-- {bc}a space or field having bounds {bc}{sx|enclosure||} 
-  *Example:* The cattle were led into the {wi}pale{/wi}.
-- {bc}a territory or district within certain bounds or under a particular jurisdiction 
-  *Example:* British culture survived even within the Roman {wi}pale{/wi}.
-- {bc}one of the stakes of a {d_link|palisade|palisade:1}
-- {bc}{sx|picket||1}
-- {bc}a perpendicular stripe on a heraldic shield
-- {bc}{sx|palisade||}, {sx|paling|paling|}
+- **:** an area or the limits within which one is privileged or protected (as from censure) 
+  *Example:* conduct that was beyond the `pale`
+- **:** a space or field having bounds **:** {sx|enclosure||} 
+  *Example:* The cattle were led into the `pale`.
+- **:** a territory or district within certain bounds or under a particular jurisdiction 
+  *Example:* British culture survived even within the Roman `pale`.
+- **:** one of the stakes of a {d_link|palisade|palisade:1}
+- **:** {sx|picket||1}
+- **:** a perpendicular stripe on a heraldic shield
+- **:** {sx|palisade||}, {sx|paling|paling|}
 
 ## Short Definitions:
 - an area or the limits within which one is privileged or protected (as from censure)
@@ -63,7 +63,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to enclose with pales {bc}{sx|fence||}
+- **:** to enclose with pales **:** {sx|fence||}
 
 ## Short Definitions:
 - to enclose with pales : fence
@@ -84,10 +84,10 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}involving or dealing with ancient forms or conditions 
-  *Example:* {wi}paleo{/wi}botany
-- {bc}early {bc}primitive {bc}archaic 
-  *Example:* {wi}Paleo{/wi}lithic
+- **:** involving or dealing with ancient forms or conditions 
+  *Example:* `paleo`botany
+- **:** early **:** primitive **:** archaic 
+  *Example:* `Paleo`lithic
 
 ## Short Definitions:
 - involving or dealing with ancient forms or conditions
@@ -99,7 +99,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}a usually medium-colored, very dry {d_link|ale|ale} with a strong flavor of {d_link|hops|hop:3} {dx}see also {dxt|india pale ale||}{/dx}
+- **:** a usually medium-colored, very dry {d_link|ale|ale} with a strong flavor of {d_link|hops|hop:3} {dx}see also {dxt|india pale ale||}{/dx}
 
 ## Short Definitions:
 - a usually medium-colored, very dry ale with a strong flavor of hops
@@ -110,8 +110,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to seem less important, good, serious, etc., when compared with something else 
-  *Example:* Once you've tasted the local apples, all others {it}pale by comparison{/it}.
+- **:** to seem less important, good, serious, etc., when compared with something else 
+  *Example:* Once you've tasted the local apples, all others *pale by comparison*.
 
 ## Short Definitions:
 - to seem less important, good, serious, etc., when compared with something else
@@ -122,8 +122,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}an inferior version 
-  *Example:* The remake of the movie was a {it}pale imitation{/it} of the original.
+- **:** an inferior version 
+  *Example:* The remake of the movie was a *pale imitation* of the original.
 
 ## Short Definitions:
 - an inferior version
@@ -134,8 +134,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to seem less important, good, serious, etc., when compared with (something else) 
-  *Example:* The afternoon meal {it}paled in comparison to/with{/it} the feast they had later.
+- **:** to seem less important, good, serious, etc., when compared with (something else) 
+  *Example:* The afternoon meal *paled in comparison to/with* the feast they had later.
 
 ## Short Definitions:
 - to seem less important, good, serious, etc., when compared with (something else)

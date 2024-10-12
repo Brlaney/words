@@ -5,8 +5,8 @@
 **Audio Reference:** slowdo01
 
 ## Definitions:
-- {bc}a {a_link|slowing} down 
-  *Example:* a business {wi}slowdown{/wi}
+- **:** a {a_link|slowing} down 
+  *Example:* a business `slowdown`
 
 ## Short Definitions:
 - a slowing down

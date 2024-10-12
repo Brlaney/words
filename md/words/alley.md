@@ -5,13 +5,13 @@
 **Audio Reference:** alley001
 
 ## Definitions:
-- {bc}a garden or park walk bordered by trees or bushes
-- {bc}the space on each side of a tennis doubles court between the sideline and the service sideline
-- {bc}an area in a baseball outfield between two outfielders when they are in normal positions 
-  *Example:* hit a line drive into the {wi}alley{/wi}
-- {bc}a narrow street
-- {bc}an extensive region where destructive natural phenomena of a specified type (such as tornadoes) occur often or are likely to occur 
-  *Example:* The most obvious tornado {wi}alley{/wi} extends from the plains of northwest Texas eastward into north Texas and then northward across Oklahoma, Kansas, and eastern Nebraska.
+- **:** a garden or park walk bordered by trees or bushes
+- **:** the space on each side of a tennis doubles court between the sideline and the service sideline
+- **:** an area in a baseball outfield between two outfielders when they are in normal positions 
+  *Example:* hit a line drive into the `alley`
+- **:** a narrow street
+- **:** an extensive region where destructive natural phenomena of a specified type (such as tornadoes) occur often or are likely to occur 
+  *Example:* The most obvious tornado `alley` extends from the plains of northwest Texas eastward into north Texas and then northward across Oklahoma, Kansas, and eastern Nebraska.
 
 ## Short Definitions:
 - a garden or park walk bordered by trees or bushes
@@ -24,7 +24,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}a playing marble
+- **:** a playing marble
 
 ## Short Definitions:
 - a playing marble; especially : one of superior quality
@@ -35,7 +35,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}a stray cat
+- **:** a stray cat
 
 ## Short Definitions:
 - a stray cat
@@ -46,10 +46,10 @@
 **Audio Reference:** alley01w
 
 ## Definitions:
-- {bc}a play in which a leaping player catches a pass above the basket and immediately dunks the ball 
-  *Example:* The meeting of man and ball was dazzling, the two handed {wi}alley-oop{/wi} slam-dunk spectacular.
-- {bc}a play in which the quarterback throws a high, arcing pass into the end zone to be caught by a leaping receiver 
-  *Example:* Quarterback Moore hooked up with receiver Moore on one of their patented {wi}alley-oops{/wi} to make the score 20-7.
+- **:** a play in which a leaping player catches a pass above the basket and immediately dunks the ball 
+  *Example:* The meeting of man and ball was dazzling, the two handed `alley-oop` slam-dunk spectacular.
+- **:** a play in which the quarterback throws a high, arcing pass into the end zone to be caught by a leaping receiver 
+  *Example:* Quarterback Moore hooked up with receiver Moore on one of their patented `alley-oops` to make the score 20-7.
 
 ## Short Definitions:
 - a play in which a leaping player catches a pass above the basket and immediately dunks the ball; also : the usually high, arcing pass thrown on such a play
@@ -64,7 +64,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}a fruitless or mistaken course or direction
+- **:** a fruitless or mistaken course or direction
 
 ## Short Definitions:
 - a fruitless or mistaken course or direction
@@ -75,7 +75,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}a district that is a center for composers and publishers of popular music
+- **:** a district that is a center for composers and publishers of popular music
 
 ## Short Definitions:
 - a district that is a center for composers and publishers of popular music; also : the body of such composers and publishers
@@ -97,7 +97,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}a room or building in which people play the game of bowling
+- **:** a room or building in which people play the game of bowling
 
 ## Short Definitions:
 - a room or building in which people play the game of bowling
@@ -108,8 +108,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}especially suited to someone's tastes or abilities 
-  *Example:* I love books, so volunteering at the library is {it}up my alley{/it}.
+- **:** especially suited to someone's tastes or abilities 
+  *Example:* I love books, so volunteering at the library is *up my alley*.
 
 ## Short Definitions:
 - especially suited to someone's tastes or abilities

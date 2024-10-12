@@ -5,8 +5,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}during the time or period before 
-  *Example:* {it}Up until{/it} now, everything has gone very well.
+- **:** during the time or period before 
+  *Example:* *Up until* now, everything has gone very well.
 
 ## Short Definitions:
 - during the time or period before

@@ -5,16 +5,16 @@
 **Audio Reference:** harsh001
 
 ## Definitions:
-- {bc}having a coarse uneven surface that is rough or unpleasant to the touch 
-  *Example:* granite stones {wi}harsh{/wi} with lichen
-- {bc}causing a disagreeable or painful sensory reaction {bc}{sx|irritating||} 
-  *Example:* {wi}harsh{/wi} colors
-- {bc}physically discomforting 
-  *Example:* The climate there is very {wi}harsh{/wi}.
-- {bc}excessively critical or negative 
-  *Example:* had some {wi}harsh{/wi} words for her opponent
-- {bc}lacking in aesthetic appeal or refinement {bc}{sx|crude||} 
-  *Example:* a {wi}harsh{/wi} and sometimes unpleasant book, barren of pretty touches
+- **:** having a coarse uneven surface that is rough or unpleasant to the touch 
+  *Example:* granite stones `harsh` with lichen
+- **:** causing a disagreeable or painful sensory reaction **:** {sx|irritating||} 
+  *Example:* `harsh` colors
+- **:** physically discomforting 
+  *Example:* The climate there is very `harsh`.
+- **:** excessively critical or negative 
+  *Example:* had some `harsh` words for her opponent
+- **:** lacking in aesthetic appeal or refinement **:** {sx|crude||} 
+  *Example:* a `harsh` and sometimes unpleasant book, barren of pretty touches
 
 ## Short Definitions:
 - having a coarse uneven surface that is rough or unpleasant to the touch

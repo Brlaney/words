@@ -5,12 +5,12 @@
 **Audio Reference:** mutter01
 
 ## Definitions:
-- {bc}to utter sounds or words indistinctly or with a low voice and with the lips partly closed 
-  *Example:* … he gestured and {wi}muttered{/wi} furiously in his lawyer's ear.
-- {bc}to murmur complainingly or angrily {bc}{sx|grumble||} 
-  *Example:* Some employees {wi}muttered{/wi} about the changes in the pension plan.
-- {bc}to utter especially in a low or imperfectly articulated manner 
-  *Example:* {wi}muttered{/wi} an apology
+- **:** to utter sounds or words indistinctly or with a low voice and with the lips partly closed 
+  *Example:* … he gestured and `muttered` furiously in his lawyer's ear.
+- **:** to murmur complainingly or angrily **:** {sx|grumble||} 
+  *Example:* Some employees `muttered` about the changes in the pension plan.
+- **:** to utter especially in a low or imperfectly articulated manner 
+  *Example:* `muttered` an apology
 
 ## Short Definitions:
 - to utter sounds or words indistinctly or with a low voice and with the lips partly closed

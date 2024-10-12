@@ -5,19 +5,19 @@
 **Audio Reference:** reach001
 
 ## Definitions:
-- {bc}to stretch out {bc}{sx|extend||}
-- {bc}{sx|thrust||}
-- {bc}to touch or grasp by extending a part of the body (such as a hand) or an object 
-  *Example:* couldn't {wi}reach{/wi} the apple
-- {bc}to pick up and draw toward one {bc}{sx|take||}
-- {bc}to hand over {bc}{sx|pass||}
-- {bc}to make a stretch with or as if with one's hand
-- {bc}to strain after something
-- {bc}{sx|project||}, {sx|extend||} 
-  *Example:* his land {wi}reaches{/wi} to the river
-- {bc}to arrive at or come to something 
-  *Example:* as far as the eye could {wi}reach{/wi}
-- {bc}to sail on a reach
+- **:** to stretch out **:** {sx|extend||}
+- **:** {sx|thrust||}
+- **:** to touch or grasp by extending a part of the body (such as a hand) or an object 
+  *Example:* couldn't `reach` the apple
+- **:** to pick up and draw toward one **:** {sx|take||}
+- **:** to hand over **:** {sx|pass||}
+- **:** to make a stretch with or as if with one's hand
+- **:** to strain after something
+- **:** {sx|project||}, {sx|extend||} 
+  *Example:* his land `reaches` to the river
+- **:** to arrive at or come to something 
+  *Example:* as far as the eye could `reach`
+- **:** to sail on a reach
 
 ## Short Definitions:
 - to stretch out : extend
@@ -34,8 +34,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}unable to be patient any longer 
-  *Example:* I'm {it}at the end of my patience{/it} and I'm going to file a complaint.
+- **:** unable to be patient any longer 
+  *Example:* I'm *at the end of my patience* and I'm going to file a complaint.
 
 ## Short Definitions:
 - unable to be patient any longer
@@ -46,10 +46,10 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to move one's hand in order to get or touch (someone or something) 
-  *Example:* She {it}reached for{/it} the salt and pepper.
-- {bc}to try hard to achieve or succeed at (something) 
-  *Example:* Success won't come to you, you have to {it}reach for{/it} it.
+- **:** to move one's hand in order to get or touch (someone or something) 
+  *Example:* She *reached for* the salt and pepper.
+- **:** to try hard to achieve or succeed at (something) 
+  *Example:* Success won't come to you, you have to *reach for* it.
 
 ## Short Definitions:
 - to move one's hand in order to get or touch (someone or something)
@@ -61,8 +61,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to make an effort to do something for other people 
-  *Example:* The church is {it}reaching out{/it} to help the poor.
+- **:** to make an effort to do something for other people 
+  *Example:* The church is *reaching out* to help the poor.
 
 ## Short Definitions:
 - to make an effort to do something for other people
@@ -73,10 +73,10 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to offer help or support to (someone) 
-  *Example:* a community {it}reaching out to{/it} refugees
-- {bc}to try to get the attention and interest of (someone) 
-  *Example:* He's {it}reaching out to{/it} young voters.
+- **:** to offer help or support to (someone) 
+  *Example:* a community *reaching out to* refugees
+- **:** to try to get the attention and interest of (someone) 
+  *Example:* He's *reaching out to* young voters.
 
 ## Short Definitions:
 - to offer help or support to (someone)

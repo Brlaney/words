@@ -5,8 +5,8 @@
 **Audio Reference:** frightened_1
 
 ## Definitions:
-- {bc}feeling fear {bc}made to feel afraid 
-  *Example:* a badly {wi}frightened{/wi} child
+- **:** feeling fear **:** made to feel afraid 
+  *Example:* a badly `frightened` child
 
 ## Short Definitions:
 - feeling fear : made to feel afraid
@@ -17,12 +17,12 @@
 **Audio Reference:** fright02
 
 ## Definitions:
-- {bc}to make afraid {bc}{sx|terrify||} 
-  *Example:* The movie scene {wi}frightened{/wi} the child.
-- {bc}to drive or force by {a_link|frightening} 
-  *Example:* {wi}frightened{/wi} the boy into confessing
-- {bc}to become {a_link|frightened} 
-  *Example:* She doesn't {wi}frighten{/wi} easily.
+- **:** to make afraid **:** {sx|terrify||} 
+  *Example:* The movie scene `frightened` the child.
+- **:** to drive or force by {a_link|frightening} 
+  *Example:* `frightened` the boy into confessing
+- **:** to become {a_link|frightened} 
+  *Example:* She doesn't `frighten` easily.
 
 ## Short Definitions:
 - to make afraid : terrify
@@ -38,8 +38,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to cause (someone) to do (something) because of fear 
-  *Example:* The insurance agent tried to {it}frighten{/it} her {it}into{/it} buying the most expensive flood insurance.
+- **:** to cause (someone) to do (something) because of fear 
+  *Example:* The insurance agent tried to *frighten* her *into* buying the most expensive flood insurance.
 
 ## Short Definitions:
 - to cause (someone) to do (something) because of fear
@@ -50,8 +50,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to keep (someone) from (doing something) because of fear 
-  *Example:* Bad economic news has {it}frightened{/it} people {it}out of{/it} putting their money in the stock market.
+- **:** to keep (someone) from (doing something) because of fear 
+  *Example:* Bad economic news has *frightened* people *out of* putting their money in the stock market.
 
 ## Short Definitions:
 - to keep (someone) from (doing something) because of fear
@@ -62,7 +62,3 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- [[['text', 'used to make a statement or question more forceful '], ['vis', [{'t': 'What {it}the dickens{/it} do you mean?'}, {'t': "We'll have to work {phrase}like the dickens{/phrase} to finish this project."}, {'t': '({it}US{/it}) It {phrase}scared/frightened the dickens{/phrase} out of people.'}, {'t': "({it}US{/it}) She's as {phrase}cute as the dickens{/phrase}."}]]]]
-
-## Short Definitions:
-- —used to make a statement or question more forceful

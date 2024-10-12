@@ -5,12 +5,12 @@
 **Audio Reference:** soar0001
 
 ## Definitions:
-- {bc}to fly aloft or about
-- {bc}to rise or increase dramatically (as in position, value, or price) 
-  *Example:* stocks {wi}soared{/wi}
-- {bc}to ascend to a higher or more exalted level 
-  *Example:* makes my spirits {wi}soar{/wi}
-- {bc}to rise to majestic stature
+- **:** to fly aloft or about
+- **:** to rise or increase dramatically (as in position, value, or price) 
+  *Example:* stocks `soared`
+- **:** to ascend to a higher or more exalted level 
+  *Example:* makes my spirits `soar`
+- **:** to rise to majestic stature
 
 ## Short Definitions:
 - to fly aloft or about

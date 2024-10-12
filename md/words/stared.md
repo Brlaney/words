@@ -5,12 +5,12 @@
 **Audio Reference:** stare001
 
 ## Definitions:
-- {bc}to look fixedly often with wide-open eyes
-- {bc}to show oneself conspicuously 
-  *Example:* the error {it}stared{/it} from the page
-- {bc}to stand on end {bc}{sx|bristle||}
-- {bc}to have an effect on by {a_link|staring}
-- {bc}to look at with a searching or earnest gaze
+- **:** to look fixedly often with wide-open eyes
+- **:** to show oneself conspicuously 
+  *Example:* the error *stared* from the page
+- **:** to stand on end **:** {sx|bristle||}
+- **:** to have an effect on by {a_link|staring}
+- **:** to look at with a searching or earnest gaze
 
 ## Short Definitions:
 - to look fixedly often with wide-open eyes
@@ -26,9 +26,9 @@
 **Audio Reference:** dagger01
 
 ## Definitions:
-- {bc}a sharp pointed knife for stabbing
-- {bc}something that resembles a dagger
-- {bc}a character † used as a reference mark or to indicate a death date
+- **:** a sharp pointed knife for stabbing
+- **:** something that resembles a dagger
+- **:** a character † used as a reference mark or to indicate a death date
 
 ## Short Definitions:
 - a sharp pointed knife for stabbing
@@ -44,7 +44,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to cause to waver or submit by or as if by staring
+- **:** to cause to waver or submit by or as if by staring
 
 ## Short Definitions:
 - to cause to waver or submit by or as if by staring

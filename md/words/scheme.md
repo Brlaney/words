@@ -5,11 +5,11 @@
 **Audio Reference:** scheme01
 
 ## Definitions:
-- {bc}a plan or program of action
-- {bc}a systematic or organized configuration {bc}{sx|design||} 
-  *Example:* color {wi}scheme{/wi}
-- {bc}a concise statement or table {bc}{sx|epitome||}
-- {bc}a graphic sketch or outline
+- **:** a plan or program of action
+- **:** a systematic or organized configuration **:** {sx|design||} 
+  *Example:* color `scheme`
+- **:** a concise statement or table **:** {sx|epitome||}
+- **:** a graphic sketch or outline
 
 ## Short Definitions:
 - a plan or program of action; especially : a crafty or secret one

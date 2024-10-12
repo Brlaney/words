@@ -5,12 +5,12 @@
 **Audio Reference:** grumbl01
 
 ## Definitions:
-- {bc}to mutter in discontent 
-  *Example:* {it}grumbled{/it} about the scarcity of jobs
-- {bc}{sx|growl||}, {sx|rumble||} 
-  *Example:* Thunder {it}grumbled{/it} in the distance.
-- {bc}to express with {a_link|grumbling} 
-  *Example:* {it}grumbled{/it} his annoyance
+- **:** to mutter in discontent 
+  *Example:* *grumbled* about the scarcity of jobs
+- **:** {sx|growl||}, {sx|rumble||} 
+  *Example:* Thunder *grumbled* in the distance.
+- **:** to express with {a_link|grumbling} 
+  *Example:* *grumbled* his annoyance
 
 ## Short Definitions:
 - to mutter in discontent

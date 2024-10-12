@@ -5,14 +5,14 @@
 **Audio Reference:** twinkl01
 
 ## Definitions:
-- {bc}to shine with a flickering or sparkling light {bc}{sx|scintillate||}
-- {bc}to appear bright especially with merriment 
-  *Example:* his eyes {it}twinkled{/it}
-- {bc}to flutter the eyelids
-- {bc}to flutter or flit rapidly
-- {bc}to cause to shine with fluctuating light
-- {bc}to flicker or flirt rapidly 
-  *Example:* {it}twinkled{/it} the straight, red-lacquered toes
+- **:** to shine with a flickering or sparkling light **:** {sx|scintillate||}
+- **:** to appear bright especially with merriment 
+  *Example:* his eyes *twinkled*
+- **:** to flutter the eyelids
+- **:** to flutter or flit rapidly
+- **:** to cause to shine with fluctuating light
+- **:** to flicker or flirt rapidly 
+  *Example:* *twinkled* the straight, red-lacquered toes
 
 ## Short Definitions:
 - to shine with a flickering or sparkling light : scintillate
@@ -28,10 +28,10 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}an intermittent radiance {bc}{sx|flicker||}, {sx|sparkle||}
-- {bc}a rapid flashing motion {bc}{sx|flit||}
-- {bc}a wink of the eyelids
-- {bc}the instant's duration of a wink {bc}{sx|twinkling||}
+- **:** an intermittent radiance **:** {sx|flicker||}, {sx|sparkle||}
+- **:** a rapid flashing motion **:** {sx|flit||}
+- **:** a wink of the eyelids
+- **:** the instant's duration of a wink **:** {sx|twinkling||}
 
 ## Short Definitions:
 - an intermittent radiance : flicker, sparkle
@@ -47,8 +47,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}a friendly or happy expression in one's eyes 
-  *Example:* He always talks about his children with {it}a twinkle in his eye{/it}.
+- **:** a friendly or happy expression in one's eyes 
+  *Example:* He always talks about his children with *a twinkle in his eye*.
 
 ## Short Definitions:
 - a friendly or happy expression in one's eyes
@@ -59,8 +59,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}very quickly 
-  *Example:* He was back {it}in the twinkle/twinkling of an eye{/it}.
+- **:** very quickly 
+  *Example:* He was back *in the twinkle/twinkling of an eye*.
 
 ## Short Definitions:
 - very quickly

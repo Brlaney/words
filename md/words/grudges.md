@@ -5,8 +5,8 @@
 **Audio Reference:** grudge01
 
 ## Definitions:
-- {bc}to be unwilling to give or admit {bc}give or allow reluctantly or resentfully 
-  *Example:* didn't {wi}grudge{/wi} the time
+- **:** to be unwilling to give or admit **:** give or allow reluctantly or resentfully 
+  *Example:* didn't `grudge` the time
 
 ## Short Definitions:
 - to be unwilling to give or admit : give or allow reluctantly or resentfully
@@ -20,8 +20,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}a feeling of deep-seated resentment or ill will 
-  *Example:* held no {wi}grudge{/wi} against those who mistreated him
+- **:** a feeling of deep-seated resentment or ill will 
+  *Example:* held no `grudge` against those who mistreated him
 
 ## Short Definitions:
 - a feeling of deep-seated resentment or ill will

@@ -1,7 +1,10 @@
 import json
 import os
 import logging
-from scripts.utils import exit_program, read_and_process_json
+
+from scripts.utils import exit_program 
+from scripts.utils import read_and_process_json
+from scripts.utils import format_markdown
 
 # Configure logging
 logging.basicConfig(filename='assets/logs/reading_dict_jsons.log', 
@@ -38,16 +41,21 @@ def interpret_word_data(text_data, data, words_output_dir, phrases_output_dir):
                     # Ensure that the entry is a dictionary
                     if isinstance(entry, dict):
                         word = entry.get('meta', {}).get('id', 'N/A')
-                        f.write(f"# {word}\n\n")
+
+                        clean_word = format_markdown(word)
+                        f.write(f"# {clean_word}\n\n")
                         
                         part_of_speech = entry.get('fl', 'N/A')
                         pronunciations = entry.get('hwi', {}).get('prs', [])
                         pronunciation = pronunciations[0].get('mw', 'N/A') if pronunciations else 'N/A'
                         audio_ref = pronunciations[0].get('sound', {}).get('audio', 'N/A') if pronunciations else 'N/A'
 
-                        f.write(f"**Part of Speech:** {part_of_speech}\n")
-                        f.write(f"**Pronunciation:** {pronunciation}\n")
-                        f.write(f"**Audio Reference:** {audio_ref}\n\n")
+                        clean_speech = format_markdown(part_of_speech)
+                        clean_pron = format_markdown(pronunciation)
+                        clean_ref = format_markdown(audio_ref)
+                        f.write(f"**Part of Speech:** {clean_speech}\n")
+                        f.write(f"**Pronunciation:** {clean_pron}\n")
+                        f.write(f"**Audio Reference:** {clean_ref}\n\n")
 
                         # Process definitions
                         if 'def' in entry:
@@ -58,15 +66,20 @@ def interpret_word_data(text_data, data, words_output_dir, phrases_output_dir):
                                         if 'sense' in sense[0]:
                                             definition_text = sense[1]['dt'][0][1] if 'dt' in sense[1] else 'N/A'
                                             example_text = sense[1]['dt'][1][1][0]['t'] if len(sense[1].get('dt', [])) > 1 else None
-                                            f.write(f"- {definition_text}\n")
+                                            
+                                            clean_definition = format_markdown(definition_text)
+                                            f.write(f"- {clean_definition}\n")
+                                            
                                             if example_text:
-                                                f.write(f"  *Example:* {example_text}\n")
+                                                clean_example = format_markdown(example_text)
+                                                f.write(f"  *Example:* {clean_example}\n")
 
                         # Short definitions
                         if 'shortdef' in entry:
                             f.write("\n## Short Definitions:\n")
                             for short_def in entry['shortdef']:
-                                f.write(f"- {short_def}\n")
+                                clean_shortdef = format_markdown(short_def)
+                                f.write(f"- {clean_shortdef}\n")
 
                         # Synonyms
                         if 'syns' in entry:
@@ -74,7 +87,8 @@ def interpret_word_data(text_data, data, words_output_dir, phrases_output_dir):
                             for synonym_group in entry['syns']:
                                 for synonym in synonym_group.get('pt', []):
                                     if 'text' in synonym[0]:
-                                        f.write(f"- {synonym[0]['text']}\n")
+                                        clean_text = format_markdown(f'{synonym[0]['text']}')
+                                        f.write(f"- {clean_text}\n")
 
                         # Related forms
                         if 'uros' in entry:
@@ -82,7 +96,10 @@ def interpret_word_data(text_data, data, words_output_dir, phrases_output_dir):
                             for form in entry['uros']:
                                 related_word = form.get('ure', 'N/A')
                                 related_pronunciation = form.get('prs', [{}])[0].get('mw', 'N/A')
-                                f.write(f"- {related_word} ({related_pronunciation})\n")
+
+                                clean_text = format_markdown(f'{related_word} ({related_pronunciation})')
+                                f.write(f"- {clean_text}\n")
+
                     else:
                         logging.error(f"Unexpected entry format: {entry}")
 

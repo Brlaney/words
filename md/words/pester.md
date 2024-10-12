@@ -5,8 +5,8 @@
 **Audio Reference:** pester01
 
 ## Definitions:
-- {bc}{sx|overcrowd||}
-- {bc}to harass with petty irritations {bc}{sx|annoy||}
+- **:** {sx|overcrowd||}
+- **:** to harass with petty irritations **:** {sx|annoy||}
 
 ## Short Definitions:
 - overcrowd

@@ -5,10 +5,10 @@
 **Audio Reference:** barel01ld
 
 ## Definitions:
-- {bc}in a meager manner {bc}{sx|plainly||} 
-  *Example:* a {wi}barely{/wi} furnished room
-- {bc}{sx|scarcely||}, {sx|hardly||} 
-  *Example:* {wi}barely{/wi} enough money for lunch
+- **:** in a meager manner **:** {sx|plainly||} 
+  *Example:* a `barely` furnished room
+- **:** {sx|scarcely||}, {sx|hardly||} 
+  *Example:* `barely` enough money for lunch
 
 ## Short Definitions:
 - in a meager manner : plainly

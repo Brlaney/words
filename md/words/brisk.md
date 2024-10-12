@@ -5,18 +5,18 @@
 **Audio Reference:** brisk001
 
 ## Definitions:
-- {bc}keenly alert {bc}{sx|lively||} 
-  *Example:* a {wi}brisk{/wi} old lady with no nonsense about her
-- {bc}pleasingly tangy 
-  *Example:* {wi}brisk{/wi} tea
-- {bc}{sx|fresh||}, {sx|invigorating|invigorating|} 
-  *Example:* a {wi}brisk{/wi} autumn day
-- {bc}sharp in tone or manner 
-  *Example:* was very {wi}brisk{/wi} on the phone
-- {bc}{sx|energetic||}, {sx|quick||} 
-  *Example:* took a {wi}brisk{/wi} walk
-- {bc}marked by much activity 
-  *Example:* business was {wi}brisk{/wi}
+- **:** keenly alert **:** {sx|lively||} 
+  *Example:* a `brisk` old lady with no nonsense about her
+- **:** pleasingly tangy 
+  *Example:* `brisk` tea
+- **:** {sx|fresh||}, {sx|invigorating|invigorating|} 
+  *Example:* a `brisk` autumn day
+- **:** sharp in tone or manner 
+  *Example:* was very `brisk` on the phone
+- **:** {sx|energetic||}, {sx|quick||} 
+  *Example:* took a `brisk` walk
+- **:** marked by much activity 
+  *Example:* business was `brisk`
 
 ## Short Definitions:
 - keenly alert : lively
@@ -33,4 +33,4 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to make animated, energetic, or marked by much activity {bc}to make {d_link|brisk|brisk:1}
+- **:** to make animated, energetic, or marked by much activity **:** to make {d_link|brisk|brisk:1}

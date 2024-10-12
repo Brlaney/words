@@ -5,14 +5,14 @@
 **Audio Reference:** aside001
 
 ## Definitions:
-- {bc}to or toward the side 
-  *Example:* stepped {wi}aside{/wi}
-- {bc}away from others or into privacy 
-  *Example:* pulled him {wi}aside{/wi}
-- {bc}out of the way especially for future use {bc}{sx|away||} 
-  *Example:* putting {wi}aside{/wi} savings
-- {bc}away from one's thought or consideration 
-  *Example:* All kidding {wi}aside{/wi}, we really need to get busy.
+- **:** to or toward the side 
+  *Example:* stepped `aside`
+- **:** away from others or into privacy 
+  *Example:* pulled him `aside`
+- **:** out of the way especially for future use **:** {sx|away||} 
+  *Example:* putting `aside` savings
+- **:** away from one's thought or consideration 
+  *Example:* All kidding `aside`, we really need to get busy.
 
 ## Short Definitions:
 - to or toward the side
@@ -25,9 +25,9 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}an utterance not meant to be heard by someone
-- {bc}a comment or discussion that does not relate directly to the main subject being discussed {bc}{sx|digression||} 
-  *Example:* He frequently interrupted his narrative with amusing {wi}asides{/wi}.
+- **:** an utterance not meant to be heard by someone
+- **:** a comment or discussion that does not relate directly to the main subject being discussed **:** {sx|digression||} 
+  *Example:* He frequently interrupted his narrative with amusing `asides`.
 
 ## Short Definitions:
 - an utterance not meant to be heard by someone; especially : an actor's speech heard by the audience but supposedly not by other characters
@@ -39,7 +39,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}{sx|beyond||}, {sx|past||}
+- **:** {sx|beyond||}, {sx|past||}
 
 ## Short Definitions:
 - beyond, past
@@ -50,10 +50,10 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}in addition to {bc}{sx|besides||} 
-  *Example:* {wi}Aside from{/wi} being well written, the book is also beautifully illustrated.
-- {bc}{sx|except for||} 
-  *Example:* {wi}Aside from{/wi} us, there were only a half dozen people there.
+- **:** in addition to **:** {sx|besides||} 
+  *Example:* `Aside from` being well written, the book is also beautifully illustrated.
+- **:** {sx|except for||} 
+  *Example:* `Aside from` us, there were only a half dozen people there.
 
 ## Short Definitions:
 - in addition to : besides
@@ -65,8 +65,8 @@
 **Audio Reference:** setasi01
 
 ## Definitions:
-- {bc}something (such as a portion of receipts or production) that is set aside for a specified purpose
-- {bc}a program requiring a percentage of opportunities (as for jobs or funding) to be reserved for an underrepresented group
+- **:** something (such as a portion of receipts or production) that is set aside for a specified purpose
+- **:** a program requiring a percentage of opportunities (as for jobs or funding) to be reserved for an underrepresented group
 
 ## Short Definitions:
 - something (such as a portion of receipts or production) that is set aside for a specified purpose
@@ -78,7 +78,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to withdraw from one's position or occupation {bc}{sx|step down||}
+- **:** to withdraw from one's position or occupation **:** {sx|step down||}
 
 ## Short Definitions:
 - to withdraw from one's position or occupation : step down
@@ -89,8 +89,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to treat (something) as not important {bc}to ignore or dismiss (something) 
-  *Example:* He {it}brushed aside{/it} questions about his son's arrest.
+- **:** to treat (something) as not important **:** to ignore or dismiss (something) 
+  *Example:* He *brushed aside* questions about his son's arrest.
 
 ## Short Definitions:
 - to treat (something) as not important : to ignore or dismiss (something)
@@ -101,8 +101,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to stop thinking about (something) 
-  *Example:* She tried to {it}cast aside{/it} her worries and enjoy the party.
+- **:** to stop thinking about (something) 
+  *Example:* She tried to *cast aside* her worries and enjoy the party.
 
 ## Short Definitions:
 - to stop thinking about (something)
@@ -113,22 +113,3 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- [[['text', 'used to introduce a serious statement that follows a humorous statement '], ['vis', [{'t': "It looks like this is a job for Superman! But {it}joking aside{/it}, this is a serious problem and we're going to need help."}]]]]
-
-## Short Definitions:
-- —used to introduce a serious statement that follows a humorous statement
-# lay aside
-
-**Part of Speech:** phrasal verb
-**Pronunciation:** N/A
-**Audio Reference:** N/A
-
-## Definitions:
-- {bc}to place (something) to one side 
-  *Example:* She {it}laid aside{/it} the book she had been reading and turned on the TV.
-- {bc}to keep (something) for special or future use {bc}to reserve or save (something) 
-  *Example:* She has been able to {it}lay aside{/it} a few dollars each week.
-
-## Short Definitions:
-- to place (something) to one side —often used figuratively
-- to keep (something) for special or future use : to reserve or save (something)

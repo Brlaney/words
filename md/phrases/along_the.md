@@ -5,8 +5,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}during a process or series of events {bc}at some point in the past 
-  *Example:* He seems to have lost his interest in music somewhere {it}along the line{/it}.
+- **:** during a process or series of events **:** at some point in the past 
+  *Example:* He seems to have lost his interest in music somewhere *along the line*.
 
 ## Short Definitions:
 - during a process or series of events : at some point in the past
@@ -17,8 +17,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}during a process or series of events {bc}at some point in the past 
-  *Example:* He seems to have lost his interest in music somewhere {it}along the way{/it}.
+- **:** during a process or series of events **:** at some point in the past 
+  *Example:* He seems to have lost his interest in music somewhere *along the way*.
 
 ## Short Definitions:
 - during a process or series of events : at some point in the past
@@ -29,8 +29,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}doing something with other people without being seriously involved in it or having a serious interest in it 
-  *Example:* He wasn't interested in buying anything; he was just {it}along for the ride{/it}.
+- **:** doing something with other people without being seriously involved in it or having a serious interest in it 
+  *Example:* He wasn't interested in buying anything; he was just *along for the ride*.
 
 ## Short Definitions:
 - doing something with other people without being seriously involved in it or having a serious interest in it

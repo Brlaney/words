@@ -5,18 +5,18 @@
 **Audio Reference:** outsta02
 
 ## Definitions:
-- {bc}standing out {bc}{sx|projecting||} 
-  *Example:* stood on an {wi}outstanding{/wi} rock
-- {bc}{sx|unpaid||} 
-  *Example:* left several bills {wi}outstanding{/wi}
-- {bc}continuing to exist {bc}{sx|unresolved||} 
-  *Example:* a long {wi}outstanding{/wi} problem in astronomy
-- {bc}publicly issued and sold 
-  *Example:* has 20,000 shares {wi}outstanding{/wi}
-- {bc}standing out from a group {bc}{sx|conspicuous||} 
-  *Example:* There are some {wi}outstanding{/wi} exceptions to this rule.
-- {bc}marked by eminence and distinction 
-  *Example:* an {wi}outstanding{/wi} student
+- **:** standing out **:** {sx|projecting||} 
+  *Example:* stood on an `outstanding` rock
+- **:** {sx|unpaid||} 
+  *Example:* left several bills `outstanding`
+- **:** continuing to exist **:** {sx|unresolved||} 
+  *Example:* a long `outstanding` problem in astronomy
+- **:** publicly issued and sold 
+  *Example:* has 20,000 shares `outstanding`
+- **:** standing out from a group **:** {sx|conspicuous||} 
+  *Example:* There are some `outstanding` exceptions to this rule.
+- **:** marked by eminence and distinction 
+  *Example:* an `outstanding` student
 
 ## Short Definitions:
 - standing out : projecting

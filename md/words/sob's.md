@@ -5,8 +5,8 @@
 **Audio Reference:** sob00002
 
 ## Definitions:
-- {bc}{sx|son of a bitch||} 
-  *Example:* He's one arrogant/tough/greedy {wi}SOB{/wi}.
+- **:** {sx|son of a bitch||} 
+  *Example:* He's one arrogant/tough/greedy `SOB`.
 
 ## Short Definitions:
 - son of a bitch

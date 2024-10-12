@@ -5,10 +5,10 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to direct someone's attention to (someone or something) by pointing 
-  *Example:* He {it}pointed{/it} his girlfriend {it}out{/it} (to me) in the crowd.
-- {bc}to talk about or mention (something that one thinks is important) 
-  *Example:* He was quick to {it}point{/it} our mistake {it}out{/it}.
+- **:** to direct someone's attention to (someone or something) by pointing 
+  *Example:* He *pointed* his girlfriend *out* (to me) in the crowd.
+- **:** to talk about or mention (something that one thinks is important) 
+  *Example:* He was quick to *point* our mistake *out*.
 
 ## Short Definitions:
 - to direct someone's attention to (someone or something) by pointing
@@ -20,8 +20,8 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}to immediately say something in order to prevent confusion or misunderstanding 
-  *Example:* The company announced that the initial tests look promising, but they {it}hastened to add{/it} that there is still much more testing to be done.
+- **:** to immediately say something in order to prevent confusion or misunderstanding 
+  *Example:* The company announced that the initial tests look promising, but they *hastened to add* that there is still much more testing to be done.
 
 ## Short Definitions:
 - to immediately say something in order to prevent confusion or misunderstanding

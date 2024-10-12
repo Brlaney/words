@@ -5,7 +5,7 @@
 **Audio Reference:** surgeo01
 
 ## Definitions:
-- {bc}a medical specialist who practices {d_link|surgery|surgery} {bc}a physician trained and qualified to perform surgical procedures
+- **:** a medical specialist who practices {d_link|surgery|surgery} **:** a physician trained and qualified to perform surgical procedures
 
 ## Short Definitions:
 - a medical specialist who practices surgery : a physician trained and qualified to perform surgical procedures
@@ -16,7 +16,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}a military medical officer specializing in aerospace medicine
+- **:** a military medical officer specializing in aerospace medicine
 
 ## Short Definitions:
 - a military medical officer specializing in aerospace medicine
@@ -27,7 +27,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}a specialist in plastic surgery
+- **:** a specialist in plastic surgery
 
 ## Short Definitions:
 - a specialist in plastic surgery
@@ -38,7 +38,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}the chief medical officer of a branch of the armed services or of a public health service
+- **:** the chief medical officer of a branch of the armed services or of a public health service
 
 ## Short Definitions:
 - the chief medical officer of a branch of the armed services or of a public health service
@@ -49,7 +49,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}a reef knot in which the first knot has two turns {dx}see {dxt|knot|knot|illustration}{/dx}
+- **:** a reef knot in which the first knot has two turns {dx}see {dxt|knot|knot|illustration}{/dx}
 
 ## Short Definitions:
 - a reef knot in which the first knot has two turns
@@ -60,7 +60,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}operative treatment of diseased trees especially for control of decay
+- **:** operative treatment of diseased trees especially for control of decay
 
 ## Short Definitions:
 - operative treatment of diseased trees especially for control of decay; broadly : practices forming part of the professional care of specimen or shade trees
@@ -74,7 +74,7 @@
 **Audio Reference:** N/A
 
 ## Definitions:
-- {bc}{sx|veterinarian||}
+- **:** {sx|veterinarian||}
 
 ## Short Definitions:
 - veterinarian

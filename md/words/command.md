@@ -5,24 +5,24 @@
 **Audio Reference:** comman01
 
 ## Definitions:
-- {bc}to direct authoritatively {bc}{sx|order||} 
-  *Example:* {wi}commanded{/wi} adherence to the rules
-- {bc}to have at one's immediate disposal 
-  *Example:* {wi}commands{/wi} many resources
-- {bc}to demand or receive as one's due 
-  *Example:* {wi}commands{/wi} a high fee
-- {bc}to overlook or dominate from or as if from a strategic position 
-  *Example:* a hill that {wi}commands{/wi} the city
-- {bc}to have military command of as senior officer 
-  *Example:* {wi}command{/wi} a regiment
-- {bc}to order or request to be given
-- {bc}to have or exercise direct authority {bc}{sx|govern||} 
-  *Example:* a leader who knows how to {wi}command{/wi} well
-- {bc}to give orders 
-  *Example:* Rob seldom {wi}commanded{/wi}, but when he did Master Ted had to give in.
-- {bc}to be {a_link|commander} 
-  *Example:* The general will {wi}command{/wi} at the western front.
-- {bc}to dominate as if from an elevated place
+- **:** to direct authoritatively **:** {sx|order||} 
+  *Example:* `commanded` adherence to the rules
+- **:** to have at one's immediate disposal 
+  *Example:* `commands` many resources
+- **:** to demand or receive as one's due 
+  *Example:* `commands` a high fee
+- **:** to overlook or dominate from or as if from a strategic position 
+  *Example:* a hill that `commands` the city
+- **:** to have military command of as senior officer 
+  *Example:* `command` a regiment
+- **:** to order or request to be given
+- **:** to have or exercise direct authority **:** {sx|govern||} 
+  *Example:* a leader who knows how to `command` well
+- **:** to give orders 
+  *Example:* Rob seldom `commanded`, but when he did Master Ted had to give in.
+- **:** to be {a_link|commander} 
+  *Example:* The general will `command` at the western front.
+- **:** to dominate as if from an elevated place
 
 ## Short Definitions:
 - to direct authoritatively : order
