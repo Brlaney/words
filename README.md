@@ -125,14 +125,14 @@ No matter the mishap, click the link below to see the page containing all of the
 
 **dictionary** (`dict/`)
 - data fetched from the official [Webster English API](https://dictionaryapi.com/)
-   - **audio** (`dict/audio/`)
+   - `dict/audio/` (**audio**)
      - **.wav** audio files downloaded from the dictionaryapi.com's media endpoint
-     - **phrases** (`dict/audio/phrases/`)
-     - **words** (`dict/audio/words/`)
-   - **json** (`dict/json/`)
+     - `dict/audio/phrases/` (**phrases**)
+     - `dict/audio/words/` (**words**)
+   - `dict/json/` (**json**)
      - **.json** response data from dictionary api's word query endpoint (`each word or phrase is the filename`)
-     - **phrases** (`dict/json/phrases/`) phrases are camel case, `example`: **a_thrill_swept.json**
-     - **words** (`dict/json/words/`)
+     - `dict/json/phrases/` (**phrases**) phrases are camel case, `example`: **a_thrill_swept.json**
+     - `dict/json/words/` (**words**)
 ---
 
 <br/>
