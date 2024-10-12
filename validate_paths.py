@@ -66,6 +66,6 @@ def process_all_json_files_in_directory(directory, output_file):
     Call the function **process_all_json_files_in_directory**.
 '''
 json_directory = 'data/dict/'  # The directory with the JSON files
-output_file = 'output.json'  # Output file to store results
+output_file = 'output.json'    # Output file to store results
 
 process_all_json_files_in_directory(json_directory, output_file)

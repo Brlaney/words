@@ -16,6 +16,7 @@ json_input = read_and_process_json('data/dict/mishap.json')
 # Ensure json_input is a list and extract the first entry
 if isinstance(json_input, list) and json_input:
     audio_data = json_input[0]  # Extract the first entry from the list
-    save_audio_file(audio_data, 'data/audio/official/audio_files')
+    
+    save_audio_file(audio_data, 'data/audio/dictionary/')
 else:
     print("Error: Invalid JSON structure or empty list.")
