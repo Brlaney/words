@@ -1,0 +1,49 @@
+[
+  {
+    "pk": 1,
+    "word_phrase": "aside",
+    "n_data": 12,
+    "data": [
+      {
+        "ck": "1",
+        "id": "aside:1"
+      },
+      {
+        "ck": "2",
+        "id": "aside:2"
+      },
+      {
+        "ck": "3",
+        "id": "aside:3"
+      },
+      {
+        "ck": "4",
+        "id": "aside from"
+      },
+      {
+        "ck": "5",
+        "id": "cast aside"
+      },
+      {
+        "ck": "6",
+        "id": "set-aside"
+      },
+      {
+        "ck": "7",
+        "id": "step aside"
+      },
+      {
+        "ck": "8",
+        "id": "joking aside"
+      },
+      {
+        "ck": "9",
+        "id": "lay aside"
+      },
+      {
+        "ck": "10",
+        "id": ""
+      }
+    ]
+  }
+]

@@ -13,7 +13,6 @@
 
 ---
 
-
 ### Phrases 📃:
 
 | [a thrill swept](data/md/a-thrill-swept.md) | [along the](data/md/along-the.md) | [as high as](data/md/as-high-as.md) |
@@ -62,16 +61,19 @@
 
 ### To-Do
 
-- [ ] write script to seperate these into two categories: *1. Phrases* and *2. Words*.
+- [X] Fix recordings that are too long with *blank/no noise*. Write script to scan for and output all files with `duration > 3 seconds`. 
+  
+- [ ] If the md file will say *List of words:* then write a message like `This word or phrase doesn't seem to exist in the English dictionary - maybe I misunderstood the text in your image`
+
 - [ ] `pip install` the package for env variables - then fix the api_req file to remove from .gitignore
-- [ ] Update the data/long-entries/before.json file
 - [ ] Mark the edited audio files w/ a flag to not have the volumex(2) used again during the video creation
 - [ ] Need to replace all json objects in the words.json file with their new durations from after.json 
 
-- [ ] Only pages *5* and *6* are left to complete
-- [X] Fix recordings that are too long with *blank/no noise*. Write script to scan for and output all files with `duration > 3 seconds`. 
-- [ ] Write script to separate into batches by *date*
+- [ ] write script to seperate these into two categories: *1. Phrases* and *2. Words*.
 - [ ] Finish the MoviePy script to prompt to record `using each word in a sentence` 
+- [ ] Only pages *5* and *6* are left to complete
+- [ ] Update the data/long-entries/before.json file
+- [ ] Write script to separate into batches by *date*
 - [ ] Currently at: `Harsh` (*id = 124*) as of 10/07/2024
 
 <br/>

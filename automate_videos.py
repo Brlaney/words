@@ -1,20 +1,8 @@
+# automate_videos.py
 import json, io
 from moviepy.editor import *
-
-'''
-exit_program(): is just used to end the script `gracefully`
-'''
-def exit_program():
-    print('\nEnding script.. gracefully')
-    sys.exit(0)
-
-'''
-Takes in a file path and outputs an entire json array of objects
-'''
-def read_and_process_json(file_path):
-    with open(file_path, 'r') as json_file:
-        data = json.load(json_file)
-        return data
+from scripts.utils import exit_program
+from scripts.utils import read_and_process_json
 
 '''
 Takes in an audio file path and a text value.
@@ -44,19 +32,18 @@ def edit_audio(audio_path, text_value, duration=3):
     audio_clip = AudioFileClip(audio_path).set_duration(duration)
     audio_clip.volumex(2).write_audiofile(f'audio/{text_value}.wav')
 
+# data = {
+#     "id": 113,
+#     "text": "alley",
+#     "duration": 7639,
+#     "path": "audio/alley.wav"
+# }
+# edit_audio(data['path'], data['text'], 2)
 
-data = {
-    "id": 113,
-    "text": "alley",
-    "duration": 7639,
-    "path": "audio/alley.wav"
-}
-
-edit_audio(data['path'], data['text'], 2)
-
-'''
-'''
-
+try:
+    json_obj = read_and_process_json('data/words.json')
+except:
+    print('womp')
 
 '''
 The script can be stopped by: 
