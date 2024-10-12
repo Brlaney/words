@@ -110,19 +110,19 @@ No matter the mishap, click the link below to see the page containing all of the
 
 ---
 
-`audio/` (**audio**) *brendan's recordings of pronunciations in .wav audio files*
-   - `audio/phrases/` (**phrases**)
-   - `audio/words/` (**words**)
+   `data/audio/` (**audio**) *brendan's recordings of pronunciations in .wav audio files*
+      - `audio/phrases/` (**phrases**)
+      - `audio/words/` (**words**)
 
 ---
 
-`dict/` (**dict**) *stands for dictionary contains data saved from the webster [dictionary API](https://dictionaryapi.com/)*
-   - `dict/audio/` (**.wav audio**) *downloaded from dictionary API's media endpoint*
-     - `dict/audio/phrases/` (**phrases**)
-     - `dict/audio/words/` (**words**)
-   - `dict/json/` (**json**) *json response from dictionary API for {searched word} + .json*
-     - `dict/json/phrases/` (**phrases**) phrases are camel case, `example`: **a_thrill_swept.json**
-     - `dict/json/words/` (**words**)
+   `data/dict/` (**dict**) *stands for dictionary contains data saved from the webster [dictionary API](https://dictionaryapi.com/)*
+      - `dict/audio/` (**.wav audio**) *downloaded from dictionary API's media endpoint*
+        - `dict/audio/phrases/` (**phrases**)
+        - `dict/audio/words/` (**words**)
+      - `dict/json/` (**json**) *json response from dictionary API for {searched word} + .json*
+        - `dict/json/phrases/` (**phrases**) phrases are camel case, `example`: **a_thrill_swept.json**
+        - `dict/json/words/` (**words**)
 
 ---
 
