@@ -33,10 +33,10 @@ def read_and_process_json(file_path):
 
 def get_audio_duration(file_path, file_name):
     '''
-    Returns the duration of the audio file in milliseconds.
-    
-    :param file_path: Path to the audio file.
-    :return: Duration of the audio in milliseconds.
+        Returns the duration of the audio file in milliseconds.
+        
+        :param file_path: Path to the audio file.
+        :return: Duration of the audio in milliseconds.
     '''
     audio = AudioSegment.from_wav(file_path)
     duration_ms = len(audio)
@@ -46,13 +46,13 @@ def get_audio_duration(file_path, file_name):
 
 def format_markdown(text):
     '''
-    Replaces placeholders with markdown formatting and adds line returns.
-    
-    Args:
-        text (str): The input text containing placeholders.
+        Replaces placeholders with markdown formatting and adds line returns.
         
-    Returns:
-        str: The formatted text with markdown and line returns.
+        Args:
+            text (str): The input text containing placeholders.
+            
+        Returns:
+            str: The formatted text with markdown and line returns.
     '''
     # Replace the placeholders with appropriate markdown formatting
     formatted_text = text.replace('{bc}', '**:** ').replace('{it}', '*').replace('{/it}', '*').replace('{wi}', '`').replace('{/wi}', '`')

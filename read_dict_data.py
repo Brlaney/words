@@ -21,7 +21,7 @@ def interpret_word_data(text_data, data, words_output_dir, phrases_output_dir):
         output_dir = phrases_output_dir if is_phrase(text_data) else words_output_dir
 
         # Create the Markdown file name based on the word or phrase
-        file_name_output = f'{output_dir}/{text_data.replace(" ", "_")}.md'
+        file_name_output = f'{output_dir}{text_data.replace(" ", "_")}.md'
         
         has_md = False
         md_path = ""  # Default empty path for markdown
