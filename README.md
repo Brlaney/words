@@ -116,8 +116,7 @@ No matter the mishap, click the link below to see the page containing all of the
 
 ---
 
-**dict** (`dict/`) *stands for dictionary contains data saved from the webster dictionary API*
-- data fetched from the official [Webster English API](https://dictionaryapi.com/)
+**dict** (`dict/`) *stands for dictionary contains data saved from the webster [dictionary API](https://dictionaryapi.com/)*
    - `dict/audio/` (**.wav audio**) *downloaded from dictionary API's media endpoint*
      - `dict/audio/phrases/` (**phrases**)
      - `dict/audio/words/` (**words**)
