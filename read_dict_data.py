@@ -1,4 +1,8 @@
-import json, os, sys, logging
+import json
+import os
+import sys
+import logging
+from scripts.utils import exit_program, read_and_process_json
 
 # Configure logging
 logging.basicConfig(filename='assets/reading_dict_jsons.log', 
@@ -6,26 +10,7 @@ logging.basicConfig(filename='assets/reading_dict_jsons.log',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 '''
-Function to end the script gracefully
-'''
-def exit_program():
-    print('\nEnding script.. gracefully')
-    sys.exit(0)
-
-''' 
-Function to read and process a JSON file
-'''
-def read_and_process_json(file_path):
-    try:
-        with open(file_path, 'r') as json_file:
-            data = json.load(json_file)
-            return data
-    except FileNotFoundError:
-        logging.error(f'f0 - File not found: {file_path}')
-        return None
-
-'''
-F**k this was a tough one
+    F**k this was a tough one
 '''
 def interpret_word_data(text_data, data, output_dir):
     try:
@@ -114,12 +99,15 @@ def interpret_word_data(text_data, data, output_dir):
         logging.error(traceback.format_exc())  # Detailed stack trace
 
 '''
-Processes all of the json files then calls the interperate to text function
+    Processes all of the json files then calls the interperate to text function
 '''
 def process_all_json_files_in_directory(directory, output_file):
-    # Clear the file contents before writing new data
-    # with open(output_file, 'w', encoding='utf-8') as f:
-    #     f.write('\n' + '=' * 40 + '\n')
+    '''
+        Clear the file contents before writing new data.
+        
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write('\n' + '=' * 40 + '\n')
+    '''
     j = 1
     
     # Iterate through all files in the given directory
@@ -142,10 +130,10 @@ def process_all_json_files_in_directory(directory, output_file):
         j += 1
 
 '''
-Define your dir containing the dictionary word .json files.
-Define the output filename.
-Call the function **process_all_json_files_in_directory**
+    Define your dir containing the dictionary word .json files.
+    Define the output filename.
+    Call the function **process_all_json_files_in_directory**
 '''
 json_directory = 'data/dict/'
-output_dir = 'data/md'  # output_file = 'output.txt'
+output_dir = 'md/'  # output_file = 'output.txt'
 process_all_json_files_in_directory(json_directory, output_dir)
