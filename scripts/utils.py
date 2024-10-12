@@ -21,6 +21,9 @@ import sys
 import json
 import os 
 import logging
+import requests
+
+
 
 # Configure logging
 logging.basicConfig(filename='assets/reading_dict_jsons.log', 
@@ -28,10 +31,12 @@ logging.basicConfig(filename='assets/reading_dict_jsons.log',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
+
 def exit_program():
     '''Ends the script gracefully.'''
     print('\nEnding script.. gracefully')
     sys.exit(0)
+
 
 
 def read_and_process_json(file_path):
@@ -43,6 +48,7 @@ def read_and_process_json(file_path):
     except FileNotFoundError:
         logging.error(f'f0 - File not found: {file_path}')
         return None
+
 
 
 def get_audio_duration(file_path, file_name):
@@ -57,6 +63,7 @@ def get_audio_duration(file_path, file_name):
     # logging.info(f'\nfile: {file_name}\nduration (ms): {duration_ms}')
 
     return duration_ms
+
 
 
 def create_markdown_links(words_data):
@@ -85,12 +92,14 @@ def create_markdown_links(words_data):
     return words_links, phrases_links
 
 
+
 def write_links_to_file(words_links, phrases_links, output_file):
     # Format the output with sections and emojis
     output_content = "### Phrases 📃\n\n" + '\n'.join(f'- {link}' for link in phrases_links) + '\n\n---\n\n### Words 📃\n\n' + '\n'.join(f'- {link}' for link in words_links)
     
     with open(output_file, 'w', encoding='utf-8') as links_file:
         links_file.write(output_content)
+
 
 
 def format_markdown(text):
@@ -120,6 +129,8 @@ def format_markdown(text):
 
     # Join the lines back together
     return '\n'.join(formatted_lines)
+
+
 
 def interpret_word_data_as_string(text_data, data):
     '''
@@ -207,15 +218,16 @@ def interpret_word_data_as_string(text_data, data):
     return ''.join(markdown_content)
 
 
+
 '''
     This procedures takes in a single json object (would need to iterate over json file) and the output, save_directory.
 '''
-def save_audio_file(audio_info, save_dir):
+def save_audio_file(json_obj, save_dir):
     # Create the save directory if it doesn't exist
     os.makedirs(save_dir, exist_ok=True)
 
     # Extract audio details from the JSON
-    if audio_info['hwi']['prs']:  # Check if there are any pronunciation entries
+    if json_obj['hwi']['prs']:  # Check if there are any pronunciation entries
         '''
             [language_code] - 2 letter ISO language code.
               en for all API references except the Spanish-English Dictionary.
@@ -238,44 +250,105 @@ def save_audio_file(audio_info, save_dir):
         
             [base filename] - The name contained in audio.
         '''
+
+        # Get the audio filename without extension
+        # audio_filename = json_obj['hwi']['prs'][0]['sound']['audio']
         
-        audio_filename = audio_info['hwi']['prs'][0]['sound']['audio']  # Get the audio filename without extension
+        '''
+            "prs" = pronunciation - the "prs" array may contain one or more pronunciation objects, each of which may contain the following members:
+        
+            "mw" : string	written pronunciation in Merriam-Webster format
+            "l" : string	pronunciation label before pronunciation
+            "l2" : string	pronunciation label after pronunciation
+            "pun" : string	punctuation to separate pronunciation objects
+            "sound" : object	audio playback information: the audio member contains the base filename for audio playback; the ref and stat members can be ignored.
+            
+        '''
+                
+        # audio_filename = json_obj.get(
+        #     'hwi', {}).get('prs', [{}])[0].get('sound', {}).get('audio')
+
+        # Note: there COULD be multiple prs objects, see the [0] at eol
+        pronounce_obj = json_obj.get('hwi', {}).get('prs', [{}])[0]
+
+        if pronounce_obj is None:
+            print('pronunciation obj is none')
+            exit_program
+
+        sound_obj = pronounce_obj.get('sound', {})
+
+        if sound_obj is None:
+            print('sound obj is none')
+            exit_program
+
+        audio_obj = sound_obj.get('audio')
+        
+        if audio_obj is None:
+            print('audio obj is none')
+            exit_program
+
+        # Yay! Can continue ~
+        meta_id_text = json_obj.get('meta', {}).get('id')
+        
+        
+        if meta_id_text:
+            print(f'success: {meta_id_text}')
+            exit_program
+        else:
+            print(f'failed: {meta_id_text}')
+            exit_program
+        
+                    
         language_code = 'en'  # Default to English
         country_code = 'us'   # Default to US
         output_format = 'wav' # Desired output format
         
         # Determine the base filename and subdirectory
-        base_filename = audio_filename
+        base_filename = audio_obj
         subdirectory = ''
         
         # Determine subdirectory based on audio filename
-        if audio_filename.startswith('bix'):
+        if audio_obj.startswith('bix'):
             subdirectory = 'bix'
-        elif audio_filename.startswith('gg'):
+        elif audio_obj.startswith('gg'):
             subdirectory = 'gg'
-        elif audio_filename[0].isdigit() or audio_filename[0] in ['_', '.', '-']:
+        elif audio_obj[0].isdigit() or audio_obj[0] in ['_', '.', '-']:
             subdirectory = 'number'
         else:
-            subdirectory = audio_filename[0].lower()  # Use the first letter of the audio filename
+            subdirectory = audio_obj[0].lower()  # Use the first letter of the audio filename
+        
+        base_endpoint = 'https://media.merriam-webster.com/audio/prons'
         
         # Construct the base URL
-        base_url = f'https://media.merriam-webster.com/audio/prons/{language_code}/{country_code}/{output_format}/{subdirectory}/{base_filename}.{output_format}'
+        full_url = f'{base_endpoint}/{language_code}/{country_code}/{output_format}/{subdirectory}/{base_filename}.{output_format}'
         
         # Define the local file path
         local_audio_path = os.path.join(save_dir, f'{base_filename}.{output_format}')
-
+        
+        t = True
+        if t == True:
+            print(f'did it make it here?')
+            exit_program()
+            
         # Download the audio file
         try:
-            response = requests.get(base_url)
-            response.raise_for_status()  # Check for request errors
-            with open(local_audio_path, 'wb') as audio_file:
+            response = requests.get(full_url)
+            
+            # Check for request errors
+            response.raise_for_status()  
+            
+            with open(local_audio_path, 'wb') as audio_obj:
                 audio_file.write(response.content)
             print(f'Audio file saved as: {local_audio_path}')
+            
         except Exception as e:
             print(f'Error downloading audio file: {e}')
     else:
+        logging.error(f"no info found for some json obj")
         print("No pronunciation entries found in the audio info.")
-        
+
+
+
 '''
     This function:
         - moves all .wav files in data/audio into their appropriate data/audio/words or ../phrases dir accordingly.

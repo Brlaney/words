@@ -9,6 +9,7 @@
     - [Phrases 📃](#phrases-)
     - [Words 📃](#words-)
     - [Mishaps ⚠️](#mishaps-️)
+    - [Structure of the data](#structure-of-the-data)
     - [To-Do](#to-do)
       - [Completed](#completed)
       - [Pending](#pending)
@@ -94,6 +95,33 @@ These are words or phrases you wrote on your paper that either;
 No matter the mishap, click the link below to see the page containing all of the **mishap words** and their potential replacements.
 
 [List of mishaps](md/mishaps/mishap-words.md)
+
+<br/>
+
+---
+
+### Structure of the data
+
+**Note**: all of the data is in the `data/` directory.
+
+**audio** (`audio/`)
+- brendan's audio recordings of pronunciations
+   - phrases (`audio/phrases/`)
+   - words (`audio/words/`)
+
+---
+
+**dictionary** (`dict/`)
+- data fetched from the official [Webster English API](https://dictionaryapi.com/)
+   - **audio** (`dict/audio/`)
+     - **.wav** audio files downloaded from the dictionaryapi.com's media endpoint
+     - **phrases** (`dict/audio/phrases/`)
+     - **words** (`dict/audio/words/`)
+   - **json** (`dict/json/`)
+     - **.json** response data from dictionary api's word query endpoint (`each word or phrase is the filename`)
+     - **phrases** (`dict/json/phrases/`) phrases are camel case, `example`: **a_thrill_swept.json**
+     - **words** (`dict/json/words/`)
+---
 
 <br/>
 

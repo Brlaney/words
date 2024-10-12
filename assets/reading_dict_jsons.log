@@ -1330,3 +1330,5 @@
 2024-10-12 14:35:52,513 - ERROR - Unexpected entry format: syns
 2024-10-12 14:35:52,513 - ERROR - Unexpected entry format: date
 2024-10-12 14:35:52,513 - ERROR - Unexpected entry format: shortdef
+2024-10-12 16:24:38,195 - ERROR - f0 - File not found: data/dict/mishap.json
+2024-10-12 16:29:56,032 - ERROR - f0 - File not found: data/dict/json/words/mishap.json

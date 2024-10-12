@@ -11,12 +11,14 @@ from scripts.utils import save_audio_file
             - Download, and save the audio file for each word/phrase (and all variants of it) with the unique name {data/audio/dict/unique_name.wav} 
 '''
 
-json_input = read_and_process_json('data/dict/mishap.json')
+json_input = read_and_process_json('data/dict/json/words/mishap.json')
 
 # Ensure json_input is a list and extract the first entry
 if isinstance(json_input, list) and json_input:
-    audio_data = json_input[0]  # Extract the first entry from the list
+    # audio_data = json_input[0]  # Extract the first entry from the list
     
-    save_audio_file(audio_data, 'data/audio/dictionary/')
+    for obj in json_input:
+        save_audio_file(json_obj=obj, 
+                        save_dir='data/dict/audio/')
 else:
     print("Error: Invalid JSON structure or empty list.")
