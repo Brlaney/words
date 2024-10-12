@@ -15,8 +15,6 @@
       - [Pending](#pending)
     - [Requirements (**.txt**)](#requirements-txt)
 
-<br/>
-
 ---
 
 ### Phrases 📃
@@ -100,26 +98,25 @@ No matter the mishap, click the link below to see the page containing all of the
 
 **Note**: all of the data is in the `data/` directory.
 
-**data/**
-   - **audio/**
-   - **backed-up/**
-   - **dict/**
-   - **sentences/**
-   - **videos/**
-   - **markdown_links.txt**
-   - **mistakes.json**
-   - **words.json**
-
-
-
-**audio** (`audio/`)
-- brendan's audio recordings of pronunciations
-   - phrases (`audio/phrases/`)
-   - words (`audio/words/`)
+`data/`
+   - `audio/` (**folder**)
+   - `backed-up/` (**folder**)
+   - `dict/` (**folder**)
+   - `sentences/` (**folder**)
+   - `videos/` (**folder**)
+   - `markdown_links.txt` (**text file**)
+   - `mistakes.json` (**json file**)
+   - `words.json` (**json file**)
 
 ---
 
-**dictionary** (`dict/`)
+`audio/` (**audio**) *brendan's recordings of pronunciations in .wav audio files*
+   - `audio/phrases/` (**phrases**)
+   - `audio/words/` (**words**)
+
+---
+
+**dict** (`dict/`) *stands for dictionary contains data saved from the webster dictionary API*
 - data fetched from the official [Webster English API](https://dictionaryapi.com/)
    - `dict/audio/` (**.wav audio**) *downloaded from dictionary API's media endpoint*
      - `dict/audio/phrases/` (**phrases**)
