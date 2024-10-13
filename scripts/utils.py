@@ -436,8 +436,8 @@ def get_audio_duration_new(file_path):
 def detect_json_structure(json_obj):
     '''
         This function checks the JSON structure and returns:
-        - True - if the JSON is structured as objects (list of dictionaries).
-        - False - if the JSON is a list of strings.
+        - True - if the JSON is a list of strings.
+        - False - if the JSON is structured as objects (list of dictionaries).
     '''
     if isinstance(json_obj, list) and json_obj:
         first_element = json_obj[0]

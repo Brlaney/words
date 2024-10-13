@@ -27,7 +27,7 @@ def process_all_json_files_in_directory(directory, output_file):
                 correct_structure = detect_json_structure(json_data)
                 
                 # If the structure is not correct (i.e., a list of strings)
-                if not correct_structure:
+                if correct_structure:
                     all_entries = json_data if isinstance(json_data, list) else []
                     word_or_phrase = filename.replace('.json', '')
                     

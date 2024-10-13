@@ -1,5 +1,7 @@
 import json
 import os
+from scripts.utils import read_and_process_json
+from scripts.utils import detect_json_structure
 
 def append_to_words_json(words_json_path, output_batch_json_path):
     # Load the existing words.json file
@@ -18,6 +20,8 @@ def append_to_words_json(words_json_path, output_batch_json_path):
 
     # Transform and append the new entries
     for entry in new_entries:
+        mistake = detect_json_structure(entry)
+      
         # Transform to the target format
         transformed_entry = {
             "id": next_id,
@@ -25,7 +29,7 @@ def append_to_words_json(words_json_path, output_batch_json_path):
             "duration": entry["duration"],
             "audio_path": entry["audio_filename"],  # Changed field name to audio_path
             "dict_path": f"data/dict/{entry['json_filename']}",  # Adjust dict_path
-            "mistake": False,
+            "mistake": mistake,
             "has_md": False,
             "md_path": ""
         }
