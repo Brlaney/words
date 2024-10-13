@@ -2,6 +2,8 @@ import os
 import requests
 from scripts.utils import read_and_process_json
 from scripts.utils import save_audio_file
+from scripts.utils import exit_program
+from scripts.utils import detect_json_structure
 
 '''
     Refactor to:
@@ -11,8 +13,6 @@ from scripts.utils import save_audio_file
             - Download, and save the audio file for each word/phrase (and all variants of it) with the unique name {data/audio/dict/unique_name.wav} 
 '''
 
-json_input = read_and_process_json('data/dict/json/words/mishap.json')
-
 '''
     We want to use the following json_input instead. 
     
@@ -20,15 +20,58 @@ json_input = read_and_process_json('data/dict/json/words/mishap.json')
     obj in json data and use the info in the data
     to create each needed filepath.
 
-json_input = read_and_process_json('data/words.json')
+    {
+        "id": 1,
+        "text": "eye examination chart",
+        "duration": 2601,
+        "audio_file": "eye_examination_chart.wav",
+        "dict_json": "eye_examination_chart.json",
+        "mistake": true,
+        "has_md": false,
+        "md_path": "",
+        "type": "phrase",
+        "dict_audios": {
+            "",
+            ""
+        }
+    }
 '''
 
-# Ensure json_input is a list and extract the first entry
-if isinstance(json_input, list) and json_input:
-    # audio_data = json_input[0]  # Extract the first entry from the list
+words_json = read_and_process_json('data/words.json')
+
+phrases_filepath = 'data/dict/json/phrases/'
+words_filepath = 'data/dict/json/words/'
+
+for obj in words_json:
+    list_of_outputs = []
     
-    for obj in json_input:
-        save_audio_file(json_obj=obj, 
-                        save_dir='data/dict/audio/')
-else:
-    print("Error: Invalid JSON structure or empty list.")
+    if obj['id'] == 3:
+        exit_program()
+    
+    txt = obj['text']
+    json_dict = obj['dict_json']
+    the_type = obj['type']
+    mistake = obj['mistake']
+    
+    if mistake == False:
+        print('not a mistake' + txt)
+        
+        if the_type == 'phrase':
+            full_path = f'{phrases_filepath}{json_dict}'
+            save_dir = 'data/dict/audio/phrases/'
+        else:
+            full_path = f'{words_filepath}{json_dict}'
+            save_dir = 'data/dict/audio/words/'
+        
+        dict_json = read_and_process_json(full_path)
+        
+        for item in dict_json:
+            print(item)
+            
+            audio_output = save_audio_file(
+                json_obj=item, 
+                save_dir=save_dir)
+            
+            list_of_outputs.append(audio_output)
+    else:
+        print('skip the mistake')

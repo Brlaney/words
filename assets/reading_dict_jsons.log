@@ -1480,3 +1480,15 @@
 2024-10-13 12:14:17,684 - DEBUG - https://www.dictionaryapi.com:443 "GET /api/v3/references/collegiate/json/weeded?key=60901fa6-2381-4ed5-976c-92ffa797d35d HTTP/11" 200 None
 2024-10-13 12:14:17,686 - DEBUG - Starting new HTTPS connection (1): www.dictionaryapi.com:443
 2024-10-13 12:14:17,866 - DEBUG - https://www.dictionaryapi.com:443 "GET /api/v3/references/collegiate/json/wicked%20men?key=60901fa6-2381-4ed5-976c-92ffa797d35d HTTP/11" 200 None
+2024-10-13 13:32:49,263 - DEBUG - Starting new HTTPS connection (1): media.merriam-webster.com:443
+2024-10-13 13:32:49,599 - DEBUG - https://media.merriam-webster.com:443 "GET /audio/prons/en/us/wav/b/brisk001.wav HTTP/11" 200 5582
+2024-10-13 13:39:44,214 - ERROR - f0 - File not found: data/dict/audio/words/brisk.json
+2024-10-13 13:42:31,953 - ERROR - f0 - File not found: data/dict/audio/words/brisk.json
+2024-10-13 13:43:21,560 - ERROR - f0 - File not found: data/dict/audio/words/brisk.json
+2024-10-13 13:44:14,456 - ERROR - f0 - File not found: data/dict/audio/words/brisk.json
+2024-10-13 13:44:51,818 - DEBUG - Starting new HTTPS connection (1): media.merriam-webster.com:443
+2024-10-13 13:44:52,199 - DEBUG - https://media.merriam-webster.com:443 "GET /audio/prons/en/us/wav/b/brisk001.wav HTTP/11" 200 5582
+2024-10-13 13:45:37,573 - DEBUG - Starting new HTTPS connection (1): media.merriam-webster.com:443
+2024-10-13 13:45:37,670 - DEBUG - https://media.merriam-webster.com:443 "GET /audio/prons/en/us/wav/b/brisk001.wav HTTP/11" 200 5582
+2024-10-13 13:46:10,773 - DEBUG - Starting new HTTPS connection (1): media.merriam-webster.com:443
+2024-10-13 13:46:10,984 - DEBUG - https://media.merriam-webster.com:443 "GET /audio/prons/en/us/wav/b/brisk001.wav HTTP/11" 200 5582
