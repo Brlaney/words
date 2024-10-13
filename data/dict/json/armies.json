@@ -1,0 +1,222 @@
+[
+    {
+        "meta": {
+            "id": "army",
+            "uuid": "07b3dbbb-3773-46df-a289-d007f1576e92",
+            "sort": "013928000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "armies",
+                "army"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "ar*my",
+            "prs": [
+                {
+                    "mw": "\u02c8\u00e4r-m\u0113",
+                    "sound": {
+                        "audio": "army0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "ar*mies"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a large organized body of armed personnel trained for war especially on land"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a unit capable of independent action and consisting usually of a headquarters, two or more corps, and auxiliary troops"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "lbs": [
+                                    "often capitalized"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the complete military organization of a nation for land warfare"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a great multitude "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "an {wi}army{/wi} of birds"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a body of persons organized to advance a cause"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}armee, armye{/it} \"host of armed men, naval fleet, military expedition,\" borrowed from Anglo-French {it}arm\u00e9, armee,{/it} from {it}armer{/it} \"to {et_link|arm:2|arm:2}\" + {it}-ee,{/it} suffix of action or result (going back to Vulgar Latin {it}*-\u0101ta,{/it} noun derivative from feminine of Latin {it}-\u0101tus,{/it} past participle ending of Latin first-conjugation verbs)"
+            ],
+            [
+                "et_snote",
+                [
+                    [
+                        "t",
+                        "Compare Spanish {it}armada{/it} \"military force, fleet of warships\"\u2014see {et_link|armada|armada}."
+                    ]
+                ]
+            ]
+        ],
+        "date": "circa 1522{ds||1|a|}",
+        "shortdef": [
+            "a large organized body of armed personnel trained for war especially on land",
+            "a unit capable of independent action and consisting usually of a headquarters, two or more corps, and auxiliary troops",
+            "the complete military organization of a nation for land warfare"
+        ]
+    },
+    {
+        "meta": {
+            "id": "Salvation Army",
+            "uuid": "68e7f77d-c667-48c1-8327-a06a97eeb014",
+            "sort": "190384000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "Salvation Armies",
+                "Salvation Army"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "Salvation Army"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an international religious and charitable group organized on military lines and founded in 1865 by William Booth for evangelizing and social betterment (as of the poor)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1878",
+        "shortdef": [
+            "an international religious and charitable group organized on military lines and founded in 1865 by William Booth for evangelizing and social betterment (as of the poor)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "standing army",
+            "uuid": "f7458b96-4bf1-41ad-9ab1-790009dae19b",
+            "sort": "194748000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "standing armies",
+                "standing army"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "standing army"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a permanent army of paid soldiers"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1603",
+        "shortdef": [
+            "a permanent army of paid soldiers"
+        ]
+    }
+]

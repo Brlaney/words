@@ -1,0 +1,611 @@
+[
+    {
+        "meta": {
+            "id": "sharp:1",
+            "uuid": "41cfc184-b08e-409f-8115-cf6f53ec76cc",
+            "sort": "193375000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sharp",
+                "sharper",
+                "sharpest",
+                "sharply",
+                "sharpness",
+                "sharpnesses"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "sharp",
+            "prs": [
+                {
+                    "mw": "\u02c8sh\u00e4rp",
+                    "sound": {
+                        "audio": "sharp001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "bs",
+                            {
+                                "sense": {
+                                    "sn": "1",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}adapted to cutting or piercing: such as"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}having a thin keen edge or fine point"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}briskly or bitingly cold {bc}{sx|nipping||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}sharp{/wi} wind"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}keen in intellect {bc}{sx|quick-witted||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}keen in perception {bc}{sx|acute||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}sharp{/wi} sight"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}keen in attention {bc}{sx|vigilant||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "keep a {wi}sharp{/wi} lookout"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}keen in attention to one's own interest sometimes to the point of being unethical "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}sharp{/wi} trader"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|corrupt||}, {sx|unethical||} "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}sharp{/wi} business practices"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "bs",
+                            {
+                                "sense": {
+                                    "sn": "3",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}keen in spirit or action: such as"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}full of activity or energy {bc}{sx|brisk||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}sharp{/wi} blows"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}capable of acting or reacting strongly"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|caustic||}"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "bs",
+                            {
+                                "sense": {
+                                    "sn": "4",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|severe||}, {sx|harsh||}: such as"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}inclined to or marked by irritability or anger "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}sharp{/wi} temper"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}causing intense mental or physical distress "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}sharp{/wi} pain"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}cutting in language or import "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}sharp{/wi} rebuke"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "bs",
+                                    {
+                                        "sense": {
+                                            "sn": "5",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}affecting the senses or sense organs intensely: such as"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}having a strong odor or flavor "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}sharp{/wi} cheese"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|acrid||}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}having a strong piercing sound"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}having the effect of or involving a sudden brilliant display of light "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}sharp{/wi} flash"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}terminating in a point or edge "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}sharp{/wi} features"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}involving an abrupt or marked change especially in direction "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}sharp{/wi} turn"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}clear in outline or detail {bc}{sx|distinct||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}sharp{/wi} image"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}set forth with clarity and distinctness "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}sharp{/wi} contrast"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7 a",
+                                "sls": [
+                                    "of a tone"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}raised a half step in pitch"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}higher than the proper pitch"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|major||}, {sx|augmented||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used of an interval in music"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|stylish||}, {sx|dressy||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "sharp*ly",
+                "fl": "adverb"
+            },
+            {
+                "ure": "sharp*ness",
+                "fl": "noun"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}sharp{/sc} {sc}keen{/sc} {sc}acute{/sc} mean having or showing alert competence and clear understanding. {sc}sharp{/sc} implies quick perception, clever resourcefulness, or sometimes questionable trickiness. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}sharp{/it} enough to spot a confidence game"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}keen{/sc} suggests quickness, enthusiasm, and a penetrating mind. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}keen{/it} observer of the political scene"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}acute{/sc} implies a power to penetrate and may suggest subtlety and sharpness of discrimination. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "an {it}acute{/it} sense of style"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}scearp{/it}; akin to Old High German {it}scarf{/it} sharp and perhaps to Old English {it}scrapian{/it} to scrape {ma}{mat|scrape|}{/ma}"
+            ]
+        ],
+        "date": "before 12th century{ds||1||}",
+        "shortdef": [
+            "adapted to cutting or piercing: such as",
+            "having a thin keen edge or fine point",
+            "briskly or bitingly cold : nipping"
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "meta": {
+            "id": "deep-seated",
+            "uuid": "ea0022db-41c5-4dc7-a7cb-a470f440cfae",
+            "sort": "040763000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "deep-seated"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "deep-seat*ed",
+            "prs": [
+                {
+                    "mw": "\u02c8d\u0113p-\u02c8s\u0113-t\u0259d",
+                    "sound": {
+                        "audio": "deep_s02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}situated far below the surface "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}deep-seated{/wi} inflammation"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}firmly established "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}deep-seated{/wi} tradition"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1701{ds||2||}",
+        "shortdef": [
+            "situated far below the surface",
+            "firmly established"
+        ]
+    }
+]

@@ -1,0 +1,633 @@
+[
+    {
+        "meta": {
+            "id": "burden:1",
+            "uuid": "9bb0eb14-2faa-48c6-a4bc-4207c6082eeb",
+            "sort": "020491000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "burden",
+                "burdens"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "bur*den",
+            "prs": [
+                {
+                    "mw": "\u02c8b\u0259r-d\u1d4an",
+                    "sound": {
+                        "audio": "burden01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that is carried {bc}{sx|load||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "dropped his {wi}burden{/wi} of firewood"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|duty||}, {sx|responsibility||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "forced to bear the {wi}burden{/wi} of caring for her aging parents"
+                                            },
+                                            {
+                                                "t": "lowering the tax {wi}burden{/wi} on the middle class"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something oppressive or worrisome "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a heavy {wi}burden{/wi} of guilt"
+                                            },
+                                            {
+                                                "t": "was a huge financial {wi}burden{/wi} on his family"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the bearing of a load "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used in the phrase {it}beast of burden{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}capacity for carrying cargo "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a ship of a hundred tons {wi}burden{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|load||11} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "worm {wi}burdens{/wi} of cattle"
+                                            },
+                                            {
+                                                "t": "cancer {wi}burden{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}byrthen{/it}; akin to Old English {it}beran{/it} to carry {ma}{mat|bear|}{/ma}"
+            ]
+        ],
+        "date": "before 12th century{ds||1|a|}",
+        "shortdef": [
+            "something that is carried : load",
+            "duty, responsibility",
+            "something oppressive or worrisome"
+        ]
+    },
+    {
+        "meta": {
+            "id": "burden:2",
+            "uuid": "d5845e89-b935-4889-8864-c84fbd811951",
+            "sort": "020491100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "burden",
+                "burdened",
+                "burdening",
+                "burdens"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "burden"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "bur*dened"
+            },
+            {
+                "if": "bur*den*ing",
+                "prs": [
+                    {
+                        "mw": "\u02c8b\u0259rd-ni\u014b",
+                        "sound": {
+                            "audio": "burden02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8b\u0259r-d\u1d4an-i\u014b"
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|load||}, {sx|oppress||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I will not {wi}burden{/wi} you with a lengthy account."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|burden:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "1541",
+        "shortdef": [
+            "load, oppress"
+        ]
+    },
+    {
+        "meta": {
+            "id": "burden:3",
+            "uuid": "e835bc11-a7a5-48ab-b8d4-8c0c3739ca40",
+            "sort": "020491200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "burden",
+                "burdens"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "burden"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a central topic {bc}{sx|theme||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the {wi}burden{/wi} of the argument"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|chorus||}, {sx|refrain||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "archaic"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a bass or accompanying part "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I would sing my song without a {wi}burden{/wi}; thou bringest me out of tune",
+                                                "aq": {
+                                                    "auth": "Shakespeare"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}burdoun{/it}, from Anglo-French {it}burdun{/it} a drone bass, of imitative origin"
+            ]
+        ],
+        "date": "14th century{ds||2||}",
+        "shortdef": [
+            "a central topic : theme",
+            "chorus, refrain",
+            "a bass or accompanying part"
+        ]
+    },
+    {
+        "meta": {
+            "id": "burthen",
+            "uuid": "d5f6aa7c-994c-49d2-841e-bfdd7798bd15",
+            "sort": "020499900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "burden",
+                "burthen"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "bur*then",
+            "prs": [
+                {
+                    "mw": "\u02c8b\u0259r-t\u035fh\u0259n",
+                    "sound": {
+                        "audio": "burthe01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "cxs": [
+            {
+                "cxl": "archaic variant of",
+                "cxtis": [
+                    {
+                        "cxt": "burden"
+                    }
+                ]
+            }
+        ],
+        "shortdef": []
+    },
+    {
+        "meta": {
+            "id": "burden of proof",
+            "uuid": "7a732e3b-0f9b-4e25-a7d9-cee494bf2ac2",
+            "sort": "020491300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "burden of proof"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "burden of proof"
+        },
+        "fl": "noun phrase",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the duty of proving a disputed assertion or charge"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1705",
+        "shortdef": [
+            "the duty of proving a disputed assertion or charge"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beast of burden",
+            "uuid": "66e0fedc-3bed-46f8-9ce2-dec3a6ebf011",
+            "sort": "020118400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "beast of burden",
+                "beasts of burden"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "beast of burden"
+        },
+        "fl": "noun phrase",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an animal employed to carry heavy loads or to perform other heavy work (such as pulling a plow)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1740",
+        "shortdef": [
+            "an animal employed to carry heavy loads or to perform other heavy work (such as pulling a plow)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "white man's burden",
+            "uuid": "7db4812b-4441-4541-a1b4-395c5ecc1f3f",
+            "sort": "230135300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "white man's burden",
+                "white man's burdens"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "white man's burden"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a duty formerly asserted by white people to manage the affairs of nonwhite people whom they believed to be less developed"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "et_snote",
+                [
+                    [
+                        "t",
+                        "The phrase \"the white man's burden\" is closely associated with a poem of that name by Rudyard {et_link|kipling|Kipling:b}, which was first published in {it}The Times{/it} of London on February 4, 1899, and in {it}The New York Sun{/it} on February 5. Kipling's poem asserts that it is the moral duty of the nations of the West to bring civilization to the less enlightened populace of the South and East\u2014to, as Kipling put it, \"Your new-caught, sullen peoples,/Half devil and half child.\" At the time of its publication the U.S. Senate was debating ratification of the Treaty of Paris, negotiated by Spain and the U.S. to end the Spanish-American War; a major clause of the treaty would have turned over government of the ten million people of the Philippines, who were judged \"uncivilized,\" to the U.S. (On the day of the poem's publication, Filipino nationalists, not having been consulted about their status, began military operations against U.S. troops on Luzon.) Kipling favored Philippine annexation, and sent a copy of the poem to Theodore Roosevelt, then governor of New York. The phrase \"the white man's burden,\" however, was not Kipling's coinage, and appears a few times in print before 1899. The earliest known occurrence appears to be in the Methodist newspaper {it}The Southern Christian Advocate{/it} for September 21, 1865."
+                    ]
+                ]
+            ]
+        ],
+        "date": "1865",
+        "shortdef": [
+            "a duty formerly asserted by white people to manage the affairs of nonwhite people whom they believed to be less developed"
+        ]
+    },
+    {
+        "meta": {
+            "id": "debt burden",
+            "uuid": "771f02a6-7c44-4485-b2a5-8e3152c65621",
+            "sort": "3004495000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "debt burden"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "debt burden"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the amount of money that one owes "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the company's large {it}debt burden{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "the amount of money that one owes"
+        ]
+    },
+    {
+        "meta": {
+            "id": "tax burden",
+            "uuid": "cc049377-2c56-4067-a556-7cad8584f249",
+            "sort": "3019540000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "tax burden"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "tax burden"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}responsibility for paying a greater portion of taxes "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The {it}tax burden{/it} has been falling increasingly on the middle class."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "responsibility for paying a greater portion of taxes"
+        ]
+    }
+]

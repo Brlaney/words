@@ -1,0 +1,237 @@
+[
+    {
+        "meta": {
+            "id": "fearful",
+            "uuid": "6a610b0b-9dea-4f3c-a5cb-5c5b2bae64ba",
+            "sort": "060634000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "fearful",
+                "fearfuler",
+                "fearfulest",
+                "fearfully",
+                "fearfulness",
+                "fearfulnesses"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "fear*ful",
+            "prs": [
+                {
+                    "mw": "\u02c8fir-f\u0259l",
+                    "sound": {
+                        "audio": "fearfu01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}causing or likely to cause fear, fright, or alarm especially because of dangerous quality "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}fearful{/wi} storm"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}full of fear "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}fearful{/wi} for his safety"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}indicating or arising from fear "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}fearful{/wi} glance"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}inclined to fear {bc}{sx|timorous||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}very great or bad "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used as an intensive "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "a {wi}fearful{/wi} waste"
+                                                        },
+                                                        {
+                                                            "t": "{wi}fearful{/wi} slum conditions"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "fear*ful*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8fir-f(\u0259-)l\u0113",
+                        "sound": {
+                            "audio": "fearfu02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            },
+            {
+                "ure": "fear*ful*ness",
+                "prs": [
+                    {
+                        "mw": "\u02c8fir-f\u0259l-n\u0259s",
+                        "sound": {
+                            "audio": "fearfu03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}fearful{/sc} {sc}apprehensive{/sc} {sc}afraid{/sc} mean disturbed by fear. {sc}fearful{/sc} implies often a timorous or worrying temperament. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the child is {it}fearful{/it} of loud noises"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}apprehensive{/sc} suggests a state of mind and implies a premonition of evil or danger. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}apprehensive{/it} of being found out"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}afraid{/sc} often suggests weakness or cowardice and regularly implies inhibition of action or utterance. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}afraid{/it} to speak the truth"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}feerful, fereful{/it} \"inspiring dread, frightened,\" from {it}fer{/it} {et_link|fear:1|fear:1} + {it}-ful{/it} {et_link|-ful:1|-ful:1}"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "causing or likely to cause fear, fright, or alarm especially because of dangerous quality",
+            "full of fear",
+            "indicating or arising from fear"
+        ]
+    }
+]

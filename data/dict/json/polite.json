@@ -1,0 +1,345 @@
+[
+    {
+        "meta": {
+            "id": "polite",
+            "uuid": "907ad7a1-1c5c-4e31-9dbf-850504cef256",
+            "sort": "165549000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "polite",
+                "politely",
+                "politeness",
+                "politenesses",
+                "politer",
+                "politest"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "po*lite",
+            "prs": [
+                {
+                    "mw": "p\u0259-\u02c8l\u012bt",
+                    "sound": {
+                        "audio": "polite01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "ins": [
+            {
+                "if": "po*lit*er"
+            },
+            {
+                "ifc": "-est",
+                "if": "po*lit*est"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}of, relating to, or having the characteristics of advanced culture"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}marked by refined cultural interests and pursuits especially in arts and belles lettres"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}showing or characterized by correct social usage"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}marked by an appearance of consideration, tact, deference, or courtesy"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}marked by a lack of roughness or crudities "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}polite{/wi} literature"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "po*lite*ly",
+                "fl": "adverb"
+            },
+            {
+                "ure": "po*lite*ness",
+                "fl": "noun"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}civil{/sc} {sc}polite{/sc} {sc}courteous{/sc} {sc}gallant{/sc} {sc}chivalrous{/sc} mean observant of the forms required by good breeding. {sc}civil{/sc} often suggests little more than the avoidance of overt rudeness. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "owed the questioner a {it}civil{/it} reply"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}polite{/sc} commonly implies polish of speech and manners and sometimes suggests an absence of cordiality. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "if you can't be pleasant, at least be {it}polite{/it}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}courteous{/sc} implies more actively considerate or dignified politeness. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "clerks who were unfailingly {it}courteous{/it} to customers"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}gallant{/sc} and {sc}chivalrous{/sc} imply courteous attentiveness especially to women. {sc}gallant{/sc} suggests spirited and dashing behavior and ornate expressions of courtesy. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}gallant{/it} suitor of the old school"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}chivalrous{/sc} suggests high-minded and self-sacrificing behavior. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}chivalrous{/it} display of duty"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English (Scots) {it}polit{/it}, Latin {it}politus{/it}, from past participle of {it}polire{/it}"
+            ]
+        ],
+        "date": "circa 1500{ds||1|a|}",
+        "shortdef": [
+            "of, relating to, or having the characteristics of advanced culture",
+            "marked by refined cultural interests and pursuits especially in arts and belles lettres",
+            "showing or characterized by correct social usage"
+        ]
+    },
+    {
+        "meta": {
+            "id": "polite speech",
+            "uuid": "e4afc682-a85e-40a4-b406-e010f8787c40",
+            "sort": "3015039000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "polite speech"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "polite speech"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}somewhat formal speech that is not offensive and can be used in all situations"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "somewhat formal speech that is not offensive and can be used in all situations"
+        ]
+    },
+    {
+        "meta": {
+            "id": "in polite company",
+            "uuid": "8f871b72-36d6-4110-a7bd-451e4b683af2",
+            "sort": "3009717000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "in polite company"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "in polite company"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in formal settings {bc}with people you do not know well "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "It's not something you should talk about {it}in polite company{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "in formal settings : with people you do not know well"
+        ]
+    },
+    {
+        "meta": {
+            "id": "in polite society/company",
+            "uuid": "3a7bc8fd-2c17-4182-a77b-c7d1015471fe",
+            "sort": "3009718000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "in polite company",
+                "in polite society",
+                "in polite society/company"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "in polite society/company"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}with people who value good manners "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Certain words should not be used {it}in polite society/company{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "with people who value good manners"
+        ]
+    }
+]

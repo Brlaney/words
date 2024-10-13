@@ -1,0 +1,113 @@
+[
+    {
+        "meta": {
+            "id": "portray",
+            "uuid": "efc5d6a5-6e33-4765-9350-d8bc3ac2620a",
+            "sort": "166013000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "portray",
+                "portrayed",
+                "portrayer",
+                "portrayers",
+                "portraying",
+                "portrays"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "por*tray",
+            "prs": [
+                {
+                    "mw": "p\u022fr-\u02c8tr\u0101",
+                    "sound": {
+                        "audio": "portra04",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "p\u0259r-"
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "por*trayed"
+            },
+            {
+                "if": "por*tray*ing"
+            },
+            {
+                "if": "por*trays"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a picture of {bc}{sx|depict||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to describe in words"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to play the role of {bc}{sx|enact||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "por*tray*er",
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}portraien, purtrayen, purtreyen{/it} \"to draw, paint, depict, decorate, form a mental image of,\" borrowed from Anglo-French {it}purtraire{/it} \"to represent (in drawing, painting, etc.), depict, decorate, plan (also continental Old French {it}pourtraire{/it}), from {it}pur-, pour-, por-,{/it} prefix marking completion of an action (going back to Latin {it}pr\u014d-,{/it} prefix denoting forward movement) + {it}traire{/it} \"to drag, pull, draw out, launch, shoot, trace, represent,\" going back to Latin {it}trahere{/it} \"to drag, draw, take along\" {ma}{mat|pro-:2|}, {mat|abstract:1|}{/ma}"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "to make a picture of : depict",
+            "to describe in words",
+            "to play the role of : enact"
+        ]
+    }
+]

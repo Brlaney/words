@@ -1,0 +1,195 @@
+[
+    {
+        "meta": {
+            "id": "horde",
+            "uuid": "1439233d-7a5e-4578-9991-784e5f794c69",
+            "sort": "080259300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "horde",
+                "hordes"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "horde",
+            "prs": [
+                {
+                    "mw": "\u02c8h\u022frd",
+                    "sound": {
+                        "audio": "horde001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a political subdivision of central Asian nomads"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a people or tribe of nomadic life"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a large unorganized group of individuals {bc}a teeming crowd or throng "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}hordes{/wi} of peasants"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}crowd{/sc} {sc}throng{/sc} {sc}horde{/sc} {sc}crush{/sc} {sc}mob{/sc} mean an assembled multitude. {sc}crowd{/sc} implies a close gathering and pressing together. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}crowd{/it} gathered"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}throng{/sc} and {sc}horde{/sc} suggest movement and pushing. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}throng{/it} of reporters"
+                            },
+                            {
+                                "t": "a {it}horde{/it} of shoppers"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}crush{/sc} emphasizes the compactness of the group, the difficulty of individual movement, and the attendant discomfort. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}crush{/it} of fans"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}mob{/sc} implies a disorderly crowd with the potential for violence. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "an angry {it}mob{/it}"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle French, German, & Polish; Middle French & German, from Polish {it}horda{/it}, from Ukrainian dialect {it}gorda{/it}, alteration of Ukrainian {it}orda{/it}, from Old Russian, from Turkic {it}orda, ordu{/it} khan's residence"
+            ]
+        ],
+        "date": "1555{ds||1|a|}",
+        "shortdef": [
+            "a political subdivision of central Asian nomads",
+            "a people or tribe of nomadic life",
+            "a large unorganized group of individuals : a teeming crowd or throng"
+        ]
+    },
+    {
+        "meta": {
+            "id": "Golden Horde",
+            "uuid": "ccac0197-2bd9-4088-9863-44d1b974b8ea",
+            "sort": "071723000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "Golden Horde",
+                "Golden Hordes"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "Golden Horde"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a body of Mongols that overran eastern Europe in the 13th century and dominated Russia until 1486"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1863",
+        "shortdef": [
+            "a body of Mongols that overran eastern Europe in the 13th century and dominated Russia until 1486"
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "meta": {
+            "id": "tenement",
+            "uuid": "35d5be07-1c61-4805-b27d-8f0555d70b1e",
+            "sort": "200102000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "tenement",
+                "tenements"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "ten*e*ment",
+            "prs": [
+                {
+                    "mw": "\u02c8te-n\u0259-m\u0259nt",
+                    "sound": {
+                        "audio": "teneme01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|tenement house||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|apartment||}, {sx|flat||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a house used as a dwelling {bc}{sx|residence||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of various forms of corporeal property (such as land) or incorporeal property that is held by one person from another"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|dwelling||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, \"the holding of property, the property so held, building, dwelling,\" borrowed from Anglo-French, borrowed from Medieval Latin {it}tenementum, tenimentum, teneamentum,{/it} from Latin {it}ten\u0113re{/it} \"to hold, occupy, possess\" + {it}-mentum{/it} {et_link|-ment|-ment} {ma}{mat|tenant:1|}{/ma}"
+            ]
+        ],
+        "date": "14th century{ds||2||}",
+        "shortdef": [
+            "tenement house",
+            "apartment, flat",
+            "a house used as a dwelling : residence"
+        ]
+    }
+]

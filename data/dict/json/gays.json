@@ -1,0 +1,139 @@
+[
+    {
+        "meta": {
+            "id": "gay:2",
+            "uuid": "be6c8626-d290-4a45-b630-7e9c9a094efd",
+            "sort": "070565000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gay",
+                "gays"
+            ],
+            "offensive": true
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "gay"
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "gays"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sls": [
+                                    "sometimes disparaging + offensive",
+                                    "see usage paragraph below"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a gay person"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a gay man"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "usages": [
+            {
+                "pl": "Usage of {parahw}gay{/parahw}",
+                "pt": [
+                    [
+                        "text",
+                        "Use of the noun {it}gay{/it} to refer to a particular person or particular people is commonly considered offensive. Phrases that employ the adjective are preferred "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {wi}gay{/wi} author"
+                            },
+                            {
+                                "t": "they are both {wi}gay{/wi}"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " over such uses as "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "The author is a {wi}gay{/wi}."
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " and "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "They are both {wi}gays{/wi}."
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " which employ the noun. The noun does, however, function as a neutral or positive self-descriptor, and in its plural form is common especially in phrases with other plural nouns that relate to sexual orientation and gender identity. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the rights of {wi}gays{/wi} and lesbians"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " It is also sometimes used neutrally to refer in a general way to gay people. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{wi}gays{/wi} serving in the military"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "derivative of {et_link|gay:1|gay:1}"
+            ]
+        ],
+        "date": "1953",
+        "shortdef": [
+            "a gay person; especially : a gay man"
+        ]
+    }
+]

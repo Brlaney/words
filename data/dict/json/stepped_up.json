@@ -1,0 +1,338 @@
+[
+    {
+        "meta": {
+            "id": "stepped-up",
+            "uuid": "54e3af29-145a-4ca7-a8dd-46d2d25aaf0a",
+            "sort": "194789000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "stepped-up"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "stepped-up",
+            "prs": [
+                {
+                    "mw": "\u02c8stept-\u02c8\u0259p",
+                    "sound": {
+                        "audio": "steppe02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}increased in intensity"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1902",
+        "shortdef": [
+            "increased in intensity"
+        ]
+    },
+    {
+        "meta": {
+            "id": "step up",
+            "uuid": "c5f2be14-bf73-46ec-9d83-3d65cebcbc19",
+            "sort": "194789800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "step up",
+                "stepped up",
+                "stepping up",
+                "steps up"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "step up"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "stepped up"
+            },
+            {
+                "if": "step*ping up"
+            },
+            {
+                "if": "steps up"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to increase, augment, or advance especially by one or more steps "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The team really {wi}stepped up{/wi} their performance."
+                                            },
+                                            {
+                                                "t": "The enemy {wi}stepped up{/wi} their attacks."
+                                            },
+                                            {
+                                                "t": "He also plans to {wi}step up{/wi} efforts to headhunt for the best and brightest \u2026",
+                                                "aq": {
+                                                    "auth": "Jerry Garrett"
+                                                }
+                                            },
+                                            {
+                                                "t": "Factory production was {wi}stepped up{/wi} in an effort to meet helicopter shortfalls.",
+                                                "aq": {
+                                                    "auth": "Shelby L. Stanton"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to increase (a voltage) by means of a transformer "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 the use of transformers to {wi}step up{/wi} the voltage to very high levels \u2026",
+                                                "aq": {
+                                                    "auth": "Thomas P. Hughes"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make the effort required to provide information, make a claim, volunteer, etc. "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She {it}stepped up{/it} to claim responsibility."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        " {dx}see also {dxt|step up to the plate||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to succeed in meeting a challenge (as by increased effort or improved performance) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They just didn't have the guys to {wi}step up{/wi} and make the big plays with the game on the line.",
+                                                "aq": {
+                                                    "auth": "Peter King"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to undergo an increase "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Business is {it}stepping up{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to receive a promotion "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She {wi}stepped up{/wi} to the position of general manager."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1902{ds|t|2||}",
+        "shortdef": [
+            "to increase, augment, or advance especially by one or more steps",
+            "to increase (a voltage) by means of a transformer",
+            "to make the effort required to provide information, make a claim, volunteer, etc."
+        ]
+    },
+    {
+        "meta": {
+            "id": "step up to the plate",
+            "uuid": "dd106a66-9767-460d-8e45-e68af64969b2",
+            "sort": "194789950",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "step up to the plate",
+                "stepped up to the plate",
+                "stepping up to the plate",
+                "steps up to the plate"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "step up to the plate"
+        },
+        "fl": "idiomatic phrase",
+        "def": [
+            {
+                "sls": [
+                    "baseball"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move into position next to home plate in order to bat "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "In April 15, 1947, Jackie Robinson {wi}stepped up to the plate{/wi} for the Brooklyn Dodgers at Ebbets Field in New York City.",
+                                                "aq": {
+                                                    "auth": "Nelida Gonzalez Cutler"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used figuratively in U.S. English to refer to showing readiness to meet a challenge (as by increased effort or improved performance) "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "If you want this promotion, you're going to have to {wi}step up to the plate{/wi}."
+                                                        },
+                                                        {
+                                                            "t": "\"The mother either needs to continue to be the disciplinarian or get the father to {wi}step up to the plate{/wi} and be a team player.\"",
+                                                            "aq": {
+                                                                "auth": "Barbara Lewin"
+                                                            }
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1868",
+        "shortdef": [
+            "to move into position next to home plate in order to bat \u2014often used figuratively in U.S. English to refer to showing readiness to meet a challenge (as by increased effort or improved performance)"
+        ]
+    }
+]

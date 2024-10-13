@@ -1,0 +1,63 @@
+[
+    {
+        "meta": {
+            "id": "squad car",
+            "uuid": "c6bca776-af85-486b-9e97-fea985abaf0e",
+            "sort": "194714100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "black-and-white",
+                "cruiser",
+                "prowl car",
+                "squad car",
+                "squad cars"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "squad car"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a police automobile connected with headquarters by a two-way radio "
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "black-and-white"
+                                                },
+                                                {
+                                                    "cat": "cruiser"
+                                                },
+                                                {
+                                                    "cat": "prowl car"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1938",
+        "shortdef": [
+            "a police automobile connected with headquarters by a two-way radio \u2014called also black-and-white, cruiser, prowl car"
+        ]
+    }
+]

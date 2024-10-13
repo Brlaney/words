@@ -1,0 +1,684 @@
+[
+    {
+        "meta": {
+            "id": "beyond:1",
+            "uuid": "547ac5d1-f3f4-4bc2-a404-e60123abbbbb",
+            "sort": "020183300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "beyond"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "be*yond",
+            "prs": [
+                {
+                    "mw": "b\u0113-\u02c8\u00e4nd",
+                    "sound": {
+                        "audio": "beyond01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adverb",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}on or to the farther side {bc}{sx|farther||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We could see the valley and the hills {wi}beyond{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in addition {bc}{sx|besides||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "provides the essentials but nothing {wi}beyond{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, preposition & adverb, from Old English {it}begeondan{/it}, from {it}be-{/it} + {it}geondan{/it} beyond, from {it}geond{/it} yond {ma}{mat|yond|}{/ma}"
+            ]
+        ],
+        "date": "before 12th century{ds||1||}",
+        "shortdef": [
+            "on or to the farther side : farther",
+            "in addition : besides"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beyond:2",
+            "uuid": "e6b2c665-1835-43a7-8e51-e4df560e8de3",
+            "sort": "020183400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "beyond"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "beyond"
+        },
+        "fl": "preposition",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}on or to the farther side of {bc}at a greater distance than "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}beyond{/wi} the horizon"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}out of the reach or sphere {dx_def}see {dxt|sphere:1||4b}{/dx_def} of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a task {wi}beyond{/wi} his strength"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in a degree or amount surpassing "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "beautiful {wi}beyond{/wi} measure"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}out of the comprehension of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "his reasoning is {wi}beyond{/wi} me"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in addition to {bc}{sx|besides||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "doing work {wi}beyond{/wi} his regular duties"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|beyond:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "before 12th century{ds||1||}",
+        "shortdef": [
+            "on or to the farther side of : at a greater distance than",
+            "out of the reach or sphere of",
+            "in a degree or amount surpassing"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beyond:3",
+            "uuid": "cd49bd9a-5947-4c61-b0ab-2c23d63a56d9",
+            "sort": "020183500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "beyond",
+                "beyonds"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "beyond"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that lies on or to the farther side {bc}something that lies beyond {dx_def}see {dxt|beyond:1||1}{/dx_def} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "twenty miles back into the {wi}beyond{/wi}",
+                                                "aq": {
+                                                    "auth": "R. W. Hatch"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that lies outside the scope of ordinary experience "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 there's a {wi}beyond{/wi} that the mind can't see, and that's where the answers are.",
+                                                "aq": {
+                                                    "auth": "Robert Nathan"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "specifically",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|hereafter||}"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|beyond:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "something that lies on or to the farther side : something that lies beyond",
+            "something that lies outside the scope of ordinary experience; specifically : hereafter"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beyond (all) expectations",
+            "uuid": "efd7a0a2-845a-460b-be3c-ef213bee1fd1",
+            "sort": "3001815000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "beyond (all) expectations",
+                "beyond all expectations",
+                "beyond expectations"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "beyond (all) expectations"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}more than people thought would be the case "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The restaurant has succeeded {it}beyond (all) expectations{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "more than people thought would be the case"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beyond (all) recognition",
+            "uuid": "56ada7bb-9d07-4241-8e1c-aad5913ad11e",
+            "sort": "3001816000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "beyond (all) recognition",
+                "beyond all recognition",
+                "beyond recognition"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "beyond (all) recognition"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to such a degree as to look completely different and be unrecognizable "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The renovations changed the house {it}beyond (all) recognition{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to such a degree as to look completely different and be unrecognizable"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beyond bearing",
+            "uuid": "96cbb830-dc23-4308-b882-facc0d4859c5",
+            "sort": "3001817000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "beyond bearing",
+                "past bearing"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "beyond bearing"
+        },
+        "vrs": [
+            {
+                "vl": "or",
+                "va": "past bearing"
+            }
+        ],
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "formal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}too painful, unpleasant, etc., to be accepted or endured "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a grief almost {it}past bearing{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "too painful, unpleasant, etc., to be accepted or endured"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beyond belief",
+            "uuid": "6f5b16c4-1670-42d6-9c45-cfc98ee92dca",
+            "sort": "3001818000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "beyond belief"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "beyond belief"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}not capable of being believed {bc}too extraordinary to be believed "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "events that are {it}beyond belief{/it}"
+                                            },
+                                            {
+                                                "t": "She is beautiful {it}beyond belief{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "not capable of being believed : too extraordinary to be believed"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beyond cavil",
+            "uuid": "f4c00f65-2265-49d0-812a-ab7d9710b7a5",
+            "sort": "3001819000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "beyond cavil"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "beyond cavil"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}not to be doubted or argued about "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The need for these changes is {it}beyond cavil{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "not to be doubted or argued about"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beyond compare",
+            "uuid": "6056d2bc-6017-48ab-bc5d-3b74c7fea3da",
+            "sort": "3001820000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "beyond compare",
+                "without compare"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "beyond compare"
+        },
+        "vrs": [
+            {
+                "vl": "or less commonly",
+                "va": "without compare"
+            }
+        ],
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}better or greater than any other {bc}having no equal "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The singer's voice is {it}beyond compare{/it}."
+                                            },
+                                            {
+                                                "t": "beauty {it}beyond compare{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "better or greater than any other : having no equal"
+        ]
+    },
+    {
+        "meta": {
+            "id": "beyond comprehension",
+            "uuid": "8f55089b-a242-44c9-9942-1d631e1ef612",
+            "sort": "3001821000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "beyond comprehension"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "beyond comprehension"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}impossible to imagine "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The war caused suffering {it}beyond comprehension{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "impossible to imagine"
+        ]
+    }
+]

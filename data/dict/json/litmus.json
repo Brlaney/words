@@ -1,0 +1,166 @@
+[
+    {
+        "meta": {
+            "id": "litmus",
+            "uuid": "019c04d7-3843-4299-bb07-1e5697371a53",
+            "sort": "120201600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "litmus",
+                "litmuses"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "lit*mus",
+            "prs": [
+                {
+                    "mw": "\u02c8lit-m\u0259s",
+                    "sound": {
+                        "audio": "litmus01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a coloring matter from lichens that turns red in acid solutions and blue in alkaline solutions and is used as an acid-base indicator"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the critical factor in a litmus test"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|litmus test||}"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}litmose{/it}, of Scandinavian origin; akin to Old Norse {it}litmosi{/it} herbs used in dyeing, from {it}litr{/it} color (akin to Old English {it}wlite{/it} brightness, appearance) + {it}mosi{/it} moss; akin to Old English {it}m\u014ds{/it} moss"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "a coloring matter from lichens that turns red in acid solutions and blue in alkaline solutions and is used as an acid-base indicator",
+            "the critical factor in a litmus test; also : litmus test"
+        ]
+    },
+    {
+        "meta": {
+            "id": "litmus paper",
+            "uuid": "a17ae5a7-0fd1-4d5d-bacd-200d9db96084",
+            "sort": "120201700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "litmus paper",
+                "litmus papers"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "litmus paper"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}unsized paper colored with litmus and used as an indicator"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1803",
+        "shortdef": [
+            "unsized paper colored with litmus and used as an indicator"
+        ]
+    },
+    {
+        "meta": {
+            "id": "litmus test",
+            "uuid": "e57ab67d-f5d1-4e6c-aa1f-5ae2aac7bf8a",
+            "sort": "120201800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "litmus test",
+                "litmus tests"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "litmus test"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a test in which a single factor (such as an attitude, event, or fact) is decisive"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1913",
+        "shortdef": [
+            "a test in which a single factor (such as an attitude, event, or fact) is decisive"
+        ]
+    }
+]

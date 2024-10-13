@@ -1,0 +1,41 @@
+[
+    {
+        "meta": {
+            "id": "strong-willed",
+            "uuid": "42218b01-726e-4f4a-9da4-1df299409efa",
+            "sort": "3018888000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "strong-willed"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "strong-willed"
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}very determined to do something even if other people say it should not be done"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "very determined to do something even if other people say it should not be done"
+        ]
+    }
+]

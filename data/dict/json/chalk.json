@@ -1,0 +1,562 @@
+[
+    {
+        "meta": {
+            "id": "chalk:1",
+            "uuid": "8b90bf80-5e96-4cd2-9ad3-cace78b8f59f",
+            "sort": "032026000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "chalk",
+                "chalkier",
+                "chalkiest",
+                "chalks",
+                "chalky"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "chalk",
+            "prs": [
+                {
+                    "mw": "\u02c8ch\u022fk",
+                    "sound": {
+                        "audio": "chalk001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a soft white, gray, or buff limestone composed chiefly of the shells of foraminifers"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a prepared form of chalk or a material resembling chalk especially when used (as for writing on blackboards) as a crayon"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a mark made with chalk"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "sls": [
+                                    "British"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a point scored in a game"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "chalky",
+                "prs": [
+                    {
+                        "mw": "\u02c8ch\u022f-k\u0113",
+                        "sound": {
+                            "audio": "chalk002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}chalk, schalke{/it} \"chalk, lime,\" going back to Old English {it}cealc, calc{/it} \"limestone, chalk, lime,\" going back to West Germanic {it}*kalka-{/it} (whence also Old Saxon & Middle Dutch {it}calc{/it} \"lime,\" Old High German {it}kalc, chalch{/it} \"lime, chalk\"), borrowed from Latin {it}calc-, calx{/it} \"lime, limestone,\" perhaps borrowed from Greek {it}chalik-, ch\u00e1lix{/it} \"gravel, rubble (used as building material),\" of uncertain origin"
+            ],
+            [
+                "et_snote",
+                [
+                    [
+                        "t",
+                        "The attribution of the Latin word to Greek is conventional, though the meanings are divergent, and the syncope in the Latin word is irregular. Perhaps both words were borrowed independently from a third language. Compare {et_link|calculus|calculus}."
+                    ]
+                ]
+            ]
+        ],
+        "date": "before 12th century{ds||1|a|}",
+        "shortdef": [
+            "a soft white, gray, or buff limestone composed chiefly of the shells of foraminifers",
+            "a prepared form of chalk or a material resembling chalk especially when used (as for writing on blackboards) as a crayon",
+            "a mark made with chalk"
+        ]
+    },
+    {
+        "meta": {
+            "id": "chalk:2",
+            "uuid": "b7373523-5044-40ad-b1b1-ad18bbb7c74b",
+            "sort": "032027000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "chalk",
+                "chalked",
+                "chalking",
+                "chalks"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "chalk"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "chalked"
+            },
+            {
+                "if": "chalk*ing"
+            },
+            {
+                "if": "chalks"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to write or draw with chalk"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to rub or mark with chalk"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to delineate roughly {bc}{sx|sketch||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to set down or add up with or as if with chalk {bc}{sx|record||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used with {it}up{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{wi}chalk{/wi} up the totals"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become {a_link|chalky} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the paint had begun to {wi}chalk{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "derivative of {et_link|chalk:1|chalk:1}"
+            ]
+        ],
+        "date": "1580{ds|t|1||}",
+        "shortdef": [
+            "to write or draw with chalk",
+            "to rub or mark with chalk",
+            "to delineate roughly : sketch"
+        ]
+    },
+    {
+        "meta": {
+            "id": "chalk talk",
+            "uuid": "b8ba6429-224e-4c5d-8ae6-08c401a4d15b",
+            "sort": "032029000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "chalk talk"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "chalk talk",
+            "prs": [
+                {
+                    "mw": "\u02c8ch\u022fk-\u02cct\u022fk",
+                    "sound": {
+                        "audio": "chalk_01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a talk or lecture illustrated at a blackboard"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1873",
+        "shortdef": [
+            "a talk or lecture illustrated at a blackboard"
+        ]
+    },
+    {
+        "meta": {
+            "id": "chalk up",
+            "uuid": "e653ed7f-e612-49c7-9146-6d46495ef7d3",
+            "sort": "032030000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "chalk up",
+                "chalked up",
+                "chalking up",
+                "chalks up"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "chalk up"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "chalked up"
+            },
+            {
+                "if": "chalk*ing up"
+            },
+            {
+                "if": "chalks up"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|ascribe||}, {sx|credit||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}chalked up{/it} his failures to inexperience"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|attain||}, {sx|achieve||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}chalk up{/it} another victory"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1877{ds||2||}",
+        "shortdef": [
+            "ascribe, credit",
+            "attain, achieve"
+        ]
+    },
+    {
+        "meta": {
+            "id": "chalk (something) up to",
+            "uuid": "0ffd1fcb-6936-4ffb-9605-6d58a86eb46b",
+            "sort": "3003058000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "chalk (something) up to",
+                "chalk something up to",
+                "chalk up to"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "chalk (something) up to"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to explain (something) by stating its cause {bc}to say that (something) was caused by (something) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}Chalk{/it} it {it}up to{/it} bad timing."
+                                            },
+                                            {
+                                                "t": "Her early mistakes can be {it}chalked up to{/it} inexperience."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to explain (something) by stating its cause : to say that (something) was caused by (something)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "French chalk",
+            "uuid": "fc78d365-e9bc-4fcf-bb72-15ee16d5f840",
+            "sort": "063215000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "French chalk",
+                "French chalks"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "French chalk"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a soft white granular variety of steatite used especially for drawing lines on cloth and for removing grease in dry cleaning"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1674",
+        "shortdef": [
+            "a soft white granular variety of steatite used especially for drawing lines on cloth and for removing grease in dry cleaning"
+        ]
+    },
+    {
+        "meta": {
+            "id": "not by a long chalk",
+            "uuid": "d077e06a-b23e-4c7c-8082-24fe20fd473b",
+            "sort": "3012885000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "not by a long chalk"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "not by a long chalk"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "British"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}not at all "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Our work isn't done yet, {it}not by a long chalk{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "not at all"
+        ]
+    }
+]

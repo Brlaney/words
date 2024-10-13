@@ -1,0 +1,156 @@
+[
+    {
+        "meta": {
+            "id": "snicker:1",
+            "uuid": "31e0c856-8407-4c9d-b5c2-d25b8b5d8615",
+            "sort": "194528400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "snicker",
+                "snickered",
+                "snickerer",
+                "snickerers",
+                "snickering",
+                "snickers",
+                "snickery"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "snick*er",
+            "prs": [
+                {
+                    "mw": "\u02c8sni-k\u0259r",
+                    "sound": {
+                        "audio": "snicke01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "snick*ered"
+            },
+            {
+                "if": "snick*er*ing",
+                "prs": [
+                    {
+                        "mw": "\u02c8sni-k(\u0259-)ri\u014b",
+                        "sound": {
+                            "audio": "snicke02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to laugh in a covert or partly suppressed manner {bc}{sx|titter||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "snick*er*er",
+                "prs": [
+                    {
+                        "mw": "\u02c8sni-k\u0259r-\u0259r",
+                        "sound": {
+                            "audio": "snicke03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            },
+            {
+                "ure": "snick*ery",
+                "prs": [
+                    {
+                        "mw": "\u02c8sni-k(\u0259-)r\u0113",
+                        "sound": {
+                            "audio": "snicke04",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "origin unknown"
+            ]
+        ],
+        "date": "1694",
+        "shortdef": [
+            "to laugh in a covert or partly suppressed manner : titter"
+        ]
+    },
+    {
+        "meta": {
+            "id": "snicker:2",
+            "uuid": "7661be0d-b6e7-4db7-88fd-d64b4d235742",
+            "sort": "194528500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "snicker",
+                "snickers"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "snicker"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an act or sound of {a_link|snickering}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1835",
+        "shortdef": [
+            "an act or sound of snickering"
+        ]
+    }
+]

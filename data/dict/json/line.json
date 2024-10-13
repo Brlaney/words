@@ -1,0 +1,2328 @@
+[
+    {
+        "meta": {
+            "id": "line:1",
+            "uuid": "9d26e703-3fa0-4eae-97bb-a6559d7c0f78",
+            "sort": "120173800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "between the lines",
+                "down the line",
+                "in line for",
+                "line",
+                "line cook",
+                "line cooks",
+                "lines",
+                "liney",
+                "linier",
+                "liniest",
+                "liny",
+                "on line",
+                "on the line"
+            ],
+            "offensive": true
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "line",
+            "prs": [
+                {
+                    "mw": "\u02c8l\u012bn",
+                    "sound": {
+                        "audio": "line0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "bs",
+                                    {
+                                        "sense": {
+                                            "sn": "1 a",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}a length of cord or cord-like material: such as"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a comparatively strong slender cord"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|clothesline||}"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a rope used on shipboard"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a device for catching fish consisting of a cord with hooks and other fishing gear"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}scope for activity {bc}{sx|rope||}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a length of material used in measuring and leveling "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "used a {wi}line{/wi} to level the foundation"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "d (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}piping for conveying a fluid (such as steam) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "installed a new gas {wi}line{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a narrow short synthetic tube that is inserted approximately one inch into a vein (as of the arm) to provide temporary {d_link|intravenous|intravenous} access for the administration of fluid, medication, or nutrients"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "e (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a wire or pair of wires connecting one telegraph or telephone station with another or a whole system of such wires"
+                                            ]
+                                        ],
+                                        "sdsense": {
+                                            "sd": "also",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}any circuit in an electronic communication system"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a telephone connection "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "tried to get a {wi}line{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ],
+                                        "sdsense": {
+                                            "sd": "also",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}an individual telephone extension "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "a call on {wi}line{/wi} 2"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the principal circuits of an electric power system"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2 a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a horizontal row of written or printed characters "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "the last {wi}line{/wi} on the page"
+                                                    }
+                                                ]
+                                            ]
+                                        ],
+                                        "sdsense": {
+                                            "sd": "also",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}a blank row in lieu of such characters"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a unit in the rhythmic structure of verse formed by the grouping of a number of the smallest units of the rhythm (such as metrical feet) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The poem consisted of 14 {wi}lines{/wi}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a distinct segment of a computer program containing a single command or a small number of commands"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a short letter {bc}{sx|note||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "dropped him a {wi}line{/wi} confirming the date"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "ins": [
+                                    {
+                                        "if": "lines",
+                                        "spl": "plural"
+                                    }
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a certificate of marriage"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the words making up a part in a performance "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used in plural "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "memorized his {wi}lines{/wi}"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "e",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of the successive horizontal rows of picture elements on the screen of a {d_link|cathode-ray tube|cathode-ray tube} (such as a television screen)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something (such as a ridge or seam) that is distinct, elongated, and narrow "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "growth {wi}lines{/wi} in a tree trunk"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a narrow crease (as on the face) {bc}{sx|wrinkle||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the course or direction of something in motion {bc}{sx|route||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the {wi}line{/wi} of flight of a bullet"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "d (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a state of agreement or conformity {bc}{sx|accordance||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "took a firm {wi}line{/wi} with his nephew"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a state of order, control, or obedience "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "wouldn't let them get out of {wi}line{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "e (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a boundary of an area "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "the state {wi}line{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|distinction||1} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "the fine {wi}line{/wi} between love and hate"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "f",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the track and roadbed of a railway"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "g",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an amount of cocaine that is arranged in a line to be inhaled through the nose"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a course of conduct, action, or thought"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}an official or public position "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "the party {wi}line{/wi}"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a field of activity or interest "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "worked in the plumbing {wi}line{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a glib often persuasive way of talking "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "had a {wi}line{/wi} to make the angels weep"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|limit||}, {sx|restraint||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "overstepped the {wi}line{/wi} of good taste"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "sls": [
+                                    "archaic"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}position in life {bc}{sx|lot||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "6 a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|family||}, {sx|lineage||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "descended from a noble {wi}line{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a strain produced and maintained especially by selective breeding or biological culture"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a chronological series"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}orderly arrangements made to cover extended military positions and presenting a front to the enemy "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used in plural "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "the {wi}lines{/wi} of battle"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a military formation in which the different elements are abreast of each other"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}naval ships arranged in a regular order"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "e (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the combatant forces of an army distinguished from the staff corps and supply services"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the force of a regular navy"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "f (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}officers of the navy eligible for command at sea distinguished from officers of the staff"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}officers of the army belonging to a combatant branch"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "g",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an arrangement or placement of persons or objects of one kind in an orderly series "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}line{/wi} of trees"
+                                            },
+                                            {
+                                                "t": "stand on {wi}line{/wi}"
+                                            },
+                                            {
+                                                "t": "waiting in {wi}line{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the persons or objects so positioned "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "the {wi}line{/wi} moved slowly at the bank"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "h (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a group of public conveyances plying regularly under one management over a route"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a system of transportation together with its equipment, routes, and appurtenances "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "the eastern freight {wi}lines{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ],
+                                        "sdsense": {
+                                            "sd": "also",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}the company owning or operating it"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "i",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a succession of musical notes especially considered in melodic phrases"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "j (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}an arrangement of operations in manufacturing permitting sequential occurrence on various stages of production "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "a production {wi}line{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the personnel of an organization that are responsible for its stated objective"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "k (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the seven players including center, two guards, two tackles, and two ends who in offensive football play line up on or within one foot of the line of scrimmage"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the players who in defensive play line up within one yard of the line of scrimmage"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "l",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a group of three players including a left winger, center, and right winger who play together as a unit in hockey"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "bs",
+                                    {
+                                        "sense": {
+                                            "sn": "7",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}a narrow elongated mark drawn or projected: such as"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a circle of latitude or longitude on a map"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|equator||}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a mark (as on a map) recording a boundary, division, or contour"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of the horizontal parallel strokes on a music staff on or between which notes are placed {dx}compare {dxt|space||}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a mark (as by pencil) that forms part of the formal design of a picture distinguished from the shading or color"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "e",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a division on a bridge score dividing the score for bonuses from that for tricks"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "f (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a demarcation of a limit with reference to which the playing of some game or sport is regulated "
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "usually used in combination"
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a marked or imaginary line across a playing area (such as a football field) parallel to the end line"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|line of scrimmage||}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a straight or curved geometric element that is generated by a moving point and that has extension only along the path of the point {bc}{sx|curve||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a defining outline {bc}{sx|contour||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the rising {wi}line{/wi} of the hills"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a general plan {bc}{sx|model||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used in plural "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "explained the {wi}lines{/wi} of his foreign policy"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "10 a",
+                                "sls": [
+                                    "chiefly British"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|pica||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to indicate the size of large type"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the unit of fineness of halftones expressed as the number of screen lines to the linear inch"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "11",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}merchandise or services of the same general class for sale or regularly available "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a full {wi}line{/wi} of electrical supplies"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "12 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a source of information {bc}{sx|insight||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}betting odds offered by a bookmaker especially on a sporting event"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "13",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a complete game of 10 frames in bowling "
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "string"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "14",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|line drive||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "15",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the part of a professional kitchen in which meals are cooked and plated "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "In esoteric, insider terminology of the restaurant world, {ldquo}the {wi}line{/wi}{rdquo} refers en masse to the people, the physical space, the equipment \u2026 the arrangement of things, the order, the rules, the menu, the methods \u2026",
+                                                "aq": {
+                                                    "auth": "Michael Anton"
+                                                }
+                                            },
+                                            {
+                                                "t": "We were taught in the kitchen fray to never take anything said on the {wi}line{/wi} personally.",
+                                                "aq": {
+                                                    "auth": "Naomi Pomeroy"
+                                                }
+                                            },
+                                            {
+                                                "t": "working a {wi}line{/wi} shift"
+                                            },
+                                            {
+                                                "t": "Several years ago, while working as a {phrase}line cook{/phrase} in a New York City restaurant, I tasted a salami unlike any I'd ever come across.",
+                                                "aq": {
+                                                    "auth": "Hunter Lewis"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "liny",
+                "vrs": [
+                    {
+                        "vl": "or less commonly",
+                        "va": "lin*ey",
+                        "prs": [
+                            {
+                                "mw": "\u02c8l\u012b-n\u0113",
+                                "sound": {
+                                    "audio": "line0002",
+                                    "ref": "c",
+                                    "stat": "1"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "between the lines",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}by implication {bc}in an indirect way"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}by way of inference"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "down the line",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}all the way {bc}{sx|fully||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "supported him right {wi}down the line{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}in the future "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "planning some further changes {wi}down the line{/wi}"
+                                                    },
+                                                    {
+                                                        "t": "problems that might occur a few years {wi}down the line{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "in line for",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}due or in a position to receive "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "She's {wi}in line for{/wi} a promotion."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "on line",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}in or into operation "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "bringing the new factory {wi}on line{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "on the line",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}at great risk "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "puts his future {it}on the line{/it} by backing that policy"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}on the border between two categories"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English; partly from Anglo-French {it}lingne{/it}, from Latin {it}linea{/it}, from feminine of {it}lineus{/it} made of flax, from {it}linum{/it} flax; partly from Old English {it}l\u012bne{/it}; akin to Old English {it}l\u012bn{/it} flax {ma}{mat|linen|}{/ma}"
+            ]
+        ],
+        "date": "before 12th century{ds||1|a|}",
+        "shortdef": [
+            "a length of cord or cord-like material: such as",
+            "a comparatively strong slender cord",
+            "clothesline"
+        ]
+    },
+    {
+        "meta": {
+            "id": "line:2",
+            "uuid": "e9c5a7d8-56fd-4441-9ddc-b3c11a46772e",
+            "sort": "120173900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "line",
+                "line one's pockets",
+                "lined",
+                "lines",
+                "lining"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "line"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "lined"
+            },
+            {
+                "if": "lin*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to mark or cover with a line or {a_link|lines} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}lined{/it} paper"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to depict with lines {bc}{sx|draw||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to place or form a line along "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "pedestrians {wi}line{/wi} the walks"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to form into a line or lines {bc}{sx|align||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}line{/wi} up troops"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to hit (something, such as a baseball) hard and in a usually straight line"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to hit a line drive in baseball"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to come into the correct relative position {bc}{sx|align||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|line:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "1530{ds|t|1||}",
+        "shortdef": [
+            "to mark or cover with a line or lines",
+            "to depict with lines : draw",
+            "to place or form a line along"
+        ]
+    },
+    {
+        "meta": {
+            "id": "line:3",
+            "uuid": "2545e558-ca10-4efa-ada7-e2998268d926",
+            "sort": "120174000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "line",
+                "line one's pockets",
+                "lined",
+                "lines",
+                "lining"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "line"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "lined"
+            },
+            {
+                "if": "lin*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cover the inner surface of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}line{/wi} a cloak with silk"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to put something in the inside of {bc}{sx|fill||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to serve as the lining of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "tapestries {it}lined{/it} the walls"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|fortify||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "line one's pockets",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to take money freely and especially dishonestly"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from {it}line{/it} flax, from Old English {it}l\u012bn{/it}"
+            ]
+        ],
+        "date": "14th century{ds||1||}",
+        "shortdef": [
+            "to cover the inner surface of",
+            "to put something in the inside of : fill",
+            "to serve as the lining of"
+        ]
+    },
+    {
+        "meta": {
+            "id": "line dance",
+            "uuid": "798d83e6-0e03-4372-a6db-fe3b75862e57",
+            "sort": "120177100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "line dance",
+                "line dancer",
+                "line dances",
+                "line dancing"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "line dance"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|contra dance||1}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a dance performed by a group usually in single file"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a dance in which the dancers stand in ranks while performing a particular set of steps in unison"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "line dancer",
+                "fl": "noun"
+            },
+            {
+                "ure": "line dancing",
+                "fl": "noun"
+            }
+        ],
+        "date": "1948{ds||1||}",
+        "shortdef": [
+            "contra dance",
+            "a dance performed by a group usually in single file",
+            "a dance in which the dancers stand in ranks while performing a particular set of steps in unison"
+        ]
+    },
+    {
+        "meta": {
+            "id": "line drawing",
+            "uuid": "e9eee714-0a64-413e-9c0c-cdaaac3095c3",
+            "sort": "120177200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "line drawing",
+                "line drawings"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "line drawing"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a drawing made in solid lines"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1891",
+        "shortdef": [
+            "a drawing made in solid lines"
+        ]
+    },
+    {
+        "meta": {
+            "id": "line drive",
+            "uuid": "113840b4-b02e-459a-8483-6d54013a3a64",
+            "sort": "120177300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "line drive",
+                "line drives"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "line drive"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a batted baseball hit in a nearly straight line usually not far above the ground"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1903",
+        "shortdef": [
+            "a batted baseball hit in a nearly straight line usually not far above the ground"
+        ]
+    },
+    {
+        "meta": {
+            "id": "line engraving",
+            "uuid": "204ffa4f-5b79-4027-899c-38866474c13b",
+            "sort": "120177400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "line engraving",
+                "line engravings"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "line engraving"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an engraving cut by hand directly in the plate"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1802",
+        "shortdef": [
+            "an engraving cut by hand directly in the plate"
+        ]
+    },
+    {
+        "meta": {
+            "id": "line graph",
+            "uuid": "152ed48e-4982-4623-a6c0-4d6edba6e201",
+            "sort": "120177500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "line graph",
+                "line graphs"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "line graph"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a graph in which points representing values of a variable for suitable values of an independent variable are connected by a broken line"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1924",
+        "shortdef": [
+            "a graph in which points representing values of a variable for suitable values of an independent variable are connected by a broken line"
+        ]
+    },
+    {
+        "meta": {
+            "id": "line-haul",
+            "uuid": "86610d80-c6f3-44b1-b0dc-ba7ede8a2086",
+            "sort": "120177600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "line-haul",
+                "line-hauls"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "line-haul",
+            "prs": [
+                {
+                    "mw": "\u02c8l\u012bn-\u02cch\u022fl",
+                    "sound": {
+                        "audio": "lineha01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the transporting of items or persons between terminals"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1923",
+        "shortdef": [
+            "the transporting of items or persons between terminals"
+        ]
+    },
+    {
+        "meta": {
+            "id": "line item",
+            "uuid": "93674389-6dec-41cd-9094-0bef9038405e",
+            "sort": "120177700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "line item",
+                "line items",
+                "line-item"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "line item"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an appropriation that is itemized on a separate line in a budget"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "line-item",
+                "prs": [
+                    {
+                        "mw": "\u02c8l\u012bn-\u02c8\u012b-t\u0259m",
+                        "sound": {
+                            "audio": "lineit01",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "date": "1962",
+        "shortdef": [
+            "an appropriation that is itemized on a separate line in a budget"
+        ]
+    }
+]

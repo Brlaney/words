@@ -1,0 +1,636 @@
+[
+    {
+        "meta": {
+            "id": "drill:1",
+            "uuid": "982b5776-de7f-44a4-8553-b2b8bc0e688c",
+            "sort": "043971000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "drill",
+                "drillabilities",
+                "drillability",
+                "drillable",
+                "drilled",
+                "driller",
+                "drillers",
+                "drilling",
+                "drills"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "drill",
+            "prs": [
+                {
+                    "mw": "\u02c8dril",
+                    "sound": {
+                        "audio": "drill001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "drilled"
+            },
+            {
+                "if": "drill*ing"
+            },
+            {
+                "if": "drills"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fix something in the mind or habit pattern of by repetitive instruction "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}drill{/wi} pupils in spelling"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to impart or communicate by repetition"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to train or exercise in military drill"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2 a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to bore or drive a hole in"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to make by piercing action "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}drill{/wi} a hole"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to shoot with or as if with a gun"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "c (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to propel (something, such as a ball) with force or accuracy "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}drilled{/wi} a single to right field"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to hit with force "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}drilled{/wi} the batter with the first pitch"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a hole with a drill"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to engage in an exercise"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "drill*abil*i*ty",
+                "prs": [
+                    {
+                        "mw": "\u02ccdri-l\u0259-\u02c8bi-l\u0259-t\u0113",
+                        "sound": {
+                            "audio": "drill002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            },
+            {
+                "ure": "drill*able",
+                "prs": [
+                    {
+                        "mw": "\u02c8dri-l\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "drill003",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            },
+            {
+                "ure": "drill*er",
+                "prs": [
+                    {
+                        "mw": "\u02c8dri-l\u0259r",
+                        "sound": {
+                            "audio": "drill004",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Dutch {it}drillen{/it}"
+            ]
+        ],
+        "date": "1619{ds|t|1|a|}",
+        "shortdef": [
+            "to fix something in the mind or habit pattern of by repetitive instruction",
+            "to impart or communicate by repetition",
+            "to train or exercise in military drill"
+        ]
+    },
+    {
+        "meta": {
+            "id": "drill:5",
+            "uuid": "6b738084-6a2f-439e-a6f2-7469ab2a5e1b",
+            "sort": "043975000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "drill",
+                "drilled",
+                "drilling",
+                "drills"
+            ],
+            "offensive": false
+        },
+        "hom": 5,
+        "hwi": {
+            "hw": "drill"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "drilled"
+            },
+            {
+                "if": "drill*ing"
+            },
+            {
+                "if": "drills"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to sow (seeds) by dropping along a shallow furrow"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to sow with seed or set with seedlings inserted in {a_link|drills}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to distribute seed or fertilizer in by means of a drill"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1740{ds||1||}",
+        "shortdef": [
+            "to sow (seeds) by dropping along a shallow furrow",
+            "to sow with seed or set with seedlings inserted in drills",
+            "to distribute seed or fertilizer in by means of a drill"
+        ]
+    },
+    {
+        "meta": {
+            "id": "drill down",
+            "uuid": "acf5990e-fbe7-40bb-9979-57b37143dd06",
+            "sort": "043976500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "drill down",
+                "drilled down",
+                "drilling down",
+                "drills down"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "drill down"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "drilled down"
+            },
+            {
+                "if": "drilling down"
+            },
+            {
+                "if": "drills down"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive + intransitive",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to thoroughly consider or analyze {bc}{sx|examine||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "If you {wi}drill down{/wi} into his platform, it's mostly the same stuff Democrats support, but more of it \u2026",
+                                                "aq": {
+                                                    "auth": "Jonathan Chait"
+                                                }
+                                            },
+                                            {
+                                                "t": "Although {wi}drilling down{/wi} into all of the complications of the 2007 to 2009 economic and financial crisis is a task requiring more verbosity than a column permits, a quick rundown for context is worthwhile.",
+                                                "aq": {
+                                                    "auth": "M. Ray Perryman"
+                                                }
+                                            },
+                                            {
+                                                "t": "But we don't have much data that {wi}drills down{/wi} on the voting preferences of people in specific jobs, to distinguish between, say, dishwashers and factory workers.",
+                                                "aq": {
+                                                    "auth": "Irv Randolph"
+                                                }
+                                            },
+                                            {
+                                                "t": "Matches are based on a lengthy questionnaire that {wi}drills down{/wi} the specifics of your dating preferences and personality.",
+                                                "aq": {
+                                                    "auth": "Dorothy Pitti"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1996",
+        "shortdef": [
+            "to thoroughly consider or analyze : examine"
+        ]
+    },
+    {
+        "meta": {
+            "id": "predrill",
+            "uuid": "a1f5ca6a-0909-4991-b233-16a34369f991",
+            "sort": "166837000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "pre-drill",
+                "pre-drilled",
+                "pre-drilling",
+                "pre-drills",
+                "predrill",
+                "predrilled",
+                "predrilling",
+                "predrills"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pre*drill",
+            "prs": [
+                {
+                    "mw": "\u02ccpr\u0113-\u02c8dril",
+                    "sound": {
+                        "audio": "predrill_1",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "vrs": [
+            {
+                "vl": "or",
+                "va": "pre-drill"
+            }
+        ],
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "predrilled"
+            },
+            {
+                "il": "or",
+                "if": "pre-drilled"
+            },
+            {
+                "if": "predrilling"
+            },
+            {
+                "il": "or",
+                "if": "pre-drilling"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive + intransitive",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to {d_link|drill|drill:1} (something) in advance "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}predrill{/wi} a nail/screw hole"
+                                            },
+                                            {
+                                                "t": "{wi}predrill{/wi} the wood"
+                                            },
+                                            {
+                                                "t": "When the fit is good, \u2026 install the rest of the screws, {wi}predrilling{/wi} as necessary.",
+                                                "aq": {
+                                                    "auth": "Bill Burnett and Kevin Burnett"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "predrilled",
+                "vrs": [
+                    {
+                        "vl": "or",
+                        "va": "pre-drilled"
+                    }
+                ],
+                "fl": "adjective",
+                "utxt": [
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{wi}predrilled{/wi} holes/panels"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1951",
+        "shortdef": [
+            "to drill (something) in advance"
+        ]
+    },
+    {
+        "meta": {
+            "id": "drill into",
+            "uuid": "af728866-dea9-405a-b663-565afda6534d",
+            "sort": "3005132000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "drill into",
+                "drilled into",
+                "drilling into",
+                "drills into"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "drill into"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "drilled into"
+            },
+            {
+                "if": "drill*ing into"
+            },
+            {
+                "if": "drills into"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to force (something) to be learned very well by (someone) by repeating it again and again "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Our teacher {it}drilled{/it} the lesson {it}into{/it} our heads."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to force (something) to be learned very well by (someone) by repeating it again and again"
+        ]
+    }
+]

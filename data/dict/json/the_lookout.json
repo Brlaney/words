@@ -1,0 +1,118 @@
+[
+    {
+        "meta": {
+            "id": "be on the lookout for",
+            "uuid": "c2bc6b7d-6f6f-451e-9de3-529339d5448a",
+            "sort": "3001738500",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "be on the lookout for",
+                "been on the lookout for",
+                "being on the lookout for",
+                "is on the lookout for",
+                "keep a lookout for",
+                "keeping a lookout for",
+                "keeps a lookout for",
+                "kept a lookout for",
+                "on the lookout for",
+                "was on the lookout for",
+                "were on the lookout for"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "be on the lookout for"
+        },
+        "vrs": [
+            {
+                "vl": "or",
+                "va": "keep a lookout for"
+            }
+        ],
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to watch or search for (something or someone) {bc}be alert to "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}Be on the lookout for{/wi} flooded roads after heavy rainstorms."
+                                            },
+                                            {
+                                                "t": "The police officer walked through the neighborhood, {it}keeping a{/it} (sharp) {it}lookout for{/it} any suspicious activity."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to watch or search for (something or someone) : be alert to"
+        ]
+    },
+    {
+        "meta": {
+            "id": "on the lookout for",
+            "uuid": "1c1333ac-9399-4a35-bdbd-3b44caf2916d",
+            "sort": "3013761000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "on the lookout for"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "on the lookout for"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}looking or searching for (something or someone) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "An avid shopper, she was always {it}on the lookout for{/it} sales."
+                                            },
+                                            {
+                                                "t": "The police are {it}on the lookout for{/it} two men who escaped from custody yesterday."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "looking or searching for (something or someone)"
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "meta": {
+            "id": "adamantly",
+            "uuid": "794af273-e7cf-4562-b9c2-2bd577c52920",
+            "sort": "010762500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "adamantly"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "ad*a*mant*ly",
+            "prs": [
+                {
+                    "mw": "\u02c8a-d\u0259-m\u0259nt-l\u0113",
+                    "sound": {
+                        "audio": "adamantly_1",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "-\u02ccmant-"
+                }
+            ]
+        },
+        "fl": "adverb",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in an {d_link|adamant|adamant:1} manner {bc}with great insistence or determination "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They {wi}adamantly{/wi} refused to answer any more questions."
+                                            },
+                                            {
+                                                "t": "He {wi}adamantly{/wi} denies the allegations."
+                                            },
+                                            {
+                                                "t": "Although flexible on the subject of research, she {wi}adamantly{/wi} opposes killing animals for food.",
+                                                "aq": {
+                                                    "auth": "Bettyann Kevles"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1897",
+        "shortdef": [
+            "in an adamant manner : with great insistence or determination"
+        ]
+    }
+]

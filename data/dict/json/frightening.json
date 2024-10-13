@@ -1,0 +1,369 @@
+[
+    {
+        "meta": {
+            "id": "frightening",
+            "uuid": "0f394b22-a9a5-4a64-9770-7c5656d31d96",
+            "sort": "063325660",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "frightening"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "fright*en*ing",
+            "prs": [
+                {
+                    "mw": "\u02c8fr\u012b-t\u1d4an-i\u014b",
+                    "sound": {
+                        "audio": "fright03",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "\u02c8fr\u012bt-ni\u014b"
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}causing fear "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}frightening{/wi} news"
+                                            },
+                                            {
+                                                "t": "a very {wi}frightening{/wi} experience"
+                                            },
+                                            {
+                                                "t": "The man with red eyes made the {wi}frightening{/wi} grimace that passed for his smile.",
+                                                "aq": {
+                                                    "auth": "Madeleine L'Engle"
+                                                }
+                                            },
+                                            {
+                                                "t": "For a man who had tussled with crocs, venomous snakes and other {wi}frightening{/wi} creatures, this was going to be a leisurely swim.",
+                                                "aq": {
+                                                    "auth": "Jennifer Wulff et al."
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "from present participle of {et_link|frighten|frighten}"
+            ]
+        ],
+        "date": "1652",
+        "shortdef": [
+            "causing fear"
+        ]
+    },
+    {
+        "meta": {
+            "id": "frighten",
+            "uuid": "f7c3ade7-922a-41f4-aa9a-5ae2730a7332",
+            "sort": "063325000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "frighten",
+                "frightened",
+                "frightening",
+                "frighteningly",
+                "frightens"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "fright*en",
+            "prs": [
+                {
+                    "mw": "\u02c8fr\u012b-t\u1d4an",
+                    "sound": {
+                        "audio": "fright02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "fright*ened"
+            },
+            {
+                "if": "fright*en*ing",
+                "prs": [
+                    {
+                        "mw": "\u02c8fr\u012b-t\u1d4an-i\u014b",
+                        "sound": {
+                            "audio": "fright03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8fr\u012bt-ni\u014b"
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make afraid {bc}{sx|terrify||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The movie scene {wi}frightened{/wi} the child."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to drive or force by {a_link|frightening} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}frightened{/wi} the boy into confessing"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become {a_link|frightened} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She doesn't {wi}frighten{/wi} easily."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "fright*en*ing*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8fr\u012b-t\u1d4an-i\u014b-l\u0113",
+                        "sound": {
+                            "audio": "fright04",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8fr\u012bt-ni\u014b-l\u0113"
+                    }
+                ],
+                "fl": "adverb"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{et_link|fright:1|fright:1} + {et_link|-en:2|-en:2}"
+            ]
+        ],
+        "date": "1630{ds|t|1||}",
+        "shortdef": [
+            "to make afraid : terrify",
+            "to drive or force by frightening",
+            "to become frightened"
+        ]
+    },
+    {
+        "meta": {
+            "id": "frighten into",
+            "uuid": "6c362858-1c0d-420f-a0ad-1205bf9adbfe",
+            "sort": "3006607000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "frighten into",
+                "frightened into",
+                "frightening into",
+                "frightens into"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "frighten into"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "fright*ened into"
+            },
+            {
+                "if": "fright*en*ing into"
+            },
+            {
+                "if": "fright*ens into"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause (someone) to do (something) because of fear "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The insurance agent tried to {it}frighten{/it} her {it}into{/it} buying the most expensive flood insurance."
+                                            },
+                                            {
+                                                "t": "They {it}frightened{/it} the boy {it}into{/it} confessing his crime."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to cause (someone) to do (something) because of fear"
+        ]
+    },
+    {
+        "meta": {
+            "id": "frighten out of",
+            "uuid": "fad59cef-8651-4f87-8542-83dc95a6d846",
+            "sort": "3006608000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "frighten out of",
+                "frightened out of",
+                "frightening out of",
+                "frightens out of"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "frighten out of"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "fright*ened out of"
+            },
+            {
+                "if": "fright*en*ing out of"
+            },
+            {
+                "if": "fright*ens out of"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to keep (someone) from (doing something) because of fear "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Bad economic news has {it}frightened{/it} people {it}out of{/it} putting their money in the stock market."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to keep (someone) from (doing something) because of fear"
+        ]
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "meta": {
+            "id": "gossip:1",
+            "uuid": "ded2adca-8e59-426a-ad8b-dc9359db6815",
+            "sort": "071908000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gossip",
+                "gossipries",
+                "gossipry",
+                "gossips"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "gos*sip",
+            "prs": [
+                {
+                    "mw": "\u02c8g\u00e4-s\u0259p",
+                    "sound": {
+                        "audio": "gossip01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "sls": [
+                                    "dialectal British"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|godparent||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|companion||}, {sx|crony||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a person who habitually reveals personal or sensational facts about others "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the worst {wi}gossip{/wi} in town"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}rumor or report of an intimate nature "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "spreading {wi}gossip{/wi} about their divorce"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a chatty talk"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the subject matter of gossip "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Their breakup was common {wi}gossip{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "gos*sip*ry",
+                "prs": [
+                    {
+                        "mw": "\u02c8g\u00e4-s\u0259-pr\u0113",
+                        "sound": {
+                            "audio": "gossip02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}gossib{/it}, from Old English {it}godsibb{/it}, from {it}god{/it} god + {it}sibb{/it} kinsman, from {it}sibb{/it} related {ma}{mat|sib|}{/ma}"
+            ]
+        ],
+        "date": "before 12th century{ds||1|a|}",
+        "shortdef": [
+            "godparent",
+            "companion, crony",
+            "a person who habitually reveals personal or sensational facts about others"
+        ]
+    },
+    {
+        "meta": {
+            "id": "gossip:2",
+            "uuid": "62d7cf83-cdca-46df-8444-504d5bd2e67a",
+            "sort": "071909000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "gossip",
+                "gossiped",
+                "gossiper",
+                "gossipers",
+                "gossiping",
+                "gossips"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "gossip"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "gos*siped"
+            },
+            {
+                "if": "gos*sip*ing"
+            },
+            {
+                "if": "gos*sips"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to relate gossip {dx_def}see {dxt|gossip:1||2a}{/dx_def}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "gos*sip*er",
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|gossip:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "1627",
+        "shortdef": [
+            "to relate gossip"
+        ]
+    }
+]

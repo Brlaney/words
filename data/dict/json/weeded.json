@@ -1,0 +1,202 @@
+[
+    {
+        "meta": {
+            "id": "weed:2",
+            "uuid": "1350aebd-faa0-43cb-80db-57a0058247a0",
+            "sort": "230078400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "weed",
+                "weeded",
+                "weeding",
+                "weeds"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "weed"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "weed*ed"
+            },
+            {
+                "if": "weed*ing"
+            },
+            {
+                "if": "weeds"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to remove {a_link|weeds} or something harmful"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to clear of weeds "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}weed{/wi} a garden"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to free from something hurtful or offensive"
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to remove the less desirable portions of"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to get rid of (something harmful or superfluous) "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}out{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "before 12th century{ds|i|||}",
+        "shortdef": [
+            "to remove weeds or something harmful",
+            "to clear of weeds",
+            "to free from something hurtful or offensive"
+        ]
+    },
+    {
+        "meta": {
+            "id": "weed out",
+            "uuid": "5ab400ba-a21a-4c7f-aee3-ffc4a3bcf8b4",
+            "sort": "3022311000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "weed out",
+                "weeded out",
+                "weeding out",
+                "weeds out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "weed out"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "weed*ed out"
+            },
+            {
+                "if": "weed*ing out"
+            },
+            {
+                "if": "weeds out"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to remove (people or things that are not wanted) from a group "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They will review the applications to {it}weed out{/it} the less qualified candidates."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to remove (people or things that are not wanted) from a group"
+        ]
+    }
+]

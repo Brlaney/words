@@ -1,0 +1,707 @@
+[
+    {
+        "meta": {
+            "id": "narrow:1",
+            "uuid": "4772c695-879a-4868-aa71-cdf4835b306a",
+            "sort": "140159000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "narrow",
+                "narrow escape",
+                "narrow escapes",
+                "narrower",
+                "narrowest",
+                "narrowly",
+                "narrowness",
+                "narrownesses"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "nar*row",
+            "prs": [
+                {
+                    "mw": "\u02c8ner-(\u02cc)\u014d",
+                    "sound": {
+                        "audio": "narrow01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "\u02c8na-(\u02cc)r\u014d"
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}of slender width "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a long and {wi}narrow{/wi} room"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}of less than standard or usual width "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}narrow{/wi} sidewalk"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "sls": [
+                                    "of a textile"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}woven in widths usually less than 18 inches (46 centimeters)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}limited in size or scope "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}narrow{/wi} interpretation"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}illiberal {dx_def}see {dxt|illiberal||b}{/dx_def} in views or disposition {bc}{sx|prejudiced||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the days of cold hearts and {wi}narrow{/wi} minds",
+                                                "aq": {
+                                                    "auth": "T. B. Macaulay"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "sls": [
+                                    "chiefly dialectal"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|stingy||}, {sx|niggardly||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}barely sufficient {bc}{sx|close||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "won by a {wi}narrow{/wi} margin"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}barely successful "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}narrow{/wi} escape"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}minutely precise {bc}{sx|meticulous||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}narrow{/wi} inspection"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "sls": [
+                                    "of an animal ration"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}relatively rich in {d_link|protein|protein} as compared with {d_link|carbohydrate|carbohydrate} and fat"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|tense||3}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "nar*row*ly",
+                "fl": "adverb"
+            },
+            {
+                "ure": "nar*row*ness",
+                "fl": "noun"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}narowe{/it}, from Old English {it}nearu{/it}; akin to Old High German {it}narwa{/it} scar"
+            ]
+        ],
+        "date": "before 12th century{ds||1|a|}",
+        "shortdef": [
+            "of slender width",
+            "of less than standard or usual width",
+            "woven in widths usually less than 18 inches (46 centimeters)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "narrow:2",
+            "uuid": "b3e1a3a9-3854-4bfd-a21b-e1af2256112e",
+            "sort": "140160000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "narrow",
+                "narrowed",
+                "narrowing",
+                "narrows"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "narrow"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "nar*rowed"
+            },
+            {
+                "if": "nar*row*ing"
+            },
+            {
+                "if": "nar*rows"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to decrease the breadth or extent of {bc}{sx|contract||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}down{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to decrease the scope or sphere of {bc}{sx|limit||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}down{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "{wi}narrow{/wi} down the choices"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to lessen in width or extent {bc}{sx|contract||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}down{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|narrow:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "before 12th century{ds|t|1||}",
+        "shortdef": [
+            "to decrease the breadth or extent of : contract \u2014often used with down",
+            "to decrease the scope or sphere of : limit \u2014often used with down",
+            "to lessen in width or extent : contract \u2014often used with down"
+        ]
+    },
+    {
+        "meta": {
+            "id": "narrow:3",
+            "uuid": "a547c614-6a20-4e67-8a01-3a337ccf16c1",
+            "sort": "140161000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "narrow",
+                "narrows"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "narrow"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a narrow part or passage"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "specifically",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a strait connecting two bodies of water "
+                                        ],
+                                        [
+                                            "uns",
+                                            [
+                                                [
+                                                    [
+                                                        "text",
+                                                        "usually used in plural but singular or plural in construction"
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|narrow:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "13th century",
+        "shortdef": [
+            "a narrow part or passage; specifically : a strait connecting two bodies of water \u2014usually used in plural but singular or plural in construction"
+        ]
+    },
+    {
+        "meta": {
+            "id": "narrow boat",
+            "uuid": "c6d25c5d-af9b-4ae5-a9a1-6c8f545f3c0d",
+            "sort": "140163000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "narrow boat",
+                "narrow boats"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "narrow boat"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sls": [
+                    "British"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a barge with a beam of less than seven feet (2.1 meters)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1836",
+        "shortdef": [
+            "a barge with a beam of less than seven feet (2.1 meters)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "narrow-minded",
+            "uuid": "633934fc-e851-4633-9999-4587100f3e05",
+            "sort": "140165000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "narrow-minded",
+                "narrow-mindedly",
+                "narrow-mindedness",
+                "narrow-mindednesses"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "nar*row-mind*ed",
+            "prs": [
+                {
+                    "mw": "\u02c8ner-(\u02cc)\u014d-\u02c8m\u012bn-d\u0259d",
+                    "sound": {
+                        "audio": "narrow04",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "\u02c8na-(\u02cc)r\u014d-"
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}not willing to accept opinions, beliefs, behaviors, etc. that are unusual or different from one's own {bc}not {d_link|open-minded|open-minded}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "nar*row-mind*ed*ly",
+                "fl": "adverb"
+            },
+            {
+                "ure": "nar*row-mind*ed*ness",
+                "fl": "noun"
+            }
+        ],
+        "date": "1611",
+        "shortdef": [
+            "not willing to accept opinions, beliefs, behaviors, etc. that are unusual or different from one's own : not open-minded"
+        ]
+    },
+    {
+        "meta": {
+            "id": "straight and narrow",
+            "uuid": "46144c84-4792-4a1a-90a4-11b400f452c3",
+            "sort": "194836500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "straight and narrow",
+                "straight and narrows"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "straight and narrow"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the way of propriety and rectitude "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used with {it}the{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "probably alteration of {it}strait and narrow{/it}; from the admonition of Matthew 7:14 (King James Version), \"strait is the gate and narrow is the way which leadeth unto life\""
+            ]
+        ],
+        "date": "1906",
+        "shortdef": [
+            "the way of propriety and rectitude \u2014used with the"
+        ]
+    },
+    {
+        "meta": {
+            "id": "the straight and narrow",
+            "uuid": "1f5dd3c9-bb78-4cd4-b405-f8f410c9132e",
+            "sort": "3020613000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "on the straight and narrow",
+                "the straight and narrow"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "the straight and narrow"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sls": [
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the way of living that is honest and morally proper "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "His wife keeps him {phrase}on the straight and narrow{/phrase}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "the way of living that is honest and morally proper"
+        ]
+    }
+]

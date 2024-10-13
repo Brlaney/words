@@ -1,0 +1,152 @@
+[
+    {
+        "meta": {
+            "id": "mumble",
+            "uuid": "ce9122d4-7252-4d12-bf30-d1d3cca273ec",
+            "sort": "134779000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "mumble",
+                "mumbled",
+                "mumbler",
+                "mumblers",
+                "mumbles",
+                "mumbling",
+                "mumbly"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "mum*ble",
+            "prs": [
+                {
+                    "mw": "\u02c8m\u0259m-b\u0259l",
+                    "sound": {
+                        "audio": "mumble01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "mum*bled"
+            },
+            {
+                "if": "mum*bling",
+                "prs": [
+                    {
+                        "mw": "\u02c8m\u0259m-b(\u0259-)li\u014b",
+                        "sound": {
+                            "audio": "mumble02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to utter words in a low confused indistinct manner {bc}{sx|mutter||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to utter with a low inarticulate voice"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to chew or bite with or as if with toothless gums"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "mumble",
+                "fl": "noun"
+            },
+            {
+                "ure": "mum*bler",
+                "prs": [
+                    {
+                        "mw": "\u02c8m\u0259m-b(\u0259-)l\u0259r",
+                        "sound": {
+                            "audio": "mumble03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            },
+            {
+                "ure": "mum*bly",
+                "prs": [
+                    {
+                        "mw": "\u02c8m\u0259m-b(\u0259-)l\u0113",
+                        "sound": {
+                            "audio": "mumble04",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}momelen{/it}, of imitative origin"
+            ]
+        ],
+        "date": "14th century{ds|i|||}",
+        "shortdef": [
+            "to utter words in a low confused indistinct manner : mutter",
+            "to utter with a low inarticulate voice",
+            "to chew or bite with or as if with toothless gums"
+        ]
+    }
+]

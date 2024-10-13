@@ -1,0 +1,137 @@
+[
+    {
+        "meta": {
+            "id": "kick off",
+            "uuid": "731affe2-f329-4be1-9fd7-0dcce1c04fa8",
+            "sort": "110033600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "kick off",
+                "kicked off",
+                "kicking off",
+                "kicks off"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "kick off"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "kicked off"
+            },
+            {
+                "if": "kick*ing off"
+            },
+            {
+                "if": "kicks off"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to start or resume play in football by a {d_link|placekick|placekick:1}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to initiate proceedings"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to start out {bc}{sx|begin||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the movie {it}kicks off{/it} with a bank robbery"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "sls": [
+                                    "slang"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|die||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to mark the beginning of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}kick off{/it} the campaign"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1857{ds|i|1||}",
+        "shortdef": [
+            "to start or resume play in football by a placekick",
+            "to initiate proceedings",
+            "to start out : begin"
+        ]
+    }
+]

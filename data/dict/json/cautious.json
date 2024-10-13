@@ -1,0 +1,211 @@
+[
+    {
+        "meta": {
+            "id": "cautious",
+            "uuid": "fb594e37-0a9e-485a-87a3-1f117b0cc26e",
+            "sort": "031531000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "cautious",
+                "cautiously",
+                "cautiousness",
+                "cautiousnesses"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "cau*tious",
+            "prs": [
+                {
+                    "mw": "\u02c8k\u022f-sh\u0259s",
+                    "sound": {
+                        "audio": "cautio04",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}careful about avoiding danger or risk "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}cautious{/wi} investors"
+                                            },
+                                            {
+                                                "t": "{wi}cautious{/wi} optimism"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "cau*tious*ly",
+                "fl": "adverb"
+            },
+            {
+                "ure": "cau*tious*ness",
+                "fl": "noun"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}cautious{/sc} {sc}circumspect{/sc} {sc}wary{/sc} {sc}chary{/sc} mean prudently watchful and discreet in the face of danger or risk. {sc}cautious{/sc} implies the exercise of forethought usually prompted by fear of danger. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a {it}cautious{/it} driver"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}circumspect{/sc} suggests less fear and stresses the surveying of all possible consequences before acting or deciding. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}circumspect{/it} in his business dealings"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}wary{/sc} emphasizes suspiciousness and alertness in watching for danger and cunning in escaping it. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "keeps a {it}wary{/it} eye on the competition"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}chary{/sc} implies a cautious reluctance to give, act, or speak freely. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}chary{/it} of signing papers without having read them first"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|caution:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "1614",
+        "shortdef": [
+            "careful about avoiding danger or risk"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hypercautious",
+            "uuid": "21224503-61e7-4386-9145-a3cda5de5824",
+            "sort": "080337150",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hyper-cautious",
+                "hypercautious"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hy*per*cau*tious",
+            "prs": [
+                {
+                    "mw": "\u02cch\u012b-p\u0259r-\u02c8k\u022f-sh\u0259s",
+                    "sound": {
+                        "audio": "hypercautious_1",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "vrs": [
+            {
+                "vl": "or",
+                "va": "hy*per-cau*tious"
+            }
+        ],
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}extremely or excessively {d_link|cautious|cautious} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "With all the polls closed and most of the results in, it's down to Florida. \u2026 Having been burned once by prematurely calling the state, the networks are now {wi}hypercautious{/wi}.",
+                                                "aq": {
+                                                    "auth": "Michelle Cottle"
+                                                }
+                                            },
+                                            {
+                                                "t": "In theory, at least, a {wi}hypercautious{/wi} individual should be able to avoid almost all illness by not doing certain things.",
+                                                "aq": {
+                                                    "auth": "George M. Foster"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1811",
+        "shortdef": [
+            "extremely or excessively cautious"
+        ]
+    }
+]

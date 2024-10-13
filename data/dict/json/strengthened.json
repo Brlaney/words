@@ -1,0 +1,134 @@
+[
+    {
+        "meta": {
+            "id": "strengthen",
+            "uuid": "8bf15fb4-3827-4f74-8a45-9df248ff76a2",
+            "sort": "194851600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "strengthen",
+                "strengthened",
+                "strengthener",
+                "strengtheners",
+                "strengthening",
+                "strengthens"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "strength*en",
+            "prs": [
+                {
+                    "mw": "\u02c8stre\u014b(k)-th\u0259n",
+                    "sound": {
+                        "audio": "streng04",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "\u02c8stren(t)-"
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "strength*ened"
+            },
+            {
+                "if": "strength*en*ing",
+                "prs": [
+                    {
+                        "mw": "\u02c8stre\u014b(k)th-ni\u014b"
+                    },
+                    {
+                        "mw": "\u02c8stren(t)th-",
+                        "pun": ";"
+                    },
+                    {
+                        "mw": "\u02c8stre\u014b(k)-th\u0259-",
+                        "sound": {
+                            "audio": "streng05",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8stren(t)-"
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make stronger"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become stronger"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "strength*en*er",
+                "prs": [
+                    {
+                        "mw": "\u02c8stre\u014b(k)th-n\u0259r"
+                    },
+                    {
+                        "mw": "\u02c8stren(t)th-",
+                        "pun": ";"
+                    },
+                    {
+                        "mw": "\u02c8stre\u014b(k)-th\u0259-",
+                        "sound": {
+                            "audio": "streng06",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8stren(t)-"
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "date": "15th century{ds|t|||}",
+        "shortdef": [
+            "to make stronger",
+            "to become stronger"
+        ]
+    }
+]

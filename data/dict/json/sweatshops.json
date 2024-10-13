@@ -1,0 +1,53 @@
+[
+    {
+        "meta": {
+            "id": "sweatshop",
+            "uuid": "77bcc86e-c958-4299-91be-fd2246d093f6",
+            "sort": "195002200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sweatshop",
+                "sweatshops"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweat*shop",
+            "prs": [
+                {
+                    "mw": "\u02c8swet-\u02ccsh\u00e4p",
+                    "sound": {
+                        "audio": "sweats02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a shop or factory in which employees work for long hours at low wages and under unhealthy conditions"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1884",
+        "shortdef": [
+            "a shop or factory in which employees work for long hours at low wages and under unhealthy conditions"
+        ]
+    }
+]

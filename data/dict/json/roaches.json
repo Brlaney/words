@@ -1,0 +1,323 @@
+[
+    {
+        "meta": {
+            "id": "roach:1",
+            "uuid": "c0d20a3d-c018-4ce3-8f0a-c515e7dab332",
+            "sort": "183475000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "roach",
+                "roaches"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "roach",
+            "prs": [
+                {
+                    "mw": "\u02c8r\u014dch",
+                    "sound": {
+                        "audio": "roach001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "roach"
+            },
+            {
+                "il": "also",
+                "if": "roach*es"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a silver-green European freshwater cyprinid fish ({it}Rutilus rutilus{/it})"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}any of various related fishes (such as some shiners)"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}any of several American freshwater sunfishes (family Centrarchidae)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}roche{/it}, from Anglo-French {it}roche, rosse{/it}"
+            ]
+        ],
+        "date": "13th century{ds||1||}",
+        "shortdef": [
+            "a silver-green European freshwater cyprinid fish (Rutilus rutilus); also : any of various related fishes (such as some shiners)",
+            "any of several American freshwater sunfishes (family Centrarchidae)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "roach:3",
+            "uuid": "618ea0e2-940a-4114-98c4-97a53a101ac5",
+            "sort": "183477000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "roach",
+                "roached",
+                "roaches",
+                "roaching"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "roach"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "roached"
+            },
+            {
+                "if": "roach*ing"
+            },
+            {
+                "if": "roach*es"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cut so that the remainder stands upright "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}roach{/wi} a horse's mane"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to arch"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "specifically",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to brush (the hair) in a roach "
+                                        ],
+                                        [
+                                            "uns",
+                                            [
+                                                [
+                                                    [
+                                                        "text",
+                                                        "often used with {it}up{/it}"
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1803{ds||1||}",
+        "shortdef": [
+            "to cut so that the remainder stands upright",
+            "to cause to arch; specifically : to brush (the hair) in a roach \u2014often used with up"
+        ]
+    },
+    {
+        "meta": {
+            "id": "roach:2",
+            "uuid": "b058e323-f3fa-4686-ab09-2fb0a98da401",
+            "sort": "183476000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "roach",
+                "roaches"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "roach"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a curved cut in the edge of a sail to prevent chafing or to secure a better fit"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a roll of hair brushed straight back from the forehead or side of the head"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "origin unknown"
+            ]
+        ],
+        "date": "1794{ds||1||}",
+        "shortdef": [
+            "a curved cut in the edge of a sail to prevent chafing or to secure a better fit",
+            "a roll of hair brushed straight back from the forehead or side of the head"
+        ]
+    },
+    {
+        "meta": {
+            "id": "roach:4",
+            "uuid": "ac821dc0-824a-4c28-aa90-9c385f88c796",
+            "sort": "183478000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "roach",
+                "roaches"
+            ],
+            "offensive": false
+        },
+        "hom": 4,
+        "hwi": {
+            "hw": "roach"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|cockroach||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the butt of a marijuana cigarette"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "by shortening"
+            ]
+        ],
+        "date": "1822{ds||1||}",
+        "shortdef": [
+            "cockroach",
+            "the butt of a marijuana cigarette"
+        ]
+    }
+]

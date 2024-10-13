@@ -1,0 +1,602 @@
+[
+    {
+        "meta": {
+            "id": "adjusted",
+            "uuid": "d5cb1dd3-c018-4070-88d7-c38f121e5985",
+            "sort": "010909000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "adjusted"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "ad*just*ed",
+            "prs": [
+                {
+                    "mw": "\u0259-\u02c8j\u0259-st\u0259d",
+                    "sound": {
+                        "audio": "adjusted_1",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}accommodated to suit a particular set of circumstances or requirements"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}having achieved an often specified and usually harmonious relationship with the environment or with other individuals "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a well-{it}adjusted{/it} schoolchild"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "from past participle of {et_link|adjust|adjust}"
+            ]
+        ],
+        "date": "1662{ds||1||}",
+        "shortdef": [
+            "accommodated to suit a particular set of circumstances or requirements",
+            "having achieved an often specified and usually harmonious relationship with the environment or with other individuals"
+        ]
+    },
+    {
+        "meta": {
+            "id": "adjust",
+            "uuid": "0000c7e2-2ba1-4538-929b-640781c714f8",
+            "sort": "010907000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "adjust",
+                "adjustabilities",
+                "adjustability",
+                "adjustable",
+                "adjusted",
+                "adjusting",
+                "adjustive",
+                "adjusts"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "ad*just",
+            "prs": [
+                {
+                    "mw": "\u0259-\u02c8j\u0259st",
+                    "sound": {
+                        "audio": "adjust01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "ad*justed"
+            },
+            {
+                "if": "ad*just*ing"
+            },
+            {
+                "if": "ad*justs"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "bs",
+                                    {
+                                        "sense": {
+                                            "sn": "1 a",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}to bring to a more satisfactory state:"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|settle||}, {sx|resolve||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "ways of {wi}adjusting{/wi} conflicts"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|rectify||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}adjust{/wi} an error"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make correspondent or conformable {bc}{sx|adapt||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "had to {wi}adjust{/wi} our approach"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring the parts of to a true or more effective relative position "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}adjust{/wi} a carburetor"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to reduce to a system {bc}{sx|regulate||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to determine the amount to be paid under an insurance policy in settlement of (a loss)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to adapt or conform oneself (as to new conditions) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}adjust{/wi} to the new regulations"
+                                            },
+                                            {
+                                                "t": "Our eyes gradually {wi}adjusted{/wi} to the darkness."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to achieve mental and behavioral balance between one's own needs and the demands of others"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "ad*just*abil*i*ty",
+                "prs": [
+                    {
+                        "mw": "\u0259-\u02ccj\u0259-st\u0259-\u02c8bi-l\u0259-t\u0113",
+                        "sound": {
+                            "audio": "adjust02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            },
+            {
+                "ure": "ad*just*able",
+                "prs": [
+                    {
+                        "mw": "\u0259-\u02c8j\u0259-st\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "adjust03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            },
+            {
+                "ure": "ad*jus*tive",
+                "prs": [
+                    {
+                        "mw": "\u0259-\u02c8j\u0259-stiv",
+                        "sound": {
+                            "audio": "adjust04",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}adapt{/sc} {sc}adjust{/sc} {sc}accommodate{/sc} {sc}conform{/sc} {sc}reconcile{/sc} mean to bring one thing into correspondence with another. {sc}adapt{/sc} implies a modification according to changing circumstances. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}adapted{/it} themselves to the warmer climate"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}adjust{/sc} suggests bringing into a close and exact correspondence or harmony such as exists between parts of a mechanism. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}adjusted{/it} the budget to allow for inflation"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}accommodate{/sc} may suggest yielding or compromising to effect a correspondence. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "businesses {it}accommodating{/it} themselves to the new political reality"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}conform{/sc} applies to bringing into accordance with a pattern, example, or principle. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "refused to {it}conform{/it} to society's values"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}reconcile{/sc} implies the demonstration of the underlying compatibility of things that seem to be incompatible. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "tried to {it}reconcile{/it} what he said with what I knew"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "borrowed from French {it}ajuster{/it} (earlier and Middle French also spelled {it}adjuster{/it}), going back to Old French {it}ajouster{/it} \"to make comply with,\" from {it}a-{/it} (going back to Latin {it}ad-{/it} {et_link|ad-|ad-}) + {it}-jouster,{/it} verbal derivative of {it}juste{/it} \"right, exact\" {ma}{mat|just:1|}{/ma}"
+            ]
+        ],
+        "date": "1611{ds|t|1|a|}",
+        "shortdef": [
+            "to bring to a more satisfactory state:",
+            "settle, resolve",
+            "rectify"
+        ]
+    },
+    {
+        "meta": {
+            "id": "well-adjusted",
+            "uuid": "6d5cd5cb-c68f-4e25-9660-11849c868834",
+            "sort": "230087000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "well-adjusted"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "well-ad*just*ed",
+            "prs": [
+                {
+                    "mw": "\u02ccwel-\u0259-\u02c8j\u0259-st\u0259d",
+                    "sound": {
+                        "audio": "wella01w",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|well-balanced||2}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1809",
+        "shortdef": [
+            "well-balanced"
+        ]
+    },
+    {
+        "meta": {
+            "id": "readjust",
+            "uuid": "855db102-907f-43f0-b7f7-3d49431bb627",
+            "sort": "180720000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "re-adjust",
+                "re-adjusted",
+                "re-adjusting",
+                "re-adjusts",
+                "readjust",
+                "readjusted",
+                "readjusting",
+                "readjusts"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "re*ad*just",
+            "prs": [
+                {
+                    "mw": "\u02ccr\u0113-\u0259-\u02c8j\u0259st",
+                    "sound": {
+                        "audio": "readj01m",
+                        "ref": "m",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "re*ad*just*ed"
+            },
+            {
+                "if": "re*ad*just*ing"
+            },
+            {
+                "if": "re*ad*justs"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive + intransitive",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to {d_link|adjust|adjust} (something or oneself) again "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "On three samples we bought, the running belt wouldn't maintain the proper tension, so we had to {wi}readjust{/wi} it every few hours \u2026",
+                                                "aq": {
+                                                    "source": "{it}Consumer Reports{/it}"
+                                                }
+                                            },
+                                            {
+                                                "t": "\u2026 got lower cost-of-living increases after Congress {wi}readjusted{/wi} Social Security benefits in 1977.",
+                                                "aq": {
+                                                    "auth": "Margot Hornblower"
+                                                }
+                                            },
+                                            {
+                                                "t": "She straightened her scarlet hat and {wi}readjusted{/wi} her veil unsteadily.",
+                                                "aq": {
+                                                    "auth": "Lucy Maud Montgomery"
+                                                }
+                                            },
+                                            {
+                                                "t": "\u2026 a young man may be excused for feeling a little dizzy when he is called upon suddenly and without any warning to {wi}readjust{/wi} all his preconceived views on any subject.",
+                                                "aq": {
+                                                    "auth": "P. G. Wodehouse"
+                                                }
+                                            },
+                                            {
+                                                "t": "Postparental couples \u2026 must {wi}readjust{/wi} their whole way of life and their relationship to each other after the children leave home.",
+                                                "aq": {
+                                                    "auth": "M. Riley and J. Waring"
+                                                }
+                                            },
+                                            {
+                                                "t": "He stared about the room, collecting his thoughts, {wi}readjusting{/wi} himself for the day's work.",
+                                                "aq": {
+                                                    "auth": "Frank Norris"
+                                                }
+                                            },
+                                            {
+                                                "t": "\u2026 {wi}readjusting{/wi} to life after losing his job as an advertising suit in the UK.",
+                                                "aq": {
+                                                    "auth": "Amanda Ducker"
+                                                }
+                                            },
+                                            {
+                                                "t": "\"Once you have developed singing skills as a child, they tend to stay with you, particularly for girls,\" [Graham] Welch says. Unlike boys, girls don't have to {wi}readjust{/wi} to a dramatically lower voice during adolescence.",
+                                                "aq": {
+                                                    "auth": "Bruce Bower"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1678",
+        "shortdef": [
+            "to adjust (something or oneself) again"
+        ]
+    }
+]

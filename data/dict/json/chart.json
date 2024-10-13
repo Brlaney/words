@@ -1,0 +1,790 @@
+[
+    {
+        "meta": {
+            "id": "chart:1",
+            "uuid": "5d84b1e7-a0bd-4c12-b93c-7d396428ea5d",
+            "sort": "032235000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "chart",
+                "charts"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "chart",
+            "prs": [
+                {
+                    "mw": "\u02c8ch\u00e4rt",
+                    "sound": {
+                        "audio": "chart001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "bs",
+                            {
+                                "sense": {
+                                    "sn": "1",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|map||}: such as"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an outline map exhibiting something (such as climatic or magnetic variations) in its geographical aspects"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a map for the use of navigators"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a sheet giving information in tabular form"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|graph||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|diagram||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a sheet of paper ruled and graduated for use in a recording instrument"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "e",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a record of medical information about a patient"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "f",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a listing by rank (as of sales) "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used in plural "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "number one on the {wi}charts{/wi}",
+                                                            "aq": {
+                                                                "auth": "Tim Cahill"
+                                                            }
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a musical arrangement"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a part in such an arrangement"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle French {it}charte{/it}, from Latin {it}charta{/it} piece of papyrus, document {ma}{mat|card:1|}{/ma}"
+            ]
+        ],
+        "date": "circa 1560{ds||1||}",
+        "shortdef": [
+            "map: such as",
+            "an outline map exhibiting something (such as climatic or magnetic variations) in its geographical aspects",
+            "a map for the use of navigators"
+        ]
+    },
+    {
+        "meta": {
+            "id": "chart:2",
+            "uuid": "f76e0016-09a9-4e65-b49a-8ac1ab3cfe43",
+            "sort": "032236000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "chart",
+                "charted",
+                "charting",
+                "charts"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "chart"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "chart*ed"
+            },
+            {
+                "if": "chart*ing"
+            },
+            {
+                "if": "charts"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to lay out a plan for "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}chart{/wi} a course"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a map or chart of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}chart{/wi} the coastline"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|chronicle||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the book {wi}charts{/wi} the last years of his life"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be ranked on a chart "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the song {wi}charted{/wi} for three months"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1842{ds|t|1||}",
+        "shortdef": [
+            "to lay out a plan for",
+            "to make a map or chart of",
+            "chronicle"
+        ]
+    },
+    {
+        "meta": {
+            "id": "chart-topper",
+            "uuid": "1bd28717-7bcb-4fae-92b4-987af45c5c18",
+            "sort": "3003119000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "chart-topper"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "chart-topper"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a recording that is bought more than any other recording during a particular time"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a recording that is bought more than any other recording during a particular time"
+        ]
+    },
+    {
+        "meta": {
+            "id": "bar chart",
+            "uuid": "a656225f-c1ee-4db2-9ffd-0465047e4fbe",
+            "sort": "020063900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "bar chart",
+                "bar charts"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "bar chart"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|bar graph||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1904",
+        "shortdef": [
+            "bar graph"
+        ]
+    },
+    {
+        "meta": {
+            "id": "birth chart",
+            "uuid": "563bbcae-12e2-412b-a6c5-20f3bfdb9630",
+            "sort": "020239050",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "birth chart",
+                "birth charts",
+                "natal chart",
+                "natal charts"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "birth chart"
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "birth charts"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sls": [
+                                    "astrology"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a document describing all of the possible astrological influences on a subject based on the precise time and place of the subject's birth "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "After years of reading your sun sign's horoscope and nothing else, having your {wi}birth chart{/wi} read can be downright illuminating. Suddenly, you aren't just one solitary sign, but a complex being made up of many planetary signs and points.",
+                                                "aq": {
+                                                    "auth": "Sara Coughlin"
+                                                }
+                                            },
+                                            {
+                                                "t": "The planets in one's horoscope are archetypal symbols, and the {wi}birth chart{/wi} itself is said to be a unique {ldquo}map of our soul,{rdquo} that can illuminate our self-awareness of who we are.",
+                                                "aq": {
+                                                    "auth": "Larry Schwimmer"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "natal chart"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1899",
+        "shortdef": [
+            "a document describing all of the possible astrological influences on a subject based on the precise time and place of the subject's birth \u2014called also natal chart"
+        ]
+    },
+    {
+        "meta": {
+            "id": "eye chart",
+            "uuid": "884af642-96cc-4113-a46e-897bd8599967",
+            "sort": "050314600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "eye chart",
+                "eye charts"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "eye chart"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a chart read at a fixed distance for purposes of testing sight"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}one with rows of letters or objects of decreasing size"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1885",
+        "shortdef": [
+            "a chart read at a fixed distance for purposes of testing sight; especially : one with rows of letters or objects of decreasing size"
+        ]
+    },
+    {
+        "meta": {
+            "id": "natal chart",
+            "uuid": "c337805f-80f8-45a1-a880-03ec3025eab1",
+            "sort": "140188500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "natal chart",
+                "natal charts"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "natal chart"
+        },
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "natal charts"
+            }
+        ],
+        "def": [
+            {
+                "sls": [
+                    "astrology"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|birth chart||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\"Love, relationships, and compatibility are so much more complex and involved than the sun sign \u2026 Each person has an entire {wi}natal chart{/wi} that reflects the planetary placements of all the planets at the time of birth, and each one symbolizes a different aspect of the person's life as well as personality.\"",
+                                                "aq": {
+                                                    "auth": "Rachel Lang"
+                                                }
+                                            },
+                                            {
+                                                "t": "\"Within the {wi}natal chart{/wi} you can see personality, drives, fears, parental relationships, siblings, children, psychological patterns, and more on one sheet of paper.\"",
+                                                "aq": {
+                                                    "auth": "Janelle Belgrave"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1872",
+        "shortdef": [
+            "birth chart"
+        ]
+    },
+    {
+        "meta": {
+            "id": "pie chart",
+            "uuid": "f0167789-ff21-4f82-ac28-ac42e793ff97",
+            "sort": "160292700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "circle graph",
+                "pie chart",
+                "pie charts"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "pie chart"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a circular chart cut by radii into segments illustrating relative magnitudes or frequencies "
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "circle graph"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1922",
+        "shortdef": [
+            "a circular chart cut by radii into segments illustrating relative magnitudes or frequencies \u2014called also circle graph"
+        ]
+    },
+    {
+        "meta": {
+            "id": "strip-chart recorder",
+            "uuid": "7973d9a5-4ea3-49e4-a2ac-735195122090",
+            "sort": "194862200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "strip-chart recorder",
+                "strip-chart recorders",
+                "strip-chart recording"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "strip-chart recorder",
+            "prs": [
+                {
+                    "mw": "\u02c8strip-\u02ccch\u00e4rt-",
+                    "sound": {
+                        "audio": "stripc01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a device used for the continuous graphic recording of time-dependent data"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "strip-chart recording",
+                "fl": "noun"
+            }
+        ],
+        "date": "1950",
+        "shortdef": [
+            "a device used for the continuous graphic recording of time-dependent data"
+        ]
+    },
+    {
+        "meta": {
+            "id": "time chart",
+            "uuid": "694b2a6b-343b-4609-bb97-820f3cd14d78",
+            "sort": "200224900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "time chart",
+                "time charts"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "time chart"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a chart showing the standard times in various parts of the world with reference to a specified time at a specified place"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|timeline||1b}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1930{ds||1||}",
+        "shortdef": [
+            "a chart showing the standard times in various parts of the world with reference to a specified time at a specified place",
+            "timeline"
+        ]
+    }
+]

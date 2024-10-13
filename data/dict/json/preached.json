@@ -1,0 +1,206 @@
+[
+    {
+        "meta": {
+            "id": "preach",
+            "uuid": "e4434e42-aaf0-4d89-a685-1a9792cc43cd",
+            "sort": "166642000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "preach",
+                "preached",
+                "preacher bird",
+                "preaches",
+                "preachily",
+                "preaching",
+                "preachingly"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "preach",
+            "prs": [
+                {
+                    "mw": "\u02c8pr\u0113ch",
+                    "sound": {
+                        "audio": "preach01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "preached"
+            },
+            {
+                "if": "preach*ing"
+            },
+            {
+                "if": "preach*es"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to deliver a sermon"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to urge acceptance or abandonment of an idea or course of action"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "specifically",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to exhort in an officious or tiresome manner"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to set forth in a sermon "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}preach{/wi} the gospel"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to advocate earnestly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}preached{/wi} revolution"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to deliver (something, such as a sermon) publicly"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring, put, or affect by {a_link|preaching} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}preached{/wi} the \u2026 church out of debt",
+                                                "aq": {
+                                                    "source": "{it}Amer. Guide Series: Va.{/it}"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "preach*ing*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8pr\u0113-chi\u014b-l\u0113",
+                        "sound": {
+                            "audio": "preach02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}prechen{/it}, from Anglo-French {it}precher{/it}, from Late Latin {it}praedicare{/it}, from Latin, to proclaim, make known, from {it}prae-{/it} pre- + {it}dicare{/it} to proclaim {ma}{mat|diction|}{/ma}"
+            ]
+        ],
+        "date": "13th century{ds|i|1||}",
+        "shortdef": [
+            "to deliver a sermon",
+            "to urge acceptance or abandonment of an idea or course of action; specifically : to exhort in an officious or tiresome manner",
+            "to set forth in a sermon"
+        ]
+    }
+]

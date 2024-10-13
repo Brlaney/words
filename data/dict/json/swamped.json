@@ -1,0 +1,113 @@
+[
+    {
+        "meta": {
+            "id": "swamp:2",
+            "uuid": "8b87af6c-d401-42f2-973d-52f795da089e",
+            "sort": "194994500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "swamp",
+                "swamped",
+                "swamping",
+                "swamps"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "swamp"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "swamped"
+            },
+            {
+                "if": "swamp*ing"
+            },
+            {
+                "if": "swamps"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fill with or as if with water {bc}{sx|inundate||}, {sx|submerge||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to overwhelm numerically or by an excess of something {bc}{sx|flood||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}swamped{/wi} with work"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to open by removing underbrush and debris"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become submerged"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1784{ds|t|1|a|}",
+        "shortdef": [
+            "to fill with or as if with water : inundate, submerge",
+            "to overwhelm numerically or by an excess of something : flood",
+            "to open by removing underbrush and debris"
+        ]
+    }
+]

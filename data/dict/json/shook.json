@@ -1,0 +1,1157 @@
+[
+    {
+        "meta": {
+            "id": "shook:1",
+            "uuid": "12f2175a-454d-410f-b20d-65acd25aee82",
+            "sort": "194350000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "shake",
+                "shook"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "shook"
+        },
+        "cxs": [
+            {
+                "cxl": "past tense and chiefly dialectal past participle of",
+                "cxtis": [
+                    {
+                        "cxt": "shake"
+                    }
+                ]
+            }
+        ],
+        "shortdef": []
+    },
+    {
+        "meta": {
+            "id": "shook:2",
+            "uuid": "da56e700-2da5-4c96-8ff5-65f5f4085f42",
+            "sort": "194350100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "shook",
+                "shooks"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "shook",
+            "prs": [
+                {
+                    "mw": "\u02c8shu\u0307k",
+                    "sound": {
+                        "audio": "shook001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a set of staves and headings for one hogshead, cask, or barrel"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a bundle of parts (as of boxes) ready to be put together"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|shock:5||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "origin unknown"
+            ]
+        ],
+        "date": "1796{ds||1|a|}",
+        "shortdef": [
+            "a set of staves and headings for one hogshead, cask, or barrel",
+            "a bundle of parts (as of boxes) ready to be put together",
+            "shock"
+        ]
+    },
+    {
+        "meta": {
+            "id": "shake:1",
+            "uuid": "a03dc3a9-131c-4c7c-8208-3978fd808379",
+            "sort": "193277000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "shakable",
+                "shake",
+                "shake a leg",
+                "shake a stick at",
+                "shakeable",
+                "shaken",
+                "shaken a leg",
+                "shaken a stick at",
+                "shakes",
+                "shakes a leg",
+                "shakes a stick at",
+                "shaking",
+                "shaking a leg",
+                "shaking a stick at",
+                "shook",
+                "shook a leg",
+                "shook a stick at"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "shake",
+            "prs": [
+                {
+                    "mw": "\u02c8sh\u0101k",
+                    "sound": {
+                        "audio": "shake001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "shook",
+                "prs": [
+                    {
+                        "mw": "\u02c8shu\u0307k",
+                        "sound": {
+                            "audio": "shake002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "if": "shak*en",
+                "prs": [
+                    {
+                        "mw": "\u02c8sh\u0101-k\u0259n",
+                        "sound": {
+                            "audio": "shake003",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "if": "shak*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move irregularly to and fro"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to vibrate especially as the result of a blow or shock"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to tremble as a result of physical or emotional disturbance "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}shook{/it} with fear"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to experience a state of instability {bc}{sx|totter||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to briskly move something to and fro or up and down especially in order to mix"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to clasp hands"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|trill:2||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to brandish, wave, or flourish often in a threatening manner "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "protesters {it}shaking{/it} their fists"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to move to and fro, up and down, or from side to side especially in a repetitive, rhythmic, or quick jerky manner "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}shook{/it} his head in disapproval"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to quake, quiver, or tremble"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to free oneself from "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}shake{/wi} a habit"
+                                            },
+                                            {
+                                                "t": "{wi}shake{/wi} off a cold"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to get away from {bc}get rid of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "can you {wi}shake{/wi} your friend? I want to talk to you alone",
+                                                "aq": {
+                                                    "auth": "Elmer Davis"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to lessen the stability of {bc}{sx|weaken||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}shake{/wi} one's faith"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring to a specified condition by or as if by repeated quick jerky movements "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}shook{/it} himself loose from the man's grasp"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to dislodge or eject by quick jerky movements of the support or container "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}shook{/it} the dust from the cloth"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to clasp (hands) in greeting or farewell or as a sign of goodwill or agreement"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stir the feelings of {bc}{sx|upset||}, {sx|agitate||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}shook{/it} her up"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "10",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|trill:2||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "shak*able",
+                "vrs": [
+                    {
+                        "vl": "or",
+                        "va": "shake*able",
+                        "prs": [
+                            {
+                                "mw": "\u02c8sh\u0101-k\u0259-b\u0259l",
+                                "sound": {
+                                    "audio": "shake004",
+                                    "ref": "c",
+                                    "stat": "1"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "shake a leg",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|dance||}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to hurry up"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "shake a stick at",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to form a conception of (as by counting or imagining) {bc}{sx|conceive||} "
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "usually used in the phrase {it}more than one can shake a stick at{/it}"
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}shake{/sc} {sc}agitate{/sc} {sc}rock{/sc} {sc}convulse{/sc} mean to move up and down or to and fro with some violence. {sc}shake{/sc} often carries a further implication of a particular purpose. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}shake{/it} well before using"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}agitate{/sc} suggests a violent and prolonged tossing or stirring. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "an ocean {it}agitated{/it} by storms"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}rock{/sc} suggests a swinging or swaying motion resulting from violent impact or upheaval. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the whole city was {it}rocked{/it} by the explosion"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}convulse{/sc} suggests a violent pulling or wrenching as of a body in a paroxysm. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "spectators were {it}convulsed{/it} with laughter"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}sceacan{/it}; akin to Old Norse {it}skaka{/it} to shake"
+            ]
+        ],
+        "date": "before 12th century{ds|i|1||}",
+        "shortdef": [
+            "to move irregularly to and fro",
+            "to vibrate especially as the result of a blow or shock",
+            "to tremble as a result of physical or emotional disturbance"
+        ]
+    },
+    {
+        "meta": {
+            "id": "shook-up",
+            "uuid": "d8b97287-2d2e-4c86-ae6c-c71b41b1c38f",
+            "sort": "194350200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "shook-up"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "shook-up",
+            "prs": [
+                {
+                    "mw": "\u02ccshu\u0307k-\u02c8\u0259p",
+                    "sound": {
+                        "audio": "shooku01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}nervously upset {bc}{sx|agitated||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1897",
+        "shortdef": [
+            "nervously upset : agitated"
+        ]
+    },
+    {
+        "meta": {
+            "id": "shake down",
+            "uuid": "705da9ea-2f71-498f-b1ee-dc14fa1fb0fa",
+            "sort": "193280000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "shake down",
+                "shaken down",
+                "shakes down",
+                "shaking down",
+                "shook down"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "shake down"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "shook down"
+            },
+            {
+                "if": "shak*en down"
+            },
+            {
+                "if": "shak*ing down"
+            },
+            {
+                "if": "shakes down"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take up temporary quarters"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to occupy an improvised or makeshift bed"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become accustomed especially to new surroundings or duties"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to settle down"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to obtain money from in a deceitful, contemptible, or illegal manner "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "racketeers {it}shaking down{/it} store owners for protection"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a thorough search of"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bring about a reduction of"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to give a shakedown test to "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}shook down{/it} the vessel before its maiden voyage"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1859{ds|i|1|a|}",
+        "shortdef": [
+            "to take up temporary quarters",
+            "to occupy an improvised or makeshift bed",
+            "to become accustomed especially to new surroundings or duties"
+        ]
+    },
+    {
+        "meta": {
+            "id": "shake out",
+            "uuid": "05a7c408-f48e-407d-8a22-7c9c8762ed6b",
+            "sort": "193282000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "shake out",
+                "shaken out",
+                "shakes out",
+                "shaking out",
+                "shook out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "shake out"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "shook out"
+            },
+            {
+                "if": "shak*en out"
+            },
+            {
+                "if": "shak*ing out"
+            },
+            {
+                "if": "shakes out"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to prove to be in the end {bc}{sx|turn out||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "wait to see how things {it}shake out{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1982",
+        "shortdef": [
+            "to prove to be in the end : turn out"
+        ]
+    },
+    {
+        "meta": {
+            "id": "shake up",
+            "uuid": "37bd06c9-af16-4964-bd7e-bcce39578f5c",
+            "sort": "193289000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "shake up",
+                "shaken up",
+                "shakes up",
+                "shaking up",
+                "shook up"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "shake up"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "shook up"
+            },
+            {
+                "if": "shak*en up"
+            },
+            {
+                "if": "shak*ing up"
+            },
+            {
+                "if": "shakes up"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|chide||}, {sx|scold||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to jar by or as if by a physical shock "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the collision {it}shook up{/it} both drivers"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to effect an extensive and often drastic reorganization of"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1538{ds||1||}",
+        "shortdef": [
+            "chide, scold",
+            "to jar by or as if by a physical shock",
+            "to effect an extensive and often drastic reorganization of"
+        ]
+    },
+    {
+        "meta": {
+            "id": "shake on",
+            "uuid": "1f8400b3-a428-447f-9ca7-862f94274727",
+            "sort": "3017273000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "shake on",
+                "shaken on",
+                "shakes on",
+                "shaking on",
+                "shook on"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "shake on"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "shook on"
+            },
+            {
+                "if": "shak*en on"
+            },
+            {
+                "if": "shak*ing on"
+            },
+            {
+                "if": "shakes on"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to shake hands to show agreement "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They {it}shook on{/it} the deal."
+                                            },
+                                            {
+                                                "t": "If you agree, let's {it}shake on{/it} it."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to shake hands to show agreement"
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "meta": {
+            "id": "straighten out",
+            "uuid": "3bc5cc44-8920-4107-bf2a-8bceb9e2b706",
+            "sort": "3018775000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "straighten out",
+                "straightened out",
+                "straightening out",
+                "straightens out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "straighten out"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "straight*ened out"
+            },
+            {
+                "if": "straight*en*ing out"
+            },
+            {
+                "if": "straight*ens out"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make (something) straight or to become straight "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "You need to {it}straighten out{/it} your legs for this stretch."
+                                            },
+                                            {
+                                                "t": "The river curves and then {it}straightens out{/it} again."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make (something) organized or tidy {bc}to put (something) in order "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He took time to {it}straighten out{/it} the papers on his desk."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to deal with (something) successfully "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I need more time to {it}straighten out{/it} my problems."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to improve in behavior or condition or to cause (someone or something) to improve in behavior or condition "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He {it}straightened out{/it} after joining the army."
+                                            },
+                                            {
+                                                "t": "The problem will not {it}straighten out{/it} on its own."
+                                            },
+                                            {
+                                                "t": "You need to {it}straighten{/it} your life {it}out{/it}."
+                                            },
+                                            {
+                                                "t": "Her parents sent her to boarding school to {it}straighten{/it} her {it}out{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to make (something) straight or to become straight",
+            "to make (something) organized or tidy : to put (something) in order",
+            "to deal with (something) successfully"
+        ]
+    }
+]

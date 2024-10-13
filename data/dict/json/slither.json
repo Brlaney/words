@@ -1,0 +1,150 @@
+[
+    {
+        "meta": {
+            "id": "slither",
+            "uuid": "3c53f0f3-675f-43a7-870b-1f8d8032d012",
+            "sort": "194488100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "slither",
+                "slithered",
+                "slithering",
+                "slithers"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "slith*er",
+            "prs": [
+                {
+                    "mw": "\u02c8sli-t\u035fh\u0259r",
+                    "sound": {
+                        "audio": "slithe01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "slith*ered"
+            },
+            {
+                "if": "slith*er*ing"
+            },
+            {
+                "if": "slith*ers"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to slide on or as if on a loose gravelly surface"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to slip or slide like a snake"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to slide"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}slideren{/it}, from Old English {it}slidrian{/it}, frequentative of {it}sl\u012bdan{/it} to slide"
+            ]
+        ],
+        "date": "before 12th century{ds|i|1||}",
+        "shortdef": [
+            "to slide on or as if on a loose gravelly surface",
+            "to slip or slide like a snake",
+            "to cause to slide"
+        ]
+    },
+    {
+        "meta": {
+            "id": "slit one's wrists",
+            "uuid": "6e6a6d1a-3771-45ea-b099-c13a60840070",
+            "sort": "3017781000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "slit her wrists",
+                "slit his wrists",
+                "slit one's wrists",
+                "slit their wrists"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "slit one's wrists"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to attempt to kill oneself by cutting one's wrists"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to attempt to kill oneself by cutting one's wrists"
+        ]
+    }
+]

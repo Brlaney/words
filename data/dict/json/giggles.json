@@ -1,0 +1,211 @@
+[
+    {
+        "meta": {
+            "id": "giggle:1",
+            "uuid": "77362af0-f075-4535-b2a8-4da8d6d2b8a7",
+            "sort": "071136000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "giggle",
+                "giggled",
+                "giggler",
+                "gigglers",
+                "giggles",
+                "gigglier",
+                "giggliest",
+                "giggling",
+                "gigglingly",
+                "giggly"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "gig*gle",
+            "prs": [
+                {
+                    "mw": "\u02c8gi-g\u0259l",
+                    "sound": {
+                        "audio": "giggle01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "gig*gled"
+            },
+            {
+                "if": "gig*gling",
+                "prs": [
+                    {
+                        "mw": "\u02c8gi-g(\u0259-)li\u014b",
+                        "sound": {
+                            "audio": "giggle02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to laugh with repeated short catches of the breath"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to utter with a giggle"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "gig*gler",
+                "prs": [
+                    {
+                        "mw": "\u02c8gi-g(\u0259-)l\u0259r",
+                        "sound": {
+                            "audio": "giggle03",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            },
+            {
+                "ure": "gig*gling*ly",
+                "prs": [
+                    {
+                        "mw": "\u02c8gi-g(\u0259-)li\u014b-l\u0113",
+                        "sound": {
+                            "audio": "giggle04",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adverb"
+            },
+            {
+                "ure": "gig*gly",
+                "prs": [
+                    {
+                        "mw": "\u02c8gi-g(\u0259-)l\u0113",
+                        "sound": {
+                            "audio": "giggle05",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "imitative"
+            ]
+        ],
+        "date": "1509{ds|i|||}",
+        "shortdef": [
+            "to laugh with repeated short catches of the breath",
+            "to utter with a giggle"
+        ]
+    },
+    {
+        "meta": {
+            "id": "giggle:2",
+            "uuid": "f5e001d2-f9d2-4d7c-892e-5c4d90448927",
+            "sort": "071137000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "giggle",
+                "giggles"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "giggle"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act of {a_link|giggling}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "sls": [
+                                    "chiefly British"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a source of amusement"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1677{ds||1||}",
+        "shortdef": [
+            "the act of giggling",
+            "a source of amusement"
+        ]
+    }
+]

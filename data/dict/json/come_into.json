@@ -1,0 +1,1962 @@
+[
+    {
+        "meta": {
+            "id": "come:1",
+            "uuid": "45a3b6dc-f6d0-40bb-a58e-72721fd61192",
+            "sort": "035457500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "came",
+                "came a cropper",
+                "came across",
+                "came again",
+                "came clean",
+                "came into",
+                "came into her own",
+                "came into his own",
+                "came into its own",
+                "came into my own",
+                "came into one's own",
+                "came into our own",
+                "came into their own",
+                "came into your own",
+                "came of age",
+                "came off it",
+                "came over",
+                "came to",
+                "came to grief",
+                "came to grips",
+                "came to grips with",
+                "came to herself",
+                "came to himself",
+                "came to itself",
+                "came to myself",
+                "came to pass",
+                "came to terms",
+                "came to terms with",
+                "came to themselves",
+                "came to yourself",
+                "came to yourselves",
+                "came upon",
+                "come",
+                "come a cropper",
+                "come across",
+                "come again",
+                "come clean",
+                "come into",
+                "come into her own",
+                "come into his own",
+                "come into its own",
+                "come into my own",
+                "come into one's own",
+                "come into our own",
+                "come into their own",
+                "come into your own",
+                "come of age",
+                "come off it",
+                "come over",
+                "come to",
+                "come to grief",
+                "come to grips with",
+                "come to herself",
+                "come to himself",
+                "come to itself",
+                "come to myself",
+                "come to oneself",
+                "come to pass",
+                "come to terms",
+                "come to terms with",
+                "come to themselves",
+                "come to yourself",
+                "come to yourselves",
+                "come upon",
+                "comes",
+                "comes a cropper",
+                "comes across",
+                "comes again",
+                "comes clean",
+                "comes into",
+                "comes into her own",
+                "comes into his own",
+                "comes into its own",
+                "comes into one's own",
+                "comes into their own",
+                "comes of age",
+                "comes off it",
+                "comes over",
+                "comes to",
+                "comes to grief",
+                "comes to grips",
+                "comes to grips with",
+                "comes to herself",
+                "comes to himself",
+                "comes to itself",
+                "comes to pass",
+                "comes to terms",
+                "comes to terms with",
+                "comes upon",
+                "coming",
+                "coming a cropper",
+                "coming across",
+                "coming again",
+                "coming clean",
+                "coming into",
+                "coming into her own",
+                "coming into his own",
+                "coming into its own",
+                "coming into my own",
+                "coming into one's own",
+                "coming into our own",
+                "coming into their own",
+                "coming into your own",
+                "coming of age",
+                "coming off it",
+                "coming over",
+                "coming to",
+                "coming to grief",
+                "coming to grips",
+                "coming to grips with",
+                "coming to herself",
+                "coming to himself",
+                "coming to itself",
+                "coming to myself",
+                "coming to pass",
+                "coming to terms",
+                "coming to terms with",
+                "coming to themselves",
+                "coming to yourself",
+                "coming to yourselves",
+                "coming upon",
+                "cum",
+                "cumming",
+                "cums",
+                "to come"
+            ],
+            "offensive": true
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "come",
+            "prs": [
+                {
+                    "mw": "\u02c8k\u0259m",
+                    "sound": {
+                        "audio": "come0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "came",
+                "prs": [
+                    {
+                        "mw": "\u02c8k\u0101m",
+                        "sound": {
+                            "audio": "come0002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "if": "come"
+            },
+            {
+                "if": "com*ing",
+                "prs": [
+                    {
+                        "mw": "\u02c8k\u0259-mi\u014b",
+                        "sound": {
+                            "audio": "come0003",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move toward something {bc}{sx|approach||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}Come{/wi} here."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move or journey to a vicinity with a specified purpose "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}Come{/wi} see us."
+                                            },
+                                            {
+                                                "t": "{wi}Come{/wi} and see what's going on."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "c (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to reach a particular station in a series "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Now we {wi}come{/wi} to the section on health."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to arrive in due course "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The time has {wi}come{/wi} to make your decision."
+                                                    },
+                                                    {
+                                                        "t": "Has the mail {wi}come{/wi} yet?"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "d (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to approach in kind or quality "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "This {wi}comes{/wi} near perfection."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to reach a condition or conclusion "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}came{/wi} to regard him as a friend"
+                                                    },
+                                                    {
+                                                        "t": "{wi}Come{/wi} to think of it, you may be right."
+                                                    },
+                                                    {
+                                                        "t": "The screw {wi}came{/wi} loose."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "e (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to advance toward accomplishment {bc}{sx|come along||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The job is {wi}coming{/wi} nicely."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to advance in a particular manner "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}Come{/wi} running when I call."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(3)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to advance, rise, or improve in rank or condition "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "has {wi}come{/wi} a long way"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "f",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|extend||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Her dress {wi}came{/wi} to her ankles."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2 a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to arrive at a particular place, end, result, or conclusion "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}came{/wi} to his senses"
+                                                    },
+                                                    {
+                                                        "t": "{wi}come{/wi} untied"
+                                                    },
+                                                    {
+                                                        "t": "He {wi}came{/wi} to regret his choice."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|amount||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The taxes on it {wi}come{/wi} to more than it's worth."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "b (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to appear to the mind "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The answer {wi}came{/wi} to them."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to appear on a scene {bc}make an appearance "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Children {wi}come{/wi} equipped to learn any language."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "c (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|happen||}, {sx|occur||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "No harm will {wi}come{/wi} to you."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to come to pass {bc}take place "
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used in the subjunctive with inverted subject and verb to express the particular time or occasion "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "{wi}Come{/wi} spring the days will be longer."
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|originate||}, {sx|arise||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Wine {wi}comes{/wi} from grapes."
+                                            },
+                                            {
+                                                "t": "They {wi}come{/wi} from sturdy stock."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "e",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to enter or assume a condition, position, or relation "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The artillery {wi}came{/wi} into action."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "f",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fall within a field of view or a range of application "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "This {wi}comes{/wi} within the terms of the treaty."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "g",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to issue forth "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "A sob {wi}came{/wi} from her throat."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "h",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take form "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Churn till the butter {wi}comes{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "i",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be available "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "This model {wi}comes{/wi} in several sizes."
+                                            },
+                                            {
+                                                "t": "as good as they {wi}come{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "j",
+                                "vrs": [
+                                    {
+                                        "vl": "or less commonly",
+                                        "va": "cum",
+                                        "prs": [
+                                            {
+                                                "mw": "\u02c8k\u0259m",
+                                                "sound": {
+                                                    "audio": "come0001",
+                                                    "ref": "c",
+                                                    "stat": "1"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "sls": [
+                                    "often vulgar"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to experience orgasm"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fall to a person in a division or inheritance of property "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Several thousand dollars {wi}came{/wi} to him from his uncle."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "sls": [
+                                    "obsolete"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become moved favorably {bc}{sx|relent||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to turn out to be "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Good clothes don't {wi}come{/wi} cheap."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|become||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a dream that {wi}came{/wi} true"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to approach or be near (an age) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a child {wi}coming{/wi} eight years old"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to take on the aspect of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}come{/wi} the stern parent"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "come a cropper",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to fail completely "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The plan {it}came a cropper{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come across",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to meet, find, or encounter especially by chance "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Researchers have {it}come across{/it} important new evidence."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come again",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|repeat||}"
+                                            ]
+                                        ],
+                                        "sdsense": {
+                                            "sd": "also",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}to speak further "
+                                                ],
+                                                [
+                                                    "uns",
+                                                    [
+                                                        [
+                                                            [
+                                                                "text",
+                                                                "used as an interrogative"
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come clean",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to tell the whole story {bc}{sx|confess||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}came clean{/it} about her crimes"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come into",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to acquire as a possession or achievement "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}come into{/it} a fortune"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come into one's own",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to achieve one's potential "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "He had a slow start as a pitcher, but he's {it}come into his own{/it} this season."
+                                                    }
+                                                ]
+                                            ]
+                                        ],
+                                        "sdsense": {
+                                            "sd": "also",
+                                            "dt": [
+                                                [
+                                                    "text",
+                                                    "{bc}to gain recognition"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come of age",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to reach maturity "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Your class has {it}come of age{/it} at a moment of great consequence for our nation and for the world \u2026",
+                                                        "aq": {
+                                                            "auth": "Barack Obama"
+                                                        }
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come off it",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to cease foolish or pretentious talk or behavior "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}Come off it{/it}, you're being silly."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come over",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to seize suddenly and strangely "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "What's {it}come over{/it} you?"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come to",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be a question of "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "When it {it}comes to{/it} pitching horseshoes, he's the champ."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come to grief",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to encounter misfortune (such as calamity, defeat, or ruin) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "His campaign {it}came to grief{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come to grips with",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to meet or deal with firmly, frankly, or straightforwardly "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}come to grips with{/it} the unemployment problem"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come to oneself",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to get hold of oneself {bc}regain self-control "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "But when he {it}came to himself{/it} he said, \"How many of my father's hired servants have bread enough and to spare \u2026 \"",
+                                                        "aq": {
+                                                            "source": "Luke 15:17 (Revised Standard Version)"
+                                                        }
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come to pass",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|happen||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Many of the things he predicted have {it}come to pass{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come to terms",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to reach an agreement "
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "often used with {it}with{/it} "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "The company has {it}come to terms{/it} with the union."
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to become adjusted especially emotionally or intellectually "
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "usually used with {it}with{/it} "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "{it}come to terms{/it} with modern life"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "come upon",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to meet or find by chance {bc}come across "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}came upon{/it} an old friend"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "to come",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}existing or arriving in the future "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "in the days {it}to come{/it}"
+                                                    },
+                                                    {
+                                                        "t": "There will be more trouble {it}to come{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}cuman{/it}; akin to Old High German {it}queman{/it} to come, Latin {it}venire{/it}, Greek {it}bainein{/it} to walk, go"
+            ]
+        ],
+        "date": "before 12th century{ds|i|1|a|}",
+        "shortdef": [
+            "to move toward something : approach",
+            "to move or journey to a vicinity with a specified purpose",
+            "to reach a particular station in a series"
+        ]
+    },
+    {
+        "meta": {
+            "id": "come into being",
+            "uuid": "13d74ca8-c39a-4b9f-8fa4-370cd4408126",
+            "sort": "3003650000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "come into being"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "come into being"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to begin to exist {bc}to come to be "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The story of how the university {it}came into being{/it} is quite fascinating."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to begin to exist : to come to be"
+        ]
+    },
+    {
+        "meta": {
+            "id": "come into conflict",
+            "uuid": "21a0b305-b8bb-40ca-9483-14e12150d175",
+            "sort": "3003651000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "come into conflict"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "come into conflict"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be different in a way that prevents agreement "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Unfortunately, their goals for the project {it}came into conflict{/it}."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often + {it}with{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "There are cases in which these rules {it}come into conflict with{/it} one another."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to enter a situation in which there is a struggle for power, property, etc. "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often + {it}with{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "groups {it}coming into conflict with{/it} neighboring tribes"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to be different in a way that prevents agreement \u2014often + with",
+            "to enter a situation in which there is a struggle for power, property, etc. \u2014often + with"
+        ]
+    },
+    {
+        "meta": {
+            "id": "come into existence",
+            "uuid": "fc4560b9-1e3e-4286-a512-67f2cab2af4c",
+            "sort": "3003653000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "come into existence"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "come into existence"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to begin to exist {bc}to come to have actual being "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "long before the country had {it}come into existence{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to begin to exist : to come to have actual being"
+        ]
+    },
+    {
+        "meta": {
+            "id": "come into favor",
+            "uuid": "f93ba91b-eaf1-490e-a207-a244fa58cb0e",
+            "sort": "3003654000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "come into favor"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "come into favor"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become popular "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a style that has {it}come into favor{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to become popular"
+        ]
+    },
+    {
+        "meta": {
+            "id": "come into flower",
+            "uuid": "d133c1a2-5cd0-4ffc-8d9b-047fe3127026",
+            "sort": "3003655000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "come into flower"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "come into flower"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to begin to produce flowers {bc}to bloom "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The tree {it}came into flower{/it} early this year."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "sometimes used figuratively to indicate something is developing "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "His interest in history {it}came into flower{/it} while he was just a boy."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to begin to produce flowers : to bloom \u2014sometimes used figuratively to indicate something is developing"
+        ]
+    },
+    {
+        "meta": {
+            "id": "come into play",
+            "uuid": "0b9c36fd-1c79-4356-b16f-64d3f70871e5",
+            "sort": "3003657000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "come into play"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "come into play"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to help produce or influence a result "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Two important factors {it}come into play{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to help produce or influence a result"
+        ]
+    },
+    {
+        "meta": {
+            "id": "come into question",
+            "uuid": "6c04cbb1-d264-4b81-b315-ea0c8dee5e59",
+            "sort": "3003658000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "come into question"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "come into question"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause doubts "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The results of the study have {it}come into question{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to cause doubts"
+        ]
+    },
+    {
+        "meta": {
+            "id": "come into the world",
+            "uuid": "c90545e6-5533-438f-8971-f0003e734217",
+            "sort": "3003659000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "come into the world"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "come into the world"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "formal + literary"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be born "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Their son {it}came into the world{/it} at 10:32 p.m. on January 14, 2003."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to be born"
+        ]
+    },
+    {
+        "meta": {
+            "id": "come into use",
+            "uuid": "bff60c4d-ab85-424d-83ee-e0d7ba4a8301",
+            "sort": "3003660000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "come into use"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "come into use"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to begin to be used by people "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "When did the word first {it}come into use{/it}?"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to begin to be used by people"
+        ]
+    }
+]

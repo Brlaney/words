@@ -1,0 +1,269 @@
+[
+    {
+        "meta": {
+            "id": "seldom:1",
+            "uuid": "b93de878-82cf-4f2d-878a-88786930f8f7",
+            "sort": "192015000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "seldom"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "sel*dom",
+            "prs": [
+                {
+                    "mw": "\u02c8sel-d\u0259m",
+                    "sound": {
+                        "audio": "seldom01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adverb",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in few instances {bc}{sx|rarely||}, {sx|infrequently||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "quotes": [
+            {
+                "t": "Employers also say that foreign-born workers tend to work harder, be more reliable, and complain less than the natives they can hire at the same wage. This is not surprising. Unskilled immigrants have {qword}seldom{/qword} finished secondary school, but they have overcome all kinds of obstacles both to get here and to stay here.",
+                "aq": {
+                    "auth": "Christopher Jencks",
+                    "source": "{it}New York Review of Books{/it}",
+                    "aqdate": "27 Sept. 2007"
+                }
+            },
+            {
+                "t": "Kangaroo rats belong to a North American family of rodents well known for living in arid habitats, where they forage almost exclusively for seeds. They {qword}seldom{/qword} have access to drinking water, but instead get most of their moisture from digesting the seeds.",
+                "aq": {
+                    "auth": "Michael A. Mares",
+                    "source": "{it}Natural History{/it}",
+                    "aqdate": "November 2003"
+                }
+            },
+            {
+                "t": "\"The pervasive theme is rebellion.\" Laurel Thatcher Ulrich begins her new book, \"Well-Behaved Women {qword}Seldom{/qword} Make History,\" struggling to explain\u2014understand\u2014the appeal of an aside she made in the spring 1976 issue of an academic journal, a comment that has become a popular slogan printed on T-shirts and coffee mugs and bumper stickers, usually without her permission and often without attribution.",
+                "aq": {
+                    "auth": "Kathryn Harrison",
+                    "source": "{it}New York Times Book Review{/it}",
+                    "aqdate": "30 Sept. 2007"
+                }
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}seldan{/it}; akin to Old High German {it}seltan{/it} seldom"
+            ]
+        ],
+        "date": "before 12th century",
+        "shortdef": [
+            "in few instances : rarely, infrequently"
+        ]
+    },
+    {
+        "meta": {
+            "id": "seldom:2",
+            "uuid": "a8bbfb3d-a3d6-413a-ab5f-1d425d892c3f",
+            "sort": "192016000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "seldom"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "seldom"
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|rare||}, {sx|infrequent||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|seldom:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "13th century",
+        "shortdef": [
+            "rare, infrequent"
+        ]
+    },
+    {
+        "meta": {
+            "id": "rarely/seldom ever",
+            "uuid": "2e28a26c-d4d5-4dd4-a644-f7bceeccb550",
+            "sort": "3015879000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "rarely ever",
+                "rarely/seldom ever",
+                "seldom ever"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "rarely/seldom ever"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}almost never {bc}rarely "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We {it}seldom ever{/it} dine out these days."
+                                            },
+                                            {
+                                                "t": "She {it}rarely ever{/it} drinks wine."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "snote",
+                                        [
+                                            [
+                                                "t",
+                                                "Some people regard {it}rarely ever{/it} and {it}seldom ever{/it} as incorrect, but these phrases are common in speech and in informal writing."
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "almost never : rarely"
+        ]
+    },
+    {
+        "meta": {
+            "id": "rarely/seldom if ever",
+            "uuid": "500adf5e-d11b-4f06-9ae3-19449431ee08",
+            "sort": "3015880000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "rarely if ever",
+                "rarely/seldom if ever",
+                "seldom if ever"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "rarely/seldom if ever"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used as a more forceful way to say \"rarely\" or \"seldom\" "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "I have {it}seldom if ever{/it} been so embarrassed."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ],
+                                    [
+                                        "snote",
+                                        [
+                                            [
+                                                "t",
+                                                "{it}Rarely if ever{/it} and {it}seldom if ever{/it} can be written both with or without commas"
+                                            ]
+                                        ]
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Such radical opinions have {it}rarely{/it}, {it}if ever{/it}, been heard here before."
+                                            },
+                                            {
+                                                "t": "She {it}rarely if ever{/it} sings anymore."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "\u2014used as a more forceful way to say \"rarely\" or \"seldom\""
+        ]
+    }
+]

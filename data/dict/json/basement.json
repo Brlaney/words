@@ -1,0 +1,458 @@
+[
+    {
+        "meta": {
+            "id": "basement",
+            "uuid": "737febdb-540b-496f-9880-f934f07697ba",
+            "sort": "020082400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "basement",
+                "basementless",
+                "basements"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "base*ment",
+            "prs": [
+                {
+                    "mw": "\u02c8b\u0101s-m\u0259nt",
+                    "sound": {
+                        "audio": "baseme01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the part of a building that is wholly or partly below ground level"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the ground floor facade or interior in Renaissance architecture"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the lowest or fundamental part of something"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "specifically",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the rocks underlying stratified rocks"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "sls": [
+                                    "chiefly New England"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a toilet or washroom especially in a school"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a low state, rank, or condition "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "With their stock in the {wi}basement{/wi} and red ink all over their balance sheet, many struggling [companies] are finding that fund-raising has become an exceedingly difficult proposition.",
+                                                "aq": {
+                                                    "auth": "Brad Stone"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the lowest place in the standings {bc}{sx|cellar||2} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Last year, the Phillies finished in the {wi}basement{/wi} of the NL East with 68 wins, tied with the Cubs for the fewest wins in the league.",
+                                                "aq": {
+                                                    "source": "{it}Boston Herald{/it}"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "base*ment*less",
+                "prs": [
+                    {
+                        "mw": "\u02c8b\u0101s-m\u0259nt-l\u0259s",
+                        "sound": {
+                            "audio": "baseme02",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{et_link|base:1|base:1} or {et_link|base:2|base:2} + {et_link|-ment|-ment}, probably after Italian {it}basamento{/it}"
+            ]
+        ],
+        "date": "1730{ds||1||}",
+        "shortdef": [
+            "the part of a building that is wholly or partly below ground level",
+            "the ground floor facade or interior in Renaissance architecture",
+            "the lowest or fundamental part of something; specifically : the rocks underlying stratified rocks"
+        ]
+    },
+    {
+        "meta": {
+            "id": "basement membrane",
+            "uuid": "089fbbbe-7a2d-4684-8ad0-04c684bd435b",
+            "sort": "020082500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "basement membrane",
+                "basement membranes"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "basement membrane"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a thin membranous layer of connective tissue that separates a layer of epithelial cells from the underlying lamina propia"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1842",
+        "shortdef": [
+            "a thin membranous layer of connective tissue that separates a layer of epithelial cells from the underlying lamina propia"
+        ]
+    },
+    {
+        "meta": {
+            "id": "bargain-basement",
+            "uuid": "3ac0e927-8679-4af8-bddf-2f30d19f1055",
+            "sort": "020066300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "bargain-basement"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "bar*gain-base*ment",
+            "prs": [
+                {
+                    "mw": "\u02c8b\u00e4r-g\u0259n-\u02c8b\u0101s-m\u0259nt",
+                    "sound": {
+                        "audio": "bargai02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}of inferior quality or worth"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}markedly inexpensive "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}bargain-basement{/wi} rates"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1914{ds||2||}",
+        "shortdef": [
+            "of inferior quality or worth",
+            "markedly inexpensive"
+        ]
+    },
+    {
+        "meta": {
+            "id": "bargain basement",
+            "uuid": "7b5decf9-18c0-45f7-bf1e-19933e0ad7af",
+            "sort": "020066400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "bargain basement",
+                "bargain basements"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "bargain basement"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a section of a store (such as the basement) where merchandise is sold at reduced prices"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1899",
+        "shortdef": [
+            "a section of a store (such as the basement) where merchandise is sold at reduced prices"
+        ]
+    },
+    {
+        "meta": {
+            "id": "subbasement",
+            "uuid": "39e3019c-a3ee-4b1e-9989-cd2e329728a3",
+            "sort": "194887033",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "sub-basement",
+                "sub-basements",
+                "subbasement",
+                "subbasements"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sub*base*ment",
+            "prs": [
+                {
+                    "mw": "\u02ccs\u0259b-\u02c8b\u0101s-m\u0259nt",
+                    "sound": {
+                        "audio": "subbasement_1",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "vrs": [
+            {
+                "vl": "or",
+                "va": "sub-base*ment"
+            }
+        ],
+        "fl": "noun",
+        "ins": [
+            {
+                "il": "plural",
+                "if": "sub*base*ments"
+            },
+            {
+                "il": "or",
+                "if": "sub-base*ments"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a {d_link|basement|basement} or an underground {d_link|story|story:3} located below the main basement of a building "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 describing in loving detail the enormous, complex structure from the bottom up, its {wi}subbasement{/wi} \u2026 is full of gleaming pipes, turbines and boilers.",
+                                                "aq": {
+                                                    "auth": "Burton Bernstein"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1776",
+        "shortdef": [
+            "a basement or an underground story located below the main basement of a building"
+        ]
+    },
+    {
+        "meta": {
+            "id": "finished basement/attic",
+            "uuid": "26c1607b-bdbf-4b0b-b717-fe260a426ea6",
+            "sort": "3006053000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "finished attic",
+                "finished basement",
+                "finished basement/attic"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "finished basement/attic"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a basement or attic that has floors, ceilings, and walls like the rooms in the main part of the house"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a basement or attic that has floors, ceilings, and walls like the rooms in the main part of the house"
+        ]
+    }
+]

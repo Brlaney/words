@@ -1,0 +1,81 @@
+[
+    {
+        "meta": {
+            "id": "milestone",
+            "uuid": "cf249b8f-25f5-4b16-9d78-0b3049cd8a8e",
+            "sort": "132667000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "milestone",
+                "milestones"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "mile*stone",
+            "prs": [
+                {
+                    "mw": "\u02c8m\u012b(-\u0259)l-\u02ccst\u014dn",
+                    "sound": {
+                        "audio": "milest01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a stone serving as a milepost {dx_def}see {dxt|milepost||1}{/dx_def}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a significant point in development "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Graduating from college was an important {wi}milestone{/wi} in her life."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "art": {
+            "artid": "mileston",
+            "capt": "milestone 1"
+        },
+        "date": "1662{ds||1||}",
+        "shortdef": [
+            "a stone serving as a milepost",
+            "a significant point in development"
+        ]
+    }
+]

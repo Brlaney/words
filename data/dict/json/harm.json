@@ -1,0 +1,515 @@
+[
+    {
+        "meta": {
+            "id": "harm:1",
+            "uuid": "2dad8348-266b-447c-859f-068353ae610b",
+            "sort": "080067800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "harm",
+                "harms"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "harm",
+            "prs": [
+                {
+                    "mw": "\u02c8h\u00e4rm",
+                    "sound": {
+                        "audio": "harm0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}physical or mental damage {bc}{sx|injury||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the amount of {wi}harm{/wi} sustained by the boat during the storm"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|mischief||}, {sx|hurt||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I meant you no {wi}harm{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}hearm{/it}; akin to Old High German {it}harm{/it} injury, Old Church Slavic {it}sram\u016d{/it} shame"
+            ]
+        ],
+        "date": "before 12th century{ds||1||}",
+        "shortdef": [
+            "physical or mental damage : injury",
+            "mischief, hurt"
+        ]
+    },
+    {
+        "meta": {
+            "id": "harm:2",
+            "uuid": "338fd792-c9c1-4bd7-ad7b-536ad7c3ea0c",
+            "sort": "080067900",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "harm",
+                "harmed",
+                "harmer",
+                "harmers",
+                "harming",
+                "harms"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "harm"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "harmed"
+            },
+            {
+                "if": "harm*ing"
+            },
+            {
+                "if": "harms"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to damage or injure physically or mentally {bc}to cause harm {dx_def}see {dxt|harm:1||}{/dx_def} to "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "No animals were {wi}harmed{/wi} in the making of the film."
+                                            },
+                                            {
+                                                "t": "the national interest \u2026 was gravely {wi}harmed{/wi} by this attack",
+                                                "aq": {
+                                                    "auth": "Elmer Davis"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "harm*er",
+                "fl": "noun"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}injure{/sc} {sc}harm{/sc} {sc}hurt{/sc} {sc}damage{/sc} {sc}impair{/sc} {sc}mar{/sc} mean to affect injuriously. {sc}injure{/sc} implies the inflicting of anything detrimental to one's looks, comfort, health, or success. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "badly {it}injured{/it} in an accident"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}harm{/sc} often stresses the inflicting of pain, suffering, or loss. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "careful not to {it}harm{/it} the animals"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}hurt{/sc} implies inflicting a wound to the body or to the feelings. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}hurt{/it} by their callous remarks"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}damage{/sc} suggests injury that lowers value or impairs usefulness. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a table {it}damaged{/it} in shipping"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}impair{/sc} suggests a making less complete or efficient by deterioration or diminution. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "years of smoking had {it}impaired{/it} his health"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}mar{/sc} applies to injury that spoils perfection (as of a surface) or causes disfigurement. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the text is {it}marred{/it} by many typos"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|harm:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "before 12th century",
+        "shortdef": [
+            "to damage or injure physically or mentally : to cause harm to"
+        ]
+    },
+    {
+        "meta": {
+            "id": "harm's way",
+            "uuid": "57043391-624e-4a38-9ba9-278e3e2851e6",
+            "sort": "080069600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "harm's way"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "harm's way"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a dangerous place or situation "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "was placed in {it}harm's way{/it}"
+                                            },
+                                            {
+                                                "t": "got them out of {it}harm's way{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1631",
+        "shortdef": [
+            "a dangerous place or situation"
+        ]
+    },
+    {
+        "meta": {
+            "id": "self-harm",
+            "uuid": "0d506d1f-8eb2-4820-a96a-2734d4cea422",
+            "sort": "192288000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "self-harm",
+                "self-harmed",
+                "self-harming",
+                "self-harms"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "self-harm",
+            "prs": [
+                {
+                    "mw": "\u02ccself-\u02c8h\u00e4rm",
+                    "sound": {
+                        "audio": "self-harm_1",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act of purposely hurting oneself (as by cutting or burning the skin) as an emotional coping mechanism "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Although most cutters are young women who have been emotionally, sexually, or physically abused as children, [Marilee] Strong's research shows that this specific type of {wi}self-harm{/wi} also appears in other groups.",
+                                                "aq": {
+                                                    "auth": "Maria Simson et al."
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "self-injury"
+                                                },
+                                                {
+                                                    "cat": "self-mutilation"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "self-harm",
+                "fl": "intransitive verb",
+                "ins": [
+                    {
+                        "if": "self-harmed"
+                    },
+                    {
+                        "if": "self-harm*ing"
+                    },
+                    {
+                        "if": "self-harms"
+                    }
+                ],
+                "utxt": [
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "teenagers who {wi}self-harm{/wi}"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1983",
+        "shortdef": [
+            "the act of purposely hurting oneself (as by cutting or burning the skin) as an emotional coping mechanism \u2014called also self-injury, self-mutilation"
+        ]
+    },
+    {
+        "meta": {
+            "id": "do more harm than good",
+            "uuid": "89aaf679-9eb6-426e-b851-354dcdfec424",
+            "sort": "3004840000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "do more harm than good"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "do more harm than good"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}be more harmful than helpful "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He thinks the treatment may {it}do more harm than good{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "be more harmful than helpful"
+        ]
+    },
+    {
+        "meta": {
+            "id": "no harm done",
+            "uuid": "8a0c8bca-fea4-47b2-af4c-3a229ae59b2d",
+            "sort": "3012745000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "no harm done"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "no harm done"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to tell someone that no apology or concern is necessary because no damage has been done "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "\"I'm so sorry about forgetting to call earlier.\" \"That's OK. {it}No harm done{/it}.\""
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "\u2014used to tell someone that no apology or concern is necessary because no damage has been done"
+        ]
+    }
+]

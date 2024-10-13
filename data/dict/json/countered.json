@@ -1,0 +1,144 @@
+[
+    {
+        "meta": {
+            "id": "counter:3",
+            "uuid": "16bebb87-0565-4c5d-a6fc-d90aa36cb338",
+            "sort": "035649400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "counter",
+                "countered",
+                "countering",
+                "counters"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "coun*ter",
+            "prs": [
+                {
+                    "mw": "\u02c8kau\u0307n-t\u0259r",
+                    "sound": {
+                        "audio": "counte02",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "coun*tered"
+            },
+            {
+                "if": "coun*ter*ing",
+                "prs": [
+                    {
+                        "mw": "\u02c8kau\u0307n-t(\u0259-)ri\u014b",
+                        "sound": {
+                            "audio": "counte04",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to act in opposition to {bc}{sx|oppose||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|offset||}, {sx|nullify||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "tried to {wi}counter{/wi} the trend toward depersonalization"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to assert in answer "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We {wi}countered{/wi} that our warnings had been ignored."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to meet attacks or arguments with defensive or retaliatory steps"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}countren, contren{/it} \"to act against, oppose, contradict,\" derivative of {it}contre{/it} {et_link|counter:4|counter:4} or its source, Anglo-French {it}contre{/it}"
+            ]
+        ],
+        "date": "14th century{ds|t|1|a|}",
+        "shortdef": [
+            "to act in opposition to : oppose",
+            "offset, nullify",
+            "to assert in answer"
+        ]
+    }
+]

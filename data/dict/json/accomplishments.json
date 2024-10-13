@@ -1,0 +1,140 @@
+[
+    {
+        "meta": {
+            "id": "accomplishment",
+            "uuid": "7e0c3979-8f03-4994-971a-1ed4a10a645f",
+            "sort": "010417000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "accomplishment",
+                "accomplishments"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "ac*com*plish*ment",
+            "prs": [
+                {
+                    "mw": "\u0259-\u02c8k\u00e4m-plish-m\u0259nt",
+                    "sound": {
+                        "audio": "accomp11",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "-\u02c8k\u0259m-",
+                    "sound": {
+                        "audio": "accomp10",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act or fact of {d_link|accomplishing|accomplish} something {bc}{sx|completion||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}accomplishment{/wi} of a goal"
+                                            },
+                                            {
+                                                "t": "a feeling of {wi}accomplishment{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that has been accomplished {bc}{sx|achievement||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Her family is proud of her academic {wi}accomplishments.{/wi}"
+                                            },
+                                            {
+                                                "t": "an impressive {wi}accomplishment{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a quality or ability equipping one for society"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a special skill or ability acquired by training or practice "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Her knowledge of foreign languages is one of her many {wi}accomplishments{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}accomplisshment{/it}, borrowed from Anglo-French {it}accomplissement{/it}, from {it}acompliss-{/it}, stem of {it}acomplir{/it} \"to {et_link|accomplish|accomplish}\" + {it}-ment{/it} {et_link|-ment|-ment}"
+            ]
+        ],
+        "date": "15th century{ds||1||}",
+        "shortdef": [
+            "the act or fact of accomplishing something : completion",
+            "something that has been accomplished : achievement",
+            "a quality or ability equipping one for society"
+        ]
+    }
+]

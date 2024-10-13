@@ -1,0 +1,1636 @@
+[
+    {
+        "meta": {
+            "id": "load:1",
+            "uuid": "2436a5d0-84cc-4391-8c05-d1d57a2819ea",
+            "sort": "120214500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "load",
+                "loads",
+                "lode",
+                "tumor load",
+                "tumor loads",
+                "viral load",
+                "viral loads",
+                "worm load",
+                "worm loads"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "load",
+            "prs": [
+                {
+                    "mw": "\u02c8l\u014dd",
+                    "sound": {
+                        "audio": "load0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the quantity that can be carried at one time by a specified means"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a measured quantity of a commodity fixed for each type of carrier "
+                                        ],
+                                        [
+                                            "uns",
+                                            [
+                                                [
+                                                    [
+                                                        "text",
+                                                        "often used in combination "
+                                                    ],
+                                                    [
+                                                        "vis",
+                                                        [
+                                                            {
+                                                                "t": "a boat{it}load{/it} of tourists"
+                                                            }
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}whatever is put on a person or pack animal to be carried {bc}{sx|pack||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "donkeys with heavy {wi}loads{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}whatever is put in a ship or vehicle or airplane for conveyance {bc}{sx|cargo||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The ship was carrying a {wi}load{/wi} of automobiles."
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}a quantity of material assembled or packed as a shipping unit"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a mass or weight supported by something "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "branches bent low by their {wi}load{/wi} of fruit"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the forces to which a structure is subjected due to superposed weight or to wind pressure on the vertical surfaces"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "broadly",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}the forces to which a given object is subjected "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "Losing weight will lessen the {wi}load{/wi} on your knees."
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that weighs down the mind or spirits "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "took a {wi}load{/wi} off her mind"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a burdensome or laborious responsibility "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "always carried his share of the {wi}load{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "sls": [
+                                    "slang"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an intoxicating amount of liquor drunk"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a large quantity {bc}{sx|lot||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used in plural "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "The boy had {wi}loads{/wi} of toys."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a charge for a firearm"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the quantity of material {a_link|loaded} into a device at one time"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}external resistance overcome by a machine or prime mover"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}power output (as of a power plant) or power consumption (as by a device)"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a device to which power is delivered"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "9 a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the amount of work that a person carries or is expected to carry "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "his heavy {wi}load{/wi} of day-to-day work",
+                                                        "aq": {
+                                                            "source": "{it}New York Times{/it}"
+                                                        }
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the amount of authorized work to be performed by a machine, a group, a department, or a factory "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "The washer can take a 10-pound {wi}load{/wi}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the demand on the operating resources of a system (such as a telephone exchange or a refrigerating apparatus)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "10",
+                                "sls": [
+                                    "slang"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|eyeful||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used in the phrase {it}get a load of{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "Get a {wi}load{/wi} of his new car."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "11",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the amount of a deleterious or pathogenic agent, growth, or substance present in a human or animal body or test sample (as of blood or tissue) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Recent advances in our knowledge about how HIV replicates sprang from new technology able to measure {phrase}viral load{/phrase}\u2014the level of HIV\u2014in the blood. \u2026 The higher a person's {wi}viral load{/wi}, the faster he or she gets sick.",
+                                                "aq": {
+                                                    "source": "{it}Discover{/it}"
+                                                }
+                                            },
+                                            {
+                                                "t": "In patients with a heavy hepatic {phrase}tumor load{/phrase}, liver transplantation may prolong useful life.",
+                                                "aq": {
+                                                    "source": "{it}Scientific American Medicine Bulletin{/it}"
+                                                }
+                                            },
+                                            {
+                                                "t": "Over time the {phrase}worm load{/phrase} will damage the heart, shortening the dog's life.",
+                                                "aq": {
+                                                    "auth": "Susan Sharpe"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "ca",
+                                        {
+                                            "intro": "called also",
+                                            "cats": [
+                                                {
+                                                    "cat": "burden"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "12",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an amount added (as to the price of a security or the net premium in insurance) to represent selling expense and profit to the distributor"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "13",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|genetic load||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}lod{/it}, from Old English {it}l\u0101d{/it} support, carrying {ma}{mat|lode|}{/ma}"
+            ]
+        ],
+        "date": "12th century{ds||1|a|}",
+        "shortdef": [
+            "the quantity that can be carried at one time by a specified means; especially : a measured quantity of a commodity fixed for each type of carrier \u2014often used in combination",
+            "whatever is put on a person or pack animal to be carried : pack",
+            "whatever is put in a ship or vehicle or airplane for conveyance : cargo; especially : a quantity of material assembled or packed as a shipping unit"
+        ]
+    },
+    {
+        "meta": {
+            "id": "load:2",
+            "uuid": "e0b89896-8453-4014-afd6-329bb84ff2b2",
+            "sort": "120214600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "load",
+                "load up on",
+                "loaded",
+                "loaded up on",
+                "loader",
+                "loaders",
+                "loading",
+                "loading up on",
+                "loads",
+                "loads up on"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "load"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "load*ed"
+            },
+            {
+                "if": "load*ing"
+            },
+            {
+                "if": "loads"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to put a load in or on (a vehicle, animal, etc.) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}load{/wi} a truck with packages"
+                                            },
+                                            {
+                                                "t": "workers {wi}loading{/wi} a ship"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}up{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "We {wi}loaded{/wi} up the car with all of our gear."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to place (someone or something) in or on a means of conveyance "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}load{/wi} cargo/passengers"
+                                            },
+                                            {
+                                                "t": "We {wi}loaded{/wi} the kids into the car."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to encumber or oppress (someone or something) with something heavy, laborious, or disheartening {bc}{sx|burden||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a company {wi}loaded{/wi} down with debts"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to place (something) as a burden or obligation "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}load{/wi} more work on him"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "3 a (1)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to place or be a material weight or physical stress on (something) "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Grapes {wi}loaded{/wi} down the vines."
+                                                    },
+                                                    {
+                                                        "t": "\u2026 without that extra weight in the bed to {wi}load{/wi} the springs and plant the tires on the road, the rear end of the unloaded pickup is free to hop about at will.",
+                                                        "aq": {
+                                                            "auth": "Slaton L. White"
+                                                        }
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "(2)",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to increase the weight of (something) by adding something heavy "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "\u2026 the cranes were mounted to a steel plate that was secured to the basement floor and {wi}loaded{/wi} with {d_link|ballast|ballast:1}.",
+                                                        "aq": {
+                                                            "auth": "Richard High"
+                                                        }
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "sls": [
+                                    "technical"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to add a substance (such as a mineral salt) to (something) to improve a property (such as texture or fullness) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 a method for preparing {wi}loaded{/wi} paper pulp for use in the manufacture of paper \u2026",
+                                                "aq": {
+                                                    "source": "{it}Targeted News Service{/it}"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to weight or shape (dice) to fall unfairly"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fill (something) with one-sided or prejudicial influences {bc}{sx|bias||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Large EU states have served notice that they want to alter the majority voting quotas which {wi}load{/wi} the system in favour of smaller states.",
+                                                "aq": {
+                                                    "source": "{it}The Times{/it} (London)"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        " {dx}see also {dxt|loaded|loaded:1|4b}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "e",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to charge (words, questions, etc.) with multiple meanings (such as emotional associations or hidden implications) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Sometimes, however, intensity {wi}loads{/wi} a word to such an extent that it needs explaining.",
+                                                "aq": {
+                                                    "auth": "Lidia Vianu"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "text",
+                                        " {dx}see also {dxt|loaded|loaded:1|4a}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "f",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to weight (something, such as a test or survey) with factors influencing validity or outcome "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "\u2026 the phrasing of the options was so heavily {wi}loaded{/wi} in favor of closure that it had no research value.",
+                                                "aq": {
+                                                    "auth": "Tom Kaliche"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to supply (someone or something) in abundance or excess {bc}{sx|heap||}, {sx|pack||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}load{/wi} visitors with gifts"
+                                            },
+                                            {
+                                                "t": "{wi}loaded{/wi} their plates with food"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}up{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "After visiting the camp, Ross and Norton \u2026 {wi}loaded{/wi} him up with sandwiches.",
+                                                            "aq": {
+                                                                "auth": "Matt Byrne"
+                                                            }
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to put runners on (first, second, and third bases) in baseball "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The pitcher {wi}loaded{/wi} the bases by walking three batters."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to put a load or charge in (a device or piece of equipment) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}load{/wi} a gun"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to place or insert (something) especially as a load in a device or piece of equipment "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}loaded{/wi} the clothes into the washing machine"
+                                            },
+                                            {
+                                                "t": "{wi}load{/wi} film in a camera"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause (a program, data, etc.) to be copied or transferred (as from the Internet or a disk drive) into memory for use or display on a digital device "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}Load{/wi} a new program or game onto your hard disk, and you must run an installation program that decompresses the information held on the floppy disks.",
+                                                "aq": {
+                                                    "auth": "Paul C. Schuytema"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to put a supply of funds or resources into (an account, a gift card, etc.) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "She was told to go to the Dollar General Store and {wi}load{/wi} a Google Play gift card with $100.",
+                                                "aq": {
+                                                    "source": "{it}The Times Reporter{/it} (New Philadelphia, Ohio)"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to alter (something, such as an alcoholic drink) by adding an adulterant or drug"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to add a load to (an insurance premium)"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to add a sum to (something, such as a selling price) after profits and expenses are accounted for"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to receive a load "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "waited while the truck finished {wi}loading{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to put a load on or in a carrier, device, or container"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "specifically",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to insert the charge or cartridge in the chamber of a firearm "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "\u2026 eight men manning gaps between the wagons were trained to fire and {wi}load{/wi} in rotation.",
+                                                    "aq": {
+                                                        "auth": "Richard Rhys Jones"
+                                                    }
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to go or go in as a load "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "tourists {wi}loading{/wi} onto a bus"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become copied or transferred (as from the Internet or a disk drive) into memory for use or display on a digital device "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "The app {wi}loads{/wi} quickly."
+                                            },
+                                            {
+                                                "t": "One of the images won't {wi}load{/wi}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "load*er",
+                "fl": "noun"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "load up on",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to ingest in usually large amounts "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "\u2026 I found a dozen or more United States senators {it}loading up on{/it} fried chicken and champagne.",
+                                                        "aq": {
+                                                            "auth": "H. L. Mencken"
+                                                        }
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to acquire in usually large amounts "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}loaded up on{/it} hot stocks"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{dx_ety}see {dxt|load:1||}{/dx_ety}"
+            ]
+        ],
+        "date": "15th century{ds|t|1|a|}",
+        "shortdef": [
+            "to put a load in or on (a vehicle, animal, etc.) \u2014often used with up",
+            "to place (someone or something) in or on a means of conveyance",
+            "to encumber or oppress (someone or something) with something heavy, laborious, or disheartening : burden"
+        ]
+    },
+    {
+        "meta": {
+            "id": "load factor",
+            "uuid": "081c404f-1eb3-4cfc-967d-956ddf87a183",
+            "sort": "120214800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "load factor",
+                "load factors"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "load factor"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the percentage of available seats paid for and occupied in an aircraft"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1943",
+        "shortdef": [
+            "the percentage of available seats paid for and occupied in an aircraft"
+        ]
+    },
+    {
+        "meta": {
+            "id": "load line",
+            "uuid": "a7c6a848-7118-4775-ab26-34fc50a271b8",
+            "sort": "120215000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "load line",
+                "load lines"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "load line"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the line on a ship indicating the depth to which it sinks in the water when properly loaded {dx}see {dxt|plimsoll mark|plimsoll mark|illustration}{/dx}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1859",
+        "shortdef": [
+            "the line on a ship indicating the depth to which it sinks in the water when properly loaded"
+        ]
+    },
+    {
+        "meta": {
+            "id": "load down with",
+            "uuid": "6b2a8308-b858-4e6f-b2c1-96d0e27ed00f",
+            "sort": "3011313000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "load down with",
+                "loaded down with",
+                "loading down with",
+                "loads down with"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "load down with"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "load*ed down with"
+            },
+            {
+                "if": "load*ing down with"
+            },
+            {
+                "if": "loads down with"
+            }
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to burden or oppress with something heavy, laborious, or disheartening "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Our teachers {it}loaded{/it} us {it}down with{/it} homework."
+                                            },
+                                            {
+                                                "t": "The company is {it}loaded down with{/it} debt."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to burden or oppress with something heavy, laborious, or disheartening"
+        ]
+    },
+    {
+        "meta": {
+            "id": "load of laundry",
+            "uuid": "01ac1c89-99bd-41a1-931a-226a902cd440",
+            "sort": "3011319000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "load of laundry"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "load of laundry"
+        },
+        "fl": "noun phrase",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the amount of laundry that is placed into a washing machine "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I need to do a {it}load of laundry{/it}."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "the amount of laundry that is placed into a washing machine"
+        ]
+    },
+    {
+        "meta": {
+            "id": "load the dice",
+            "uuid": "8d4cbcb4-43c8-4bed-aceb-a8699a18ba86",
+            "sort": "3011320000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "load the dice"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "load the dice"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to unfairly make one possible result more likely than another "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "We received information that would {it}load the dice{/it} in favor of our arguments."
+                                            },
+                                            {
+                                                "t": "The {it}dice were loaded{/it} against them but they still managed to win."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to unfairly make one possible result more likely than another"
+        ]
+    },
+    {
+        "meta": {
+            "id": "carbo-load",
+            "uuid": "e903ee49-f492-4de4-94b5-687131d998dd",
+            "sort": "030862000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "carbo-load",
+                "carbo-loaded",
+                "carbo-loading",
+                "carbo-loads"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "car*bo-load",
+            "prs": [
+                {
+                    "mw": "\u02c8k\u00e4r-b\u014d-\u02ccl\u014dd",
+                    "sound": {
+                        "audio": "carbo19m",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "car*bo-load*ed"
+            },
+            {
+                "if": "car*bo-load*ing"
+            },
+            {
+                "if": "car*bo-loads"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to consume a large amount of carbohydrates through food intake usually in order to improve performance in an upcoming athletic event (such as a marathon)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "{it}carbo{/it}"
+            ]
+        ],
+        "date": "1983",
+        "shortdef": [
+            "to consume a large amount of carbohydrates through food intake usually in order to improve performance in an upcoming athletic event (such as a marathon)"
+        ]
+    },
+    {
+        "meta": {
+            "id": "dead load",
+            "uuid": "827e2206-bacd-488a-bb80-bf7dc1da8fd0",
+            "sort": "040406000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "dead load",
+                "dead loads"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "dead load"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a constant load in a structure (such as a bridge, building, or machine) that is due to the weight of the members, the supported structure, and permanent attachments or accessories"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "circa 1888",
+        "shortdef": [
+            "a constant load in a structure (such as a bridge, building, or machine) that is due to the weight of the members, the supported structure, and permanent attachments or accessories"
+        ]
+    },
+    {
+        "meta": {
+            "id": "front-end load",
+            "uuid": "7790b910-453f-4ff8-81c6-bb86d055e41b",
+            "sort": "063414000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "front-end load",
+                "front-end loads"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "front-end load"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the part of the total commission and expenses taken out of early payments under a contract plan for the periodic purchase of investment-company shares"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1955",
+        "shortdef": [
+            "the part of the total commission and expenses taken out of early payments under a contract plan for the periodic purchase of investment-company shares"
+        ]
+    }
+]

@@ -1,0 +1,249 @@
+[
+    {
+        "meta": {
+            "id": "infuse",
+            "uuid": "366bc084-540b-4bc1-bafb-984bdb1f4436",
+            "sort": "091566000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "infuse",
+                "infused",
+                "infuser",
+                "infusers",
+                "infuses",
+                "infusing"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "in*fuse",
+            "prs": [
+                {
+                    "mw": "in-\u02c8fy\u00fcz",
+                    "sound": {
+                        "audio": "infuse01",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "in*fused"
+            },
+            {
+                "if": "in*fus*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to be permeated with something (such as a principle or quality) that alters usually for the better "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}infuse{/wi} the team with confidence"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|introduce||}, {sx|insinuate||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a new spirit was {it}infused{/it} into American art",
+                                                "aq": {
+                                                    "source": "{it}Amer. Guide Series: N. Y.{/it}"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|inspire||}, {sx|animate||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the sense of purpose that {it}infuses{/it} scientific research"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to steep in liquid (such as water) without boiling so as to extract the soluble constituents or principles"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to administer or inject by {a_link|infusion} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "stem cells were {it}infused{/it} into the patient"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "in*fus*er",
+                "fl": "noun"
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}infuse{/sc} {sc}suffuse{/sc} {sc}imbue{/sc} {sc}ingrain{/sc} {sc}inoculate{/sc} {sc}leaven{/sc} mean to introduce one thing into another so as to affect it throughout. {sc}infuse{/sc} implies a pouring in of something that gives new life or significance. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "new members {it}infused{/it} enthusiasm into the club"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}suffuse{/sc} implies a spreading through of something that gives an unusual color or quality. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a room {it}suffused{/it} with light"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}imbue{/sc} implies the introduction of a quality that fills and permeates the whole being. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "{it}imbue{/it} students with intellectual curiosity"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}ingrain{/sc}, used only in the passive or past participle, suggests the deep implanting of a quality or trait. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "clung to {it}ingrained{/it} habits"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}inoculate{/sc} implies an imbuing or implanting with a germinal idea and often suggests stealth or subtlety. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "an electorate {it}inoculated{/it} with dangerous ideas"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}leaven{/sc} implies introducing something that enlivens, tempers, or markedly alters the total quality. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a serious play {it}leavened{/it} with comic moments"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}infusen{/it} (usually in past participle {it}enfusid, infused{/it}) \"to pour in, introduce, soak,\" borrowed from Anglo-French & Latin; Anglo-French {it}enfuser{/it} (in past participle {it}enfus\u00e9{/it}) \"to steep,\" borrowed from Latin {it}inf\u016bsus,{/it} past participle of {it}infundere{/it} \"to pour in, instill, cause to fall or stream,\" from {it}in-{/it} {et_link|in-:2|in-:2} + {it}fundere{/it} \"to pour, shed, cast, send forth, disperse\" {ma}{mat|found:5|}{/ma}"
+            ]
+        ],
+        "date": "1526{ds||1|a|}",
+        "shortdef": [
+            "to cause to be permeated with something (such as a principle or quality) that alters usually for the better",
+            "introduce, insinuate",
+            "inspire, animate"
+        ]
+    }
+]

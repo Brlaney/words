@@ -1,0 +1,897 @@
+[
+    {
+        "meta": {
+            "id": "skip:1",
+            "uuid": "f116247d-5d3d-4812-bd05-81fda52c3415",
+            "sort": "194454100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "skip",
+                "skip bail",
+                "skip rope",
+                "skippable",
+                "skipped",
+                "skipped bail",
+                "skipped rope",
+                "skipping",
+                "skipping bail",
+                "skipping rope",
+                "skips",
+                "skips bail",
+                "skips rope"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "skip",
+            "prs": [
+                {
+                    "mw": "\u02c8skip",
+                    "sound": {
+                        "audio": "skip0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "skipped"
+            },
+            {
+                "if": "skip*ping"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move or proceed with leaps and bounds or with a skip"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bound off one point after another {bc}{sx|ricochet||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to leave hurriedly or secretly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}skipped{/it} out without paying their bill"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pass over or omit an interval, item, or step"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to omit a grade in school in advancing to the next"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|misfire||1}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pass over without notice or mention {bc}{sx|omit||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}skipped{/it} her name"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to pass by or leave out (a step in a progression or series)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to skip (a grade in school)"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to bound or skim over a surface "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}skip{/wi} a stone across a pond"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to leap over lightly and nimbly"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to depart from quickly and secretly "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}skipped{/it} town"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fail to attend or participate in "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}skip{/wi} the tournament"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "skip*pa*ble",
+                "prs": [
+                    {
+                        "mw": "\u02c8ski-p\u0259-b\u0259l",
+                        "sound": {
+                            "audio": "skip0002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "adjective"
+            }
+        ],
+        "dros": [
+            {
+                "drp": "skip bail",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to jump bail"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "skip rope",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to use a jump rope (as for exercise or a game)"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}skippen{/it}, perhaps of Scandinavian origin; akin to Swedish dialect {it}skopa{/it} to hop"
+            ]
+        ],
+        "date": "14th century{ds|i|1|a|}",
+        "shortdef": [
+            "to move or proceed with leaps and bounds or with a skip",
+            "to bound off one point after another : ricochet",
+            "to leave hurriedly or secretly"
+        ]
+    },
+    {
+        "meta": {
+            "id": "skip:2",
+            "uuid": "2666d28e-02ff-4349-9f20-4a6cbe77bab0",
+            "sort": "194454200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "skip",
+                "skips"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "skip"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a light bounding step"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a gait composed of alternating hops and steps"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}an act of omission or the thing omitted"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "15th century{ds||1|a|}",
+        "shortdef": [
+            "a light bounding step",
+            "a gait composed of alternating hops and steps",
+            "an act of omission or the thing omitted"
+        ]
+    },
+    {
+        "meta": {
+            "id": "skip:3",
+            "uuid": "782b1653-6797-4f64-bc29-619816776984",
+            "sort": "194454300",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "skip",
+                "skips"
+            ],
+            "offensive": false
+        },
+        "hom": 3,
+        "hwi": {
+            "hw": "skip"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the captain of a side in a game (such as curling or lawn bowling) who advises the team as to the play and controls the action"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|skipper:2||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "short for {et_link|skipper:2|skipper:2}"
+            ]
+        ],
+        "date": "1830{ds||1||}",
+        "shortdef": [
+            "the captain of a side in a game (such as curling or lawn bowling) who advises the team as to the play and controls the action",
+            "skipper"
+        ]
+    },
+    {
+        "meta": {
+            "id": "skip:4",
+            "uuid": "d6f949b8-e60a-4cc6-a7f1-5441c0e55b3a",
+            "sort": "194454400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "skip",
+                "skipped",
+                "skipping",
+                "skips"
+            ],
+            "offensive": false
+        },
+        "hom": 4,
+        "hwi": {
+            "hw": "skip"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "skipped"
+            },
+            {
+                "if": "skip*ping"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to act as {a_link|skipper} of"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1900",
+        "shortdef": [
+            "to act as skipper of"
+        ]
+    },
+    {
+        "meta": {
+            "id": "skip bomb",
+            "uuid": "f6871fc0-9c7a-4e02-8af2-6c2cd27ca13d",
+            "sort": "194454500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "skip bomb",
+                "skip bombed",
+                "skip bombing",
+                "skip bombs"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "skip bomb"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "skip bombed"
+            },
+            {
+                "if": "skip bomb*ing"
+            },
+            {
+                "if": "skip bombs"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to attack by releasing delayed-action bombs from a low-flying airplane so that they skip along a land or water surface and strike a target"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1943",
+        "shortdef": [
+            "to attack by releasing delayed-action bombs from a low-flying airplane so that they skip along a land or water surface and strike a target"
+        ]
+    },
+    {
+        "meta": {
+            "id": "skip it",
+            "uuid": "501ce8c1-6025-49ed-a8da-6a77de2a438d",
+            "sort": "3017691000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "skip it"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "skip it"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "chiefly US",
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used to say that one does not want to do something, talk about something, etc. "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "I meant to \u2026 oh, {it}skip it{/it}. It's not important anyway."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "\u2014used to say that one does not want to do something, talk about something, etc."
+        ]
+    },
+    {
+        "meta": {
+            "id": "skip off",
+            "uuid": "a64fd3db-55fe-4129-894a-589ab5cc085d",
+            "sort": "3017692000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "skip off",
+                "skipped off",
+                "skipping off",
+                "skips off"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "skip off"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "skipped off"
+            },
+            {
+                "if": "skip*ping off"
+            },
+            {
+                "if": "skips off"
+            }
+        ],
+        "def": [
+            {
+                "sls": [
+                    "British",
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to leave a place quickly in a secret and improper way "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They {it}skipped off{/it} before the check arrived."
+                                            },
+                                            {
+                                                "t": "She {it}skipped off{/it} with all the money."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to leave a place quickly in a secret and improper way"
+        ]
+    },
+    {
+        "meta": {
+            "id": "skip out",
+            "uuid": "ec51ee3b-0dca-491d-a375-bbbd4b876dee",
+            "sort": "3017694000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "skip out",
+                "skipped out",
+                "skipping out",
+                "skips out"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "skip out"
+        },
+        "fl": "phrasal verb",
+        "ins": [
+            {
+                "if": "skipped out"
+            },
+            {
+                "if": "skip*ping out"
+            },
+            {
+                "if": "skips out"
+            }
+        ],
+        "def": [
+            {
+                "sls": [
+                    "US",
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to leave a place quickly in a secret and improper way "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "They {it}skipped out{/it} before the check arrived."
+                                            },
+                                            {
+                                                "t": "She {it}skipped out{/it} with all the money."
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often + {it}on{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "They {it}skipped out on{/it} the check."
+                                                        },
+                                                        {
+                                                            "t": "She {it}skipped out on{/it} me and took all the money."
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to leave a place quickly in a secret and improper way \u2014often + on"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hop, skip, and jump",
+            "uuid": "170e04fc-72dd-43d4-9f9e-70b8dbd1d8b7",
+            "sort": "080258500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "hop, skip, and jump"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hop, skip, and jump"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a short distance"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1760",
+        "shortdef": [
+            "a short distance"
+        ]
+    },
+    {
+        "meta": {
+            "id": "a hop, skip, and (a) jump",
+            "uuid": "514aadb6-c902-471e-aab3-3861320f5735",
+            "sort": "3000286000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "a hop, skip, and (a) jump",
+                "a hop, skip, and a jump",
+                "a hop, skip, and jump"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "a hop, skip, and (a) jump"
+        },
+        "fl": "noun phrase",
+        "def": [
+            {
+                "sls": [
+                    "informal"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a short distance "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Her house is just {it}a hop, skip, and jump{/it} from mine."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a short distance"
+        ]
+    }
+]

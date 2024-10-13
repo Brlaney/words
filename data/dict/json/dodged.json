@@ -1,0 +1,218 @@
+[
+    {
+        "meta": {
+            "id": "dodge:2",
+            "uuid": "ef139050-36fc-4e42-8652-c0cb4a0a7eb9",
+            "sort": "043171000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "dodge",
+                "dodge a bullet",
+                "dodge the bullet",
+                "dodged",
+                "dodged a bullet",
+                "dodged the bullet",
+                "dodges",
+                "dodges a bullet",
+                "dodges the bullet",
+                "dodging",
+                "dodging a bullet",
+                "dodging the bullet"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "dodge"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "dodged"
+            },
+            {
+                "if": "dodg*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to move to and fro or from place to place usually in an irregular course "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dodged{/it} through the crowd"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make a sudden movement in a new direction (as to evade a blow) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dodged{/it} behind the door"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to evade a responsibility or duty especially by trickery or deceit"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to evade by a sudden or repeated shift of position "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}dodge{/wi} tacklers"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to avoid an encounter with "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "celebrities {it}dodging{/it} the media"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to evade (something, such as a duty) usually indirectly or by trickery "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}dodged{/it} the draft by leaving the country"
+                                            },
+                                            {
+                                                "t": "{it}dodged{/it} questions"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "dodge a bullet",
+                "vrs": [
+                    {
+                        "vl": "or less commonly",
+                        "va": "dodge the bullet"
+                    }
+                ],
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to narrowly avoid an unwelcome, harmful, or disastrous outcome or occurrence "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "coastal towns {it}dodged a bullet{/it} when the hurricane veered out to sea"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "date": "1680{ds|i|1|a|}",
+        "shortdef": [
+            "to move to and fro or from place to place usually in an irregular course",
+            "to make a sudden movement in a new direction (as to evade a blow)",
+            "to evade a responsibility or duty especially by trickery or deceit"
+        ]
+    }
+]

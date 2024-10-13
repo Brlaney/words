@@ -1,0 +1,2687 @@
+[
+    {
+        "meta": {
+            "id": "held",
+            "uuid": "005a161b-f4a5-490f-8966-5c0d06766582",
+            "sort": "080121400",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "held",
+                "hold"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "held"
+        },
+        "cxs": [
+            {
+                "cxl": "past tense and past participle of",
+                "cxtis": [
+                    {
+                        "cxt": "hold"
+                    }
+                ]
+            }
+        ],
+        "shortdef": []
+    },
+    {
+        "meta": {
+            "id": "hold:1",
+            "uuid": "38f92107-69f6-46ca-bcc7-4d02318ed9d8",
+            "sort": "080219100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "held",
+                "held a brief for",
+                "held a candle to",
+                "held court",
+                "held for a brief",
+                "held forth",
+                "held hands",
+                "held her breath",
+                "held her horses",
+                "held her own",
+                "held her peace",
+                "held her tongue",
+                "held his breath",
+                "held his horses",
+                "held his own",
+                "held his peace",
+                "held his tongue",
+                "held its breath",
+                "held its horses",
+                "held its own",
+                "held its peace",
+                "held its tongue",
+                "held my breath",
+                "held my horses",
+                "held my own",
+                "held my peace",
+                "held my tongue",
+                "held one's breath",
+                "held one's horses",
+                "held one's own",
+                "held one's peace",
+                "held one's tongue",
+                "held our breath",
+                "held our horses",
+                "held our own",
+                "held our peace",
+                "held our tongue",
+                "held sway",
+                "held the bag",
+                "held the fort",
+                "held the line",
+                "held their breath",
+                "held their horses",
+                "held their own",
+                "held their peace",
+                "held their tongue",
+                "held to",
+                "held to account",
+                "held water",
+                "held with",
+                "held your breath",
+                "held your horses",
+                "held your own",
+                "held your peace",
+                "held your tongue",
+                "hold",
+                "hold a brief for",
+                "hold a candle to",
+                "hold court",
+                "hold forth",
+                "hold hands",
+                "hold her breath",
+                "hold her horses",
+                "hold her own",
+                "hold her peace",
+                "hold her tongue",
+                "hold his breath",
+                "hold his horses",
+                "hold his own",
+                "hold his peace",
+                "hold his tongue",
+                "hold its breath",
+                "hold its horses",
+                "hold its own",
+                "hold its peace",
+                "hold its tongue",
+                "hold my breath",
+                "hold my horses",
+                "hold my own",
+                "hold my peace",
+                "hold my tongue",
+                "hold one's breath",
+                "hold one's horses",
+                "hold one's own",
+                "hold one's peace",
+                "hold one's tongue",
+                "hold our breath",
+                "hold our horses",
+                "hold our own",
+                "hold our peace",
+                "hold our tongue",
+                "hold sway",
+                "hold the bag",
+                "hold the fort",
+                "hold the line",
+                "hold their breath",
+                "hold their horses",
+                "hold their own",
+                "hold their peace",
+                "hold their tongue",
+                "hold to",
+                "hold to account",
+                "hold water",
+                "hold with",
+                "hold your breath",
+                "hold your horses",
+                "hold your own",
+                "hold your peace",
+                "hold your tongue",
+                "holding",
+                "holding a brief for",
+                "holding a candle to",
+                "holding court",
+                "holding for a brief",
+                "holding forth",
+                "holding hands",
+                "holding her breath",
+                "holding her horses",
+                "holding her own",
+                "holding her peace",
+                "holding her tongue",
+                "holding his breath",
+                "holding his horses",
+                "holding his own",
+                "holding his peace",
+                "holding his tongue",
+                "holding its breath",
+                "holding its horses",
+                "holding its own",
+                "holding its peace",
+                "holding its tongue",
+                "holding my breath",
+                "holding my horses",
+                "holding my own",
+                "holding my peace",
+                "holding my tongue",
+                "holding one's breath",
+                "holding one's horses",
+                "holding one's own",
+                "holding one's peace",
+                "holding one's tongue",
+                "holding our breath",
+                "holding our horses",
+                "holding our own",
+                "holding our peace",
+                "holding our tongue",
+                "holding sway",
+                "holding the bag",
+                "holding the fort",
+                "holding the line",
+                "holding their breath",
+                "holding their horses",
+                "holding their own",
+                "holding their peace",
+                "holding their tongue",
+                "holding to",
+                "holding to account",
+                "holding water",
+                "holding with",
+                "holding your breath",
+                "holding your horses",
+                "holding your own",
+                "holding your peace",
+                "holding your tongue",
+                "holds",
+                "holds a brief for",
+                "holds a candle to",
+                "holds court",
+                "holds for a brief",
+                "holds forth",
+                "holds hands",
+                "holds her breath",
+                "holds her horses",
+                "holds her own",
+                "holds her peace",
+                "holds her tongue",
+                "holds his breath",
+                "holds his horses",
+                "holds his own",
+                "holds his peace",
+                "holds his tongue",
+                "holds its breath",
+                "holds its horses",
+                "holds its own",
+                "holds its peace",
+                "holds its tongue",
+                "holds one's breath",
+                "holds one's horses",
+                "holds one's own",
+                "holds one's peace",
+                "holds one's tongue",
+                "holds our breath",
+                "holds our horses",
+                "holds our own",
+                "holds our peace",
+                "holds our tongue",
+                "holds sway",
+                "holds the bag",
+                "holds the fort",
+                "holds the line",
+                "holds their breath",
+                "holds their horses",
+                "holds their own",
+                "holds their peace",
+                "holds their tongue",
+                "holds to",
+                "holds to account",
+                "holds water",
+                "holds with"
+            ],
+            "offensive": false
+        },
+        "hom": 1,
+        "hwi": {
+            "hw": "hold",
+            "prs": [
+                {
+                    "mw": "\u02c8h\u014dld",
+                    "sound": {
+                        "audio": "hold0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "held",
+                "prs": [
+                    {
+                        "mw": "\u02c8held",
+                        "sound": {
+                            "audio": "hold0002",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "if": "hold*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have possession or ownership of or have at one's disposal "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}holds{/wi} property worth millions"
+                                            },
+                                            {
+                                                "t": "the bank {wi}holds{/wi} the title to the car"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have as a privilege or position of responsibility "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}hold{/wi} a professorship"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have as a mark of distinction "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}holds{/wi} the record for the 100-yard dash"
+                                            },
+                                            {
+                                                "t": "{wi}holds{/wi} a PhD"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "bs",
+                            {
+                                "sense": {
+                                    "sn": "2",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to keep under restraint "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}hold{/wi} price increases to a minimum"
+                                                }
+                                            ]
+                                        ],
+                                        [
+                                            "text",
+                                            ": such as"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to prevent free expression of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}hold{/wi} your temper"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to prevent from some action "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "ordered the troops to {wi}hold{/wi} fire"
+                                            },
+                                            {
+                                                "t": "the only restraining motive which may {wi}hold{/wi} the hand of a tyrant",
+                                                "aq": {
+                                                    "auth": "Thomas Jefferson"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to keep back from use "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "ask them to {wi}hold{/wi} a room for us"
+                                            },
+                                            {
+                                                "t": "I'll have a hot dog, and {wi}hold{/wi} the mustard"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to delay temporarily the handling of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "please {wi}hold{/wi} all my calls"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make liable or accountable or bound to an obligation "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I'll {wi}hold{/wi} you to your promise"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have or maintain in the grasp "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}hold{/wi} my hand"
+                                            },
+                                            {
+                                                "t": "this is how you {wi}hold{/wi} the racket"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|aim||}, {sx|point||} "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{it}held{/it} a gun on them"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to support in a particular position or keep from falling or moving "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}hold{/wi} me up so I can see"
+                                            },
+                                            {
+                                                "t": "{wi}hold{/wi} the ladder steady"
+                                            },
+                                            {
+                                                "t": "a clamp {wi}holds{/wi} the whole thing together"
+                                            },
+                                            {
+                                                "t": "{wi}hold{/wi} your head up"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bear the pressure of {bc}{sx|support||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "can the roof {wi}hold{/wi} all of that weight"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "bs",
+                            {
+                                "sense": {
+                                    "sn": "5",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to prevent from leaving or getting away "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}hold{/wi} the train"
+                                                }
+                                            ]
+                                        ],
+                                        [
+                                            "text",
+                                            ": such as"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to avoid emitting or letting out "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "how long can you {wi}hold{/wi} your breath"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to restrain as or as if a captive "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the suspect was {it}held{/it} without bail"
+                                            },
+                                            {
+                                                "t": "{it}held{/it} them at gunpoint"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to have strong appeal to "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "the book {it}held{/it} my interest throughout"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to enclose and keep in a container or within bounds {bc}{sx|contain||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the jug {wi}holds{/wi} one gallon"
+                                            },
+                                            {
+                                                "t": "this corral will not {wi}hold{/wi} all of the horses"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be able to consume easily or without undue effect "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "can't {wi}hold{/wi} any more pie"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to be able to drink (alcoholic beverages) without becoming noticeably drunk "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "can't {wi}hold{/wi} your liquor"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|accommodate||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the restaurant {wi}holds{/wi} 400 diners"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "d",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have as a principal or essential feature or attribute "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the book {wi}holds{/wi} a number of surprises"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to have in store "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "no one knows what the future {wi}holds{/wi}"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have in the mind or express as a judgment, opinion, or belief "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "I {wi}hold{/wi} the view that this is wrong"
+                                            },
+                                            {
+                                                "t": "{wi}hold{/wi} a grudge"
+                                            },
+                                            {
+                                                "t": "{wi}holding{/wi} that it is nobody's business but his",
+                                                "aq": {
+                                                    "auth": "Jack Olsen"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}against{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "in America they {wi}hold{/wi} everything you say against you",
+                                                            "aq": {
+                                                                "auth": "Paul McCartney"
+                                                            }
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to think of in a particular way {bc}{sx|regard||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "were {it}held{/it} in high esteem"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to assemble for and carry on the activity of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}held{/it} a convention"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to be carried on {bc}{sx|conduct||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "will {wi}hold{/wi} a seminar"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to produce or sponsor especially as a public exhibition "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "will {wi}hold{/wi} an art show"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to maintain occupation, control, or defense of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the troops {it}held{/it} the ridge"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to resist the offensive efforts or advance of "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{it}held{/it} the opposing team to just two points"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to maintain (a certain condition, situation, or course of action) without change "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}hold{/wi} a course due east"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "10",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cover (a part of the body) with one or both hands (as for protection or comfort) "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{wi}held{/wi} his knee after the fall"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "especially",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to cover (the ears) to prevent hearing "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}held{/wi} her ears when the train went by"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to maintain position {bc}refuse to give ground "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the defensive line is {wi}holding{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to continue in the same way or to the same degree {bc}{sx|last:1||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "hopes the weather will {wi}hold{/wi}"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}up{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to derive right or title "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used with {it}of{/it} or {it}from{/it} "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "lands {it}held{/it} of the Crown"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be or remain valid {bc}{sx|apply||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the rule {wi}holds{/wi} in most cases"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used in the phrase {it}hold true{/it}"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "4",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to maintain a grasp on something {bc}remain fastened to something "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the anchor {it}held{/it} in the rough sea"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to go ahead as one has been going "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}held{/it} south for several miles"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "6",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to bear or carry oneself "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "asked him to {wi}hold{/wi} still"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "7",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to {d_link|forbear|forbear:1} an intended or threatened action {bc}{sx|halt||}, {sx|pause||} "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "often used as a command"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "8",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to stop counting during a countdown"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "9",
+                                "sls": [
+                                    "slang"
+                                ],
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to have illicit drug material in one's possession"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "hold a brief for",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|advocate||}, {sx|defend||} "
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "usually used in negative constructions "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "{it}I hold no brief for{/it} cartels and market allocations",
+                                                                    "aq": {
+                                                                        "auth": "J. D. Upham"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold a candle to",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to qualify for comparison with "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "doesn't {it}hold a candle to{/it} what she has suffered"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold court",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be the center of attention among friends or admirers"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold forth",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to speak at length {bc}{sx|expatiate||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{wi}holding{/wi} forth on the subject of politics"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold hands",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to engage one's hand with another's especially as an expression of affection"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold one's breath",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to prevent oneself from breathing temporarily"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to wait in anxious anticipation"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold one's horses",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to slow down or stop for a moment "
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "usually used in the imperative"
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold one's own",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to maintain one's position {bc}prove equal to opposition "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "prove I can {it}hold my own{/it} with the best of them"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold one's tongue",
+                "vrs": [
+                    {
+                        "vl": "or",
+                        "va": "hold one's peace"
+                    }
+                ],
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to keep silent {bc}keep one's thoughts to oneself"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold sway",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to have a dominant influence {bc}{sx|rule||}"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold the bag",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to be left empty-handed"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to bear alone a responsibility that should have been shared by others "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "She was left {it}holding the bag{/it} for their mistakes."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold the fort",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "1",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to maintain a firm position"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "sn": "2",
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to take care of usual affairs "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "is {it}holding the fort{/it} until the manager returns"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold the line",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to maintain the current position or situation "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}hold the line{/it} on prices"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold to",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to give firm assent to {bc}adhere to strongly "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}holds to{/it} his promise"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold to account",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to hold responsible"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold water",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to stand up under criticism or analysis "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "Their version of events doesn't {it}hold water{/it}."
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "drp": "hold with",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to agree with or approve of "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "don't {it}hold with{/it} violence"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}contain{/sc} {sc}hold{/sc} {sc}accommodate{/sc} mean to have or be capable of having within. {sc}contain{/sc} implies the actual presence of a specified substance or quantity within something. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the can {it}contains{/it} a quart of oil"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}hold{/sc} implies the capacity of containing or the usual or permanent function of containing or keeping. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the bookcase will {it}hold{/it} all my textbooks"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}accommodate{/sc} stresses holding without crowding or inconvenience. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the hall can {it}accommodate{/it} 500 people"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English {it}holden{/it}, going back to Old English {it}healdan{/it}, going back to Germanic {it}*hald-a-{/it}, whence also Old High German {it}haltan{/it} \"to protect, guard, hold,\" Old Saxon {it}haldan{/it}, Old Norse {it}halda{/it}, Gothic {it}haldan{/it} \"to tend, graze (cattle)\"; perhaps, if {it}-d-{/it} (going back to Indo-European {it}*-d{sup}h{/sup}-{/it}) is a root extension with resultative meaning, a derivative from the Indo-European base {it}*kelh{inf}1{/inf}-{/it} \"set in motion,\" with sense shift from \"pasture\" to \"keep, protect\" to \"hold\" {ma}{mat|accelerate|}{/ma}"
+            ]
+        ],
+        "date": "before 12th century{ds|t|1|a|}",
+        "shortdef": [
+            "to have possession or ownership of or have at one's disposal",
+            "to have as a privilege or position of responsibility",
+            "to have as a mark of distinction"
+        ]
+    },
+    {
+        "meta": {
+            "id": "held in contempt",
+            "uuid": "a3eac822-3c90-455e-a4bc-f55b2dd006e4",
+            "sort": "3008482000",
+            "src": "ld",
+            "section": "idioms",
+            "stems": [
+                "held in contempt"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "held in contempt"
+        },
+        "fl": "idiom",
+        "def": [
+            {
+                "sls": [
+                    "law"
+                ],
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}considered by the court to have broken the law by disobeying or disrespecting the judge "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "He was {it}held in contempt{/it} for his outbursts during the trial."
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "considered by the court to have broken the law by disobeying or disrespecting the judge"
+        ]
+    },
+    {
+        "meta": {
+            "id": "closely held",
+            "uuid": "25143961-e0fd-47e7-8d3e-479bc7944fc4",
+            "sort": "033763000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "closely held"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "closely held"
+        },
+        "fl": "adjective",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}having most stock shares and voting rights in the hands of a few "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {it}closely held{/it} business"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1946",
+        "shortdef": [
+            "having most stock shares and voting rights in the hands of a few"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hold back",
+            "uuid": "0f4a3dab-f0b5-4339-976e-ae74d9d6c993",
+            "sort": "080219600",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "held back",
+                "hold back",
+                "holding back",
+                "holds back"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hold back"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "held back"
+            },
+            {
+                "if": "hold*ing back"
+            },
+            {
+                "if": "holds back"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to hinder the progress or achievement of {bc}{sx|restrain||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to keep from advancing to the next stage, grade, or level"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to refrain from revealing or parting with "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}held back{/it} important information"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to keep oneself in check"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to refrain from revealing or parting with something"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1535{ds|t|1|a|}",
+        "shortdef": [
+            "to hinder the progress or achievement of : restrain",
+            "to keep from advancing to the next stage, grade, or level",
+            "to refrain from revealing or parting with"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hold down",
+            "uuid": "fc680a99-c70c-46a3-ac64-35cf310f2132",
+            "sort": "080219800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "held down",
+                "hold down",
+                "holding down",
+                "holds down"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hold down"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "held down"
+            },
+            {
+                "if": "hold*ing down"
+            },
+            {
+                "if": "holds down"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to keep within limits "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}hold{/it} the noise {it}down{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to assume or have responsibility for "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}holding down{/it} two jobs"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1533{ds||1||}",
+        "shortdef": [
+            "to keep within limits",
+            "to assume or have responsibility for"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hold off",
+            "uuid": "825f906a-9999-4b0f-af58-863c23e44967",
+            "sort": "080220700",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "held off",
+                "hold off",
+                "holding off",
+                "holds off"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hold off"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "held off"
+            },
+            {
+                "if": "hold*ing off"
+            },
+            {
+                "if": "holds off"
+            }
+        ],
+        "def": [
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to block from an objective {bc}{sx|delay||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to defer action on {bc}{sx|postpone||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}hold off{/it} a decision"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "3",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to fight to a standoff {bc}{sx|withstand||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to defer or temporarily stop doing something"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "15th century{ds|t|1||}",
+        "shortdef": [
+            "to block from an objective : delay",
+            "to defer action on : postpone",
+            "to fight to a standoff : withstand"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hold on",
+            "uuid": "5affcc1b-b9be-4cd8-840f-ac5a37e378f8",
+            "sort": "080220800",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "held on",
+                "held on to",
+                "hold on",
+                "hold on to",
+                "holding on",
+                "holding on to",
+                "holds on",
+                "holds on to"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hold on"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "held on"
+            },
+            {
+                "if": "hold*ing on"
+            },
+            {
+                "if": "holds on"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to maintain a condition or position {bc}{sx|persist||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to maintain a grasp on something {bc}{sx|hang on||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to await something (such as a telephone connection) desired or requested"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "broadly",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|wait||}"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "hold on to",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to maintain possession of or adherence to"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "date": "13th century{ds||1|a|}",
+        "shortdef": [
+            "to maintain a condition or position : persist",
+            "to maintain a grasp on something : hang on",
+            "to await something (such as a telephone connection) desired or requested; broadly : wait"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hold out",
+            "uuid": "28e99d69-c344-4294-968c-8f647d119538",
+            "sort": "080221000",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "held out",
+                "held out on",
+                "hold out",
+                "hold out on",
+                "holding out",
+                "holding out on",
+                "holds out",
+                "holds out on"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hold out"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "held out"
+            },
+            {
+                "if": "hold*ing out"
+            },
+            {
+                "if": "holds out"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to remain unsubdued or unyielding "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "where 30 of the \u2026 refugees were still {it}holding out{/it}",
+                                                "aq": {
+                                                    "auth": "Anna Tomforde"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "sd": "also",
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}to continue to function or be available {bc}{sx|last:1||} "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "prayed that the engine would {it}hold out{/it}"
+                                                },
+                                                {
+                                                    "t": "as long as our money {it}holds out{/it}"
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to refuse to go along with others in a concerted action or to come to an agreement "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "{it}holding out{/it} for a shorter workweek"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to present as something realizable {bc}{sx|proffer||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to represent to be"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "drp": "hold out on",
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}to withhold something (such as information) from"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "date": "circa 1556{ds|i|1||}",
+        "shortdef": [
+            "to remain unsubdued or unyielding; also : to continue to function or be available : last",
+            "to refuse to go along with others in a concerted action or to come to an agreement",
+            "to present as something realizable : proffer"
+        ]
+    },
+    {
+        "meta": {
+            "id": "hold over",
+            "uuid": "89c26ce2-9bb6-4383-b370-2014da9a2e4b",
+            "sort": "080221200",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "held over",
+                "hold over",
+                "holding over",
+                "holds over"
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "hold over"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "held over"
+            },
+            {
+                "if": "hold*ing over"
+            },
+            {
+                "if": "holds over"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to continue (as in office) for a prolonged period"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|postpone||}, {sx|defer||}"
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to retain in a condition or position from an earlier period"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to prolong the engagement of "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the film was {it}held over{/it} another week"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1647{ds|i|||}",
+        "shortdef": [
+            "to continue (as in office) for a prolonged period",
+            "postpone, defer",
+            "to retain in a condition or position from an earlier period"
+        ]
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "meta": {
+            "id": "echo:2",
+            "uuid": "42ed53fd-c289-4bcb-815e-c7123b2d56d9",
+            "sort": "050021500",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "echo",
+                "echoed",
+                "echoing",
+                "echos"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "echo"
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "if": "ech*oed"
+            },
+            {
+                "if": "echo*ing",
+                "prs": [
+                    {
+                        "mw": "\u02c8e-(\u02cc)k\u014d-i\u014b",
+                        "sound": {
+                            "audio": "echo0003",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "\u02c8e-k\u0259-wi\u014b"
+                    }
+                ]
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to resound with {a_link|echoes}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to produce an echo"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1 a",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|repeat||}, {sx|imitate||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "children {wi}echoing{/wi} their teacher's words"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "b",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to restate in support or agreement "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "his successor {wi}echoed{/wi} his opinion"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "sn": "c",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be reminiscent of {bc}{sx|evoke||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "music that {wi}echoes{/wi} an earlier time"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to send back (a sound) by the reflection of sound waves"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "date": "1596{ds|i|1||}",
+        "shortdef": [
+            "to resound with echoes",
+            "to produce an echo",
+            "repeat, imitate"
+        ]
+    }
+]
