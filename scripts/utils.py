@@ -22,6 +22,7 @@ import json
 import os 
 import logging
 import requests
+from pydub import AudioSegment
 
 
 
@@ -251,9 +252,6 @@ def save_audio_file(json_obj, save_dir):
             [base filename] - The name contained in audio.
         '''
 
-        # Get the audio filename without extension
-        # audio_filename = json_obj['hwi']['prs'][0]['sound']['audio']
-        
         '''
             "prs" = pronunciation - the "prs" array may contain one or more pronunciation objects, each of which may contain the following members:
         
@@ -264,9 +262,6 @@ def save_audio_file(json_obj, save_dir):
             "sound" : object	audio playback information: the audio member contains the base filename for audio playback; the ref and stat members can be ignored.
             
         '''
-                
-        # audio_filename = json_obj.get(
-        #     'hwi', {}).get('prs', [{}])[0].get('sound', {}).get('audio')
 
         # Note: there COULD be multiple prs objects, see the [0] at eol
         pronounce_obj = json_obj.get('hwi', {}).get('prs', [{}])[0]
@@ -323,12 +318,7 @@ def save_audio_file(json_obj, save_dir):
         full_url = f'{base_endpoint}/{language_code}/{country_code}/{output_format}/{subdirectory}/{base_filename}.{output_format}'
         
         # Define the local file path
-        local_audio_path = os.path.join(save_dir, f'{base_filename}.{output_format}')
-        
-        # t = True
-        # if t == True:
-        #     print(f'did it make it here?')
-        #     exit_program()
+        local_audio_path = os.path.join(save_dir, f'{base_filename}.{output_format}') 
             
         # Download the audio file
         try:
@@ -396,3 +386,76 @@ def categorize_audio_files(source_dir, words_dir, phrases_dir, json_file_path):
     # Save the updated words data back to the JSON file
     with open(json_file_path, 'w', encoding='utf-8') as json_file:
         json.dump(words_data, json_file, indent=4)
+        
+
+
+def edit_audio(audio_path, text_value, duration=4, inc_vol=False):
+    '''
+        Function: edit_audio
+        This function edits an audio file by setting its duration and optionally increasing its volume.
+    
+        Parameters:
+        - audio_path (str): The path to the audio file to be edited.
+        - text_value (str): The base name for the output file.
+        - duration (int, optional): The duration (in seconds) to which the audio should be trimmed. Default is 4 seconds.
+        - inc_vol (bool, optional): A flag to increase the volume of the audio. If True, the volume is doubled. Default is False.
+    
+        Returns:
+        - output (str): The path of the output audio file.
+    
+        The function saves the edited audio file in the 'audio' directory with the provided text_value as the filename.
+        If the 'inc_vol' parameter is set to True, the volume is increased by a factor of 2.
+    '''
+    audio_clip = AudioFileClip(audio_path).set_duration(duration)
+    
+    if inc_vol == True:
+        output = audio_clip.volumex(2).write_audiofile(f'audio/{text_value}.wav')
+    else:
+        output = audio_clip.write_audiofile(f'audio/{text_value}.wav')
+        
+    return output
+
+
+
+def get_audio_duration_new(file_path):
+    '''
+        Returns: 
+            duration: the duration of the audio file in milliseconds.
+            filename: the name of the audio file (if phrase, then camel case).
+    
+        :param file_path: Path to the audio file.
+        :return: Duration of the audio in milliseconds.
+    '''
+    audio = AudioSegment.from_wav(file_path)
+    duration_ms = len(audio)
+    
+    return duration_ms
+
+
+
+def detect_json_structure(json_obj):
+    '''
+        This function checks the JSON structure and returns:
+        - True - if the JSON is structured as objects (list of dictionaries).
+        - False - if the JSON is a list of strings.
+    '''
+    if isinstance(json_obj, list) and json_obj:
+        first_element = json_obj[0]
+        
+        if isinstance(first_element, str):
+            return False
+        
+        elif isinstance(first_element, dict):
+            return True
+
+    return False
+
+
+
+def is_phrase(text):
+    ''' 
+        Determines if a text is a phrase by checking for spaces. 
+        TRUE = Phrase
+        FALSE = Word
+    '''
+    return ' ' in text

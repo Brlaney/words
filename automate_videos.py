@@ -1,8 +1,11 @@
 # automate_videos.py
-import json, io
-from moviepy.editor import *
-from scripts.utils import exit_program, read_and_process_json, get_audio_duration
+import io
+import json 
 import logging
+from moviepy.editor import *
+from scripts.utils import exit_program
+from scripts.utils import read_and_process_json
+from scripts.utils import get_audio_duration
 
 # Configure logging
 logging.basicConfig(filename='assets/automate_videos.log', 
@@ -36,9 +39,18 @@ def create_video(audio_path, text_value, inc_vol):
     else:
         cvc.set_audio(audio_clip).write_videofile(f'assets/videos/{text_value}.mp4', fps=25)
 
-def edit_audio(audio_path, text_value, duration=3):
+
+def edit_audio(audio_path, text_value, duration=4, inc_vol=False):
     audio_clip = AudioFileClip(audio_path).set_duration(duration)
-    audio_clip.volumex(2).write_audiofile(f'audio/{text_value}.wav')
+    
+    if inc_vol == True:
+        output = audio_clip.volumex(2).write_audiofile(f'audio/{text_value}.wav')
+    else:
+        output = audio_clip.write_audiofile(f'audio/{text_value}.wav')
+        
+    return output
+        
+        
 
 # try:
 #     json_obj = read_and_process_json('data/words.json')

@@ -1,26 +1,17 @@
-import logging, json, io, sys, os
-from pydub import AudioSegment
+import os
+import io 
+import sys 
+import json 
+import logging 
 import numpy as np
+from pydub import AudioSegment
+from scripts.utils import exit_program
+from scripts.utils import read_and_process_json
 
 # Configure logging
 logging.basicConfig(filename='assets/file_not_found.log', 
                     level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
-
-'''
-exit_program(): is just used to end the script `gracefully`
-'''
-def exit_program():
-    print('\nEnding script.. gracefully')
-    sys.exit(0)
-
-'''
-Takes in a file path and outputs an entire json array of objects
-'''
-def read_and_process_json(file_path):
-    with open(file_path, 'r') as json_file:
-        data = json.load(json_file)
-        return data
 
 '''
 '''
@@ -74,10 +65,10 @@ def detect_speech_end(file_path,
     return end_of_speech
 
 '''
-Returns the duration of the audio file in milliseconds.
+    Returns the duration of the audio file in milliseconds.
 
-:param file_path: Path to the audio file.
-:return: Duration of the audio in milliseconds.
+    :param file_path: Path to the audio file.
+    :return: Duration of the audio in milliseconds.
 '''
 def get_audio_duration(file_path, file_name):
     audio = AudioSegment.from_wav(file_path)

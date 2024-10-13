@@ -35,6 +35,16 @@ def output_resp_json(input_json_file, output_dir):
 '''
     Define the output_filepath parameter, then call the function to make the request and save the output
 '''
-input_json = 'data/words.json'
+# input_json = 'data/words.json'
+# output_dir = 'data/dict/'
+# output_resp_json(input_json, output_dir)
+
+# Output for phrases
+# data/dict/json/phrases/
+
+# Output for words
+# data/dict/json/words/
+
+input_json = 'new-batch.json'
 output_dir = 'data/dict/'
 output_resp_json(input_json, output_dir)

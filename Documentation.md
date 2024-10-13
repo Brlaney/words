@@ -5,6 +5,9 @@
 - [Documentation 📰📃😃](#documentation-)
   - [Table of Contents](#table-of-contents)
     - [Create and start a python virtual env](#create-and-start-a-python-virtual-env)
+    - [The Procedure](#the-procedure)
+      - [Step 1. Run record\_batch.py to create a new batch of phrases \& words](#step-1-run-record_batchpy-to-create-a-new-batch-of-phrases--words)
+      - [Step 2. Cleanup your new batch](#step-2-cleanup-your-new-batch)
     - [Structure of the data](#structure-of-the-data)
     - [To-Do](#to-do)
       - [Completed](#completed)
@@ -22,6 +25,31 @@ py -m venv ll_env
 # Activate the virtual environment
 ll_env/scripts/activate
 ```
+
+---
+
+### The Procedure
+
+#### Step 1. Run record_batch.py to create a new batch of phrases & words
+
+You can look at a list of words or phrases and generate an audio recording of the word or phrase while holding down the space bar on your keyboard.
+
+Each word or phrase recorded, gets a newline in the words.txt file, and the audio file is saved as a .wav file in the new-audios/ directory.
+
+Example:
+```txt
+assurance (new-audios\assurance.wav)
+deep-seated (new-audios\deep-seated.wav)
+burden (new-audios\burden.wav)
+load (new-audios\load.wav)
+accomplishments (new-audios\accomplishments.wav)
+...
+```
+
+#### Step 2. Cleanup your new batch
+
+Trim any dead/silent audio in the .wav audio file.
+
 
 ### Structure of the data
 

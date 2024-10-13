@@ -1,29 +1,16 @@
 import json
 import os
 import logging
-from scripts.utils import exit_program, read_and_process_json
+from scripts.utils import exit_program
+from scripts.utils import read_and_process_json
+from scripts.utils import detect_json_structure
 
 # Configure logging
 logging.basicConfig(filename='assets/logs/validate_paths.log', 
                     level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
-def detect_json_structure(json_obj):
-    '''
-    This function checks the JSON structure:
-    - Returns True if the JSON is structured as objects (list of dictionaries).
-    - Returns False if the JSON is a list of strings.
-    '''
-    if isinstance(json_obj, list) and json_obj:
-        first_element = json_obj[0]
-        
-        if isinstance(first_element, str):
-            return False
-        
-        elif isinstance(first_element, dict):
-            return True
 
-    return False
 
 def process_all_json_files_in_directory(directory, output_file):
     output_data = []

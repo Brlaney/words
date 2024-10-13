@@ -5,15 +5,14 @@ import logging
 from scripts.utils import exit_program 
 from scripts.utils import read_and_process_json
 from scripts.utils import format_markdown
+from scripts.utils import is_phrase
 
 # Configure logging
 logging.basicConfig(filename='assets/logs/reading_dict_jsons.log', 
                     level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
-def is_phrase(text):
-    ''' Determines if a text is a phrase by checking for spaces. '''
-    return ' ' in text
+
 
 def interpret_word_data(text_data, 
                         data, 
