@@ -221,7 +221,37 @@ def interpret_word_data_as_string(text_data, data):
 
 
 '''
-    This procedures takes in a single json object (would need to iterate over json file) and the output, save_directory.
+        This procedures takes in a single json object (would need to iterate over json file) and the output, save_directory.
+    
+    [language_code] - 2 letter ISO language code.
+    en for all API references except the Spanish-English Dictionary.
+    es for entries with a "lang": "es" metadata value in the Spanish-English Dictionary
+
+    [country_code] - 2 letter ISO country code.
+    us for all API references except the Spanish-English Dictionary.
+    me for entries with a "lang": "es" metadata value in the Spanish-English Dictionary
+
+    [format] - One of 3 audio formats supported for all audio values:
+    mp3
+    wav
+    ogg
+
+    [subdirectory] is determined as follows:
+    if audio begins with "bix", the subdirectory should be "bix",
+    if audio begins with "gg", the subdirectory should be "gg",
+    if audio begins with a number or punctuation (eg, "_"), the subdirectory should be "number",
+    otherwise, the subdirectory is equal to the first letter of audio.
+
+    [base filename] - The name contained in audio.
+
+    "prs" = pronunciation - the "prs" array may contain one or more pronunciation objects, each of which may contain the following members:
+
+    "mw" : string	written pronunciation in Merriam-Webster format
+    "l" : string	pronunciation label before pronunciation
+    "l2" : string	pronunciation label after pronunciation
+    "pun" : string	punctuation to separate pronunciation objects
+    "sound" : object	audio playback information: the audio member contains the base filename for audio playback; the ref and stat members can be ignored.
+    
 '''
 def save_audio_file(json_obj, save_dir):
     # JSON OBJ = the dict obj
@@ -230,82 +260,31 @@ def save_audio_file(json_obj, save_dir):
     os.makedirs(save_dir, exist_ok=True)
 
     try:
-        
         # Extract audio details from the JSON
         if json_obj['hwi']['prs']:  # Check if there are any pronunciation entries
-            '''
-                [language_code] - 2 letter ISO language code.
-                en for all API references except the Spanish-English Dictionary.
-                es for entries with a "lang": "es" metadata value in the Spanish-English Dictionary
-
-                [country_code] - 2 letter ISO country code.
-                us for all API references except the Spanish-English Dictionary.
-                me for entries with a "lang": "es" metadata value in the Spanish-English Dictionary
-
-                [format] - One of 3 audio formats supported for all audio values:
-                mp3
-                wav
-                ogg
-
-                [subdirectory] is determined as follows:
-                if audio begins with "bix", the subdirectory should be "bix",
-                if audio begins with "gg", the subdirectory should be "gg",
-                if audio begins with a number or punctuation (eg, "_"), the subdirectory should be "number",
-                otherwise, the subdirectory is equal to the first letter of audio.
-            
-                [base filename] - The name contained in audio.
-            '''
-
-            '''
-                "prs" = pronunciation - the "prs" array may contain one or more pronunciation objects, each of which may contain the following members:
-            
-                "mw" : string	written pronunciation in Merriam-Webster format
-                "l" : string	pronunciation label before pronunciation
-                "l2" : string	pronunciation label after pronunciation
-                "pun" : string	punctuation to separate pronunciation objects
-                "sound" : object	audio playback information: the audio member contains the base filename for audio playback; the ref and stat members can be ignored.
-                
-            '''
-
-            # Note: there COULD be multiple prs objects, see the [0] at eol
+            # Get the first pronunciation object
             pronounce_obj = json_obj.get('hwi', {}).get('prs', [{}])[0]
 
-            if pronounce_obj is None:
-                print('pronunciation obj is none')
-                exit_program
-
             sound_obj = pronounce_obj.get('sound', {})
-
-            if sound_obj is None:
-                print('sound obj is none')
-                exit_program
-
             audio_obj = sound_obj.get('audio')
-            
+
             if audio_obj is None:
                 print('audio obj is none')
-                exit_program
+                return None
+            
+            # Determine the output format and local audio path
+            output_format = 'wav'
+            local_audio_path = os.path.join(save_dir, f'{audio_obj}.{output_format}')
+            
+            # Check if the audio file already exists
+            if os.path.exists(local_audio_path):
+                print(f'Audio file already exists: {local_audio_path}')
+                return local_audio_path  # Return the existing file path
 
-            # Yay! Can continue ~
-            meta_id_text = json_obj.get('meta', {}).get('id')
-            
-            if meta_id_text:
-                print(f'success: {meta_id_text}')
-                exit_program
-            else:
-                print(f'failed: {meta_id_text}')
-                exit_program
-            
-                        
             language_code = 'en'  # Default to English
             country_code = 'us'   # Default to US
-            output_format = 'wav' # Desired output format
             
-            # Determine the base filename and subdirectory
-            base_filename = audio_obj
-            subdirectory = ''
-            
-            # Determine subdirectory based on audio filename
+            # Determine the subdirectory based on audio filename
             if audio_obj.startswith('bix'):
                 subdirectory = 'bix'
             elif audio_obj.startswith('gg'):
@@ -314,15 +293,12 @@ def save_audio_file(json_obj, save_dir):
                 subdirectory = 'number'
             else:
                 subdirectory = audio_obj[0].lower()  # Use the first letter of the audio filename
-            
+
             base_endpoint = 'https://media.merriam-webster.com/audio/prons'
             
             # Construct the base URL
-            full_url = f'{base_endpoint}/{language_code}/{country_code}/{output_format}/{subdirectory}/{base_filename}.{output_format}'
+            full_url = f'{base_endpoint}/{language_code}/{country_code}/{output_format}/{subdirectory}/{audio_obj}.{output_format}'
             
-            # Define the local file path
-            local_audio_path = os.path.join(save_dir, f'{base_filename}.{output_format}') 
-                
             # Download the audio file
             try:
                 response = requests.get(full_url)
@@ -330,7 +306,7 @@ def save_audio_file(json_obj, save_dir):
                 # Check for request errors
                 response.raise_for_status()  
                 
-                with open(local_audio_path, 'wb') as audio_obj:
+                with open(local_audio_path, 'wb') as audio_file:
                     audio_file.write(response.content)
                 print(f'Audio file saved as: {local_audio_path}')
                 
@@ -340,11 +316,11 @@ def save_audio_file(json_obj, save_dir):
                 print(f'Error downloading audio file: {e}')
                 return None
         else:
-            logging.error(f"no info found for some json obj")
             print("No pronunciation entries found in the audio info.")
+            return None
             
     except KeyError as e:
-        # print('error downloading file')
+        print(f'Key error: {e}')
         return None
 
 
