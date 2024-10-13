@@ -1,5 +1,5 @@
-import requests 
-import json 
+import requests
+import json
 import os
 from dotenv import load_dotenv
 from scripts.utils import exit_program
