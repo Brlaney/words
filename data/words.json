@@ -2,2186 +2,2186 @@
     {
         "id": 1,
         "text": "eye examination chart",
+        "type": "phrase",
         "duration": 2601,
         "audio_file": "eye_examination_chart.wav",
         "dict_json": "eye_examination_chart.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 2,
         "text": "brisk",
+        "type": "word",
         "duration": 2856,
         "audio_file": "brisk.wav",
         "dict_json": "brisk.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 3,
         "text": "without squinting",
+        "type": "phrase",
         "duration": 2252,
         "audio_file": "without_squinting.wav",
         "dict_json": "without_squinting.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 4,
         "text": "halfway",
+        "type": "word",
         "duration": 2090,
         "audio_file": "halfway.wav",
         "dict_json": "halfway.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/halfway.md",
-        "type": "word"
+        "md_path": "md/words/halfway.md"
     },
     {
         "id": 5,
         "text": "barely",
+        "type": "word",
         "duration": 1579,
         "audio_file": "barely.wav",
         "dict_json": "barely.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/barely.md",
-        "type": "word"
+        "md_path": "md/words/barely.md"
     },
     {
         "id": 6,
         "text": "get fitted",
+        "type": "phrase",
         "duration": 2601,
         "audio_file": "get_fitted.wav",
         "dict_json": "get_fitted.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 7,
         "text": "be labeled",
+        "type": "phrase",
         "duration": 1927,
         "audio_file": "be_labeled.wav",
         "dict_json": "be_labeled.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 8,
         "text": "handicapped",
+        "type": "word",
         "duration": 1533,
         "audio_file": "handicapped.wav",
         "dict_json": "handicapped.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/handicapped.md",
-        "type": "word"
+        "md_path": "md/words/handicapped.md"
     },
     {
         "id": 9,
         "text": "had worsened",
+        "type": "phrase",
         "duration": 2276,
         "audio_file": "had_worsened.wav",
         "dict_json": "had_worsened.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 10,
         "text": "climb upward",
+        "type": "phrase",
         "duration": 2786,
         "audio_file": "climb_upward.wav",
         "dict_json": "climb_upward.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 11,
         "text": "not greatly",
+        "type": "phrase",
         "duration": 2577,
         "audio_file": "not_greatly.wav",
         "dict_json": "not_greatly.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 12,
         "text": "aside",
+        "type": "word",
         "duration": 3158,
         "audio_file": "aside.wav",
         "dict_json": "aside.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 13,
         "text": "dumbest kid",
+        "type": "phrase",
         "duration": 3065,
         "audio_file": "dumbest_kid.wav",
         "dict_json": "dumbest_kid.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 14,
         "text": "zoomed upward",
+        "type": "phrase",
         "duration": 2415,
         "audio_file": "zoomed_upward.wav",
         "dict_json": "zoomed_upward.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 15,
         "text": "settle for",
+        "type": "phrase",
         "duration": 2229,
         "audio_file": "settle_for.wav",
         "dict_json": "settle_for.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 16,
         "text": "scheme",
+        "type": "word",
         "duration": 3181,
         "audio_file": "scheme.wav",
         "dict_json": "scheme.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 17,
         "text": "stood",
+        "type": "word",
         "duration": 2601,
         "audio_file": "stood.wav",
         "dict_json": "stood.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 18,
         "text": "unflagging",
+        "type": "word",
         "duration": 3994,
         "audio_file": "unflagging.wav",
         "dict_json": "unflagging.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/unflagging.md",
-        "type": "word"
+        "md_path": "md/words/unflagging.md"
     },
     {
         "id": 19,
         "text": "encouragement",
+        "type": "word",
         "duration": 3460,
         "audio_file": "encouragement.wav",
         "dict_json": "encouragement.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/encouragement.md",
-        "type": "word"
+        "md_path": "md/words/encouragement.md"
     },
     {
         "id": 20,
         "text": "soared",
+        "type": "word",
         "duration": 3000,
         "audio_file": "soared.wav",
         "dict_json": "soared.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/soared.md",
-        "type": "word"
+        "md_path": "md/words/soared.md"
     },
     {
         "id": 21,
         "text": "reached",
+        "type": "word",
         "duration": 1649,
         "audio_file": "reached.wav",
         "dict_json": "reached.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/reached.md",
-        "type": "word"
+        "md_path": "md/words/reached.md"
     },
     {
         "id": 22,
         "text": "as high as",
+        "type": "phrase",
         "duration": 2252,
         "audio_file": "as_high_as.wav",
         "dict_json": "as_high_as.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/as_high_as.md",
-        "type": "phrase"
+        "md_path": "md/phrases/as_high_as.md"
     },
     {
         "id": 23,
         "text": "point out",
+        "type": "phrase",
         "duration": 1858,
         "audio_file": "point_out.wav",
         "dict_json": "point_out.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/point_out.md",
-        "type": "phrase"
+        "md_path": "md/phrases/point_out.md"
     },
     {
         "id": 24,
         "text": "laid down",
+        "type": "phrase",
         "duration": 2299,
         "audio_file": "laid_down.wav",
         "dict_json": "laid_down.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/laid_down.md",
-        "type": "phrase"
+        "md_path": "md/phrases/laid_down.md"
     },
     {
         "id": 25,
         "text": "urging",
+        "type": "word",
         "duration": 2902,
         "audio_file": "urging.wav",
         "dict_json": "urging.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/urging.md",
-        "type": "word"
+        "md_path": "md/words/urging.md"
     },
     {
         "id": 26,
         "text": "pleading",
+        "type": "word",
         "duration": 4481,
         "audio_file": "pleading.wav",
         "dict_json": "pleading.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/pleading.md",
-        "type": "word"
+        "md_path": "md/words/pleading.md"
     },
     {
         "id": 27,
         "text": "look up",
+        "type": "phrase",
         "duration": 1950,
         "audio_file": "look_up.wav",
         "dict_json": "look_up.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/look_up.md",
-        "type": "phrase"
+        "md_path": "md/phrases/look_up.md"
     },
     {
         "id": 28,
         "text": "somehow",
+        "type": "word",
         "duration": 2183,
         "audio_file": "somehow.wav",
         "dict_json": "somehow.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 29,
         "text": "laying down",
+        "type": "phrase",
         "duration": 2392,
         "audio_file": "laying_down.wav",
         "dict_json": "laying_down.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/laying_down.md",
-        "type": "phrase"
+        "md_path": "md/phrases/laying_down.md"
     },
     {
         "id": 30,
         "text": "check out",
+        "type": "phrase",
         "duration": 3901,
         "audio_file": "check_out.wav",
         "dict_json": "check_out.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 31,
         "text": "dragging",
+        "type": "word",
         "duration": 2856,
         "audio_file": "dragging.wav",
         "dict_json": "dragging.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 32,
         "text": "grumbled",
+        "type": "word",
         "duration": 2206,
         "audio_file": "grumbled.wav",
         "dict_json": "grumbled.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/grumbled.md",
-        "type": "word"
+        "md_path": "md/words/grumbled.md"
     },
     {
         "id": 33,
         "text": "endless",
+        "type": "word",
         "duration": 1950,
         "audio_file": "endless.wav",
         "dict_json": "endless.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/endless.md",
-        "type": "word"
+        "md_path": "md/words/endless.md"
     },
     {
         "id": 34,
         "text": "dare fail",
+        "type": "phrase",
         "duration": 3831,
         "audio_file": "dare_fail.wav",
         "dict_json": "dare_fail.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 35,
         "text": "unbounded",
+        "type": "word",
         "duration": 4783,
         "audio_file": "unbounded.wav",
         "dict_json": "unbounded.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/unbounded.md",
-        "type": "word"
+        "md_path": "md/words/unbounded.md"
     },
     {
         "id": 36,
         "text": "nudged me into",
+        "type": "phrase",
         "duration": 4000,
         "audio_file": "nudged_me_into.wav",
         "dict_json": "nudged_me_into.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 37,
         "text": "hold on",
+        "type": "phrase",
         "duration": 1811,
         "audio_file": "hold_on.wav",
         "dict_json": "hold_on.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 38,
         "text": "railroad security men",
+        "type": "phrase",
         "duration": 2786,
         "audio_file": "railroad_security_men.wav",
         "dict_json": "railroad_security_men.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
+        "type": "word",
         "id": 39,
         "text": "hobo's",
         "duration": 1950,
         "audio_file": "hobo's.wav",
         "dict_json": "hobo's.json",
         "dict_resp": true,
-        "type": "word"
     },
     {
         "id": 40,
         "text": "came marching",
+        "type": "phrase",
         "duration": 2136,
         "audio_file": "came_marching.wav",
         "dict_json": "came_marching.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 41,
         "text": "toward me",
+        "type": "phrase",
         "duration": 2229,
         "audio_file": "toward_me.wav",
         "dict_json": "toward_me.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 42,
         "text": "stared",
+        "type": "word",
         "duration": 2717,
         "audio_file": "stared.wav",
         "dict_json": "stared.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 43,
         "text": "frightened",
+        "type": "word",
         "duration": 2368,
         "audio_file": "frightened.wav",
         "dict_json": "frightened.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 44,
         "text": "whacked me",
+        "type": "phrase",
         "duration": 1741,
         "audio_file": "whacked_me.wav",
         "dict_json": "whacked_me.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 45,
         "text": "recoil",
+        "type": "word",
         "duration": 2067,
         "audio_file": "recoil.wav",
         "dict_json": "recoil.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 46,
         "text": "stood in front of me",
+        "type": "phrase",
         "duration": 3228,
         "audio_file": "stood_in_front_of_me.wav",
         "dict_json": "stood_in_front_of_me.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 47,
         "text": "pounded",
+        "type": "word",
         "duration": 2252,
         "audio_file": "pounded.wav",
         "dict_json": "pounded.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 48,
         "text": "sweat",
+        "type": "word",
         "duration": 2508,
         "audio_file": "sweat.wav",
         "dict_json": "sweat.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/sweat.md",
-        "type": "word"
+        "md_path": "md/words/sweat.md"
     },
     {
         "id": 49,
         "text": "pale",
+        "type": "word",
         "duration": 2786,
         "audio_file": "pale.wav",
         "dict_json": "pale.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/pale.md",
-        "type": "word"
+        "md_path": "md/words/pale.md"
     },
     {
         "id": 50,
         "text": "gaze",
+        "type": "word",
         "duration": 2229,
         "audio_file": "gaze.wav",
         "dict_json": "gaze.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/gaze.md",
-        "type": "word"
+        "md_path": "md/words/gaze.md"
     },
     {
         "id": 51,
         "text": "muttered",
+        "type": "word",
         "duration": 2345,
         "audio_file": "muttered.wav",
         "dict_json": "muttered.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/muttered.md",
-        "type": "word"
+        "md_path": "md/words/muttered.md"
     },
     {
         "id": 52,
         "text": "prodded",
+        "type": "word",
         "duration": 3715,
         "audio_file": "prodded.wav",
         "dict_json": "prodded.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/prodded.md",
-        "type": "word"
+        "md_path": "md/words/prodded.md"
     },
     {
         "id": 53,
         "text": "gang",
+        "type": "word",
         "duration": 2000,
         "audio_file": "gang.wav",
         "dict_json": "gang.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/gang.md",
-        "type": "word"
+        "md_path": "md/words/gang.md"
     },
     {
         "id": 54,
         "text": "cutting off",
+        "type": "phrase",
         "duration": 1834,
         "audio_file": "cutting_off.wav",
         "dict_json": "cutting_off.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/cutting_off.md",
-        "type": "phrase"
+        "md_path": "md/phrases/cutting_off.md"
     },
     {
         "id": 55,
         "text": "knack",
+        "type": "word",
         "duration": 1718,
         "audio_file": "knack.wav",
         "dict_json": "knack.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 56,
         "text": "along the",
+        "type": "phrase",
         "duration": 2252,
         "audio_file": "along_the.wav",
         "dict_json": "along_the.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/along_the.md",
-        "type": "phrase"
+        "md_path": "md/phrases/along_the.md"
     },
     {
         "id": 57,
         "text": "samples",
+        "type": "word",
         "duration": 3000,
         "audio_file": "samples.wav",
         "dict_json": "samples.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 58,
         "text": "under",
+        "type": "word",
         "duration": 3367,
         "audio_file": "under.wav",
         "dict_json": "under.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 59,
         "text": "magnifying glass",
+        "type": "phrase",
         "duration": 3000,
         "audio_file": "magnifying_glass.wav",
         "dict_json": "magnifying_glass.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/magnifying_glass.md",
-        "type": "phrase"
+        "md_path": "md/phrases/magnifying_glass.md"
     },
     {
         "id": 60,
         "text": "staff",
+        "type": "word",
         "duration": 3228,
         "audio_file": "staff.wav",
         "dict_json": "staff.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 61,
         "text": "i thrived",
+        "type": "phrase",
         "duration": 4000,
         "audio_file": "i_thrived.wav",
         "dict_json": "i_thrived.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 62,
         "text": "widened",
+        "type": "word",
         "duration": 2299,
         "audio_file": "widened.wav",
         "dict_json": "widened.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/widened.md",
-        "type": "word"
+        "md_path": "md/words/widened.md"
     },
     {
         "id": 63,
         "text": "up until",
+        "type": "phrase",
         "duration": 2322,
         "audio_file": "up_until.wav",
         "dict_json": "up_until.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/up_until.md",
-        "type": "phrase"
+        "md_path": "md/phrases/up_until.md"
     },
     {
         "id": 64,
         "text": "aside",
+        "type": "word",
         "duration": 3158,
         "audio_file": "aside.wav",
         "dict_json": "aside.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 65,
         "text": "spelling bees",
+        "type": "phrase",
         "duration": 3000,
         "audio_file": "spelling_bees.wav",
         "dict_json": "spelling_bees.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/spelling_bees.md",
-        "type": "phrase"
+        "md_path": "md/phrases/spelling_bees.md"
     },
     {
         "id": 66,
         "text": "a thrill swept",
+        "type": "phrase",
         "duration": 3000,
         "audio_file": "a_thrill_swept.wav",
         "dict_json": "a_thrill_swept.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 67,
         "text": "yearning",
+        "type": "word",
         "duration": 3065,
         "audio_file": "yearning.wav",
         "dict_json": "yearning.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 68,
         "text": "flax",
+        "type": "word",
         "duration": 2647,
         "audio_file": "flax.wav",
         "dict_json": "flax.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/flax.md",
-        "type": "word"
+        "md_path": "md/words/flax.md"
     },
     {
         "id": 69,
         "text": "spun",
+        "type": "word",
         "duration": 2647,
         "audio_file": "spun.wav",
         "dict_json": "spun.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 70,
         "text": "pulling ahead",
+        "type": "phrase",
         "duration": 2949,
         "audio_file": "pulling_ahead.wav",
         "dict_json": "pulling_ahead.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/pulling_ahead.md",
-        "type": "phrase"
+        "md_path": "md/phrases/pulling_ahead.md"
     },
     {
         "id": 71,
         "text": "desire",
+        "type": "word",
         "duration": 3924,
         "audio_file": "desire.wav",
         "dict_json": "desire.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 72,
         "text": "beamed",
+        "type": "word",
         "duration": 2067,
         "audio_file": "beamed.wav",
         "dict_json": "beamed.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/beamed.md",
-        "type": "word"
+        "md_path": "md/words/beamed.md"
     },
     {
         "id": 73,
         "text": "smiled",
+        "type": "word",
         "duration": 1788,
         "audio_file": "smiled.wav",
         "dict_json": "smiled.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 74,
         "text": "outstanding",
+        "type": "word",
         "duration": 4500,
         "audio_file": "outstanding.wav",
         "dict_json": "outstanding.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 75,
         "text": "first excelled among",
+        "type": "phrase",
         "duration": 4946,
         "audio_file": "first_excelled_among.wav",
         "dict_json": "first_excelled_among.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 76,
         "text": "sunshine slanting",
+        "type": "phrase",
         "duration": 4000,
         "audio_file": "sunshine_slanting.wav",
         "dict_json": "sunshine_slanting.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 77,
         "text": "ground",
+        "type": "word",
         "duration": 3553,
         "audio_file": "ground.wav",
         "dict_json": "ground.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 78,
         "text": "by then",
+        "type": "phrase",
         "duration": 3228,
         "audio_file": "by_then.wav",
         "dict_json": "by_then.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 79,
         "text": "come up to me",
+        "type": "phrase",
         "duration": 1950,
         "audio_file": "come_up_to_me.wav",
         "dict_json": "come_up_to_me.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 80,
         "text": "growth",
+        "type": "word",
         "duration": 1974,
         "audio_file": "growth.wav",
         "dict_json": "growth.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/growth.md",
-        "type": "word"
+        "md_path": "md/words/growth.md"
     },
     {
         "id": 81,
         "text": "give rent",
+        "type": "phrase",
         "duration": 2000,
         "audio_file": "give_rent.wav",
         "dict_json": "give_rent.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 82,
         "text": "caught up",
+        "type": "phrase",
         "duration": 3390,
         "audio_file": "caught_up.wav",
         "dict_json": "caught_up.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/caught_up.md",
-        "type": "phrase"
+        "md_path": "md/phrases/caught_up.md"
     },
     {
         "id": 83,
         "text": "stand out",
+        "type": "phrase",
         "duration": 2577,
         "audio_file": "stand_out.wav",
         "dict_json": "stand_out.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/stand_out.md",
-        "type": "phrase"
+        "md_path": "md/phrases/stand_out.md"
     },
     {
         "id": 84,
         "text": "tracks",
+        "type": "word",
         "duration": 3000,
         "audio_file": "tracks.wav",
         "dict_json": "tracks.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 85,
         "text": "hop",
+        "type": "word",
         "duration": 3785,
         "audio_file": "hop.wav",
         "dict_json": "hop.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 86,
         "text": "grab",
+        "type": "word",
         "duration": 2415,
         "audio_file": "grab.wav",
         "dict_json": "grab.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 87,
         "text": "catch",
+        "type": "word",
         "duration": 2647,
         "audio_file": "catch.wav",
         "dict_json": "catch.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 88,
         "text": "slow down",
+        "type": "phrase",
         "duration": 3994,
         "audio_file": "slow_down.wav",
         "dict_json": "slow_down.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/slow_down.md",
-        "type": "phrase"
+        "md_path": "md/phrases/slow_down.md"
     },
     {
         "id": 89,
         "text": "envied",
+        "type": "word",
         "duration": 2276,
         "audio_file": "envied.wav",
         "dict_json": "envied.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/envied.md",
-        "type": "word"
+        "md_path": "md/words/envied.md"
     },
     {
+        "type": "word",
         "id": 90,
         "text": "tingled",
         "duration": 2000,
         "audio_file": "tingled.wav",
         "dict_json": "tingled.json",
         "dict_resp": true,
-        "type": "word"
     },
     {
         "id": 91,
         "text": "car railing",
+        "type": "phrase",
         "duration": 2995,
         "audio_file": "car_railing.wav",
         "dict_json": "car_railing.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 92,
         "text": "command",
+        "type": "word",
         "duration": 2043,
         "audio_file": "command.wav",
         "dict_json": "command.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 93,
         "text": "bleeding",
+        "type": "word",
         "duration": 2415,
         "audio_file": "bleeding.wav",
         "dict_json": "bleeding.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 94,
         "text": "attempt",
+        "type": "word",
         "duration": 1904,
         "audio_file": "attempt.wav",
         "dict_json": "attempt.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 95,
         "text": "surgeons",
+        "type": "word",
         "duration": 3000,
         "audio_file": "surgeons.wav",
         "dict_json": "surgeons.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/surgeons.md",
-        "type": "word"
+        "md_path": "md/words/surgeons.md"
     },
     {
         "id": 96,
         "text": "to bear",
+        "type": "phrase",
         "duration": 3228,
         "audio_file": "to_bear.wav",
         "dict_json": "to_bear.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/to_bear.md",
-        "type": "phrase"
+        "md_path": "md/phrases/to_bear.md"
     },
     {
         "id": 97,
         "text": "painstaking",
+        "type": "word",
         "duration": 2368,
         "audio_file": "painstaking.wav",
         "dict_json": "painstaking.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/painstaking.md",
-        "type": "word"
+        "md_path": "md/words/painstaking.md"
     },
     {
         "id": 98,
         "text": "blood vessels",
+        "type": "phrase",
         "duration": 1811,
         "audio_file": "blood_vessels.wav",
         "dict_json": "blood_vessels.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/blood_vessels.md",
-        "type": "phrase"
+        "md_path": "md/phrases/blood_vessels.md"
     },
     {
         "id": 99,
         "text": "rehearsals",
+        "type": "word",
         "duration": 1904,
         "audio_file": "rehearsals.wav",
         "dict_json": "rehearsals.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/rehearsals.md",
-        "type": "word"
+        "md_path": "md/words/rehearsals.md"
     },
     {
         "id": 100,
         "text": "juncture",
+        "type": "word",
         "duration": 2694,
         "audio_file": "juncture.wav",
         "dict_json": "juncture.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 101,
         "text": "clotting",
+        "type": "word",
         "duration": 2949,
         "audio_file": "clotting.wav",
         "dict_json": "clotting.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 102,
         "text": "therefore",
+        "type": "word",
         "duration": 2949,
         "audio_file": "therefore.wav",
         "dict_json": "therefore.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/therefore.md",
-        "type": "word"
+        "md_path": "md/words/therefore.md"
     },
     {
         "id": 103,
         "text": "choking back",
+        "type": "phrase",
         "duration": 4087,
         "audio_file": "choking_back.wav",
         "dict_json": "choking_back.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/phrases/choking_back.md",
-        "type": "phrase"
+        "md_path": "md/phrases/choking_back.md"
     },
     {
         "id": 104,
         "text": "i burst into tears",
+        "type": "phrase",
         "duration": 4063,
         "audio_file": "i_burst_into_tears.wav",
         "dict_json": "i_burst_into_tears.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 105,
         "text": "held me",
+        "type": "phrase",
         "duration": 3878,
         "audio_file": "held_me.wav",
         "dict_json": "held_me.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 106,
         "text": "sob's",
+        "type": "word",
         "duration": 2670,
         "audio_file": "sob's.wav",
         "dict_json": "sob's.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/sob's.md",
-        "type": "word"
+        "md_path": "md/words/sob's.md"
     },
     {
         "id": 107,
         "text": "grasp",
+        "type": "word",
         "duration": 2531,
         "audio_file": "grasp.wav",
         "dict_json": "grasp.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 108,
         "text": "swiped",
+        "type": "word",
         "duration": 4598,
         "audio_file": "swiped.wav",
         "dict_json": "swiped.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/swiped.md",
-        "type": "word"
+        "md_path": "md/words/swiped.md"
     },
     {
         "id": 109,
         "text": "reject",
+        "type": "word",
         "duration": 1950,
         "audio_file": "reject.wav",
         "dict_json": "reject.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 110,
         "text": "twinkle",
+        "type": "word",
         "duration": 2000,
         "audio_file": "twinkle.wav",
         "dict_json": "twinkle.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/twinkle.md",
-        "type": "word"
+        "md_path": "md/words/twinkle.md"
     },
     {
         "id": 111,
         "text": "pester",
+        "type": "word",
         "duration": 2159,
         "audio_file": "pester.wav",
         "dict_json": "pester.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 112,
         "text": "rush",
+        "type": "word",
         "duration": 2972,
         "audio_file": "rush.wav",
         "dict_json": "rush.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 113,
         "text": "alley",
+        "type": "word",
         "duration": 2000,
         "audio_file": "alley.wav",
         "dict_json": "alley.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/alley.md",
-        "type": "word"
+        "md_path": "md/words/alley.md"
     },
     {
         "id": 114,
         "text": "stretched out",
+        "type": "phrase",
         "duration": 3251,
         "audio_file": "stretched_out.wav",
         "dict_json": "stretched_out.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 115,
         "text": "pounded",
+        "type": "word",
         "duration": 2252,
         "audio_file": "pounded.wav",
         "dict_json": "pounded.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 116,
         "text": "pleading",
+        "type": "word",
         "duration": 4481,
         "audio_file": "pleading.wav",
         "dict_json": "pleading.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/pleading.md",
-        "type": "word"
+        "md_path": "md/words/pleading.md"
     },
     {
         "id": 117,
         "text": "settle",
+        "type": "word",
         "duration": 3320,
         "audio_file": "settle.wav",
         "dict_json": "settle.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 118,
         "text": "burdened",
+        "type": "word",
         "duration": 1695,
         "audio_file": "burdened.wav",
         "dict_json": "burdened.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/burdened.md",
-        "type": "word"
+        "md_path": "md/words/burdened.md"
     },
     {
         "id": 119,
         "text": "betrayals",
+        "type": "word",
         "duration": 4249,
         "audio_file": "betrayals.wav",
         "dict_json": "betrayals.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/betrayals.md",
-        "type": "word"
+        "md_path": "md/words/betrayals.md"
     },
     {
         "id": 120,
         "text": "huddled",
+        "type": "word",
         "duration": 1602,
         "audio_file": "huddled.wav",
         "dict_json": "huddled.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/huddled.md",
-        "type": "word"
+        "md_path": "md/words/huddled.md"
     },
     {
         "id": 121,
         "text": "split up",
+        "type": "phrase",
         "duration": 2763,
         "audio_file": "split_up.wav",
         "dict_json": "split_up.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 122,
         "text": "he reluctantly",
+        "type": "phrase",
         "duration": 2252,
         "audio_file": "he_reluctantly.wav",
         "dict_json": "he_reluctantly.json",
         "dict_resp": false,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 123,
         "text": "grudges",
+        "type": "word",
         "duration": 2647,
         "audio_file": "grudges.wav",
         "dict_json": "grudges.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 124,
         "text": "harsh",
+        "type": "word",
         "duration": 2485,
         "audio_file": "harsh.wav",
         "dict_json": "harsh.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 124,
         "text": "harsh",
+        "type": "word",
         "duration": 2485,
         "audio_file": "",
         "dict_json": "mishap.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/mishap.md",
-        "type": "word"
+        "md_path": "md/words/mishap.md"
     },
     {
         "id": 125,
         "text": "accomplishments",
+        "type": "word",
         "duration": 3088,
         "audio_file": "accomplishments.wav",
         "dict_json": "accomplishments.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 126,
         "text": "adamantly",
+        "type": "word",
         "duration": 2481,
         "audio_file": "adamantly.wav",
         "dict_json": "adamantly.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 127,
         "text": "adjusted",
+        "type": "word",
         "duration": 2461,
         "audio_file": "adjusted.wav",
         "dict_json": "adjusted.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 128,
         "text": "armies",
+        "type": "word",
         "duration": 2368,
         "audio_file": "armies.wav",
         "dict_json": "armies.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 129,
         "text": "assurance",
+        "type": "word",
         "duration": 1974,
         "audio_file": "assurance.wav",
         "dict_json": "assurance.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 130,
         "text": "at the edge of the cliff",
+        "type": "phrase",
         "duration": 3553,
         "audio_file": "at_the_edge_of_the_cliff.wav",
         "dict_json": "at_the_edge_of_the_cliff.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 131,
         "text": "basement",
+        "type": "word",
         "duration": 2601,
         "audio_file": "basement.wav",
         "dict_json": "basement.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 132,
         "text": "being chased",
+        "type": "phrase",
         "duration": 2020,
         "audio_file": "being_chased.wav",
         "dict_json": "being_chased.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 133,
         "text": "beyond",
+        "type": "word",
         "duration": 3437,
         "audio_file": "beyond.wav",
         "dict_json": "beyond.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 134,
         "text": "burden",
+        "type": "word",
         "duration": 1974,
         "audio_file": "burden.wav",
         "dict_json": "burden.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 135,
         "text": "bye robbers",
+        "type": "phrase",
         "duration": 2345,
         "audio_file": "bye_robbers.wav",
         "dict_json": "bye_robbers.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 136,
         "text": "cautious",
+        "type": "word",
         "duration": 2299,
         "audio_file": "cautious.wav",
         "dict_json": "cautious.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 137,
         "text": "chalk",
+        "type": "word",
         "duration": 1997,
         "audio_file": "chalk.wav",
         "dict_json": "chalk.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 138,
         "text": "chart",
+        "type": "word",
         "duration": 5310,
         "audio_file": "chart.wav",
         "dict_json": "chart.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 139,
         "text": "come into",
+        "type": "phrase",
         "duration": 2229,
         "audio_file": "come_into.wav",
         "dict_json": "come_into.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 140,
         "text": "countered",
+        "type": "word",
         "duration": 1625,
         "audio_file": "countered.wav",
         "dict_json": "countered.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 141,
         "text": "crawled into",
+        "type": "phrase",
         "duration": 2647,
         "audio_file": "crawled_into.wav",
         "dict_json": "crawled_into.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 142,
         "text": "deep-seated",
+        "type": "word",
         "duration": 2043,
         "audio_file": "deep-seated.wav",
         "dict_json": "deep-seated.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 143,
         "text": "dilapidated buildings",
+        "type": "phrase",
         "duration": 3088,
         "audio_file": "dilapidated_buildings.wav",
         "dict_json": "dilapidated_buildings.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 144,
         "text": "dodged",
+        "type": "word",
         "duration": 2322,
         "audio_file": "dodged.wav",
         "dict_json": "dodged.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 145,
         "text": "drilled",
+        "type": "word",
         "duration": 2322,
         "audio_file": "drilled.wav",
         "dict_json": "drilled.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 146,
         "text": "drop through",
+        "type": "phrase",
         "duration": 2415,
         "audio_file": "drop_through.wav",
         "dict_json": "drop_through.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 147,
         "text": "echoed",
+        "type": "word",
         "duration": 2229,
         "audio_file": "echoed.wav",
         "dict_json": "echoed.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 148,
         "text": "fearful",
+        "type": "word",
         "duration": 2415,
         "audio_file": "fearful.wav",
         "dict_json": "fearful.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 149,
         "text": "flopped around",
+        "type": "phrase",
         "duration": 3297,
         "audio_file": "flopped_around.wav",
         "dict_json": "flopped_around.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 150,
         "text": "frightening",
+        "type": "word",
         "duration": 2760,
         "audio_file": "frightening.wav",
         "dict_json": "frightening.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 151,
         "text": "gays",
+        "type": "word",
         "duration": 3297,
         "audio_file": "gays.wav",
         "dict_json": "gays.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 152,
         "text": "get bogged down",
+        "type": "phrase",
         "duration": 2673,
         "audio_file": "get_bogged_down.wav",
         "dict_json": "get_bogged_down.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 153,
         "text": "giggles",
+        "type": "word",
         "duration": 2461,
         "audio_file": "giggles.wav",
         "dict_json": "giggles.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 154,
         "text": "gobbled up",
+        "type": "phrase",
         "duration": 2413,
         "audio_file": "gobbled_up.wav",
         "dict_json": "gobbled_up.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 155,
         "text": "gossip",
+        "type": "word",
         "duration": 1533,
         "audio_file": "gossip.wav",
         "dict_json": "gossip.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 156,
         "text": "harm",
+        "type": "word",
         "duration": 3576,
         "audio_file": "harm.wav",
         "dict_json": "harm.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 157,
         "text": "harshness",
+        "type": "word",
         "duration": 2159,
         "audio_file": "harshness.wav",
         "dict_json": "harshness.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 158,
         "text": "held",
+        "type": "word",
         "duration": 1858,
         "audio_file": "held.wav",
         "dict_json": "held.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 159,
         "text": "hordes",
+        "type": "word",
         "duration": 1827,
         "audio_file": "hordes.wav",
         "dict_json": "hordes.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 160,
         "text": "i ducked my",
+        "type": "phrase",
         "duration": 2461,
         "audio_file": "i_ducked_my.wav",
         "dict_json": "i_ducked_my.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 161,
         "text": "i shrugged",
+        "type": "phrase",
         "duration": 2368,
         "audio_file": "i_shrugged.wav",
         "dict_json": "i_shrugged.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 162,
         "text": "infuse",
+        "type": "word",
         "duration": 2113,
         "audio_file": "infuse.wav",
         "dict_json": "infuse.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 163,
         "text": "kicked off",
+        "type": "phrase",
         "duration": 2949,
         "audio_file": "kicked_off.wav",
         "dict_json": "kicked_off.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 164,
         "text": "laid back father",
+        "type": "phrase",
         "duration": 4009,
         "audio_file": "laid_back_father.wav",
         "dict_json": "laid_back_father.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 165,
         "text": "lean back",
+        "type": "phrase",
         "duration": 2415,
         "audio_file": "lean_back.wav",
         "dict_json": "lean_back.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 166,
         "text": "line",
+        "type": "word",
         "duration": 2183,
         "audio_file": "line.wav",
         "dict_json": "line.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 167,
         "text": "litmus",
+        "type": "word",
         "duration": 2299,
         "audio_file": "litmus.wav",
         "dict_json": "litmus.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 168,
         "text": "load",
+        "type": "word",
         "duration": 1903,
         "audio_file": "load.wav",
         "dict_json": "load.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 169,
         "text": "milestone",
+        "type": "word",
         "duration": 2577,
         "audio_file": "milestone.wav",
         "dict_json": "milestone.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 170,
         "text": "mumbled",
+        "type": "word",
         "duration": 2554,
         "audio_file": "mumbled.wav",
         "dict_json": "mumbled.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 171,
         "text": "narrow",
+        "type": "word",
         "duration": 2763,
         "audio_file": "narrow.wav",
         "dict_json": "narrow.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 172,
         "text": "piles of debris",
+        "type": "phrase",
         "duration": 3344,
         "audio_file": "piles_of_debris.wav",
         "dict_json": "piles_of_debris.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 173,
         "text": "polite",
+        "type": "word",
         "duration": 2252,
         "audio_file": "polite.wav",
         "dict_json": "polite.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 174,
         "text": "portray",
+        "type": "word",
         "duration": 2670,
         "audio_file": "portray.wav",
         "dict_json": "portray.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 175,
         "text": "preached",
+        "type": "word",
         "duration": 3669,
         "audio_file": "preached.wav",
         "dict_json": "preached.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 176,
         "text": "roaches",
+        "type": "word",
         "duration": 1718,
         "audio_file": "roaches.wav",
         "dict_json": "roaches.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 177,
         "text": "seldom",
+        "type": "word",
         "duration": 2368,
         "audio_file": "seldom.wav",
         "dict_json": "seldom.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 178,
         "text": "sharply",
+        "type": "word",
         "duration": 2113,
         "audio_file": "sharply.wav",
         "dict_json": "sharply.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 179,
         "text": "she brainwashed",
+        "type": "phrase",
         "duration": 3460,
         "audio_file": "she_brainwashed.wav",
         "dict_json": "she_brainwashed.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 180,
         "text": "shook",
+        "type": "word",
         "duration": 2345,
         "audio_file": "shook.wav",
         "dict_json": "shook.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 181,
         "text": "skip",
+        "type": "word",
         "duration": 2856,
         "audio_file": "skip.wav",
         "dict_json": "skip.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 182,
         "text": "slither",
+        "type": "word",
         "duration": 2438,
         "audio_file": "slither.wav",
         "dict_json": "slither.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 183,
         "text": "snickers",
+        "type": "word",
         "duration": 2461,
         "audio_file": "snickers.wav",
         "dict_json": "snickers.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 184,
         "text": "squad cars",
+        "type": "phrase",
         "duration": 5005,
         "audio_file": "squad_cars.wav",
         "dict_json": "squad_cars.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 185,
         "text": "stepped up",
+        "type": "phrase",
         "duration": 2624,
         "audio_file": "stepped_up.wav",
         "dict_json": "stepped_up.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 186,
         "text": "sting you",
+        "type": "phrase",
         "duration": 2485,
         "audio_file": "sting_you.wav",
         "dict_json": "sting_you.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 187,
         "text": "straightened out",
+        "type": "phrase",
         "duration": 2601,
         "audio_file": "straightened_out.wav",
         "dict_json": "straightened_out.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 188,
         "text": "streaked across",
+        "type": "phrase",
         "duration": 2392,
         "audio_file": "streaked_across.wav",
         "dict_json": "streaked_across.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 189,
         "text": "strengthened",
+        "type": "word",
         "duration": 2159,
         "audio_file": "strengthened.wav",
         "dict_json": "strengthened.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 190,
         "text": "strong-willed",
+        "type": "word",
         "duration": 2349,
         "audio_file": "strong-willed.wav",
         "dict_json": "strong-willed.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 191,
         "text": "swamped",
+        "type": "word",
         "duration": 2252,
         "audio_file": "swamped.wav",
         "dict_json": "swamped.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 192,
         "text": "sweatshops",
+        "type": "word",
         "duration": 2694,
         "audio_file": "sweatshops.wav",
         "dict_json": "sweatshops.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 193,
         "text": "tenements",
+        "type": "word",
         "duration": 3599,
         "audio_file": "tenements.wav",
         "dict_json": "tenements.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 194,
         "text": "the lookout",
+        "type": "phrase",
         "duration": 3947,
         "audio_file": "the_lookout.wav",
         "dict_json": "the_lookout.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 195,
         "text": "the ringleader",
+        "type": "phrase",
         "duration": 2810,
         "audio_file": "the_ringleader.wav",
         "dict_json": "the_ringleader.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 196,
         "text": "to get rid of",
+        "type": "phrase",
         "duration": 3111,
         "audio_file": "to_get_rid_of.wav",
         "dict_json": "to_get_rid_of.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     },
     {
         "id": 197,
         "text": "weeded",
+        "type": "word",
         "duration": 1741,
         "audio_file": "weeded.wav",
         "dict_json": "weeded.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "word"
+        "md_path": ""
     },
     {
         "id": 198,
         "text": "wicked men",
+        "type": "phrase",
         "duration": 2368,
         "audio_file": "wicked_men.wav",
         "dict_json": "wicked_men.json",
         "dict_resp": true,
         "has_md": false,
-        "md_path": "",
-        "type": "phrase"
+        "md_path": ""
     }
 ]
