@@ -88,6 +88,6 @@ No matter the mishap, click the link below to see the page containing all of the
 
 ### Documentation
 
-`Click the link`: [documentation](Documentation.md)
+`Click the link`: [documentation](md/Documentation.md)
 
 ---

@@ -16,6 +16,22 @@
         *interpret_word_data_as_string*: Interprets structured word data and returns a raw markdown string.
         *save_audio_file*: Downloads and saves an audio file based on provided metadata.
         *categorize_audio_files*: Moves .wav files into appropriate directories and updates their paths in the JSON file.
+        
+        
+        # def edit_audio(audio_path, text_value, duration=4, inc_vol=False):
+    #     audio_clip = AudioFileClip(audio_path).set_duration(duration)
+        
+    #     if inc_vol == True:
+    #         output = audio_clip.volumex(2).write_audiofile(f'audio/{text_value}.wav')
+    #     else:
+    #         output = audio_clip.write_audiofile(f'audio/{text_value}.wav')
+            
+    #     return output
+            
+    # try:
+    #     json_obj = read_and_process_json('data/words.json')
+    # except:
+    #     print('womp')
 '''
 import sys
 import json
@@ -64,6 +80,16 @@ def get_audio_duration(file_path, file_name):
     # logging.info(f'\nfile: {file_name}\nduration (ms): {duration_ms}')
 
     return duration_ms
+
+
+
+def get_audio_duration_2(audio_data):
+    '''
+        Same as above but the param is already loaded .wav audio data
+    '''
+    audio = AudioSegment.from_wav(audio_data)
+    duration_ms = len(audio)
+    return int(duration_ms / 1000) + 1
 
 
 

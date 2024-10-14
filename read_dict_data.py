@@ -6,25 +6,24 @@ from scripts.utils import exit_program
 from scripts.utils import read_and_process_json
 from scripts.utils import format_markdown
 from scripts.utils import is_phrase
+from scripts.utils_md import get_dir
 
 # Configure logging
 logging.basicConfig(filename='assets/logs/reading_dict_jsons.log', 
                     level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
-
-
-def interpret_word_data(text_data, 
-                        data, 
-                        words_output_dir, 
-                        phrases_output_dir):
-    
+def interpret_word_data(text_data, data, the_type, snake_case):
     try:
+        '''
+            words_output_dir
+            phrases_output_dir
+        '''
         # Determine the directory for words or phrases
         output_dir = phrases_output_dir if is_phrase(text_data) else words_output_dir
 
         # Create the Markdown file name based on the word or phrase
-        file_name_output = f'{output_dir}{text_data.replace(' ', '_')}.md'
+        file_name_output = f'md/{the_type}s/{snake_case}.md'
         
         has_md = False
         md_path = ''  # Default empty path for markdown
@@ -112,11 +111,17 @@ def interpret_word_data(text_data,
         return False, ''
 
 
-def process_all_json_files_in_directory(directory, 
-                                        words_file, 
-                                        mistakes_file, 
-                                        words_output_dir, 
-                                        phrases_output_dir):
+def process_all_json_files_in_directory(words_file, mistakes_file):
+
+    # words_md_dir = 'md/words/'           # Output directory for word markdown files
+    # phrases_md_dir = 'md/phrases/'       # Output directory for phrase markdown files
+    # json_directory = 'data/dict/'        # Directory containing dictionary .json files
+    
+    # directory 
+    # words_file
+    # mistakes_file
+    # words_output_dir
+    # phrases_output_dir
     
     words_data = read_and_process_json(words_file)
     mistakes_data = read_and_process_json(mistakes_file)
@@ -125,11 +130,15 @@ def process_all_json_files_in_directory(directory,
         logging.error(f'Error: Could not read JSON file: {words_file}')
         exit_program()
 
-    for word_entry in words_data:
-        word_or_phrase = word_entry['text']
-        dict_filename = word_or_phrase.replace(' ', '_') + '.json'
-        dict_file_path = os.path.join(directory, dict_filename)
-
+    for item in words_data:
+        word_or_phrase = item['text']
+        dict_filename = item['dict_json']
+        the_type = item['type']
+        
+        dict_file_path = get_dir(filename=dict_filename, 
+                                 type=the_type, 
+                                 for_json_dict=True)
+        
         if os.path.exists(dict_file_path):
             try:
                 with open(dict_file_path, 'r', encoding='utf-8') as file:
@@ -138,18 +147,18 @@ def process_all_json_files_in_directory(directory,
                     # Interpret the word data and generate markdown if needed
                     has_md, md_path = interpret_word_data(
                         word_or_phrase, 
-                        json_data, 
-                        words_output_dir, 
-                        phrases_output_dir
+                        json_data,
+                        the_type,
+                        snake_case=dict_filename.replace('.json', '')
                     )
 
                     # Update the word entry with dict_path, mistake, has_md, and md_path
-                    word_entry['dict_path'] = dict_file_path
-                    word_entry['has_md'] = has_md
-                    word_entry['md_path'] = md_path if has_md else ''
+                    item['dict_path'] = dict_file_path
+                    item['has_md'] = has_md
+                    item['md_path'] = md_path if has_md else ''
 
                     # Check if the word or phrase exists in mistakes.json
-                    word_entry['mistake'] = any(m['text'] == word_or_phrase for m in mistakes_data)
+                    item['mistake'] = any(m['text'] == word_or_phrase for m in mistakes_data)
 
             except Exception as e:
                 logging.error(f'Error processing {dict_filename}: {e}')
@@ -163,20 +172,18 @@ def process_all_json_files_in_directory(directory,
     print(f'All files processed and {words_file} updated successfully.')
 
 
+'''
+     words_md_dir = 'md/words/'      # Output directory for word markdown files
+     phrases_md_dir = 'md/phrases/'  # Output directory for phrase markdown files
+     json_directory = 'data/dict/'   # Directory containing dictionary .json files
+
+     Ensure directories exist
+     os.makedirs(words_md_dir, exist_ok=True)
+     os.makedirs(phrases_md_dir, exist_ok=True)
+'''
 # Define directories and file paths
-json_directory = 'data/dict/'        # Directory containing dictionary .json files
 words_json_file = 'data/words.json'  # Path to words.json file
 mistakes_json_file = 'data/mistakes.json'  # Path to mistakes.json file
-words_md_dir = 'md/words/'           # Output directory for word markdown files
-phrases_md_dir = 'md/phrases/'       # Output directory for phrase markdown files
-
-# Ensure directories exist
-os.makedirs(words_md_dir, exist_ok=True)
-os.makedirs(phrases_md_dir, exist_ok=True)
 
 # Process the dictionary files and update words.json
-process_all_json_files_in_directory(json_directory, 
-                                    words_json_file, 
-                                    mistakes_json_file, 
-                                    words_md_dir, 
-                                    phrases_md_dir)
+process_all_json_files_in_directory(words_json_file, mistakes_json_file)

@@ -425,6 +425,8 @@
         "audio_file": "hobo's.wav",
         "dict_json": "hobo's.json",
         "dict_resp": true,
+        "has_md": false,
+        "md_path": ""
     },
     {
         "id": 40,
@@ -977,13 +979,15 @@
         "md_path": "md/words/envied.md"
     },
     {
-        "type": "word",
         "id": 90,
         "text": "tingled",
+        "type": "word",
         "duration": 2000,
         "audio_file": "tingled.wav",
         "dict_json": "tingled.json",
         "dict_resp": true,
+        "has_md": false,
+        "md_path": ""
     },
     {
         "id": 91,
@@ -1152,14 +1156,14 @@
     },
     {
         "id": 106,
-        "text": "sob's",
+        "text": "sobs",
         "type": "word",
         "duration": 2670,
-        "audio_file": "sob's.wav",
-        "dict_json": "sob's.json",
+        "audio_file": "sobs.wav",
+        "dict_json": "sobs.json",
         "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/sob's.md"
+        "md_path": "md/words/sobs.md"
     },
     {
         "id": 107,
@@ -1356,30 +1360,8 @@
         "audio_file": "harsh.wav",
         "dict_json": "harsh.json",
         "dict_resp": true,
-        "has_md": false,
-        "md_path": ""
-    },
-    {
-        "id": 124,
-        "text": "harsh",
-        "type": "word",
-        "duration": 2485,
-        "audio_file": "",
-        "dict_json": "mishap.json",
-        "dict_resp": true,
         "has_md": true,
-        "md_path": "md/words/mishap.md"
-    },
-    {
-        "id": 125,
-        "text": "accomplishments",
-        "type": "word",
-        "duration": 3088,
-        "audio_file": "accomplishments.wav",
-        "dict_json": "accomplishments.json",
-        "dict_resp": true,
-        "has_md": false,
-        "md_path": ""
+        "md_path": "md/words/harsh.md"
     },
     {
         "id": 126,

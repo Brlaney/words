@@ -87,6 +87,8 @@ Trim any dead/silent audio in the .wav audio file.
 
 #### Completed
 
+- [X] Only pages *5* and *6* are left to complete
+- [X] Currently at: `Harsh` (*id = 124*) as of 10/07/2024
 - [X] Fix recordings that are too long with *blank/no noise*. Write script to scan for and output all files with `duration > 3 seconds`. 
 - [X] `pip install` the package for env variables - then fix the api_req file to remove from .gitignore
 - [X] If the md file will say *List of words:* then write a message like `This word or phrase doesn't seem to exist in the English dictionary - maybe I misunderstood the text in your image`
@@ -97,8 +99,7 @@ Trim any dead/silent audio in the .wav audio file.
 
 #### Pending
 
-- [ ] Only pages *5* and *6* are left to complete
-- [ ] Currently at: `Harsh` (*id = 124*) as of 10/07/2024
+- [ ] Currently at: `Harsh` (*id = 198 (125-198)*) as of 10/13/2024
 - [ ] Update the Requirements.txt
 - [ ] Finish the MoviePy script to prompt to record `using each word in a sentence` 
 - [ ] Write script to separate into batches by *date*
