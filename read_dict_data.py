@@ -112,17 +112,6 @@ def interpret_word_data(text_data, data, the_type, snake_case):
 
 
 def process_all_json_files_in_directory(words_file, mistakes_file):
-
-    # words_md_dir = 'md/words/'           # Output directory for word markdown files
-    # phrases_md_dir = 'md/phrases/'       # Output directory for phrase markdown files
-    # json_directory = 'data/dict/'        # Directory containing dictionary .json files
-    
-    # directory 
-    # words_file
-    # mistakes_file
-    # words_output_dir
-    # phrases_output_dir
-    
     words_data = read_and_process_json(words_file)
     mistakes_data = read_and_process_json(mistakes_file)
 
@@ -158,7 +147,7 @@ def process_all_json_files_in_directory(words_file, mistakes_file):
                     item['md_path'] = md_path if has_md else ''
 
                     # Check if the word or phrase exists in mistakes.json
-                    item['mistake'] = any(m['text'] == word_or_phrase for m in mistakes_data)
+                    item['dict_resp'] = not any(m['text'] == word_or_phrase for m in mistakes_data)
 
             except Exception as e:
                 logging.error(f'Error processing {dict_filename}: {e}')
