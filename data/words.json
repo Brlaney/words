@@ -5,7 +5,7 @@
         "duration": 2601,
         "audio_file": "eye_examination_chart.wav",
         "dict_json": "eye_examination_chart.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -16,7 +16,7 @@
         "duration": 2856,
         "audio_file": "brisk.wav",
         "dict_json": "brisk.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -27,7 +27,7 @@
         "duration": 2252,
         "audio_file": "without_squinting.wav",
         "dict_json": "without_squinting.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -38,7 +38,7 @@
         "duration": 2090,
         "audio_file": "halfway.wav",
         "dict_json": "halfway.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/halfway.md",
         "type": "word"
@@ -49,7 +49,7 @@
         "duration": 1579,
         "audio_file": "barely.wav",
         "dict_json": "barely.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/barely.md",
         "type": "word"
@@ -60,7 +60,7 @@
         "duration": 2601,
         "audio_file": "get_fitted.wav",
         "dict_json": "get_fitted.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -71,7 +71,7 @@
         "duration": 1927,
         "audio_file": "be_labeled.wav",
         "dict_json": "be_labeled.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -82,7 +82,7 @@
         "duration": 1533,
         "audio_file": "handicapped.wav",
         "dict_json": "handicapped.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/handicapped.md",
         "type": "word"
@@ -93,7 +93,7 @@
         "duration": 2276,
         "audio_file": "had_worsened.wav",
         "dict_json": "had_worsened.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -104,7 +104,7 @@
         "duration": 2786,
         "audio_file": "climb_upward.wav",
         "dict_json": "climb_upward.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -115,7 +115,7 @@
         "duration": 2577,
         "audio_file": "not_greatly.wav",
         "dict_json": "not_greatly.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -126,7 +126,7 @@
         "duration": 3158,
         "audio_file": "aside.wav",
         "dict_json": "aside.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -137,7 +137,7 @@
         "duration": 3065,
         "audio_file": "dumbest_kid.wav",
         "dict_json": "dumbest_kid.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -148,7 +148,7 @@
         "duration": 2415,
         "audio_file": "zoomed_upward.wav",
         "dict_json": "zoomed_upward.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -159,7 +159,7 @@
         "duration": 2229,
         "audio_file": "settle_for.wav",
         "dict_json": "settle_for.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -170,7 +170,7 @@
         "duration": 3181,
         "audio_file": "scheme.wav",
         "dict_json": "scheme.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -181,7 +181,7 @@
         "duration": 2601,
         "audio_file": "stood.wav",
         "dict_json": "stood.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -192,7 +192,7 @@
         "duration": 3994,
         "audio_file": "unflagging.wav",
         "dict_json": "unflagging.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/unflagging.md",
         "type": "word"
@@ -203,7 +203,7 @@
         "duration": 3460,
         "audio_file": "encouragement.wav",
         "dict_json": "encouragement.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/encouragement.md",
         "type": "word"
@@ -214,7 +214,7 @@
         "duration": 3000,
         "audio_file": "soared.wav",
         "dict_json": "soared.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/soared.md",
         "type": "word"
@@ -225,7 +225,7 @@
         "duration": 1649,
         "audio_file": "reached.wav",
         "dict_json": "reached.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/reached.md",
         "type": "word"
@@ -236,7 +236,7 @@
         "duration": 2252,
         "audio_file": "as_high_as.wav",
         "dict_json": "as_high_as.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/as_high_as.md",
         "type": "phrase"
@@ -247,7 +247,7 @@
         "duration": 1858,
         "audio_file": "point_out.wav",
         "dict_json": "point_out.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/point_out.md",
         "type": "phrase"
@@ -258,7 +258,7 @@
         "duration": 2299,
         "audio_file": "laid_down.wav",
         "dict_json": "laid_down.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/laid_down.md",
         "type": "phrase"
@@ -269,7 +269,7 @@
         "duration": 2902,
         "audio_file": "urging.wav",
         "dict_json": "urging.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/urging.md",
         "type": "word"
@@ -280,7 +280,7 @@
         "duration": 4481,
         "audio_file": "pleading.wav",
         "dict_json": "pleading.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/pleading.md",
         "type": "word"
@@ -291,7 +291,7 @@
         "duration": 1950,
         "audio_file": "look_up.wav",
         "dict_json": "look_up.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/look_up.md",
         "type": "phrase"
@@ -302,7 +302,7 @@
         "duration": 2183,
         "audio_file": "somehow.wav",
         "dict_json": "somehow.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -313,7 +313,7 @@
         "duration": 2392,
         "audio_file": "laying_down.wav",
         "dict_json": "laying_down.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/laying_down.md",
         "type": "phrase"
@@ -324,7 +324,7 @@
         "duration": 3901,
         "audio_file": "check_out.wav",
         "dict_json": "check_out.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -335,7 +335,7 @@
         "duration": 2856,
         "audio_file": "dragging.wav",
         "dict_json": "dragging.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -346,7 +346,7 @@
         "duration": 2206,
         "audio_file": "grumbled.wav",
         "dict_json": "grumbled.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/grumbled.md",
         "type": "word"
@@ -357,7 +357,7 @@
         "duration": 1950,
         "audio_file": "endless.wav",
         "dict_json": "endless.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/endless.md",
         "type": "word"
@@ -368,7 +368,7 @@
         "duration": 3831,
         "audio_file": "dare_fail.wav",
         "dict_json": "dare_fail.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -379,7 +379,7 @@
         "duration": 4783,
         "audio_file": "unbounded.wav",
         "dict_json": "unbounded.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/unbounded.md",
         "type": "word"
@@ -390,7 +390,7 @@
         "duration": 4000,
         "audio_file": "nudged_me_into.wav",
         "dict_json": "nudged_me_into.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -401,7 +401,7 @@
         "duration": 1811,
         "audio_file": "hold_on.wav",
         "dict_json": "hold_on.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -412,7 +412,7 @@
         "duration": 2786,
         "audio_file": "railroad_security_men.wav",
         "dict_json": "railroad_security_men.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -423,7 +423,7 @@
         "duration": 1950,
         "audio_file": "hobo's.wav",
         "dict_json": "hobo's.json",
-        "mistake": false,
+        "dict_resp": true,
         "type": "word"
     },
     {
@@ -432,7 +432,7 @@
         "duration": 2136,
         "audio_file": "came_marching.wav",
         "dict_json": "came_marching.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -443,7 +443,7 @@
         "duration": 2229,
         "audio_file": "toward_me.wav",
         "dict_json": "toward_me.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -454,7 +454,7 @@
         "duration": 2717,
         "audio_file": "stared.wav",
         "dict_json": "stared.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -465,7 +465,7 @@
         "duration": 2368,
         "audio_file": "frightened.wav",
         "dict_json": "frightened.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -476,7 +476,7 @@
         "duration": 1741,
         "audio_file": "whacked_me.wav",
         "dict_json": "whacked_me.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -487,7 +487,7 @@
         "duration": 2067,
         "audio_file": "recoil.wav",
         "dict_json": "recoil.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -498,7 +498,7 @@
         "duration": 3228,
         "audio_file": "stood_in_front_of_me.wav",
         "dict_json": "stood_in_front_of_me.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -509,7 +509,7 @@
         "duration": 2252,
         "audio_file": "pounded.wav",
         "dict_json": "pounded.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -520,7 +520,7 @@
         "duration": 2508,
         "audio_file": "sweat.wav",
         "dict_json": "sweat.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/sweat.md",
         "type": "word"
@@ -531,7 +531,7 @@
         "duration": 2786,
         "audio_file": "pale.wav",
         "dict_json": "pale.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/pale.md",
         "type": "word"
@@ -542,7 +542,7 @@
         "duration": 2229,
         "audio_file": "gaze.wav",
         "dict_json": "gaze.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/gaze.md",
         "type": "word"
@@ -553,7 +553,7 @@
         "duration": 2345,
         "audio_file": "muttered.wav",
         "dict_json": "muttered.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/muttered.md",
         "type": "word"
@@ -564,7 +564,7 @@
         "duration": 3715,
         "audio_file": "prodded.wav",
         "dict_json": "prodded.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/prodded.md",
         "type": "word"
@@ -575,7 +575,7 @@
         "duration": 2000,
         "audio_file": "gang.wav",
         "dict_json": "gang.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/gang.md",
         "type": "word"
@@ -586,7 +586,7 @@
         "duration": 1834,
         "audio_file": "cutting_off.wav",
         "dict_json": "cutting_off.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/cutting_off.md",
         "type": "phrase"
@@ -597,7 +597,7 @@
         "duration": 1718,
         "audio_file": "knack.wav",
         "dict_json": "knack.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -608,7 +608,7 @@
         "duration": 2252,
         "audio_file": "along_the.wav",
         "dict_json": "along_the.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/along_the.md",
         "type": "phrase"
@@ -619,7 +619,7 @@
         "duration": 3000,
         "audio_file": "samples.wav",
         "dict_json": "samples.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -630,7 +630,7 @@
         "duration": 3367,
         "audio_file": "under.wav",
         "dict_json": "under.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -641,7 +641,7 @@
         "duration": 3000,
         "audio_file": "magnifying_glass.wav",
         "dict_json": "magnifying_glass.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/magnifying_glass.md",
         "type": "phrase"
@@ -652,7 +652,7 @@
         "duration": 3228,
         "audio_file": "staff.wav",
         "dict_json": "staff.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -663,7 +663,7 @@
         "duration": 4000,
         "audio_file": "i_thrived.wav",
         "dict_json": "i_thrived.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -674,7 +674,7 @@
         "duration": 2299,
         "audio_file": "widened.wav",
         "dict_json": "widened.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/widened.md",
         "type": "word"
@@ -685,7 +685,7 @@
         "duration": 2322,
         "audio_file": "up_until.wav",
         "dict_json": "up_until.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/up_until.md",
         "type": "phrase"
@@ -696,7 +696,7 @@
         "duration": 3158,
         "audio_file": "aside.wav",
         "dict_json": "aside.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -707,7 +707,7 @@
         "duration": 3000,
         "audio_file": "spelling_bees.wav",
         "dict_json": "spelling_bees.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/spelling_bees.md",
         "type": "phrase"
@@ -718,7 +718,7 @@
         "duration": 3000,
         "audio_file": "a_thrill_swept.wav",
         "dict_json": "a_thrill_swept.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -729,7 +729,7 @@
         "duration": 3065,
         "audio_file": "yearning.wav",
         "dict_json": "yearning.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -740,7 +740,7 @@
         "duration": 2647,
         "audio_file": "flax.wav",
         "dict_json": "flax.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/flax.md",
         "type": "word"
@@ -751,7 +751,7 @@
         "duration": 2647,
         "audio_file": "spun.wav",
         "dict_json": "spun.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -762,7 +762,7 @@
         "duration": 2949,
         "audio_file": "pulling_ahead.wav",
         "dict_json": "pulling_ahead.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/pulling_ahead.md",
         "type": "phrase"
@@ -773,7 +773,7 @@
         "duration": 3924,
         "audio_file": "desire.wav",
         "dict_json": "desire.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -784,7 +784,7 @@
         "duration": 2067,
         "audio_file": "beamed.wav",
         "dict_json": "beamed.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/beamed.md",
         "type": "word"
@@ -795,7 +795,7 @@
         "duration": 1788,
         "audio_file": "smiled.wav",
         "dict_json": "smiled.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -806,7 +806,7 @@
         "duration": 4500,
         "audio_file": "outstanding.wav",
         "dict_json": "outstanding.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -817,7 +817,7 @@
         "duration": 4946,
         "audio_file": "first_excelled_among.wav",
         "dict_json": "first_excelled_among.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -828,7 +828,7 @@
         "duration": 4000,
         "audio_file": "sunshine_slanting.wav",
         "dict_json": "sunshine_slanting.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -839,7 +839,7 @@
         "duration": 3553,
         "audio_file": "ground.wav",
         "dict_json": "ground.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -850,7 +850,7 @@
         "duration": 3228,
         "audio_file": "by_then.wav",
         "dict_json": "by_then.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -861,7 +861,7 @@
         "duration": 1950,
         "audio_file": "come_up_to_me.wav",
         "dict_json": "come_up_to_me.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -872,7 +872,7 @@
         "duration": 1974,
         "audio_file": "growth.wav",
         "dict_json": "growth.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/growth.md",
         "type": "word"
@@ -883,7 +883,7 @@
         "duration": 2000,
         "audio_file": "give_rent.wav",
         "dict_json": "give_rent.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -894,7 +894,7 @@
         "duration": 3390,
         "audio_file": "caught_up.wav",
         "dict_json": "caught_up.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/caught_up.md",
         "type": "phrase"
@@ -905,7 +905,7 @@
         "duration": 2577,
         "audio_file": "stand_out.wav",
         "dict_json": "stand_out.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/stand_out.md",
         "type": "phrase"
@@ -916,7 +916,7 @@
         "duration": 3000,
         "audio_file": "tracks.wav",
         "dict_json": "tracks.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -927,7 +927,7 @@
         "duration": 3785,
         "audio_file": "hop.wav",
         "dict_json": "hop.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -938,7 +938,7 @@
         "duration": 2415,
         "audio_file": "grab.wav",
         "dict_json": "grab.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -949,7 +949,7 @@
         "duration": 2647,
         "audio_file": "catch.wav",
         "dict_json": "catch.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -960,7 +960,7 @@
         "duration": 3994,
         "audio_file": "slow_down.wav",
         "dict_json": "slow_down.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/slow_down.md",
         "type": "phrase"
@@ -971,7 +971,7 @@
         "duration": 2276,
         "audio_file": "envied.wav",
         "dict_json": "envied.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/envied.md",
         "type": "word"
@@ -982,7 +982,7 @@
         "duration": 2000,
         "audio_file": "tingled.wav",
         "dict_json": "tingled.json",
-        "mistake": false,
+        "dict_resp": true,
         "type": "word"
     },
     {
@@ -991,7 +991,7 @@
         "duration": 2995,
         "audio_file": "car_railing.wav",
         "dict_json": "car_railing.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1002,7 +1002,7 @@
         "duration": 2043,
         "audio_file": "command.wav",
         "dict_json": "command.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1013,7 +1013,7 @@
         "duration": 2415,
         "audio_file": "bleeding.wav",
         "dict_json": "bleeding.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1024,7 +1024,7 @@
         "duration": 1904,
         "audio_file": "attempt.wav",
         "dict_json": "attempt.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1035,7 +1035,7 @@
         "duration": 3000,
         "audio_file": "surgeons.wav",
         "dict_json": "surgeons.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/surgeons.md",
         "type": "word"
@@ -1046,7 +1046,7 @@
         "duration": 3228,
         "audio_file": "to_bear.wav",
         "dict_json": "to_bear.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/to_bear.md",
         "type": "phrase"
@@ -1057,7 +1057,7 @@
         "duration": 2368,
         "audio_file": "painstaking.wav",
         "dict_json": "painstaking.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/painstaking.md",
         "type": "word"
@@ -1068,7 +1068,7 @@
         "duration": 1811,
         "audio_file": "blood_vessels.wav",
         "dict_json": "blood_vessels.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/blood_vessels.md",
         "type": "phrase"
@@ -1079,7 +1079,7 @@
         "duration": 1904,
         "audio_file": "rehearsals.wav",
         "dict_json": "rehearsals.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/rehearsals.md",
         "type": "word"
@@ -1090,7 +1090,7 @@
         "duration": 2694,
         "audio_file": "juncture.wav",
         "dict_json": "juncture.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1101,7 +1101,7 @@
         "duration": 2949,
         "audio_file": "clotting.wav",
         "dict_json": "clotting.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1112,7 +1112,7 @@
         "duration": 2949,
         "audio_file": "therefore.wav",
         "dict_json": "therefore.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/therefore.md",
         "type": "word"
@@ -1123,7 +1123,7 @@
         "duration": 4087,
         "audio_file": "choking_back.wav",
         "dict_json": "choking_back.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/phrases/choking_back.md",
         "type": "phrase"
@@ -1134,7 +1134,7 @@
         "duration": 4063,
         "audio_file": "i_burst_into_tears.wav",
         "dict_json": "i_burst_into_tears.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1145,7 +1145,7 @@
         "duration": 3878,
         "audio_file": "held_me.wav",
         "dict_json": "held_me.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1156,7 +1156,7 @@
         "duration": 2670,
         "audio_file": "sob's.wav",
         "dict_json": "sob's.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/sob's.md",
         "type": "word"
@@ -1167,7 +1167,7 @@
         "duration": 2531,
         "audio_file": "grasp.wav",
         "dict_json": "grasp.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1178,7 +1178,7 @@
         "duration": 4598,
         "audio_file": "swiped.wav",
         "dict_json": "swiped.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/swiped.md",
         "type": "word"
@@ -1189,7 +1189,7 @@
         "duration": 1950,
         "audio_file": "reject.wav",
         "dict_json": "reject.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1200,7 +1200,7 @@
         "duration": 2000,
         "audio_file": "twinkle.wav",
         "dict_json": "twinkle.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/twinkle.md",
         "type": "word"
@@ -1211,7 +1211,7 @@
         "duration": 2159,
         "audio_file": "pester.wav",
         "dict_json": "pester.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1222,7 +1222,7 @@
         "duration": 2972,
         "audio_file": "rush.wav",
         "dict_json": "rush.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1233,7 +1233,7 @@
         "duration": 2000,
         "audio_file": "alley.wav",
         "dict_json": "alley.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/alley.md",
         "type": "word"
@@ -1244,7 +1244,7 @@
         "duration": 3251,
         "audio_file": "stretched_out.wav",
         "dict_json": "stretched_out.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1255,7 +1255,7 @@
         "duration": 2252,
         "audio_file": "pounded.wav",
         "dict_json": "pounded.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1266,7 +1266,7 @@
         "duration": 4481,
         "audio_file": "pleading.wav",
         "dict_json": "pleading.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/pleading.md",
         "type": "word"
@@ -1277,7 +1277,7 @@
         "duration": 3320,
         "audio_file": "settle.wav",
         "dict_json": "settle.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1288,7 +1288,7 @@
         "duration": 1695,
         "audio_file": "burdened.wav",
         "dict_json": "burdened.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/burdened.md",
         "type": "word"
@@ -1299,7 +1299,7 @@
         "duration": 4249,
         "audio_file": "betrayals.wav",
         "dict_json": "betrayals.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/betrayals.md",
         "type": "word"
@@ -1310,7 +1310,7 @@
         "duration": 1602,
         "audio_file": "huddled.wav",
         "dict_json": "huddled.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/huddled.md",
         "type": "word"
@@ -1321,7 +1321,7 @@
         "duration": 2763,
         "audio_file": "split_up.wav",
         "dict_json": "split_up.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1332,7 +1332,7 @@
         "duration": 2252,
         "audio_file": "he_reluctantly.wav",
         "dict_json": "he_reluctantly.json",
-        "mistake": true,
+        "dict_resp": false,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1343,7 +1343,7 @@
         "duration": 2647,
         "audio_file": "grudges.wav",
         "dict_json": "grudges.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1354,7 +1354,7 @@
         "duration": 2485,
         "audio_file": "harsh.wav",
         "dict_json": "harsh.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1365,7 +1365,7 @@
         "duration": 2485,
         "audio_file": "",
         "dict_json": "mishap.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": true,
         "md_path": "md/words/mishap.md",
         "type": "word"
@@ -1376,7 +1376,7 @@
         "duration": 3088,
         "audio_file": "accomplishments.wav",
         "dict_json": "accomplishments.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1387,7 +1387,7 @@
         "duration": 2481,
         "audio_file": "adamantly.wav",
         "dict_json": "adamantly.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1398,7 +1398,7 @@
         "duration": 2461,
         "audio_file": "adjusted.wav",
         "dict_json": "adjusted.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1409,7 +1409,7 @@
         "duration": 2368,
         "audio_file": "armies.wav",
         "dict_json": "armies.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1420,7 +1420,7 @@
         "duration": 1974,
         "audio_file": "assurance.wav",
         "dict_json": "assurance.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1431,7 +1431,7 @@
         "duration": 3553,
         "audio_file": "at_the_edge_of_the_cliff.wav",
         "dict_json": "at_the_edge_of_the_cliff.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1442,7 +1442,7 @@
         "duration": 2601,
         "audio_file": "basement.wav",
         "dict_json": "basement.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1453,7 +1453,7 @@
         "duration": 2020,
         "audio_file": "being_chased.wav",
         "dict_json": "being_chased.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1464,7 +1464,7 @@
         "duration": 3437,
         "audio_file": "beyond.wav",
         "dict_json": "beyond.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1475,7 +1475,7 @@
         "duration": 1974,
         "audio_file": "burden.wav",
         "dict_json": "burden.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1486,7 +1486,7 @@
         "duration": 2345,
         "audio_file": "bye_robbers.wav",
         "dict_json": "bye_robbers.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1497,7 +1497,7 @@
         "duration": 2299,
         "audio_file": "cautious.wav",
         "dict_json": "cautious.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1508,7 +1508,7 @@
         "duration": 1997,
         "audio_file": "chalk.wav",
         "dict_json": "chalk.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1519,7 +1519,7 @@
         "duration": 5310,
         "audio_file": "chart.wav",
         "dict_json": "chart.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1530,7 +1530,7 @@
         "duration": 2229,
         "audio_file": "come_into.wav",
         "dict_json": "come_into.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1541,7 +1541,7 @@
         "duration": 1625,
         "audio_file": "countered.wav",
         "dict_json": "countered.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1552,7 +1552,7 @@
         "duration": 2647,
         "audio_file": "crawled_into.wav",
         "dict_json": "crawled_into.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1563,7 +1563,7 @@
         "duration": 2043,
         "audio_file": "deep-seated.wav",
         "dict_json": "deep-seated.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1574,7 +1574,7 @@
         "duration": 3088,
         "audio_file": "dilapidated_buildings.wav",
         "dict_json": "dilapidated_buildings.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1585,7 +1585,7 @@
         "duration": 2322,
         "audio_file": "dodged.wav",
         "dict_json": "dodged.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1596,7 +1596,7 @@
         "duration": 2322,
         "audio_file": "drilled.wav",
         "dict_json": "drilled.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1607,7 +1607,7 @@
         "duration": 2415,
         "audio_file": "drop_through.wav",
         "dict_json": "drop_through.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1618,7 +1618,7 @@
         "duration": 2229,
         "audio_file": "echoed.wav",
         "dict_json": "echoed.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1629,7 +1629,7 @@
         "duration": 2415,
         "audio_file": "fearful.wav",
         "dict_json": "fearful.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1640,7 +1640,7 @@
         "duration": 3297,
         "audio_file": "flopped_around.wav",
         "dict_json": "flopped_around.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1651,7 +1651,7 @@
         "duration": 2760,
         "audio_file": "frightening.wav",
         "dict_json": "frightening.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1662,7 +1662,7 @@
         "duration": 3297,
         "audio_file": "gays.wav",
         "dict_json": "gays.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1673,7 +1673,7 @@
         "duration": 2673,
         "audio_file": "get_bogged_down.wav",
         "dict_json": "get_bogged_down.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1684,7 +1684,7 @@
         "duration": 2461,
         "audio_file": "giggles.wav",
         "dict_json": "giggles.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1695,7 +1695,7 @@
         "duration": 2413,
         "audio_file": "gobbled_up.wav",
         "dict_json": "gobbled_up.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1706,7 +1706,7 @@
         "duration": 1533,
         "audio_file": "gossip.wav",
         "dict_json": "gossip.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1717,7 +1717,7 @@
         "duration": 3576,
         "audio_file": "harm.wav",
         "dict_json": "harm.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1728,7 +1728,7 @@
         "duration": 2159,
         "audio_file": "harshness.wav",
         "dict_json": "harshness.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1739,7 +1739,7 @@
         "duration": 1858,
         "audio_file": "held.wav",
         "dict_json": "held.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1750,7 +1750,7 @@
         "duration": 1827,
         "audio_file": "hordes.wav",
         "dict_json": "hordes.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1761,7 +1761,7 @@
         "duration": 2461,
         "audio_file": "i_ducked_my.wav",
         "dict_json": "i_ducked_my.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1772,7 +1772,7 @@
         "duration": 2368,
         "audio_file": "i_shrugged.wav",
         "dict_json": "i_shrugged.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1783,7 +1783,7 @@
         "duration": 2113,
         "audio_file": "infuse.wav",
         "dict_json": "infuse.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1794,7 +1794,7 @@
         "duration": 2949,
         "audio_file": "kicked_off.wav",
         "dict_json": "kicked_off.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1805,7 +1805,7 @@
         "duration": 4009,
         "audio_file": "laid_back_father.wav",
         "dict_json": "laid_back_father.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1816,7 +1816,7 @@
         "duration": 2415,
         "audio_file": "lean_back.wav",
         "dict_json": "lean_back.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1827,7 +1827,7 @@
         "duration": 2183,
         "audio_file": "line.wav",
         "dict_json": "line.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1838,7 +1838,7 @@
         "duration": 2299,
         "audio_file": "litmus.wav",
         "dict_json": "litmus.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1849,7 +1849,7 @@
         "duration": 1903,
         "audio_file": "load.wav",
         "dict_json": "load.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1860,7 +1860,7 @@
         "duration": 2577,
         "audio_file": "milestone.wav",
         "dict_json": "milestone.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1871,7 +1871,7 @@
         "duration": 2554,
         "audio_file": "mumbled.wav",
         "dict_json": "mumbled.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1882,7 +1882,7 @@
         "duration": 2763,
         "audio_file": "narrow.wav",
         "dict_json": "narrow.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1893,7 +1893,7 @@
         "duration": 3344,
         "audio_file": "piles_of_debris.wav",
         "dict_json": "piles_of_debris.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1904,7 +1904,7 @@
         "duration": 2252,
         "audio_file": "polite.wav",
         "dict_json": "polite.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1915,7 +1915,7 @@
         "duration": 2670,
         "audio_file": "portray.wav",
         "dict_json": "portray.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1926,7 +1926,7 @@
         "duration": 3669,
         "audio_file": "preached.wav",
         "dict_json": "preached.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1937,7 +1937,7 @@
         "duration": 1718,
         "audio_file": "roaches.wav",
         "dict_json": "roaches.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1948,7 +1948,7 @@
         "duration": 2368,
         "audio_file": "seldom.wav",
         "dict_json": "seldom.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1959,7 +1959,7 @@
         "duration": 2113,
         "audio_file": "sharply.wav",
         "dict_json": "sharply.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1970,7 +1970,7 @@
         "duration": 3460,
         "audio_file": "she_brainwashed.wav",
         "dict_json": "she_brainwashed.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -1981,7 +1981,7 @@
         "duration": 2345,
         "audio_file": "shook.wav",
         "dict_json": "shook.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -1992,7 +1992,7 @@
         "duration": 2856,
         "audio_file": "skip.wav",
         "dict_json": "skip.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -2003,7 +2003,7 @@
         "duration": 2438,
         "audio_file": "slither.wav",
         "dict_json": "slither.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -2014,7 +2014,7 @@
         "duration": 2461,
         "audio_file": "snickers.wav",
         "dict_json": "snickers.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -2025,7 +2025,7 @@
         "duration": 5005,
         "audio_file": "squad_cars.wav",
         "dict_json": "squad_cars.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -2036,7 +2036,7 @@
         "duration": 2624,
         "audio_file": "stepped_up.wav",
         "dict_json": "stepped_up.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -2047,7 +2047,7 @@
         "duration": 2485,
         "audio_file": "sting_you.wav",
         "dict_json": "sting_you.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -2058,7 +2058,7 @@
         "duration": 2601,
         "audio_file": "straightened_out.wav",
         "dict_json": "straightened_out.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -2069,7 +2069,7 @@
         "duration": 2392,
         "audio_file": "streaked_across.wav",
         "dict_json": "streaked_across.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -2080,7 +2080,7 @@
         "duration": 2159,
         "audio_file": "strengthened.wav",
         "dict_json": "strengthened.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -2091,7 +2091,7 @@
         "duration": 2349,
         "audio_file": "strong-willed.wav",
         "dict_json": "strong-willed.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -2102,7 +2102,7 @@
         "duration": 2252,
         "audio_file": "swamped.wav",
         "dict_json": "swamped.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -2113,7 +2113,7 @@
         "duration": 2694,
         "audio_file": "sweatshops.wav",
         "dict_json": "sweatshops.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -2124,7 +2124,7 @@
         "duration": 3599,
         "audio_file": "tenements.wav",
         "dict_json": "tenements.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -2135,7 +2135,7 @@
         "duration": 3947,
         "audio_file": "the_lookout.wav",
         "dict_json": "the_lookout.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -2146,7 +2146,7 @@
         "duration": 2810,
         "audio_file": "the_ringleader.wav",
         "dict_json": "the_ringleader.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -2157,7 +2157,7 @@
         "duration": 3111,
         "audio_file": "to_get_rid_of.wav",
         "dict_json": "to_get_rid_of.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
@@ -2168,7 +2168,7 @@
         "duration": 1741,
         "audio_file": "weeded.wav",
         "dict_json": "weeded.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "word"
@@ -2179,7 +2179,7 @@
         "duration": 2368,
         "audio_file": "wicked_men.wav",
         "dict_json": "wicked_men.json",
-        "mistake": false,
+        "dict_resp": true,
         "has_md": false,
         "md_path": "",
         "type": "phrase"
