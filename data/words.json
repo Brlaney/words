@@ -1364,6 +1364,17 @@
         "md_path": "md/words/harsh.md"
     },
     {
+        "id": 125,
+        "text": "accomplishments",
+        "type": "word",
+        "duration": 3088,
+        "audio_file": "accomplishments.wav",
+        "dict_json": "accomplishments.json",
+        "dict_resp": true,
+        "has_md": false,
+        "md_path": ""
+    },
+    {
         "id": 126,
         "text": "adamantly",
         "type": "word",

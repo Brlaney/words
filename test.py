@@ -17,15 +17,5 @@ if some_id in id_list:
 else:
     print("ID is not in the list")
     
-        {
-        "id": 125,
-        "text": "accomplishments",
-        "type": "word",
-        "duration": 3088,
-        "audio_file": "accomplishments.wav",
-        "dict_json": "accomplishments.json",
-        "dict_resp": true,
-        "has_md": false,
-        "md_path": ""
-    },
+
 '''

@@ -76,7 +76,7 @@ try:
         json_obj = read_and_process_json('data/words.json')
         
         ''' filter the file by >= 106 - the crash point '''
-        filtered_obj = [item for item in json_obj if item.get('id', 0) >= 126]
+        filtered_obj = [item for item in json_obj if item.get('id', 0) >= 185]
         
         ''' This batch, need to exclude these from AMPING the volumex(2).
             They've already had the same function ran on them. '''
