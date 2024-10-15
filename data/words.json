@@ -1475,12 +1475,12 @@
     },
     {
         "id": 135,
-        "text": "bye robbers",
+        "text": "by robbers",
         "type": "phrase",
         "duration": 2345,
-        "audio_file": "bye_robbers.wav",
-        "dict_json": "bye_robbers.json",
-        "dict_resp": true,
+        "audio_file": "by_robbers.wav",
+        "dict_json": "",
+        "dict_resp": false,
         "has_md": false,
         "md_path": ""
     },

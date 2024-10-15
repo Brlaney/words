@@ -96,11 +96,12 @@ Trim any dead/silent audio in the .wav audio file.
 - [X] Need to replace all json objects in the words.json file with their new durations from after.json 
 - [X] write script to seperate these into two categories: *1. Phrases* and *2. Words*.
 - [X] Update the long-entries/before.json file
+- [X] Update the Requirements.txt
 
 #### Pending
 
+- [ ] BYE ROBBERS? lol change to `by robbers`
 - [ ] Currently at: `Harsh` (*id = 198 (125-198)*) as of 10/13/2024
-- [ ] Update the Requirements.txt
 - [ ] Finish the MoviePy script to prompt to record `using each word in a sentence` 
 - [ ] Write script to separate into batches by *date*
 
@@ -108,17 +109,29 @@ Trim any dead/silent audio in the .wav audio file.
 
 ### Requirements (**.txt**)
 
-- `certifi==2024.8.30`
-- `charset-normalizer==3.3.2`
-- `comtypes==1.4.7`
-- `idna==3.9`
-- `PyAudio==0.2.14`
-- `pydub==0.25.1`
-- `pypiwin32==223`
-- `pyttsx3==2.97`
-- `pywin32==306`
-- `requests==2.32.3`
-- `setuptools==74.1.2`
-- `SpeechRecognition==3.10.4`
-- `typing_extensions==4.12.2`
-- `urllib3==2.2.3`
+- certifi==2024.8.30
+- charset-normalizer==3.3.2
+- colorama==0.4.6
+- comtypes==1.4.7
+- decorator==4.4.2
+- idna==3.9
+- imageio==2.35.1
+- imageio-ffmpeg==0.5.1
+- keyboard==0.13.5
+- load-dotenv==0.1.0
+- moviepy==1.0.3
+- numpy==2.1.1
+- pillow==10.4.0
+- proglog==0.1.10
+- PyAudio==0.2.14
+- pydub==0.25.1
+- pypiwin32==223
+- python-dotenv==1.0.1
+- pyttsx3==2.97
+- pywin32==306
+- requests==2.32.3
+- setuptools==74.1.2
+- SpeechRecognition==3.10.4
+- tqdm==4.66.5
+- typing_extensions==4.12.2
+- urllib3==2.2.3
