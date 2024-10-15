@@ -48,7 +48,8 @@ def create_video(words_json, inc_vol=True):
                        color='white', 
                        font='Ariel', 
                        fontsize=88, 
-                       bg_color='black')
+                       bg_color='black', 
+                       method='caption')
 
     cvc = CompositeVideoClip(
         [txtClip.set_pos('center')], 
@@ -87,17 +88,6 @@ try:
         if filtered_obj:
             for item in filtered_obj:
                 the_id = item['id']
-
-                if the_id in id_list:
-                    '''These were already increased w/ volumex(2)'''
-                    inc_volume = False
-                else:
-                    '''These need to be increased w/ volumex(2)'''
-                    inc_volume = True
-                    
-                if the_id >= 125:
-                    '''These were recorded with ~max vol already'''
-                    inc_volume = False
                 
                 print(f'Creating video for id: {the_id}')
                 create_video(words_json=item, inc_vol=inc_volume)
